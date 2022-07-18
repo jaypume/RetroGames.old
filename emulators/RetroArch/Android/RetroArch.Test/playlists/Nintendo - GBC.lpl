@@ -1,0 +1,811 @@
+{
+  "version": "1.4",
+  "default_core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+  "default_core_name": "Gambatte",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/rom/GB/超级马力欧1.gb",
+      "label": "001 超级马力欧1",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/超级马力欧2.gbc",
+      "label": "002 超级马力欧2",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/超级马力欧4.gb",
+      "label": "003 超级马力欧4",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/超级马力欧Deluxe.gbc",
+      "label": "004 超级马力欧Deluxe",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/超级马力欧网球.gbc",
+      "label": "005 超级马力欧网球",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/超级马力欧医生.gb",
+      "label": "006 超级马力欧医生",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/超级中国人.gb",
+      "label": "007 超级中国人",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/第1次超级机器人大战.gb",
+      "label": "008 第1次超级机器人大战",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/第2次超级机器人大战.gb",
+      "label": "009 第2次超级机器人大战",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/俄罗斯方块.gbc",
+      "label": "010 俄罗斯方块",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/恶魔城1.gb",
+      "label": "011 恶魔城1",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/恶魔城2.gb",
+      "label": "012 恶魔城2",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/恶魔城3.gb",
+      "label": "013 恶魔城3",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/恶魔城外传 王子传奇.gb",
+      "label": "014 恶魔城外传 王子传奇",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/飞龙之拳EX.gbc",
+      "label": "015 飞龙之拳EX",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/孤岛冒险者1.gbc",
+      "label": "016 孤岛冒险者1",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/孤岛冒险者2.gbc",
+      "label": "017 孤岛冒险者2",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/国际象棋.gbc",
+      "label": "018 国际象棋",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/合金弹头.gbc",
+      "label": "019 合金弹头",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/合金装备 幽灵通天塔.gbc",
+      "label": "020 合金装备 幽灵通天塔",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/幻想传说 换装迷宫.gbc",
+      "label": "021 幻想传说 换装迷宫",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/魂斗罗1.gb",
+      "label": "022 魂斗罗1",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/魂斗罗2.gb",
+      "label": "023 魂斗罗2",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/机械战警1.gb",
+      "label": "024 机械战警1",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/机械战警2.gb",
+      "label": "025 机械战警2",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/机械战警对终结者.gb",
+      "label": "026 机械战警对终结者",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/街头霸王II.gb",
+      "label": "027 街头霸王II",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/街头霸王ZERO.gbc",
+      "label": "028 街头霸王ZERO",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/街头赛车.gb",
+      "label": "029 街头赛车",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/金田一少年事件簿10周年.gbc",
+      "label": "030 金田一少年事件簿10周年",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/金庸群侠传.gbc",
+      "label": "031 金庸群侠传",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/口袋妖怪 黄.gb",
+      "label": "032 口袋妖怪 黄",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/洛克人1.gb",
+      "label": "033 洛克人1",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/洛克人2.gb",
+      "label": "034 洛克人2",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/洛克人3.gb",
+      "label": "035 洛克人3",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/洛克人4.gb",
+      "label": "036 洛克人4",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/洛克人5.gb",
+      "label": "037 洛克人5",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/洛克人X1.gbc",
+      "label": "038 洛克人X1",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/洛克人X2gbc",
+      "label": "039 洛克人X2",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/冒险岛1.gb",
+      "label": "040 冒险岛1",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/冒险岛2.gb",
+      "label": "041 冒险岛2",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/棉花小魔女.gbc",
+      "label": "042 棉花小魔女",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/牧场物语1.gbc",
+      "label": "043 牧场物语1",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/牧场物语2.gbc",
+      "label": "044 牧场物语2",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/牧场物语3.gbc",
+      "label": "045 牧场物语3",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/能量冲激.gbc",
+      "label": "046 能量冲激",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/蚯蚓战士.gb",
+      "label": "047 蚯蚓战士",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/热斗 超能勇士.gb",
+      "label": "048 热斗 超能勇士",
+        "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/热斗 斗神传.gb",
+      "label": "049 热斗 斗神传",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/热斗 饿狼传说2.gb",
+      "label": "050 热斗 饿狼传说2",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/热斗 饿狼传说特别版.gb",
+      "label": "051 热斗 饿狼传说特别版",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/热斗 拳皇95.gb",
+      "label": "052 热斗 拳皇95",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/热斗 拳皇96.gb",
+      "label": "053 热斗 拳皇96",
+        "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/热斗 拳皇97.gb",
+      "label": "054 热斗 拳皇97",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/热斗 拳皇98.gb",
+      "label": "055 热斗 拳皇98",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/热斗 拳皇99.gbc",
+      "label": "056 热斗 拳皇99",
+        "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/热斗 世界英雄2.gb",
+      "label": "057 热斗 世界英雄2",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/热斗 侍魂.gb",
+      "label": "058 热斗 侍魂",
+        "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/热斗 侍魂斩红郎无双剑.gb",
+      "label": "059 热斗 侍魂斩红郎无双剑",
+        "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/热血硬派 番外乱斗篇.gb",
+      "label": "060 热血硬派 番外乱斗篇",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/忍者龙剑传.gb",
+      "label": "061 忍者龙剑传",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/忍者时代.gbc",
+      "label": "062 忍者时代",
+        "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/忍者蛙1.gb",
+      "label": "063 忍者蛙1",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/忍者蛙2.gb",
+      "label": "064 忍者蛙2",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/忍者蛙和双截龙.gb",
+      "label": "065 忍者蛙和双截龙",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/塞尔达传说1 梦见岛DX.gbc",
+      "label": "066 塞尔达传说1 梦见岛DX",
+        "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/塞尔达传说2 大地之章.gbc",
+      "label": "067 塞尔达传说2 大地之章",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/塞尔达传说3 时空之章.gbc",
+      "label": "068 塞尔达传说3 时空之章",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/三国志 傲视天下.gbc",
+      "label": "069 三国志 傲视天下",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/桑塔.gbc",
+      "label": "070 桑塔",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/生化尖兵.gbc",
+      "label": "071 生化尖兵",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/生化危机 最终逃亡.gbc",
+      "label": "072 生化危机 最终逃亡",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/生化危机.gbc",
+      "label": "073 生化危机",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/圣剑传说.gb",
+      "label": "074 圣剑传说",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/双截龙1.gb",
+      "label": "075 双截龙1",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/双截龙2.gb",
+      "label": "076 双截龙2",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/双截龙3.gb",
+      "label": "077 双截龙3",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/太空战士4.gb",
+      "label": "078 太空战士4",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/坦克大战.gb",
+      "label": "079 坦克大战",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/吞食天地 三国英雄传.gb",
+      "label": "080 吞食天地 三国英雄传",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/吞食天地1 赤壁之战.gbc",
+      "label": "081 吞食天地1 赤壁之战",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/吞食天地2 真三国无双.gbc",
+      "label": "082 吞食天地2 真三国无双",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/瓦力欧大陆1.gb",
+      "label": "083 瓦力欧大陆1",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/瓦力欧大陆2.gbc",
+      "label": "084 瓦力欧大陆2",
+         "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/瓦力欧大陆3.gbc",
+      "label": "085 瓦力欧大陆3",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/仙剑奇侠传.gbc",
+      "label": "086 仙剑奇侠传",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/星海传说.gbc",
+      "label": "087 星海传说",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/星之卡比1.gb",
+      "label": "088 星之卡比1",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/星之卡比2.gb",
+      "label": "089 星之卡比2",
+        "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/幸运的卢克.gbc",
+      "label": "090 幸运的卢克",
+         "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/异形战机1.gb",
+      "label": "091 异形战机1",
+        "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/异形战机2.gb",
+      "label": "092 异形战机2",
+         "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/异形战机DX.gbc",
+      "label": "093 异形战机DX",
+        "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/银河战士2.gb",
+      "label": "094 银河战士2",
+        "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/勇者斗恶龙怪兽篇1 特瑞的仙境.gbc",
+      "label": "095 勇者斗恶龙怪兽篇1 特瑞的仙境",
+        "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/勇者斗恶龙怪兽篇2 鲁卡的旅行.gbc",
+      "label": "096 勇者斗恶龙怪兽篇2 鲁卡的旅行",
+      "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/宇宙巡航机.gb",
+      "label": "097 宇宙巡航机",
+        "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/终结者2 街机.gb",
+      "label": "098 终结者2 街机",
+        "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/终结者2 审判日.gb",
+      "label": "099 终结者2 审判日",
+        "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/GB/重装机兵.gbc",
+      "label": "100 重装机兵",
+       "core_path": "~/Documents/RetroArch/cores/gambatte_libretro.dll",
+      "core_name": "Gambatte",
+      "crc32": "00000000|crc",
+      "db_name": "GB.lpl"
+    }
+  ]
+}
