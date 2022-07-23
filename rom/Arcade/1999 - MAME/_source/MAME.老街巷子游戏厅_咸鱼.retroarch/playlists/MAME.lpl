@@ -1,0 +1,1227 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\1945k III\\1945kiii.zip",
+      "label": "001 1945k III",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\64th. Street\\64street.zip",
+      "label": "002 64号街",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\X-Men\\xmen.zip",
+      "label": "003 X - 战警",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\X-Multiply\\xmultipl.zip",
+      "label": "004 X 再生战机",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Dragon Ball Z 2 - Super Battle\\dbz2.zip",
+      "label": "005 七龙珠 Z 2 - 超武斗大会",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Knights of Valour\\kovplus.zip",
+      "label": "006 三国战纪 正宗 Plus",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Knights of Valour fengyun\\kovqhsgs.zip",
+      "label": "007 三国战纪_风云再起",
+      "core_path": "D:\\RetroArch\\cores\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Knights of Valour II\\kov2nl_302cn.zip",
+      "label": "008 三国战纪2",
+      "core_path": "D:\\RetroArch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Knights of Valour III\\kov3.zip",
+      "label": "009 三国战纪3",
+      "core_path": "D:\\RetroArch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Oriental Legend\\orlegend.zip",
+      "label": "010 西游释厄传",
+      "core_path": "D:\\RetroArch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Oriental Legend S\\olds.zip",
+      "label": "011 西游释厄传_Super",
+      "core_path": "D:\\RetroArch\\cores\\hbmame_libretro.dll",
+      "core_name": "Arcade (HBMAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Oriental Legend II\\orleg2_104cn.zip",
+      "label": "012 西游释厄传2",
+      "core_path": "D:\\RetroArch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Oriental Legendqun\\oldsplus.zip",
+      "label": "013 西游释厄传_群魔乱舞",
+      "core_path": "D:\\RetroArch\\cores\\mame_libretro.dll",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Ken-Go\\kengo.zip",
+      "label": "014 剑豪",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Yie Ar Kung-Fu\\yiear.zip",
+      "label": "015 功夫小子",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Arbalester\\arbalest.zip",
+      "label": "016 劲弩战机",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Prehistoric Isle\\Prehisle.zip",
+      "label": "017 原始岛 1930",
+      "core_path": "D:\\RetroArch\\cores\\mame2000_libretro.dll",
+      "core_name": "MAME 2000",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Double Dragon\\ddragon.zip",
+      "label": "018 双截龙",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Double Dragon II\\ddragon2.zip",
+      "label": "019 双截龙 II",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Double Dragon 3\\ddragon3.zip",
+      "label": "020 双截龙 3 - 街机版",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Shadow Force\\shadfrce.zip",
+      "label": "021 变身忍者",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Guevara\\gwarj.zip",
+      "label": "022 古巴大革命",
+      "core_path": "D:\\RetroArch\\cores\\mame2000_libretro.dll",
+      "core_name": "MAME 2000",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Tumble Pop\\tumblep.zip",
+      "label": "023 吸尘器小子",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Aero Fighters\\aerofgt.zip",
+      "label": "024 四国战机",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Bonze Adventure\\bonzeadv.zip",
+      "label": "025 地狱小和尚",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Nitro Ball\\nitrobal.zip",
+      "label": "026 地狱英雄弹珠门",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Hammerin' Harry\\HHARRY.ZIp",
+      "label": "027 大工之源先生 - 部乱目町骚动记",
+      "core_path": "D:\\RetroArch\\cores\\mame2000_libretro.dll",
+      "core_name": "MAME 2000",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\New Fantasia\\newfant.zip",
+      "label": "028 天蚕变 95 - 新幻想曲",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "MAME 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Fantasia\\fantasia.zip",
+      "label": "029 天蚕变幻想曲",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "MAME 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Fantasy '95\\fantsy95.zip",
+      "label": "030 天蚕变幻想曲 95",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "MAME 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Darius Gaiden\\dariusg.zip",
+      "label": "031 太空战斗机外传 - 银鹰战机",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\R-Shark\\rshark.zip",
+      "label": "032 太空飞鲨",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Vasara\\vasara.zip",
+      "label": "033 婆裟罗",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Nemesis\\nemesis.zip",
+      "label": "034 宇宙巡航舰 (ROM 版本)",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Vulcan Venture\\vulcan.zip",
+      "label": "035 宇宙巡航舰 (新版)",
+      "core_path": "D:\\RetroArch\\cores\\mame2000_libretro.dll",
+      "core_name": "MAME 2000",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Gradius III\\gradius3.zip",
+      "label": "036 宇宙巡航舰 III",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Puzzle Uo Poko\\uopoko.zip",
+      "label": "037 小猫钓鱼",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Out Zone\\outzone.zip",
+      "label": "038 异域战将",
+      "core_path": "D:\\RetroArch\\cores\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Aliens\\aliens.zip",
+      "label": "039 异形",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "MAME 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\R Type Leo\\rtypeleo.zip",
+      "label": "040 异形战机 Leo",
+      "core_path": "D:\\RetroArch\\cores\\mame2010_libretro.dll",
+      "core_name": "mame2010",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\The Legend of Kage\\lkage.zip",
+      "label": "041 影子传说",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Gaia Crusaders\\gaia.zip",
+      "label": "042 征战者",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Ninja Baseball BatMan\\nbbatman.zip",
+      "label": "043 忍者棒球",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Teenage Mutant Ninja Turtles\\TMNT.ZIp",
+      "label": "044 忍者神龟",
+      "core_path": "D:\\RetroArch\\cores\\mame2010_libretro.dll",
+      "core_name": "MAME 2010",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Teenage Mutant Ninja Turtles II\\TMNT2.ZIp",
+      "label": "045 忍者神龟 2 - 神龟战场",
+      "core_path": "D:\\RetroArch\\cores\\mame2000_libretro.dll",
+      "core_name": "MAME 2000",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Battletoads\\btoads.zip",
+      "label": "046 忍者蛙",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Mystic Warriors\\mystwarr.zip",
+      "label": "047 怒之忍者",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\DoDonPachi\\ddonpach.zip",
+      "label": "048 怒首领蜂",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\DoDonPachi Dai-Ou-Jou\\ddpdoj.zip",
+      "label": "049 怒首领蜂 - 大往生",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Kung-Fu Master\\kungfum.zip",
+      "label": "050 成龙踢馆",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Vigilante\\vigilant.zip",
+      "label": "051 成龙踢馆 - 功夫小子",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Sengoku Ace\\sngkace.zip",
+      "label": "052 战国之刃",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Tengai - Sengoku Ace Episode II\\tengai.zip",
+      "label": "053 战国之刃ACE",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Caveman Ninja\\cninja.zip",
+      "label": "054 战斗原始人",
+      "core_path": "D:\\RetroArch\\cores\\mame2000_libretro.dll",
+      "core_name": "MAME 2000",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Cybattler\\cybattlr.zip",
+      "label": "055 战斗机械",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Battle Bakraid\\bbakraid.zip",
+      "label": "056 战斗翔鹰 - 无限版本",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Golden Axe\\goldnaxe.zip",
+      "label": "057 战斧",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Golden Axe - The Revenge of Death Adder\\ga2j.zip",
+      "label": "058 战斧 II",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Strikers 1945\\s1945.zip",
+      "label": "059 打击者 1945",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Strikers 1945 II\\s1945ii.zip",
+      "label": "060 打击者 1945 II",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Strikers 1945 III\\s1945iii.zip",
+      "label": "061 打击者 1945 III",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Karate Blazers\\karatblz.zip",
+      "label": "062 斗神光辉",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Xexex\\xexex.zip",
+      "label": "063 新锐惑星",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Crude Buster\\cbuster.zip",
+      "label": "064 暴力克星",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Undercover Cops\\uccops.zip",
+      "label": "065 暴力刑警",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha_libretro.dll",
+      "core_name": "fbalpha",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Rollergames\\rollerg.zip",
+      "label": "066 暴力溜冰",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Violent Storm\\viostorm.zip",
+      "label": "067 暴风小子",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Ninja Spirit\\nspirit.zip",
+      "label": "068 最后忍道",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Final Star Force\\fstarfrc.zip",
+      "label": "069 最终星际武力",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Robo Army\\roboarma.zip",
+      "label": "070 机甲神兵",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha_libretro.dll",
+      "core_name": "fbalpha",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Brute Force\\brutforc.zip",
+      "label": "071 极之暴力",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Grid Seeker\\gseeker.zip",
+      "label": "072 栅幕巡航",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Growl\\growl.zip",
+      "label": "073 森林保护神",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Armed Formation\\armedf.zip",
+      "label": "074 武装编队",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Gun Bird 1\\gunbird.zip",
+      "label": "075 武装飞鸟 1",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Gun Bird 2\\gunbird2.zip",
+      "label": "076 武装飞鸟 2",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Dead Connection\\deadconx.zip",
+      "label": "077 死亡边缘",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Silent Dragon\\silentd.zip",
+      "label": "078 沉默调试者",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\The Combatribes\\ctribe.zip",
+      "label": "079 流氓大混战",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Quiz Channel Question\\quizchql.zip",
+      "label": "080 测试问答通过",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\In the Hunt\\inthunt.zip",
+      "label": "081 海底大作战",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Kageki\\kageki.zip",
+      "label": "082 火激 - 钢铁神拳",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Mug Smashers\\mugsmash.zip",
+      "label": "083 火线追缉",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Lightning Fighters\\lgtnfght.zip",
+      "label": "084 火龙",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\GunNail\\gunnail.zip",
+      "label": "085 炮钉",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Bakuretsu Breaker\\bakubrkr.zip",
+      "label": "086 爆裂战机",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\The Cliffhanger\\edrandy.zip",
+      "label": "087 爱德华 - 蓝迪",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Tokushu Butai U.A.G\\tndrcade.zip",
+      "label": "088 特殊部队",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\G.I. Joe - A Real American Hero\\gijoe.zip",
+      "label": "089 特种部队",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Guwange\\guwange.zip",
+      "label": "090 狱门山物语",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Elevator Action Returns\\elvactr.zip",
+      "label": "091 电梯大战 II",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Denjin Makai\\denjinmk.zip",
+      "label": "092 电神魔傀",
+      "core_path": "D:\\RetroArch\\cores\\mame2010_libretro.dll",
+      "core_name": "mame2010",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Guardians\\grdians.zip",
+      "label": "093 电神魔傀 II",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Mad Motor\\madmotor.zip",
+      "label": "094 疯狂摩托",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Batsugun\\batsugun.zip",
+      "label": "095 疯狂枪支",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Shippuu Mahou Daisakusen\\shippumd.zip",
+      "label": "096 疾风魔法大作战 (日版)",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Dimahoo\\dimahoo.zip",
+      "label": "097 疾风魔法大作战 (欧洲版)",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Airgallet\\agallet.zip",
+      "label": "098 石破天惊",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Bishi Bashi Championship Mini Game Senshuken\\bishi.zip",
+      "label": "099 科乐美迷你游戏",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Change Air Blade\\cairblad.zip",
+      "label": "100 空刃",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Battle Garegga\\bgaregga.zip",
+      "label": "101 空战之路",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Air Duel\\airduel.zip",
+      "label": "102 空战双鹰",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Vapor Trail - Hyper Offence Formation\\vaportra.zip",
+      "label": "103 空牙 - 行动代号",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Charlie Ninja\\charlien.zip",
+      "label": "104 糊涂忍者",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Crime Fighters\\crimfght.zip",
+      "label": "105 罪恶战士",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Vendetta\\vendetta.zip",
+      "label": "106 罪恶战士 2",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Crime Fighters 2\\vendettaj.zip",
+      "label": "107 罪恶战士 2 (日版)",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Crime City\\crimec.zip",
+      "label": "108 罪恶都市",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Asterix\\asterix.zip",
+      "label": "109 美丽新世界",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Captain America and the Avengers\\captaven.zip",
+      "label": "110 美国队长与复仇者",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Pretty Soldier Sailormoon\\sailormn.zip",
+      "label": "111 美少女战士",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Prisoners of War\\pow.zip",
+      "label": "112 脱狱 - 战俘",
+      "core_path": "D:\\RetroArch\\cores\\mame2000_libretro.dll",
+      "core_name": "MAME 2000",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Gun.Smoke\\gunsmokeua.zip",
+      "label": "113 荒野大镖客",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha_libretro.dll",
+      "core_name": "fbalpha",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Sunset Riders\\ssriders.zip",
+      "label": "114 落日骑士",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Armed Police Batrider\\batriderhk.zip",
+      "label": "115 蝙蝠骑警",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha_libretro.dll",
+      "core_name": "fbalpha",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Street Smart\\streetsm.zip",
+      "label": "116 街头快打",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Back Street Soccer\\bssoccer.zip",
+      "label": "117 街头足球",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Chuka Taisen\\chukatai.zip",
+      "label": "118 中华大仙",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Bells and Whistles\\blswhstl.zip",
+      "label": "119 出击兵蜂",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Blade Master\\bmaster.zip",
+      "label": "120 刀锋领主",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\China Gate\\chinagat.zip",
+      "label": "121 西游降魔录 - 流棒妖技之章",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Power Instinct Legends\\plegends.zip",
+      "label": "122 豪血寺外传 - 最强传说",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Power Instinct 2\\pwrinst2.zip",
+      "label": "123 豪血寺一族 2",
+      "core_path": "D:\\RetroArch\\cores\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Turbo Force\\turbofrcu.zip",
+      "label": "124 超级空军",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha_libretro.dll",
+      "core_name": "fbalpha",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Super Contra\\Scontra.zip",
+      "label": "125 超级魂斗罗",
+      "core_path": "D:\\RetroArch\\cores\\mame2000_libretro.dll",
+      "core_name": "MAME 2000",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\NAM-1975\\nam1975.zip",
+      "label": "126 越战 - 1975",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Gun Force\\gunforce.zip",
+      "label": "127 钢炮部队",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Gun Force II\\gunforc2.zip",
+      "label": "128 钢炮部队 II",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Hook\\hook.zip",
+      "label": "129 铁钩船长",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Gundhara - Juudan Arashi\\gundhara.zip",
+      "label": "130 铳弹岚",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Silver Millennium\\silvmil.zip",
+      "label": "131 银色世纪",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha_libretro.dll",
+      "core_name": "fbalpha",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\ESP Ra.de. - A.D. 2018 Tokyo\\esprade.zip",
+      "label": "132 长空超少年",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Metamoqester\\metmqstr.zip",
+      "label": "133 隐忍",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Snow Brothers\\snowbros.zip",
+      "label": "134 雪人兄弟 - 尼克和汤姆",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Storm Blade\\stmblade.zip",
+      "label": "135 雷刃",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Dogyuun\\dogyuun.zip",
+      "label": "136 雷射战机",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha_libretro.dll",
+      "core_name": "fbalpha",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Raiden\\raiden.zip",
+      "label": "137 雷电",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "MAME 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Cosmic Cop\\cosmccop.zip",
+      "label": "138 雷驰 - 宇宙战警",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Giga Wing\\gigawing.zip",
+      "label": "139 雷鸟之翼",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Thunder Dragon\\tdragonb.zip",
+      "label": "140 雷龙",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha_libretro.dll",
+      "core_name": "fbalpha",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Thunder Dragon 2\\tdragon2.zip",
+      "label": "141 雷龙 2",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "fbalpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\V-Five\\vfive.zip",
+      "label": "142 飞鹰风暴",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha_libretro.dll",
+      "core_name": "fbalpha",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Contra\\Contra.zip",
+      "label": "143 魂斗罗",
+      "core_path": "D:\\RetroArch\\cores\\mame2000_libretro.dll",
+      "core_name": "MAME 2000",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\J.J. Squawkers\\jjsquawk.zip",
+      "label": "144 鹦鹉历险记",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha_libretro.dll",
+      "core_name": "fbalpha",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\OSman\\osman.zip",
+      "label": "145 麒麟 - OS 战警",
+      "core_path": "D:\\RetroArch\\cores\\mame2010_libretro.dll",
+      "core_name": "mame2010",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Metal Black\\metalb.zip",
+      "label": "146 黑色合金",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Bad Dudes vs. Dragonninja\\baddudes.zip",
+      "label": "147 龙行忍者",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Blood Bros\\bloodbro.zip",
+      "label": "148 热血兄弟",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Silkworm\\silkworm.zip",
+      "label": "149 中东战争",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\Jackal\\jackal.zip",
+      "label": "150 赤色要塞",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\shenjianfumolu\\theglad.zip",
+      "label": "152 神剑伏魔录",
+      "core_path": "D:\\RetroArch\\cores\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\MAME\\The Legend of Silkroad\\silkroad.zip",
+      "label": "151 丝绸之路",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    }
+  ]
+}

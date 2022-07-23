@@ -1,0 +1,267 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\1941\\1941.zip",
+      "label": "001 1941 - 反击战",
+      "core_path": "D:\\RetroArch\\cores\\mame2000_libretro.dll",
+      "core_name": "mame2000",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Warriors of Fate\\wof.zip",
+      "label": "002 三国志 II",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Quiz Tonosama no Yabou 2 - Zenkoku-ban\\qtono2.zip",
+      "label": "003 信长之野望 2",
+      "core_path": "D:\\RetroArch\\cores\\mame2000_libretro.dll",
+      "core_name": "mame 2000",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\strider\\strider.zip",
+      "label": "004 出击飞龙",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Capcom World 2\\cworld2j.zip",
+      "label": "005 卡普空世界 2",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Mega Twins\\mtwins.zip",
+      "label": "006 双麒儿",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Captain Commando\\captcomm.zip",
+      "label": "007 名将",
+      "core_path": "D:\\RetroArch\\cores\\mame2000_libretro.dll",
+      "core_name": "mame 2000",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Dynasty Wars\\dynwar.zip",
+      "label": "008 吞食天地",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Knights of the round\\knights.zip",
+      "label": "009 圆桌骑士",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Ghouls 'n Ghosts\\ghouls.zip",
+      "label": "010 大魔界村",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Forgotten Worlds\\forgottn.zip",
+      "label": "011 失落的世界",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "MAME 2003",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\3wonders\\3wonders.zip",
+      "label": "032 奇迹三合一",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Willow\\willow.zip",
+      "label": "012 威洛之旅",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "MAME 2003",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Varth\\varth.zip",
+      "label": "013 威虎战机 - 雷暴行动",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Final Fight\\ffight.zip",
+      "label": "014 快打旋风",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Cadillacs and Dinosaurs\\dino.zip",
+      "label": "015 恐龙新世纪",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Punisher\\punisher.zip",
+      "label": "016 惩罚者",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Aera 88\\unsquad.zip",
+      "label": "017 战区 88",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\mercs II\\mercs.zip",
+      "label": "018 战场之狼 II",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Slam Masters\\slammast.zip",
+      "label": "019 摔跤霸王",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Muscle Bomber Duo - Ultimate Team Battle\\mbombrd.zip",
+      "label": "020 摔跤霸王 - 最终之战",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Nemo\\nemo.zip",
+      "label": "021 梦幻冒险",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Rcokman-The Power Battle\\megaman.zip",
+      "label": "022 洛克人",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Street Fighter II' - Champion Edition\\sf2ce.zip",
+      "label": "023 街头霸王 II - 四大天王",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "mame 2003",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Hyper Street Fighter II\\sf2hf.zip",
+      "label": "024 街头霸王 II - 战斗宣言",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Street Fighter II - The World Warrior\\sf2.zip",
+      "label": "025 街头霸王 II - 特别冠军版",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Carrier Air Wing\\cawing.zip",
+      "label": "026 雌虎战机",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Magic Sword - Heroic Fantasy\\msword.zip",
+      "label": "027 魔法剑 - 英雄的幻想",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Pnickies\\pnickj.zip",
+      "label": "031 魔法方块",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\pang3\\pang3.zip",
+      "label": "028 魔鬼气泡 3",
+      "core_path": "D:\\RetroArch\\cores\\mame2003_libretro.dll",
+      "core_name": "MAME 2003",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\Quiz and Dragons\\qad.zip",
+      "label": "029 龙之迷题",
+      "core_path": "D:\\RetroArch\\cores\\fbalpha2012_libretro.dll",
+      "core_name": "FB Alpha 2012",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\CPS1\\The King of Dragons\\kod.zip",
+      "label": "030 龙王战士",
+      "core_path": "D:\\RetroArch\\cores\\mame2000_libretro.dll",
+      "core_name": "mame 2000",
+      "crc32": "00000000|crc",
+      "db_name": "CPS1.lpl"
+    }
+  ]
+}

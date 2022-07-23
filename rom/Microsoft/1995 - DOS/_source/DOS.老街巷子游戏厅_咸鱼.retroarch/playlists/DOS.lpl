@@ -1,0 +1,139 @@
+{
+  "version": "1.4",
+  "default_core_path": ":/modules/dosbox_libretro_ios.dylib",
+  "default_core_name": "DOS (DOSBox-Pure)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/DOS/PCYR2.zip",
+      "label": "014 PC原人2",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    },
+    {
+      "path": "~/Documents/DOS/爆笑三国志.zip",
+      "label": "002 爆笑三国志",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    },
+    {
+      "path": "~/Documents/DOS/超级医生.zip",
+      "label": "003 超级医生",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    },
+    {
+      "path": "~/Documents/DOS/大明英雄传.zip",
+      "label": "004 大明英雄传",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    },
+    {
+      "path": "~/Documents/DOS/封神演义.zip",
+      "label": "005 封神演义",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    },
+    {
+      "path": "~/Documents/DOS/富甲天下.zip",
+      "label": "006 富甲天下",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    },
+    {
+      "path": "~/Documents/DOS/光明圣使团.zip",
+      "label": "007 光明圣使团",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    },
+    {
+      "path": "~/Documents/DOS/乱世伏魔录.zip",
+      "label": "008 乱世伏魔录",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    },
+   {
+      "path": "~/Documents/DOS/炎龙骑士团1.zip",
+      "label": "009 炎龙骑士团1",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    },
+    {
+      "path": "~/Documents/DOS/三国志雄霸天下.zip",
+      "label": "010 三国志雄霸天下",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    },
+    {
+      "path": "~/Documents/DOS/射雕英雄传.zip",
+      "label": "011 射雕英雄传",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    },
+    {
+      "path": "~/Documents/DOS/天外剑圣录.zip",
+      "label": "012 天外剑圣录",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    },
+    {
+      "path": "~/Documents/DOS/嬉笑春秋.zip",
+      "label": "013 嬉笑春秋",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    },
+    {
+      "path": "~/Documents/DOS/仙剑奇侠传.zip",
+      "label": "001 仙剑奇侠传",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    },
+    {
+      "path": "~/Documents/DOS/轩辕剑1.zip",
+      "label": "015 轩辕剑1",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    },
+   {
+      "path": "~/Documents/DOS/金庸群侠传.zip",
+      "label": "016 金庸群侠传",
+      "core_path": ":/modules/dosbox_libretro_ios.dylib",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS"
+    }
+  ]
+}
