@@ -1,0 +1,91 @@
+{
+  "version": "1.4",
+  "default_core_path": "~/Documents/RetroArch/cores/opera_libretro.dll",
+  "default_core_name": "3DO",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/rom/3DO/Alone in the Dark 2 (Japan)/Alone in the Dark 2 (Japan).cue",
+      "label": "001 鬼屋魔影2",
+      "core_path": "~/Documents/RetroArch/cores/opera_libretro.dll",
+      "core_name": "3DO",
+      "crc32": "00000000|crc",
+      "db_name": "3DO.lpl"
+    },
+     {
+      "path": "~/Documents/RetroArch/rom/3DO/AutoBahn Tokio (Japan)/AutoBahn Tokio (Japan).cue",
+      "label": "002 东京时速",
+      "core_path": "~/Documents/RetroArch/cores/opera_libretro.dll",
+      "core_name": "3DO",
+      "crc32": "00000000|crc",
+      "db_name": "3DO.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/3DO/MegaRace (Japan)/MegaRace (Japan).cue",
+      "label": "003 烈火战车",
+      "core_path": "~/Documents/RetroArch/cores/opera_libretro.dll",
+      "core_name": "3DO",
+      "crc32": "00000000|crc",
+      "db_name": "3DO.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/3DO/Policenauts (Japan)/Policenauts - Pilot Disk (Japan).cue",
+      "label": "004 宇宙骑警",
+      "core_path": "~/Documents/RetroArch/cores/opera_libretro.dll",
+      "core_name": "3DO",
+      "crc32": "00000000|crc",
+      "db_name": "3DO.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/3DO/Road Rash (Europe)/Road Rash (Europe).cue",
+      "label": "005 暴力摩托",
+      "core_path": "~/Documents/RetroArch/cores/opera_libretro.dll",
+      "core_name": "3DO",
+      "crc32": "00000000|crc",
+      "db_name": "3DO.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/3DO/Samurai Shodown (Japan) (En,Ja)/Samurai Shodown (Japan) (En,Ja).cue",
+      "label": "006 侍魂",
+      "core_path": "~/Documents/RetroArch/cores/opera_libretro.dll",
+      "core_name": "3DO",
+      "crc32": "00000000|crc",
+      "db_name": "3DO.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/3DO/Super Street Fighter II X - Grand Master Challenge (Japan)/Super Street Fighter II X - Grand Master Challenge (Japan).cue",
+      "label": "007 街头霸王2 加速版",
+      "core_path": "~/Documents/RetroArch/cores/opera_libretro.dll",
+      "core_name": "3DO",
+      "crc32": "00000000|crc",
+      "db_name": "3DO.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/3DO/Starblade (Europe)/Starblade (Europe).cue",
+      "label": "008 星际之刃",
+      "core_path": "~/Documents/RetroArch/cores/opera_libretro.dll",
+      "core_name": "3DO",
+      "crc32": "00000000|crc",
+      "db_name": "3DO.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/3DO/Yu Yu Hakusho (Japan)/Yu Yu Hakusho (Japan).cue",
+      "label": "009 幽游白书",
+      "core_path": "~/Documents/RetroArch/cores/opera_libretro.dll",
+      "core_name": "3DO",
+      "crc32": "00000000|crc",
+      "db_name": "3DO.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/3DO/Puzzle Bobble (Japan)/Puzzle Bobble (Japan).cue",
+      "label": "010 泡泡龙",
+      "core_path": "~/Documents/RetroArch/cores/opera_libretro.dll",
+      "core_name": "3DO",
+      "crc32": "00000000|crc",
+      "db_name": "3DO.lpl"
+    }
+  ]
+}

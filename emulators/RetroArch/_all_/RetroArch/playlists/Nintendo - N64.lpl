@@ -1,0 +1,251 @@
+{
+  "version": "1.4",
+  "default_core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+  "default_core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Nintendo_Mingxing_Daluan_Dou_CHN_iQP-SUXXORS/001253d1.z64",
+      "label": "001 任天堂明星大乱斗",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/iQue_Mario_CHN_iQP-SUXXORS/0010cd30.z64",
+      "label": "002神游马力欧",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Zelda_Chuanshuo_Shiguang_Zhi_Di_CHN_iQP-SUXXORS/00200f70.z64",
+      "label": "003 塞尔达传说 时光之笛",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Yoshi's Story (USA) (En,Ja)(Nintendo)(128Mb).n64",
+      "label": "004 耀西故事",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Yueye_Motuo_CHN_iQP-SUXXORS/004dda1c.z64",
+      "label": "005 越野摩托",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Mario Story (Japan)(Nintendo)(320Mb).n64",
+      "label": "006 纸片马力欧",
+      "core_path": "~/Documents/RetroArch/cores/parallel_n64_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Zuhe_Jiqiren_CHN_iQP-SUXXORS/00201f0f.z64",
+      "label": "007 组合机器人",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Zui_Yu_Fa_Diqiu_De_Jicheng_Zhe_CHN_iQP-SUXXORS/003e97d7.z64",
+      "label": "008 罪与罚 地球的继承者",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Xingji_Huohu_CHN_iQP-SUXXORS/003e93f1.z64",
+      "label": "009 星际火狐",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/F-Zero_X_Weilai_Saiche_CHN_iQP-SUXXORS/004f60b7.z64",
+      "label": "010 未来赛车",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Mario Golf 64 (Japan) (Rev A)(Nintendo)(256Mb).n64",
+      "label": "011 马里奥高尔夫",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Mario Party 3 (USA)(Nintendo)(256Mb).n64",
+      "label": "012 马里奥聚会3",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Mario_Yisheng_CHN_iQP-SUXXORS/005d1870.z64",
+      "label": "013 马力欧医生",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Mario_Kadingche_CHN_iQP_REPACK-SUXXORS/004f5cd0.z64",
+      "label": "014 马力欧卡丁车",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)(Ubi Soft)(256Mb).n64",
+      "label": "015 雷曼2-胜利大逃亡",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Doubutsu no Mori (Japan)(Nintendo)(128Mb).n64",
+      "label": "016 动物之森",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)(Chunsoft)(256Mb).n64",
+      "label": "017 不可思议的迷宫 风来的西林2-鬼袭来!西林城!",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Tom Clancy's Rainbow Six (USA)(Red Storm)(128Mb).n64",
+      "label": "018 彩虹六号",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Super Robot Taisen 64 (Japan)(Banpresto)(256Mb).n64",
+      "label": "019 超级机器人大战",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan)(Konami)(128Mb).n64",
+      "label": "020 大盗伍佑卫门-道中除妖记",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Castlevania (USA) (Rev A)(Konami)(96Mb).n64",
+      "label": "021 恶魔城默示录",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Castlevania - Legacy of Darkness (USA)(Konami)(128Mb).n64",
+      "label": "022 恶魔城默示录外传",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Fighting Force 64 (USA)(Crave)(128Mb).n64",
+      "label": "023 格斗力量",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Ogre Battle 64 - Person of Lordly Caliber (USA)(Atlus)(320Mb).n64",
+      "label": "024 皇家骑士团",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Bokujou Monogatari 2 (Japan) (Rev A)(Pack-In Video)(128Mb).n64",
+      "label": "025 牧场物语2",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Legend of Zelda, The - Majora's Mask (USA)(Nintendo)(256Mb).n64",
+      "label": "026 塞尔达传说-马祖拉的假面",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Wave Race 64 (USA)(Nintendo)(64Mb).n64",
+      "label": "027 水上摩托",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Tom and Jerry in Fists of Furry (USA)(NewKidCo)(96Mb).n64",
+      "label": "028 汤姆和杰瑞 绒毛拳头",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Hoshi no Kirby 64 (Japan)(Nintendo)(256Mb).n64",
+      "label": "029 星之卡比",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/N64/Mortal Kombat 4 (USA)(Midway)(128Mb).n64",
+      "label": "030 真人快打4",
+      "core_path": "~/Documents/RetroArch/cores/mupen64plus_next_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "n64"
+    }
+  ]
+}

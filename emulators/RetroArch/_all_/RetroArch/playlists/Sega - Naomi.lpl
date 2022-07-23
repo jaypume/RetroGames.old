@@ -1,0 +1,411 @@
+{
+  "version": "1.4",
+  "default_core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+  "default_core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Capcom Vs. SNK Millennium Fight 2000 Pro/Capcom_vs_SNK_Millenium_Fight_2000_Pro.lst",
+      "label": "001 卡普空VS拳皇 Pro",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Capcom VS SNK 2 Mark Of The Millennium 2001/SNKGD_SL.lst",
+      "label": "002 卡普空VS拳皇2",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Fist of the North Star/Fist of the North Star.bin",
+      "label": "003 北斗神拳",
+      "core_path": "~/Documents/RetroArch/cores/flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Street Fighter Zero 3 Upper/Street Fighter Zero 3 Upper.lst",
+      "label": "004 街头霸王ZERO",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Cosmic Smash/cosmicsmash.lst",
+      "label": "005 宇宙扣球",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Noukone Puzzle Takoron/NoukonePuzzleTakoron.lst",
+      "label": "006 Noukone Puzzle Takoron",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Sports Jam/Sports Jam.lst",
+      "label": "007 体育嘉年华",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Zombie Revenge/zr.lst",
+      "label": "008 僵尸复仇",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Zero Gunner 2/Zero Gunner 2.lst",
+      "label": "009 僵尸复仇2",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Dynamite Deka Ex/DynamiteDekaEx.lst",
+      "label": "010 刑事快打EX",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Violent Metal Slug 6/violentmetalslug6.lst",
+      "label": "011 合金弹头6",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Puyo Puyo Da/Puyo Puyo Da.lst",
+      "label": "012 噗哟噗哟Da",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Puyo Puyo Fever/PuyoPuyoFever_v6.lst",
+      "label": "013 噗哟噗哟Fever",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Cleopatra Fortune Plus/CleopatraFortunePlus_v6.lst",
+      "label": "014 埃及艳后宝石方块",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Super Shanghai 2005 [A]/Super Shanghai 2005 (Rev A).lst",
+      "label": "015 超级上海2005(Rev A)",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+  {
+      "path": "~/Documents/RetroArch/rom/Naomi/KuruKuruChameleon/KuruKuruChameleon.bin",
+      "label": "016 回转逆转变色龙",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/The King Of Fighters - All Fighters/kofxi all fighters.bin",
+      "label": "017 拳皇XI",
+      "core_path": "~/Documents/RetroArch/cores/flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Burning Casino/BurningCasino_v3.lst",
+      "label": "018 赌场3",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Ikaruga/ikaruga.lst",
+      "label": "019 斑鸠",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Tetris Kiwamemichi/TetrisKiwamemichi_v6.lst",
+      "label": "020 方块消除",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Melty Blood Actress Again v6/MeltyBloodActressAgain.lst",
+      "label": "021 月姬格斗",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/dolphinblue/dolphinblue.bin",
+      "label": "022 蓝海豚",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Project Justice - Rival School 2/RivalSchools2-ProjectJustice.lst",
+      "label": "023 私立公平学院2",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/GigaWing 2/GigaWing2.lst",
+      "label": "024 雷鸟之翼2",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/sanguoq/qxzs.bin",
+      "label": "025 新三国战记-七星转生",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Gun Survivor 2/GunSurvivor2.lst",
+      "label": "026 枪下游魂2",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Azumanga Daioh/azumanga.lst",
+      "label": "027 阿滋漫画大王",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Dead Or Alive 2 Millenium/deadoralive2m.lst",
+      "label": "028 死或生2m",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Chaos Field/Chaos Field.lst",
+      "label": "029 混沌边界",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Marvel vs Capcom 2/Marvel Vs Capcom 2.lst",
+      "label": "030 漫画英雄对卡普空2",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Monkey Ball/monkeyball.lst",
+      "label": "031 猴子球",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Radirgy Noa/RadirgyNoa_v6.lst",
+      "label": "032 电波少女诺亚",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/CrazyTaxi/CrazyTaxi.lst",
+      "label": "033 疯狂的士",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Border Down/borderdown.lst",
+      "label": "034 破茧先锋",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Gunspike/GunSpike.lst",
+      "label": "035 神枪机兵",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Guilty Gear XX Reload/GuiltyGearXXReload.lst",
+      "label": "036 罪恶装备Reload",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Guilty Gear XX Slash/GuiltyGearXXSlash_v6.lst",
+      "label": "037 罪恶装备Slash",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Guilty Gear X/guiltygearx.bin",
+      "label": "038 罪恶装备X",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Guilty Gear XX/Guilty Gear XX.lst",
+      "label": "039 罪恶装备XX",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Guilty Gear XX Accent Core/guiltygearxxaccentcore.lst",
+      "label": "040 罪恶装备XXAC",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Rhythm Tengoku/rhytngk.lst",
+      "label": "041 节奏天国",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Rhythm Tengoku (fix)/rhytngk.lst",
+      "label": "042 节奏天国fix",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Akatsuki Blitz Kampf Auf Asche/Akatsuki_Bk_Ausf_Achse.lst",
+      "label": "043 葬晓电光战记",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/SamuraiShowdownVI/SamuraiShowdownVI-SamuraiSpirits_v4.bin",
+      "label": "044 侍魂6",
+      "core_path": "~/Documents/RetroArch/cores/flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Slash Out/slashout.lst",
+      "label": "045 豪斩",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Lupin - The Typing/Lupin-TheTyping.lst",
+      "label": "046 鲁邦三世The Typing",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Lupin 3 - The Shooting/Lupin The Third - The Shooting.lst",
+      "label": "047 鲁邦三世The Shooting",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Rumble Fish/AW - The Rumble Fish.bin",
+      "label": "048 斗鱼",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Rumble Fish 2/AW - The Rumble Fish2.bin",
+      "label": "049 斗鱼2",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Naomi/Demolish Fist/Demolish Fist.bin",
+      "label": "050 破坏拳",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    }
+  ]
+}

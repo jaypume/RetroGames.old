@@ -1,0 +1,187 @@
+{
+  "version": "1.4",
+  "default_core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+  "default_core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/rom/DC/zsx.CDI",
+      "label": "001 再生侠",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/King of Fighters NeoWave/disc.gdi",
+      "label": "002 拳皇新浪潮",
+      "core_path": "~/Documents/RetroArch/cores/flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/Neogeo Battle Coliseum/disc.gdi",
+      "label": "003 NEO格斗竞技场",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (flycast_wince)",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/xuebing.CDI",
+      "label": "004 病血",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/dlam.CDI",
+      "label": "005 哆啦A梦",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Flycast",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/elsfk4D.CDI",
+      "label": "006 俄罗斯方块4D",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Flycast",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/gldy2.CDI",
+      "label": "007 格兰蒂亚2",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Flycast",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/jjhjd.CDI",
+      "label": "008 啾啾火箭队",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Flycast",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/DINO_CRISIS_C_T1.cdi",
+      "label": "009 恐龙危机",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast WinCE)",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/lddzj.CDI",
+      "label": "010 罗德岛战记",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Flycast",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/spqkl.CDI",
+      "label": "011 姆沙皮的巧克力记录",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Flycast",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/jssj2.CDI",
+      "label": "012 神机世界2",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Flycast",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/shwj3/Biohazard3.gdi",
+      "label": "013 生化危机3",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Flycast",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/Code Veronica/Code Veronica.m3u",
+      "label": "014 生化危机代号：维罗妮卡",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Flycast",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/Shenmue - Ichishou Yokosuka (Japan)/Shenmue - Ichishou Yokosuka (Japan).m3u",
+      "label": "015 莎木一章 横须贺",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Flycast",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/SM2/SM2.m3u",
+      "label": "016 莎木2",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Flycast",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/sjjj.CDI",
+      "label": "017 世嘉嘉嘉",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Flycast",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/txqb.CDI",
+      "label": "018 天翔骑兵_胜利铁骑",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/RING.CDI",
+      "label": "019 午夜凶铃",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Flycast",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/yhjs2.CDI",
+      "label": "020 月华剑士2",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Flycast",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/Power Stone (USA)/Power Stone (USA).gdi",
+      "label": "021 能量宝石 第一代",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Flycast",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/DC/Power Stone 2 (USA)/Power Stone 2 (USA).gdi",
+      "label": "022 能量宝石 第二代",
+      "core_path": "~/Documents/RetroArch/cores/flycast_wince_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (flycast_wince)",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    }
+  ]
+}

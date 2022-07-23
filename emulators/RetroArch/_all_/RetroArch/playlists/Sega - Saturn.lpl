@@ -1,0 +1,108 @@
+{
+  "version": "1.4",
+  "default_core_path": "~/Documents/RetroArch/cores/yabause_libretro.dll",
+  "default_core_name": "Sega - Saturn (Yabause)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/rom/Saturn/三国志英杰传/三国志英杰传.mds",
+      "label": "006 三国志英杰传",
+      "core_path": "~/Documents/RetroArch/cores/yabause_libretro.dll",
+      "core_name": "Sega - Saturn (Yabause)",
+      "crc32": "00000000|crc",
+      "db_name": "Saturn"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Saturn/仙剑奇侠传/仙剑奇侠传.mdf",
+      "label": "011 仙剑奇侠传",
+      "core_path": "~/Documents/RetroArch/cores/yabause_libretro.dll",
+      "core_name": "Sega - Saturn (Yabause)",
+      "crc32": "00000000|crc",
+      "db_name": "Saturn"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Saturn/光明力量3剧本1 王都巨神/SHINING_FORCE_3_1.cue",
+      "label": "003 光明力量3剧本1 王都巨神",
+      "core_path": "~/Documents/RetroArch/cores/yabause_libretro.dll",
+      "core_name": "Sega - Saturn (Yabause)",
+      "crc32": "00000000|crc",
+      "db_name": "Saturn"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Saturn/光明力量3剧本2 被狙击的神子/SHINING_FORCE_3_2.cue",
+      "label": "004 光明力量3剧本2 被狙击的神子",
+      "core_path": "~/Documents/RetroArch/cores/yabause_libretro.dll",
+      "core_name": "Sega - Saturn (Yabause)",
+      "crc32": "00000000|crc",
+      "db_name": "Saturn"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Saturn/光明力量3剧本3 冰壁邪神宫/SHINING_FORCE_3_3.cue",
+      "label": "005 光明力量3剧本3 冰壁邪神宫",
+      "core_path": "~/Documents/RetroArch/cores/yabause_libretro.dll",
+      "core_name": "Sega - Saturn (Yabause)",
+      "crc32": "00000000|crc",
+      "db_name": "Saturn"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Saturn/公主的皇冠/PRINCESS_CROWN.cue",
+      "label": "001 公主的皇冠",
+      "core_path": "~/Documents/RetroArch/cores/yabause_libretro.dll",
+      "core_name": "Sega - Saturn (Yabause)",
+      "crc32": "00000000|crc",
+      "db_name": "Saturn"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Saturn/守护英雄/GUARDIAN_HEROES.cue",
+      "label": "007 守护英雄",
+      "core_path": "~/Documents/RetroArch/cores/yabasanshiro_libretro.dll",
+      "core_name": "Sega - Saturn (YabaSanshiro)",
+      "crc32": "00000000|crc",
+      "db_name": "Saturn"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Saturn/恸哭之后/DOUKOKU.cue",
+      "label": "009 恸哭之后",
+      "core_path": "~/Documents/RetroArch/cores/yabause_libretro.dll",
+      "core_name": "Sega - Saturn (Yabause)",
+      "crc32": "00000000|crc",
+      "db_name": "Saturn"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Saturn/灌篮高手Slam Dunk/From TV Animation Slam Dunk - I Love Basketball (Japan).cue",
+      "label": "002 灌篮高手Slam Dunk",
+      "core_path": "~/Documents/RetroArch/cores/yabause_libretro.dll",
+      "core_name": "Sega - Saturn (Yabause)",
+      "crc32": "00000000|crc",
+      "db_name": "Saturn"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/Saturn/托尔传说2 精灵王纪传/Thor - Seireioukiden (C).cue",
+      "label": "012 托尔传说2 精灵王纪传",
+      "core_path": "~/Documents/RetroArch/cores/yabause_libretro.dll",
+      "core_name": "Sega - Saturn (Yabause)",
+      "crc32": "00000000|crc",
+      "db_name": "Saturn"
+    },
+ {
+      "path": "~/Documents/RetroArch/rom/Saturn/太阁立志传2/Tk2cn_for_wuming.cue",
+      "label": "008 太阁立志传2",
+      "core_path": "~/Documents/RetroArch/cores/yabause_libretro.dll",
+      "core_name": "Sega - Saturn (Yabause)",
+      "crc32": "00000000|crc",
+      "db_name": "Saturn"
+    },
+ {
+      "path": "~/Documents/RetroArch/rom/Saturn/心灵咒杀师－太郎丸/Shinrei Jusatsushi Taroumaru (Japan).cue",
+      "label": "010 心灵咒杀师－太郎丸",
+      "core_path": "~/Documents/RetroArch/cores/yabause_libretro.dll",
+      "core_name": "Sega - Saturn (Yabause)",
+      "crc32": "00000000|crc",
+      "db_name": "Saturn"
+    }
+ 
+  ]
+}

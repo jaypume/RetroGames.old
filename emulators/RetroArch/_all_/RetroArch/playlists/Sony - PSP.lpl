@@ -1,0 +1,259 @@
+{
+  "version": "1.4",
+  "default_core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+  "default_core_name": "Sony - PlayStation Portable (PPSSPP)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/rom/ppsspp/5.iso",
+      "label": "001 北欧女神-蕾娜斯",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/ppsspp/4.iso",
+      "label": "003 合金弹头XX",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/ppsspp/圣女贞德.iso",
+      "label": "008 圣女贞德",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+  {
+      "path": "~/Documents/RetroArch/rom/ppsspp/被封锁的涩谷.iso",
+      "label": "009 被封锁的涩谷",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/ppsspp/6.iso",
+      "label": "002 大骑士物语",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/ppsspp/8.iso",
+      "label": "006 女神异闻录3 携带版",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/ppsspp/10.iso",
+      "label": "023 战场女武神3-尘封的硝烟",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/ppsspp/2.iso",
+      "label": "010 最终幻想 狮子战争",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/ppsspp/14.iso",
+      "label": "014 最终幻想-零式",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/ppsspp/11.iso",
+      "label": "011 最终幻想3",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/ppsspp/12.iso",
+      "label": "012 最终幻想4 完全版",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/ppsspp/15.iso",
+      "label": "015 最终幻想7 核心危机",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/ppsspp/13.iso",
+      "label": "013 最终幻想II 20周年纪念版",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/ppsspp/1.iso",
+      "label": "005 皇家骑士团 命运之轮",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+ {
+      "path": "~/Documents/RetroArch/rom/ppsspp/GT赛车.iso",
+      "label": "016 GT赛车",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/ppsspp/PRO2010.iso",
+      "label": "007 实况力量棒球2010",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/ppsspp/鬼魂力量-遗产.iso",
+      "label": "017 鬼魂力量-遗产",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/ppsspp/寄生前夜 第三次生日.iso",
+      "label": "018 寄生前夜 第三次生日",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/ppsspp/死神-灵魂嘉年华2.iso",
+      "label": "019 死神-灵魂嘉年华2",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/ppsspp/寂静岭 起源.iso",
+      "label": "020 寂静岭 起源",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/ppsspp/胖公主-蛋糕一把抓.iso",
+      "label": "021 胖公主-蛋糕一把抓",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/ppsspp/战场的女武神2-高卢王立士官学校.iso",
+      "label": "022 战场的女武神2-高卢王立士官学校",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/ppsspp/战神-奥林匹斯之链.iso",
+      "label": "024 战神-奥林匹斯之链",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/ppsspp/战神-斯巴达之魂.iso",
+      "label": "025 战神-斯巴达之魂",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/ppsspp/山脊赛车2.iso",
+      "label": "026 山脊赛车2",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/ppsspp/铁拳6.iso",
+      "label": "027 铁拳6",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/ppsspp/天诛4 影子刺客.iso",
+      "label": "028 天诛4 影子刺客",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/ppsspp/侠盗猎车 血战唐人街.iso",
+      "label": "029 侠盗猎车 血战唐人街",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/ppsspp/侠盗猎车 自由城的故事.iso",
+      "label": "030 侠盗猎车 自由城的故事",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/ppsspp/侠盗猎车 罪恶都市传奇.iso",
+      "label": "031 侠盗猎车 罪恶都市传奇",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/ppsspp/7.iso",
+      "label": "004 荒野兵器 交叉火力",
+      "core_path": "~/Documents/RetroArch/cores/ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "00000000|crc",
+      "db_name": "ppsspp.lpl"
+    }
+  ]
+}

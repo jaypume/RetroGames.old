@@ -1,0 +1,451 @@
+{
+  "version": "1.4",
+  "default_core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+  "default_core_name": "Nintendo - DS (DeSmuME)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/超执刀.zip#Trauma Center.nds",
+      "label": "001 超执刀",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/超执刀2.zip#Trauma Center2.nds",
+      "label": "002 超执刀2",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/鬼魂力量 创世纪.zip#Spectral Force Genesis.nds",
+      "label": "003 鬼魂力量 创世纪",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/黄金太阳 漆黑的黎明.zip#GOLDEN SUN DARK DAWN.nds",
+      "label": "004 黄金太阳 漆黑的黎明",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/火焰纹章 新纹章之谜 光与影的英雄.zip#Fire Emblem Shin Monshou no Nazo Hikari to Kage no Eiyu.nds",
+      "label": "005 火焰纹章 新纹章之谜 光与影的英雄",
+      "core_path": "~/Documents/RetroArch/cores/melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/口袋妖怪白1汉化版.zip#Pokemon1.nds",
+      "label": "006 口袋妖怪白 第一代",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/口袋妖怪黑 第二代.zip#KDYG2.nds",
+      "label": "007 口袋妖怪黑 第二代",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/雷顿教授与不可思议的小镇.zip#Professor Layton and the Curious Village.nds",
+      "label": "008 雷顿教授与不可思议的小镇",
+      "core_path": "~/Documents/RetroArch/cores/melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/雷顿教授与恶魔之箱.zip#Professor Layton and Pandora's Box.nds",
+      "label": "009 雷顿教授与恶魔之箱",
+      "core_path": "~/Documents/RetroArch/cores/melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/雷顿教授与魔神之笛.zip#Professor Layton and the Last Specter.nds",
+      "label": "010 雷顿教授与魔神之笛",
+      "core_path": "~/Documents/RetroArch/cores/melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/雷顿教授与最后的时间旅行.zip#Professor Layton and the Unwound Future.nds",
+      "label": "011 雷顿教授与最后的时间旅行",
+      "core_path": "~/Documents/RetroArch/cores/melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/逆转裁判 复苏的逆转.zip#A reversal of the referee's recovery.nds",
+      "label": "012 逆转裁判 复苏的逆转",
+      "core_path": "~/Documents/RetroArch/cores/melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/逆转裁判4.zip#Apollo Justice Ace Attorney.nds",
+      "label": "013 逆转裁判4",
+      "core_path": "~/Documents/RetroArch/cores/melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/逆转检事.zip#Gyakuten Kenji.nds",
+      "label": "014 逆转检事",
+      "core_path": "~/Documents/RetroArch/cores/melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/逆转检事2.zip#JS2.nds",
+      "label": "015 逆转检察官2",
+      "core_path": "~/Documents/RetroArch/cores/melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/塞尔达传说 幻影沙漏.zip#Phantom Hourglass.nds",
+      "label": "016 塞尔达传说 幻影沙漏",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/塞尔达传说 灵魂轨迹.zip#Spirit Tracks.nds",
+      "label": "017 塞尔达传说 灵魂轨迹",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/塞尔达传说 大地的汽笛.zip#The siren of the legend of Zelda.nds",
+      "label": "018 塞尔达传说 大地的汽笛",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/斯隆与马克贝尔的谜之物语.zip#McHale's.nds",
+      "label": "019 斯隆与马克贝尔的谜之物语",
+      "core_path": "~/Documents/RetroArch/cores/melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/斯隆与马克贝尔的谜之物语2.zip#McHale's 2.nds",
+      "label": "020 斯隆与马克贝尔的谜之物语2",
+      "core_path": "~/Documents/RetroArch/cores/melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/幽灵侦探.zip#The Ghost Detective.nds",
+      "label": "021 幽灵侦探",
+      "core_path": "~/Documents/RetroArch/cores/desmume2015_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME 2015)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/召唤之夜 双生时代 精灵们的共鸣.zip#The night of call the resonance of the elves in the Twin Age .nds",
+      "label": "022 召唤之夜 双生时代 精灵们的共鸣",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/召唤之夜X 泪之皇冠.zip#Tears Crown.nds",
+      "label": "023 召唤之夜X 泪之皇冠",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/重装机兵2重制版.zip#MM2R.nds",
+      "label": "024 重装机兵2重制版",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/METALMAX3.zip#METALMAX3.nds",
+      "label": "025 重装机兵3",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/最终幻想3.zip#FF3.nds",
+      "label": "026 最终幻想3",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/最终幻想4.zip#FF4.nds",
+      "label": "027 最终幻想4",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/最终幻想外传 光之四战士.zip#The 4 Heroes of Light.nds",
+      "label": "028 最终幻想外传 光之四战士",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/最终幻想战略版A2封穴的魔法书.zip#FFA2.nds",
+      "label": "029 最终幻想战略版A2封穴的魔法书",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/符文工房3.zip#FWGF3.nds",
+      "label": "030 符文工房3",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/超级机器人大战W.zip#DZW.nds",
+      "label": "031 超级机器人大战W",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/恶魔幸存者2.zip#xcz2.nds",
+      "label": "032 恶魔幸存者2",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/神探伽利略.zip#Galileo.nds",
+      "label": "033 神探伽利略",
+      "core_path": "~/Documents/RetroArch/cores/melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/金田一少年事件簿 恶魔之杀人航海.zip#Kindaichi Shyounen No Jikenbo Akuma No Satsujin.nds",
+      "label": "034 金田一少年事件簿 恶魔之杀人航海",
+      "core_path": "~/Documents/RetroArch/cores/melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/勇者斗恶龙4.zip#DQ4.nds",
+      "label": "035 勇者斗恶龙4",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/勇者斗恶龙5.zip#DQ5.nds",
+      "label": "036 勇者斗恶龙5",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/勇者斗恶龙6.zip#DQ6.nds",
+      "label": "037 勇者斗恶龙6",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/勇者斗恶龙9.zip#DQ9.nds",
+      "label": "038 勇者斗恶龙9",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/海贼王 巨人战争.zip#JRZZ.nds",
+      "label": "039 海贼王 巨人战争",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/恶魔城 被夺的刻印.zip#emcfy.nds",
+      "label": "040 恶魔城 被夺的刻印",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/恶魔城 苍月的十字架.zip#SZJ.nds",
+      "label": "041 恶魔城 苍月的十字架",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/恶魔城 废墟的肖像.zip#xx.nds",
+      "label": "042 恶魔城 废墟的肖像",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/二之国.zip#RZG.nds",
+      "label": "043 二之国",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/钢之炼金术师.zip#GZLJSS.nds",
+      "label": "044 钢之炼金术师",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/高级战争 双重打击.zip#GJZZSCDJ.nds",
+      "label": "045 高级战争 双重打击",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/高级战争 毁灭日.zip#gjzzhmr.nds",
+      "label": "046 高级战争 毁灭日",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/节奏天国 黄金版.zip#JZTGHJ.nds",
+      "label": "047 节奏天国 黄金版",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/蓝龙PLUS.zip#ll.nds",
+      "label": "048 蓝龙PLUS",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/洛克人 ZX.zip#LKRXZ.nds",
+      "label": "049 洛克人 ZX",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/洛克人ZX Advent.zip#LKRZZZ.nds",
+      "label": "050 洛克人ZX Advent",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/美少女麻将3.zip#mmmj.nds",
+      "label": "051 美少女麻将3",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/忍者龙剑传 龙剑.zip#RZLJZLJ.nds",
+      "label": "052 忍者龙剑传 龙剑",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/死神DS 追逐苍天的命运.zip#SISHEN.nds",
+      "label": "053 死神DS 追逐苍天的命运",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/高速卡片战斗 卡片英雄.zip#kpyx.nds",
+      "label": "054 高速卡片战斗 卡片英雄",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NDS/应援团.zip#YYT.nds",
+      "label": "055 押忍!战斗!应援团 ",
+      "core_path": "~/Documents/RetroArch/cores/desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    }
+  ]
+}
