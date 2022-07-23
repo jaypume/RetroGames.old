@@ -1,0 +1,2811 @@
+{
+    "version": "1.4",
+    "default_core_path": "",
+    "default_core_name": "",
+    "label_display_mode": 0,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/001 3x3只眼 兽魔奉还.smc",
+            "label": "001 3x3只眼 兽魔奉还",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/002 46亿年物语.smc",
+            "label": "002 46亿年物语",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/003 BB鸟与大野狼.smc",
+            "label": "003 BB鸟与大野狼",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/004 F-ZERO.smc",
+            "label": "004 F-ZERO",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/005 GO!GO!恶魔少年 中文版.SMC",
+            "label": "005 GO!GO!恶魔少年 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/006 GO!GO!恶魔少年2.smc",
+            "label": "006 GO!GO!恶魔少年2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/007 GO!GO!恶魔少年3.smc",
+            "label": "007 GO!GO!恶魔少年3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/008 J计划.smc",
+            "label": "008 J计划",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/009 SD 飞龙之拳.smc",
+            "label": "009 SD 飞龙之拳",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/010 SD高达X.smc",
+            "label": "010 SD高达X",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/011 X战警 变种末日.smc",
+            "label": "011 X战警 变种末日",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/012 阿拉丁.sfc",
+            "label": "012 阿拉丁",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/013 暗黑之破坏神.smc",
+            "label": "013 暗黑之破坏神",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/014 巴巴罗萨 剧情汉化.sfc",
+            "label": "014 巴巴罗萨 剧情汉化",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/015 巴比斯2.smc",
+            "label": "015 巴比斯2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/016 白痴殿下总动员.smc",
+            "label": "016 白痴殿下总动员",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/017 暴力刑警.sfc",
+            "label": "017 暴力刑警",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/018 爆燃战机.smc",
+            "label": "018 爆燃战机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/019 本格派围棋棋圣.sfc",
+            "label": "019 本格派围棋棋圣",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/020 蝙蝠侠.smc",
+            "label": "020 蝙蝠侠",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/021 蝙蝠侠归来.sfc",
+            "label": "021 蝙蝠侠归来",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/022 冰球.smc",
+            "label": "022 冰球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/023 兵蜂 彩虹铃当的冒险.smc",
+            "label": "023 兵蜂 彩虹铃当的冒险",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/024 兵蜂.smc",
+            "label": "024 兵蜂",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/025 啵咕物语（美少女剑士).smc",
+            "label": "025 啵咕物语（美少女剑士）",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/026 超级EDF.sfc",
+            "label": "026 超级EDF",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/027 超级大金刚1.smc",
+            "label": "027 超级大金刚1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/028 超级大金刚2.sfc",
+            "label": "028 超级大金刚2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/029 超级大金刚3.sfc",
+            "label": "029 超级大金刚3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/030 超级俄罗斯方块3.sfc",
+            "label": "030 超级俄罗斯方块3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/031 超级恶魔城4.smc",
+            "label": "031 超级恶魔城4",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/032 超级花札2.smc",
+            "label": "032 超级花札2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/033 超级街头霸王2 中文版.sfc",
+            "label": "033 超级街头霸王2 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/034 超级马里奥RPG 七星传说.sfc",
+            "label": "034 超级马里奥RPG 七星传说",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/035 超级马里奥赛车.smc",
+            "label": "035 超级马里奥赛车",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/036 超级马里奥世界.sfc",
+            "label": "036 超级马里奥世界",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/037 超级马里奥世界2：耀西岛.smc",
+            "label": "037 超级马里奥世界2：耀西岛",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/038 超级玛丽奥全明星.sfc",
+            "label": "038 超级玛丽奥全明星",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/039 超级冒险岛2.sfc",
+            "label": "039 超级冒险岛2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/040 超级梦幻战士4.smc",
+            "label": "040 超级梦幻战士4",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/041 超级忍者君.sfc",
+            "label": "041 超级忍者君",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/042 超级双截龙.smc",
+            "label": "042 超级双截龙",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/043 超级瓦强世界1.smc",
+            "label": "043 超级瓦强世界1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/044 超级瓦强世界2.smc",
+            "label": "044 超级瓦强世界2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/045 超级网球.smc",
+            "label": "045 超级网球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/046 超级银河战士 中文版.SMC",
+            "label": "046 超级银河战士 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/047 超级原人.smc",
+            "label": "047 超级原人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/048 超级炸弹人1.smc",
+            "label": "048 超级炸弹人1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/049 超级炸弹人2.smc",
+            "label": "049 超级炸弹人2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/050 超级炸弹人3.smc",
+            "label": "050 超级炸弹人3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/051 超级战士.smc",
+            "label": "051 超级战士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/052 超级战士2.smc",
+            "label": "052 超级战士2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/053 超级追踪HQ.smc",
+            "label": "053 超级追踪HQ",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/054 超魔界村.smc",
+            "label": "054 超魔界村",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/055 超人 死里逢生.smc",
+            "label": "055 超人 死里逢生",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/056 超时空要塞.sfc",
+            "label": "056 超时空要塞",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/057 超越颠峰1.smc",
+            "label": "057 超越颠峰1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/058 超越颠峰2.smc",
+            "label": "058 超越颠峰2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/059 超越颠峰3000.sfc",
+            "label": "059 超越颠峰3000",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/060 超真实麻雀 P4.smc",
+            "label": "060 超真实麻雀 P4",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/061 传说战士.smc",
+            "label": "061 传说战士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/062 达菲鸭 火星任务.smc",
+            "label": "062 达菲鸭 火星任务",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/063 达摩道场.smc",
+            "label": "063 达摩道场",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/064 大贝兽物语2.sfc",
+            "label": "064 大贝兽物语2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/065 大盗伍佑卫门2.smc",
+            "label": "065 大盗伍佑卫门2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/066 大盗伍佑卫门3.sfc",
+            "label": "066 大盗伍佑卫门3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/067 大航海时代2 中文版.sfc",
+            "label": "067 大航海时代2 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/068 大力工头.smc",
+            "label": "068 大力工头",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/069 地球冒险2.sfc",
+            "label": "069 地球冒险2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/070 电精 中文版.SMC",
+            "label": "070 电精 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/071 电脑战机.sfc",
+            "label": "071 电脑战机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/072 斗姬传.sfc",
+            "label": "072 斗姬传",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/073 哆啦A梦4 大雄和月之王国 少量汉化.SMC",
+            "label": "073 哆啦A梦4 大雄和月之王国 少量汉化",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/074 俄罗斯武斗外传.sfc",
+            "label": "074 俄罗斯武斗外传",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/075 恶魔城XX.smc",
+            "label": "075 恶魔城XX",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/076 飞行俱乐部.smc",
+            "label": "076 飞行俱乐部",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/077 飞天蝙蝠.smc",
+            "label": "077 飞天蝙蝠",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/078 飞天蝙蝠2.smc",
+            "label": "078 飞天蝙蝠2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/079 钢忍.smc",
+            "label": "079 钢忍",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/080 钢铁战士.sfc",
+            "label": "080 钢铁战士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/081 高飞狗海贼岛大冒险.smc",
+            "label": "081 高飞狗海贼岛大冒险",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/082 高桥名人冒险岛.smc",
+            "label": "082 高桥名人冒险岛",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/083 怪物三人行.smc",
+            "label": "083 怪物三人行",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/084 冠军撞球 少量汉化.SMC",
+            "label": "084 冠军撞球 少量汉化",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/085 灌篮高手2 中文版.SMC",
+            "label": "085 灌篮高手2 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/086 光脚阿迪.smc",
+            "label": "086 光脚阿迪",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/087 光伞传说.sfc",
+            "label": "087 光伞传说",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/088 鬼神童子 烈斗雷传 中文版.SMC",
+            "label": "088 鬼神童子 烈斗雷传 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/089 鬼太郎.smc",
+            "label": "089 鬼太郎",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/090 哈利巨人屋探险.sfc",
+            "label": "090 哈利巨人屋探险",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/091 海腹川背.smc",
+            "label": "091 海腹川背",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/092 豪枪神雷传说.sfc",
+            "label": "092 豪枪神雷传说",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/093 黑色荆棘.smc",
+            "label": "093 黑色荆棘",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/094 黑水海盗.SMC",
+            "label": "094 黑水海盗",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/095 花仙子方块.sfc",
+            "label": "095 花仙子方块",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/096 幻象女子摔角.sfc",
+            "label": "096 幻象女子摔角",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/097 荒野双枪.sfc",
+            "label": "097 荒野双枪",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/098 黄龙之耳.smc",
+            "label": "098 黄龙之耳",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/099 魂斗罗3.sfc",
+            "label": "099 魂斗罗3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/100 火箭骑士.smc",
+            "label": "100 火箭骑士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/101 机动战记高达W.sfc",
+            "label": "101 机动战记高达W",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/102 机械战警对终结者.sfc",
+            "label": "102 机械战警对终结者",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/103 激空战机.smc",
+            "label": "103 激空战机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/104 极上Q版沙罗曼蛇.sfc",
+            "label": "104 极上Q版沙罗曼蛇",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/105 迦楼罗王.smc",
+            "label": "105 迦楼罗王",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/106 金属机器人战记.sfc",
+            "label": "106 金属机器人战记",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/107 卡通集锦.smc",
+            "label": "107 卡通集锦",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/108 凯伦的疯狂追逐.smc",
+            "label": "108 凯伦的疯狂追逐",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/109 快打刑警 乱.smc",
+            "label": "109 快打刑警 乱",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/110 快打刑事1.smc",
+            "label": "110 快打刑事1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/111 快打刑事修罗.smc",
+            "label": "111 快打刑事修罗",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/112 快打旋风2.smc",
+            "label": "112 快打旋风2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/113 快打旋风3.smc",
+            "label": "113 快打旋风3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/114 狂暴剑道.sfc",
+            "label": "114 狂暴剑道",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/115 雷莎出击2.smc",
+            "label": "115 雷莎出击2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/116 雷霆英豪.smc",
+            "label": "116 雷霆英豪",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/117 邻居不是人.smc",
+            "label": "117 邻居不是人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/118 露卡大冒险.smc",
+            "label": "118 露卡大冒险",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/119 洛克人 X.smc",
+            "label": "119 洛克人 X",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/120 洛克人 X2.sfc",
+            "label": "120 洛克人 X2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/121 洛克人 X3.smc",
+            "label": "121 洛克人 X3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/122 洛克人7.sfc",
+            "label": "122 洛克人7",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/123 洛克人与弗鲁迪.sfc",
+            "label": "123 洛克人与弗鲁迪",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/124 马里奥医生.sfc",
+            "label": "124 马里奥医生",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/125 马力欧拆屋工.smc",
+            "label": "125 马力欧拆屋工",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/126 玛亚冒险.smc",
+            "label": "126 玛亚冒险",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/127 蚂蚁战士.sfc",
+            "label": "127 蚂蚁战士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/128 美国超人 秘宝之战.sfc",
+            "label": "128 美国超人 秘宝之战",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/129 美女与野兽.sfc",
+            "label": "129 美女与野兽",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/130 美少女雀士.smc",
+            "label": "130 美少女雀士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/131 美食战队 蔷薇野郎.smc",
+            "label": "131 美食战队 蔷薇野郎",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/132 米老鼠与唐老鸭3.smc",
+            "label": "132 米老鼠与唐老鸭3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/133 棉花小魔女.smc",
+            "label": "133 棉花小魔女",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/134 魔法大冒险.sfc",
+            "label": "134 魔法大冒险",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/135 魔法男孩.smc",
+            "label": "135 魔法男孩",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/136 魔法气泡物语 铁腕繁盛记.smc",
+            "label": "136 魔法气泡物语 铁腕繁盛记",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/137 魔法气泡物语2.smc",
+            "label": "137 魔法气泡物语2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/138 魔法提琴手.smc",
+            "label": "138 魔法提琴手",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/139 魔鬼大帝.smc",
+            "label": "139 魔鬼大帝",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/140 魔界村外传 纹章篇.smc",
+            "label": "140 魔界村外传 纹章篇",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/141 魔神Z.smc",
+            "label": "141 魔神Z",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/142 魔神转生2 中文版.SMC",
+            "label": "142 魔神转生2 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/143 魔兽王.sfc",
+            "label": "143 魔兽王",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/144 魔装机神 中文版.SMC",
+            "label": "144 魔装机神 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/145 木偶奇遇记.smc",
+            "label": "145 木偶奇遇记",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/146 牧场物语 中文版.SMC",
+            "label": "146 牧场物语 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/147 南国少年 奇小邪.sfc",
+            "label": "147 南国少年 奇小邪",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/148 庞克勇士.smc",
+            "label": "148 庞克勇士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/149 苹果核战.sfc",
+            "label": "149 苹果核战",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/150 七龙珠Z超武斗传1.smc",
+            "label": "150 七龙珠Z超武斗传1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/151 七龙珠Z超武斗传2.smc",
+            "label": "151 七龙珠Z超武斗传2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/152 七龙珠Z超武斗传3.smc",
+            "label": "152 七龙珠Z超武斗传3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/153 七龙珠Z超悟空传 觉醒篇 中文版.sfc",
+            "label": "153 七龙珠Z超悟空传 觉醒篇 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/154 七龙珠Z超悟空传 突激篇 中文版.SMC",
+            "label": "154 七龙珠Z超悟空传 突激篇 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/155 奇奇怪界1.smc",
+            "label": "155 奇奇怪界1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/156 奇奇怪界2.sfc",
+            "label": "156 奇奇怪界2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/157 奇异 猴子们的宝岛.sfc",
+            "label": "157 奇异 猴子们的宝岛",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/158 抢救彩虹.sfc",
+            "label": "158 抢救彩虹",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/159 雀斗士 铜锣王2.smc",
+            "label": "159 雀斗士 铜锣王2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/160 热血硬派.sfc",
+            "label": "160 热血硬派",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/161 忍者神龟4.smc",
+            "label": "161 忍者神龟4",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/162 忍者蛙与双截龙.smc",
+            "label": "162 忍者蛙与双截龙",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/163 忍者战士 牙.smc",
+            "label": "163 忍者战士 牙",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/164 桑德拉大冒险.smc",
+            "label": "164 桑德拉大冒险",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/165 上海3.smc",
+            "label": "165 上海3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/166 少年忍者.smc",
+            "label": "166 少年忍者",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/167 神风特工队.smc",
+            "label": "167 神风特工队",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/168 神剑2097武士.smc",
+            "label": "168 神剑2097武士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/169 失落的维京.smc",
+            "label": "169 失落的维京",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/170 实况世界足球1.sfc",
+            "label": "170 实况世界足球1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/171 太空战斗机.smc",
+            "label": "171 太空战斗机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/172 天空任务.sfc",
+            "label": "172 天空任务",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/173 天龙斩.sfc",
+            "label": "173 天龙斩",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/174 天使之翼3皇帝的挑战.smc",
+            "label": "174 天使之翼3皇帝的挑战",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/175 天使之翼4.smc",
+            "label": "175 天使之翼4",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/176 天使之翼5 中文版.SMC",
+            "label": "176 天使之翼5 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/177 瓦力欧的木头方块.sfc",
+            "label": "177 瓦力欧的木头方块",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/178 顽皮兔大冒险.smc",
+            "label": "178 顽皮兔大冒险",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/179 顽皮兔大运动会.smc",
+            "label": "179 顽皮兔大运动会",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/180 五子连珠.smc",
+            "label": "180 五子连珠",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/181 武装部队.smc",
+            "label": "181 武装部队",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/182 西部枪鼠.smc",
+            "label": "182 西部枪鼠",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/183 消防员.smc",
+            "label": "183 消防员",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/184 小鬼当家.smc",
+            "label": "184 小鬼当家",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/185 小红帽恰恰.smc",
+            "label": "185 小红帽恰恰",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/186 信长之野望 武将风云录.smc",
+            "label": "186 信长之野望 武将风云录",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/187 星际火狐1.smc",
+            "label": "187 星际火狐1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/188 星际火狐2.sfc",
+            "label": "188 星际火狐2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/189 星之卡比 超级之星.smc",
+            "label": "189 星之卡比 超级之星",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/190 星之卡比梦之大陆3.smc",
+            "label": "190 星之卡比梦之大陆3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/191 牙.smc",
+            "label": "191 牙",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/192 摇滚保护者.smc",
+            "label": "192 摇滚保护者",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/193 耀西俄罗斯方块.sfc",
+            "label": "193 耀西俄罗斯方块",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/194 伊莉雅.sfc",
+            "label": "194 伊莉雅",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/195 异形3.smc",
+            "label": "195 异形3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/196 异形战机 3.smc",
+            "label": "196 异形战机 3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/197 音速超人2.SMC",
+            "label": "197 音速超人2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/198 音速小子与小尾巴.smc",
+            "label": "198 音速小子与小尾巴",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/199 银河风暴.smc",
+            "label": "199 银河风暴",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/200 幽游白书 魔界最强列传.sfc",
+            "label": "200 幽游白书 魔界最强列传",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/201 幽游白书 特别篇.smc",
+            "label": "201 幽游白书 特别篇",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/202 幽游白书1.smc",
+            "label": "202 幽游白书1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/203 幽游白书2.smc",
+            "label": "203 幽游白书2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/204 宇宙骑士.smc",
+            "label": "204 宇宙骑士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/205 宇宙巡航机3.smc",
+            "label": "205 宇宙巡航机3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/206 越空狂龙.smc",
+            "label": "206 越空狂龙",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/207 炸弹人4.smc",
+            "label": "207 炸弹人4",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/208 炸弹人5.smc",
+            "label": "208 炸弹人5",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/209 战斗原始人2.smc",
+            "label": "209 战斗原始人2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/210 战斗原始人3.smc",
+            "label": "210 战斗原始人3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/211 战国传承1.smc",
+            "label": "211 战国传承1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/212 真女神转生.sfc",
+            "label": "212 真女神转生",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/213 真女神转生2.smc",
+            "label": "213 真女神转生2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/214 真女神转生IF.smc",
+            "label": "214 真女神转生IF",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/215 祗园花.smc",
+            "label": "215 祗园花",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/216 重装机兵 瓦尔肯 中文版.sfc",
+            "label": "216 重装机兵 瓦尔肯 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/217 重装机兵2 中文版.sfc",
+            "label": "217 重装机兵2 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/218 重装机兵Returns 中文版.SMC",
+            "label": "218 重装机兵Returns 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/219 HACK GO恶魔少年 无敌.smc",
+            "label": "219 HACK GO恶魔少年 无敌",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/220 HACK X战警  变种末世录无敌无限血，命.smc",
+            "label": "220 HACK X战警  变种末世录无敌无限血，命",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/221 HACK 阿拉丁 无限苹果无限生命.smc",
+            "label": "221 HACK 阿拉丁 无限苹果无限生命",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/222 HACK 暴力刑警无限人.smc",
+            "label": "222 HACK 暴力刑警无限人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/223 HACK 兵蜂 能源不减.smc",
+            "label": "223 HACK 兵蜂 能源不减",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/224 HACK 超级大金刚1 无限人透明.smc",
+            "label": "224 HACK 超级大金刚1 无限人透明",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/225 HACK 超级大金刚2生命无限.sfc",
+            "label": "225 HACK 超级大金刚2生命无限",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/226 HACK 超级大金刚3生命无限.sfc",
+            "label": "226 HACK 超级大金刚3生命无限",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/227 HACK 超级恶魔城4 无限人透明.smc",
+            "label": "227 HACK 超级恶魔城4 无限人透明",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/228 HACK 超级街头霸王2 超强版.smc",
+            "label": "228 HACK 超级街头霸王2 超强版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/229 HACK 超级冒险岛 无敌.smc",
+            "label": "229 HACK 超级冒险岛 无敌",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/230 HACK 超级双截龙4 无限人.smc",
+            "label": "230 HACK 超级双截龙4 无限人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/231 HACK 超级炸弹人2 人时间炸弹威力不减.smc",
+            "label": "231 HACK 超级炸弹人2 人时间炸弹威力不减",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/232 HACK 超级战士1 无限人无限保护.sfc",
+            "label": "232 HACK 超级战士1 无限人无限保护",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/233 HACK 超级战士2 无限人无限保护.sfc",
+            "label": "233 HACK 超级战士2 无限人无限保护",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/234 HACK 超魔界村 半透明.smc",
+            "label": "234 HACK 超魔界村 半透明",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/235 HACK 超人死里逢生 绝招不减、人数不减.smc",
+            "label": "235 HACK 超人死里逢生 绝招不减、人数不减",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/236 HACK 超时空要塞 无敌.smc",
+            "label": "236 HACK 超时空要塞 无敌",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/237 HACK 传说战士 不减血，命，炸弹.sfc",
+            "label": "237 HACK 传说战士 不减血，命，炸弹",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/238 HACK 达菲鸭 火星任务无敌版.smc",
+            "label": "238 HACK 达菲鸭 火星任务无敌版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/239 HACK 大盗五卫门3代1.2P能源无限.smc",
+            "label": "239 HACK 大盗五卫门3代1.2P能源无限",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/240 HACK 大盗伍右卫门2 能源金钱不减.smc",
+            "label": "240 HACK 大盗伍右卫门2 能源金钱不减",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/241 HACK 大力工头POW人不减.smc",
+            "label": "241 HACK 大力工头POW人不减",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/242 HACK 电精1  人生命气能源不减.smc",
+            "label": "242 HACK 电精1  人生命气能源不减",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/243 HACK 斗姬传 无限命.sfc",
+            "label": "243 HACK 斗姬传 无限命",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/244 HACK 恶魔城 XX 体力不减命数不减心不减.sfc",
+            "label": "244 HACK 恶魔城 XX 体力不减命数不减心不减",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/245 HACK 飞天蝙蝠2 全不减.smc",
+            "label": "245 HACK 飞天蝙蝠2 全不减",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/246 HACK 钢铁战士 无敌版.sfc",
+            "label": "246 HACK 钢铁战士 无敌版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/247 HACK 怪物三人行 无限血，命，骨，吼.sfc",
+            "label": "247 HACK 怪物三人行 无限血，命，骨，吼",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/248 HACK 灌篮高手2 修改版.sfc",
+            "label": "248 HACK 灌篮高手2 修改版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/249 HACK 鬼神童子 中文版  无限生血命保护.smc",
+            "label": "249 HACK 鬼神童子 中文版  无限生血命保护",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/250 HACK 海腹川背.smc",
+            "label": "250 HACK 海腹川背",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/251 HACK 荒野双抢无敌版.smc",
+            "label": "251 HACK 荒野双抢无敌版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/252 HACK 魂斗罗3 欧版 无限命无限炸弹.smc",
+            "label": "252 HACK 魂斗罗3 欧版 无限命无限炸弹",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/253 HACK 火箭骑士.smc",
+            "label": "253 HACK 火箭骑士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/254 HACK 机械战警对终结者 命数体力增加.sfc",
+            "label": "254 HACK 机械战警对终结者 命数体力增加",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/255 HACK 快打刑事 乱 无敌.smc",
+            "label": "255 HACK 快打刑事 乱 无敌",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/256 HACK 快打旋风1 无限命.smc",
+            "label": "256 HACK 快打旋风1 无限命",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/257 HACK 快打旋风2 无限人数.smc",
+            "label": "257 HACK 快打旋风2 无限人数",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/258 HACK 快打旋风3终极版.smc",
+            "label": "258 HACK 快打旋风3终极版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/259 HACK 雷霆英豪 无限命人八种武器无限子弹.sfc",
+            "label": "259 HACK 雷霆英豪 无限命人八种武器无限子弹",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/260 HACK 洛克人 X3 无限人.smc",
+            "label": "260 HACK 洛克人 X3 无限人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/261 HACK 洛克人X 初始拥有全武器版 .smc",
+            "label": "261 HACK 洛克人X 初始拥有全武器版 ",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/262 HACK 洛克人X2 不减血.smc",
+            "label": "262 HACK 洛克人X2 不减血",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/263 HACK 洛克人和佛罗迪.sfc",
+            "label": "263 HACK 洛克人和佛罗迪",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/264 HACK 玛莉明星合集无敌无限人.smc",
+            "label": "264 HACK 玛莉明星合集无敌无限人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/265 HACK 蚂蚁战士 无限血，命，子弹，法宝.smc",
+            "label": "265 HACK 蚂蚁战士 无限血，命，子弹，法宝",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/266 HACK 美国上尉 无限血，命.sfc",
+            "label": "266 HACK 美国上尉 无限血，命",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/267 HACK 美食战队 蔷薇野郎血不减(怕电灯人)敌一击死.smc",
+            "label": "267 HACK 美食战队 蔷薇野郎血不减(怕电灯人)敌一击死",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/268 HACK 棉花魔女 人法力不減.smc",
+            "label": "268 HACK 棉花魔女 人法力不減",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/269 HACK 名将 无限人.smc",
+            "label": "269 HACK 名将 无限人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/270 HACK 魔法大进击 无敌.smc",
+            "label": "270 HACK 魔法大进击 无敌",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/271 HACK 魔法提琴手 无敌版.smc",
+            "label": "271 HACK 魔法提琴手 无敌版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/272 HACK 魔兽王 无限血，命.sfc",
+            "label": "272 HACK 魔兽王 无限血，命",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/273 HACK 南国少年 氣功人不減.smc",
+            "label": "273 HACK 南国少年 氣功人不減",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/274 HACK 庞克勇士 无限人.sfc",
+            "label": "274 HACK 庞克勇士 无限人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/275 HACK 奇奇怪界1 无敌无限保护护身符超常时间.smc",
+            "label": "275 HACK 奇奇怪界1 无敌无限保护护身符超常时间",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/276 HACK 奇奇怪界2 无限命骑狮子无限命版.smc",
+            "label": "276 HACK 奇奇怪界2 无限命骑狮子无限命版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/277 HACK 热血硬派.smc",
+            "label": "277 HACK 热血硬派",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/278 HACK 忍者神龟4 命无限.smc",
+            "label": "278 HACK 忍者神龟4 命无限",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/279 HACK 忍者战士牙 无敌版.smc",
+            "label": "279 HACK 忍者战士牙 无敌版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/280 HACK 上海3  无限时.smc",
+            "label": "280 HACK 上海3  无限时",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/281 HACK 太空战斗机 无限人数.SFC",
+            "label": "281 HACK 太空战斗机 无限人数",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/282 HACK 武装部队 无限人.smc",
+            "label": "282 HACK 武装部队 无限人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/283 HACK 消防员.smc",
+            "label": "283 HACK 消防员",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/284 HACK 音速超人2.smc",
+            "label": "284 HACK 音速超人2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/285 HACK 银河风暴 命不减.sfc",
+            "label": "285 HACK 银河风暴 命不减",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/286 HACK 圆桌武士 无限人.smc",
+            "label": "286 HACK 圆桌武士 无限人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/287 HACK 战斗原始人2 无限人.sfc",
+            "label": "287 HACK 战斗原始人2 无限人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/288 HACK 战斗原始人3 无限命血.sfc",
+            "label": "288 HACK 战斗原始人3 无限命血",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/289 HACK 战斧黑水海盗 无限命.sfc",
+            "label": "289 HACK 战斧黑水海盗 无限命",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/290 HACK 战国传承1 接关次数无限.smc",
+            "label": "290 HACK 战国传承1 接关次数无限",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/291 RPG 暗龙传说.sfc",
+            "label": "291 RPG 暗龙传说",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/292 RPG 财宝猎人G 中文版.smc",
+            "label": "292 RPG 财宝猎人G 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/293 RPG 超级中国人世界.sfc",
+            "label": "293 RPG 超级中国人世界",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/294 RPG 超级中国人世界2.smc",
+            "label": "294 RPG 超级中国人世界2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/295 RPG 超时空之轮 中文版.SMC",
+            "label": "295 RPG 超时空之轮 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/296 RPG 创世封魔录.smc",
+            "label": "296 RPG 创世封魔录",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/297 RPG 第3次超级机器人大战 中文版.SMC",
+            "label": "297 RPG 第3次超级机器人大战 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/298 RPG 第4次超级机器人大战 选单汉化.SMC",
+            "label": "298 RPG 第4次超级机器人大战 选单汉化",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/299 RPG 风来之西林2 中文版.SMC",
+            "label": "299 RPG 风来之西林2 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/300 RPG 风水回廊记.sfc",
+            "label": "300 RPG 风水回廊记",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/301 RPG 盖亚幻想纪 中文版.SMC",
+            "label": "301 RPG 盖亚幻想记 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/302 RPG 歌舞妓洛克斯.smc",
+            "label": "302 RPG 歌舞妓洛克斯",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/303 RPG 黑暗法令.smc",
+            "label": "303 RPG 黑暗法令",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/304 RPG 横山光辉三国誌 中文版.SMC",
+            "label": "304 RPG 横山光辉三国誌 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/305 RPG 幻想传说.smc",
+            "label": "305 RPG 幻想传说",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/306 RPG 皇家骑士团 中文版.sfc",
+            "label": "306 RPG 皇家骑士团 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/307 RPG 皇家骑士团2 中文版.SMC",
+            "label": "307 RPG 皇家骑士团2 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/308 RPG 毁灭武器.sfc",
+            "label": "308 RPG 毁灭武器",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/309 RPG 火炎纹章-纹章之迷 中文版.SMC",
+            "label": "309 RPG 火炎纹章-纹章之迷 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/310 RPG 火焰之纹章 多拉基亚776.smc",
+            "label": "310 RPG 火焰之纹章 多拉基亚776",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/311 RPG 火焰之纹章4 圣战系谱 中文版.SMC",
+            "label": "311 RPG 火焰之纹章4 圣战系谱 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/312 RPG 机甲争霸 3050.sfc",
+            "label": "312 RPG 机甲争霸 3050",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/313 RPG 剑王之王1.smc",
+            "label": "313 RPG 剑王之王1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/314 RPG 剑王之王2.smc",
+            "label": "314 RPG 剑王之王2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/315 RPG 浪漫沙加2.smc",
+            "label": "315 RPG 浪漫沙加2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/316 RPG 浪漫沙加3 中文版.smc",
+            "label": "316 RPG 浪漫沙加3 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/317 RPG 龙骑士4.smc",
+            "label": "317 RPG 龙骑士4",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/318 RPG 龙战士1.smc",
+            "label": "318 RPG 龙战士1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/319 RPG 龙战士2 火焰之气息.smc",
+            "label": "319 RPG 龙战士2 火焰之气息",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/320 RPG 梦幻模拟战 中文版.sfc",
+            "label": "320 RPG 梦幻模拟战 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/321 RPG 幕末降临时.smc",
+            "label": "321 RPG 幕末降临时",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/322 RPG 前线任务 外传 枪之危机.sfc",
+            "label": "322 RPG 前线任务 外传 枪之危机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/323 RPG 前线任务 中文版.SMC",
+            "label": "323 RPG 前线任务 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/324 RPG 青龙传.SMC",
+            "label": "324 RPG 青龙传",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/325 RPG 塞尔达传说 中文版.smc",
+            "label": "325 RPG 塞尔达传说 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/326 RPG 三国英杰传 中文版.SMC",
+            "label": "326 RPG 三国英杰传 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/327 RPG 圣剑传说2.smc",
+            "label": "327 RPG 圣剑传说2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/328 RPG 圣剑传说3 中文版.smc",
+            "label": "328 RPG 圣剑传说3 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/329 RPG 圣灵珠传2.sfc",
+            "label": "329 RPG 圣灵珠传2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/330 RPG 四狂神战记2.sfc",
+            "label": "330 RPG 四狂神战记2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/331 RPG 特內鲁克大冒险.sfc",
+            "label": "331 RPG 特內鲁克大冒险",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/332 RPG 天地创造 中文版.SMC",
+            "label": "332 RPG 天地创造 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/333 RPG 天外魔境ZERO简体v1.0.smc",
+            "label": "333 RPG 天外魔境ZERO简体v1.0",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/334 RPG 吞食天地 三国群雄传 中文版.smc",
+            "label": "334 RPG 吞食天地 三国群雄传 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/335 RPG 无人岛物语 中文版.SMC",
+            "label": "335 RPG 无人岛物语 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/336 RPG 星之海洋.smc",
+            "label": "336 RPG 星之海洋",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/337 RPG 伊苏3 中文版.SMC",
+            "label": "337 RPG 伊苏3 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/338 RPG 伊苏4 太阳的假面 中文版.smc",
+            "label": "338 RPG 伊苏4 太阳的假面 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/339 RPG 伊苏5 失落的砂之都凯芬.sfc",
+            "label": "339 RPG 伊苏5 失落的砂之都凯芬",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/340 RPG 银河战国群雄传 中文版.SMC",
+            "label": "340 RPG 银河战国群雄传 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/341 RPG 勇者斗恶龙1+2中文版.SMC",
+            "label": "341 RPG 勇者斗恶龙1+2中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/342 RPG 勇者斗恶龙3 中文版.SMC",
+            "label": "342 RPG 勇者斗恶龙3 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/343 RPG 勇者斗恶龙5.SMC",
+            "label": "343 RPG 勇者斗恶龙5",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/344 RPG 勇者斗恶龙6 中文版.SMC",
+            "label": "344 RPG 勇者斗恶龙6 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/345 RPG 斩3 中文版.SMC",
+            "label": "345 RPG 斩3 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/346 RPG 真圣刻.sfc",
+            "label": "346 RPG 真圣刻",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/347 RPG 智慧王者.smc",
+            "label": "347 RPG 智慧王者",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/348 RPG 最后的圣经3.sfc",
+            "label": "348 RPG 最后的圣经3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/349 RPG 最终幻想5 中文版.SMC",
+            "label": "349 RPG 最终幻想5 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/SFC/350 RPG 最终幻想6 中文版.SMC",
+            "label": "350 RPG 最终幻想6 中文版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "SFC.lpl"
+        }
+    ]
+}

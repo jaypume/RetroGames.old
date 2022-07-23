@@ -1,0 +1,283 @@
+{
+    "version": "1.4",
+    "default_core_path": "",
+    "default_core_name": "",
+    "label_display_mode": 0,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/01 索尼克.32x",
+            "label": "01 索尼克",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/02 立体空战2000.32X",
+            "label": "02 立体空战2000",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/03 蜘蛛侠火网.32x",
+            "label": "03 蜘蛛侠火网",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/04 动物格斗.32x",
+            "label": "04 动物格斗",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/05 VR赛车豪华版.32x",
+            "label": "05 VR赛车豪华版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/06 高尔夫36.32x",
+            "label": "06 高尔夫36",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/07 节拍小子.32x",
+            "label": "07 节拍小子",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/08 蜂鸟.32x",
+            "label": "08 蜂鸟",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/09 拳击争霸.32x",
+            "label": "09 拳击争霸",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/10 棒球俱乐部95.32x",
+            "label": "10 棒球俱乐部95",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/11 冲破火网完全版.32x",
+            "label": "11 冲破火网完全版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/12 BC动物赛车.32x",
+            "label": "12 BC动物赛车",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/13 摩托车越野赛.32x",
+            "label": "13 摩托车越野赛",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/14 真人快打2.32x",
+            "label": "14 真人快打2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/15 恐龙佣兵.32x",
+            "label": "15 恐龙佣兵",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/16 橄榄球俱乐部.32x",
+            "label": "16 橄榄球俱乐部",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/17 玛雅冒险.32x",
+            "label": "17 玛雅冒险",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/18 黑色荆棘.32x",
+            "label": "18 黑色荆棘",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/19 VR战士.32x",
+            "label": "19 VR战士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/20 星球大战.32x",
+            "label": "20 星球大战",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/21 武装鹫狮.32x",
+            "label": "21 武装鹫狮",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/22 毁灭战士.32x",
+            "label": "22 毁灭战士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/23 宇宙昆虫格斗.32x",
+            "label": "23 宇宙昆虫格斗",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/24 合金首领.32x",
+            "label": "24 合金首领",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/25 三国志IV.32x",
+            "label": "25 三国志IV",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/26 太空哈利.32x",
+            "label": "26 太空哈利",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/27 星际迷航.32x",
+            "label": "27 星际迷航",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/28 WWF疯狂摔角.32x",
+            "label": "28 WWF疯狂摔角",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/29 WWF世界摔跤比赛.32x",
+            "label": "29 WWF世界摔跤比赛",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/30 NBA嘉年华锦标赛.32x",
+            "label": "30 NBA嘉年华锦标赛",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/31 FIFA国际足球96.32x",
+            "label": "31 FIFA国际足球96",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/32 空间战机.32x",
+            "label": "32 空间战机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/33 世界职业棒球95.32x",
+            "label": "33 世界职业棒球95",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/Sega - 32X/34 暗影中队.32x",
+            "label": "34 暗影中队",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "Sega - 32X.lpl"
+        }
+    ]
+}

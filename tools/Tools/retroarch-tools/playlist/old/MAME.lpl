@@ -1,0 +1,600 @@
+uma0:/ROM/MAME/001 武装飞鸟 1 [FBA2012]/gunbird.zip
+001 武装飞鸟 1 [FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/002 乔乔的奇妙冒险 [FBA2012]/jojo.zip
+002 乔乔的奇妙冒险 [FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012 
+MAME.lpl
+
+uma0:/ROM/MAME/003 彩京1945 1 [FBA]/s1945.zip
+003 彩京1945 1 [FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/004 彩京1945 2 [FBA2012]/s1945ii.zip
+004 彩京1945 2 [FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/005 1945 3改 [FBA2012]/1945kiii.zip
+005 1945 3改 [FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/006 双截龙 1 [mame2000]/ddragon.zip
+006 双截龙 1 [mame2000]
+app0:/mame2000_libretro.self
+MAME 2000 (0.37b5)
+MAME.lpl
+
+uma0:/ROM/MAME/007 双截龙 2 [mame2000]/ddragon2.zip
+007 双截龙 2 [mame2000]
+app0:/mame2000_libretro.self
+MAME 2000 (0.37b5)
+MAME.lpl
+
+uma0:/ROM/MAME/008 豪血寺一族 1 [FBA2012]/powerins.zip
+008 豪血寺一族 1 [FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/009 豪血寺一族 2 [FBA]/pwrinst2.zip
+009 豪血寺一族 2 [FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/010 豪血寺一族外传 最强传说[FBA2012]/plegends.zip
+010 豪血寺一族外传 最强传说[FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/011 电精 1 [mame2003]/denjinmk.zip
+011 电精 1 [mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/012 电精 2 [FBA2012]/grdians.zip
+012 电精 2 [FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/013 魂斗罗 1 [mame2000]/Contra.zip
+013 魂斗罗 1 [mame2000]
+app0:/mame2000_libretro.self
+MAME 2000 (0.37b5)
+MAME.lpl
+
+uma0:/ROM/MAME/014 魂斗罗 2 [mame2000]/Scontra.zip
+014 魂斗罗 2 [mame2000]
+app0:/mame2000_libretro.self
+MAME 2000 (0.37b5)
+MAME.lpl
+
+uma0:/ROM/MAME/015 异形魂斗罗 [MAME2003]/aliens.zip
+015 异形魂斗罗 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/016 忍者神龟 1 [mame2000]/TMNT.ZIP
+016 忍者神龟 1 [mame2000]
+app0:/mame2000_libretro.self
+MAME 2000 (0.37b5)
+MAME.lpl
+
+uma0:/ROM/MAME/017 忍者神龟 2 [mame2000]/TMNT2.ZIP
+017 忍者神龟 2 [mame2000]
+app0:/mame2000_libretro.self
+MAME 2000 (0.37b5)
+MAME.lpl
+
+uma0:/ROM/MAME/018 雷龙 1 [FBA]/tdragonb.zip
+018 雷龙 1 [FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/019 雷龙 2  [FBA2012]/tdragon2.zip
+019 雷龙 2  [FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/020 雷电 [MAME2003]/raiden.zip
+020 雷电 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/021 天蝉变 [MAME2003]/fantasia.zip
+021 天蝉变 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/022 新 天蝉变 [mame2003]/newfant.zip
+022 新 天蝉变 [mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/023 天蚕变95 [mame2003]/fantsy95.zip
+023 天蚕变95 [mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/024 天蝉变 新幻想曲 [FBA2012]/wownfant.zip
+024 天蝉变 新幻想曲 [FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/025 战火惊魂 1 [MAME2003]/gunforce.zip
+025 战火惊魂 1 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/026 战火惊魂 2 [MAME2003]/gunforc2.zip
+026 战火惊魂 2 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/027 成龙踢馆 1 [mame2003]/kungfum.zip
+027 成龙踢馆 1 [mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/028 成龙踢馆 2 [mame2003]/vigilant.zip
+028 成龙踢馆 2 [mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/029 战斧 1 [MAME2003]/goldnaxe.zip
+029 战斧 1 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/030 战斧 2 [MAME2003]/ga2j.zip
+030 战斧 2 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/031 街头霸王 3.3 [FBA2012]/sfiii3.zip
+031 街头霸王 3.3 [FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/032 64号街区 [FBA]/64streetja.zip
+032 64号街区 [FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/033 双截龙 3 [mame2003]/ddragon3.zip
+033 双截龙 3 [mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/034 宇宙巡航机 1 [MAME2000]/vulcan.zip
+034 宇宙巡航机 1 [MAME2000]
+app0:/mame2000_libretro.self
+MAME 2000 (0.37b5)
+MAME.lpl
+
+uma0:/ROM/MAME/035 怒首领蜂 1 [FBA2012]/ddonpach.zip
+035 怒首领蜂 1 [FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/036 九反威龙 2  [FBA2012]/vendettaj.zip
+036 九反威龙 2  [FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/037 疯狂抢手 [FBA2012]/batsugun.zip
+037 疯狂抢手 [FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/038 脱狱 [mame2000]/pow.zip
+038 脱狱 [mame2000]
+app0:/mame2000_libretro.self
+MAME 2000 (0.37b5)
+MAME.lpl
+
+uma0:/ROM/MAME/039 功夫 [MAME2003]/yiear.zip
+039 功夫 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/040 原始岛(世界版) [MAME2000]/Prehisle.zip
+040 原始岛(世界版) [MAME2000]
+app0:/mame2000_libretro.self
+MAME 2000 (0.37b5)
+MAME.lpl
+
+uma0:/ROM/MAME/041 沉默之龙 [mame2003]/silentd.zip
+041 沉默之龙 [mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/042 牢门山物语[MAME2003]/guwange.zip
+042 牢门山物语[MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/043 铁钩船长[MAME2003]/hook.zip
+043 铁钩船长[MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/044 宇宙巡航机 [mame2003]/nemesis.zip
+044 宇宙巡航机 [mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/045 斗神光辉 [MAME2003]/karatblz.zip
+045 斗神光辉 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/046 特殊战队UAG日版 [FBA]/tndrcadej.zip
+046 特殊战队UAG日版 [FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/047 丝路传说 [MAME2003]/silkroad.zip
+047 丝路传说 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/048 西部牛仔 [mame2003]/ssriders.zip
+048 西部牛仔 [mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/049 最后忍道 [MAME2003]/nspirit.zip
+049 最后忍道 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/050 中东战争 [MAME2000]/silkworm.zip
+050 中东战争 [MAME2000]
+app0:/mame2000_libretro.self
+MAME 2000 (0.37b5)
+MAME.lpl
+
+uma0:/ROM/MAME/051 战斗原始人 [MAME2000]/cninja.zip
+051 战斗原始人 [MAME2000]
+app0:/mame2000_libretro.self
+MAME 2000 (0.37b5)
+MAME.lpl
+
+uma0:/ROM/MAME/052 地狱小和尚 [MAME2003]/bonzeadv.zip
+052 地狱小和尚 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/053 荒野大镖客美版[FBA]/gunsmokeua.zip
+053 荒野大镖客美版[FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/054 雷射战机 [FBA核心]/dogyuun.zip
+054 雷射战机 [FBA核心]
+app0:/fbalpha_libretro.self
+FB Alpha 
+MAME.lpl
+
+uma0:/ROM/MAME/055 宇宙巡航机3 [mame2003]/gradius3.zip
+055 宇宙巡航机3 [mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/056 雷鸟之翼 [MAME03]/gigawing.zip
+056 雷鸟之翼 [MAME03]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/057 海底大战争 [MAME2003]/inthunt.zip
+057 海底大战争 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/058 变身忍者 [MAME2003]/shadfrce.zip
+058 变身忍者 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/059 雪人兄弟3 [FBA]/snowbro3.zip
+059 雪人兄弟3 [FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/060 高卢奇兵 [MAME2003]/asterix.zip
+060 高卢奇兵 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/061 美少女战士 [FBA2012]/sailormn.zip
+061 美少女战士 [FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/062 机甲部队 [FBA]/roboarma.zip
+062 机甲部队 [FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/063 麒麟OS战警 [FBA2012]/osman.zip
+063 麒麟OS战警 [FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/064 超级火力 [FBA]/turbofrcu.zip
+064 超级火力 [FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/065 大力工头 [MAME2000]/HHARRY.ZIP
+065 大力工头 [MAME2000]
+app0:/mame2000_libretro.self
+MAME 2000 (0.37b5)
+MAME.lpl
+
+uma0:/ROM/MAME/066 吸尘器 [MAME2003]/tumblep.zip
+066 吸尘器 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/067 忍者棒球 [MAME2003]/nbbatman.zip
+067 忍者棒球 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/068 民国教育委员会 [MAME2003]/quizchql.zip
+068 民国教育委员会 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/069 刀锋领主 [MAME2003]/bmaster.zip
+069 刀锋领主 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/070 暴风战机 [FBA2012]/vfive.zip
+070 暴风战机 [FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/071 怒之忍者日版 [FBA]/mystwarrj.zip
+071 怒之忍者日版 [FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/072 秘密警察 [MAME2003]/uccops.zip
+072 秘密警察 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/073 中华大仙 [mame2003]/chukatai.zip
+073 中华大仙 [mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/074 街头格斗 [MAME2000]/tturf.zip
+074 街头格斗 [MAME2000]
+app0:/mame2000_libretro.self
+MAME 2000 (0.37b5)
+MAME.lpl
+
+uma0:/ROM/MAME/075 忍者蛙 [MAME2003]/btoads.zip
+075 忍者蛙 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/076 七龙珠 [MAME2003]/dbz2.zip
+076 七龙珠 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/077 X 战警  [mame2003]/xmen.zip
+077 X 战警  [mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/078 彩京战国 [MAME2003]/sngkace.zip
+078 彩京战国 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/079 石破天惊[FBA2012]/agallet.zip
+079 石破天惊[FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/080 长空超少年[FBA2012]/esprade.zip
+080 长空超少年[FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/081 征战者[FBA2012]/gaia.zip
+081 征战者[FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/082 龙之忍者 [MAME2003]/baddudes.zip
+082 龙之忍者 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/083 精英忍者[FBA2012]/metmqstr.zip
+083 精英忍者[FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/084 小猫钓鱼[FBA2012]/uopoko.zip
+084 小猫钓鱼[FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/085 希特勒复活[FBA]/bionicc.zip
+085 希特勒复活[FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/086 糊涂忍者[FBA2012]/charlien.zip
+086 糊涂忍者[FBA2012]
+app0:/fbalpha2012_libretro.self
+FB Alpha 2012
+MAME.lpl
+
+uma0:/ROM/MAME/087 出发兵蜂[MAME2003]/blswhstl.zip
+087 出发兵蜂[MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/088 徐徐大作战[mame2003]/bishi.zip
+088 徐徐大作战[mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/089 鹦鹉历险记 [FBA]/jjsquawk.zip
+089 鹦鹉历险记 [FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/090 赤色要塞 [mame2003]/jackal.zip
+090 赤色要塞 [mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/091 影子传说 [MAME2003]/lkage.zip
+091 影子传说 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/092 暴力风暴 [mame03]/viostorm.zip
+092 暴力风暴 [mame03]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/093 森林保护神 [mame2003]/growl.zip
+093 森林保护神 [mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/094 越战1975 [mame2003]/nam1975.zip
+094 越战1975 [mame2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+
+uma0:/ROM/MAME/095 宇宙野兔日版 [FBA]/buckyjaa.zip
+095 宇宙野兔日版 [FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/096 古巴战士 [mame2000]/gwarj.zip
+096 古巴战士 [mame2000]
+app0:/mame2000_libretro.self
+MAME 2000 (0.37b5)
+MAME.lpl
+
+uma0:/ROM/MAME/097 变形战士[FBA]/metamrpha.zip
+097 变形战士[FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/098 银色千年 [FBA]/silvmil.zip
+098 银色千年 [FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/099 蝙蝠骑警香港版 [FBA]/batriderhk.zip
+099 蝙蝠骑警香港版 [FBA]
+app0:/fbalpha_libretro.self
+FB Alpha
+MAME.lpl
+
+uma0:/ROM/MAME/100 剑豪 [MAME2003]/kengo.zip
+100 剑豪 [MAME2003]
+app0:/mame2003_libretro.self
+MAME 2003 (0.78)
+MAME.lpl
+

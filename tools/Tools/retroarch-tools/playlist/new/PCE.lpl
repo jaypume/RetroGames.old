@@ -1,0 +1,2099 @@
+{
+    "version": "1.4",
+    "default_core_path": "",
+    "default_core_name": "",
+    "label_display_mode": 0,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/001 最终战机.pce",
+            "label": "001 最终战机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/002 1943改.pce",
+            "label": "002 1943改",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/003 F1大赛车.pce",
+            "label": "003 F1大赛车",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/004 F1驾驶员-王中之王.pce",
+            "label": "004 F1驾驶员-王中之王",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/005 F1竞技场.pce",
+            "label": "005 F1竞技场",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/006 F1竞技场91 世界锦标赛.pce",
+            "label": "006 F1竞技场91 世界锦标赛",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/007 F1竞技场92 音速.pce",
+            "label": "007 F1竞技场92 音速",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/008 F1之梦.pce",
+            "label": "008 F1之梦",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/009 F武装战机.pce",
+            "label": "009 F武装战机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/010 Gunhed.pce",
+            "label": "010 Gunhed",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/011 J联盟伟大11人.pce",
+            "label": "011 J联盟伟大11人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/012 Naxat棒球.pce",
+            "label": "012 Naxat棒球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/013 Naxat高尔夫公开赛.pce",
+            "label": "013 Naxat高尔夫公开赛",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/014 P47 自由战士.pce",
+            "label": "014 P47 自由战士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/015 PC电人.pce",
+            "label": "015 PC电人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/016 PC原人.pce",
+            "label": "016 PC原人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/017 PC原人2.pce",
+            "label": "017 PC原人2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/018 PC原人3.pce",
+            "label": "018 PC原人3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/019 Q版沙罗曼蛇.pce",
+            "label": "019 Q版沙罗曼蛇",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/020 ROCK ON.pce",
+            "label": "020 ROCK ON",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/021 Spin Pair.pce",
+            "label": "021 Spin Pair",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/022 艾吉娜.pce",
+            "label": "022 艾吉娜",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/023 爱丽丝冒险世界.pce",
+            "label": "023 爱丽丝冒险世界",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/024 爱丽丝梦游仙境.pce",
+            "label": "024 爱丽丝梦游仙境",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/025 暗黑传说.pce",
+            "label": "025 暗黑传说",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/026 暗夜生物.pce",
+            "label": "026 暗夜生物",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/027 柏青夫君 十番胜负.pce",
+            "label": "027 柏青夫君 十番胜负",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/028 宝伦大作战.pce",
+            "label": "028 宝伦大作战",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/029 宝石方块.pce",
+            "label": "029 宝石方块",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/030 暴力冰上曲棍球.pce",
+            "label": "030 暴力冰上曲棍球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/031 爆笑人.pce",
+            "label": "031 爆笑人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/032 蝙蝠侠.pce",
+            "label": "032 蝙蝠侠",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/033 弁庆外传.pce",
+            "label": "033 弁庆外传",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/034 兵峰.pce",
+            "label": "034 兵峰",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/035 彩虹岛2 遮阳伞之星.pce",
+            "label": "035 彩虹岛2 遮阳伞之星",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/036 场式足球.pce",
+            "label": "036 场式足球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/037 超级棒球联盟.pce",
+            "label": "037 超级棒球联盟",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/038 超级棒球联盟2.pce",
+            "label": "038 超级棒球联盟2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/039 超级棒球联盟3.pce",
+            "label": "039 超级棒球联盟3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/040 超级棒球联盟4.pce",
+            "label": "040 超级棒球联盟4",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/041 超级棒球联盟5.pce",
+            "label": "041 超级棒球联盟5",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/042 超级棒球联盟93.pce",
+            "label": "042 超级棒球联盟93",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/043 超级高尔夫.pce",
+            "label": "043 超级高尔夫",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/044 超级金属杀手.pce",
+            "label": "044 超级金属杀手",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/045 超级排球.pce",
+            "label": "045 超级排球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/046 超级赛车.pce",
+            "label": "046 超级赛车",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/047 超级桃太郎电铁.pce",
+            "label": "047 超级桃太郎电铁",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/048 超级桃太郎电铁2.pce",
+            "label": "048 超级桃太郎电铁2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/049 超级铁板阵.pce",
+            "label": "049 超级铁板阵",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/050 超级网球.pce",
+            "label": "050 超级网球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/051 超级星际战士.pce",
+            "label": "051 超级星际战士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/052 超级运动员.pce",
+            "label": "052 超级运动员",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/053 超级足球.pce",
+            "label": "053 超级足球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/054 超绝伦人.pce",
+            "label": "054 超绝伦人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/055 超空战机.pce",
+            "label": "055 超空战机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/056 成龙之龙.pce",
+            "label": "056 成龙之龙",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/057 城市猎人.pce",
+            "label": "057 城市猎人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/058 吃豆人.pce",
+            "label": "058 吃豆人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/059 冲破火网2.pce",
+            "label": "059 冲破火网2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/060 吹波糖危机.pce",
+            "label": "060 吹波糖危机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/061 槌球大赛.pce",
+            "label": "061 槌球大赛",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/062 打水果.pce",
+            "label": "062 打水果",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/063 大地文章.pce",
+            "label": "063 大地文章",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/064 最后的忍道.pce",
+            "label": "064 最后的忍道",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/065 大相扑 平成版.pce",
+            "label": "065 大相扑 平成版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/066 大旋风.pce",
+            "label": "066 大旋风",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/067 地底の大魔宫.pce",
+            "label": "067 地底の大魔宫",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/068 地狱之旅.pce",
+            "label": "068 地狱之旅",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/069 定吉七番.pce",
+            "label": "069 定吉七番",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/070 动物金头脑.pce",
+            "label": "070 动物金头脑",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/071 都市计划.pce",
+            "label": "071 都市计划",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/072 哆啦A梦 阿拉伯之夜.pce",
+            "label": "072 哆啦A梦 阿拉伯之夜",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/073 哆啦A梦 迷宫大作战.pce",
+            "label": "073 哆啦A梦 迷宫大作战",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/074 恶魔传.pce",
+            "label": "074 恶魔传",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/075 飞装骑兵.pce",
+            "label": "075 飞装骑兵",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/076 疯狂前进.pce",
+            "label": "076 疯狂前进",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/077 疯狂赛车.pce",
+            "label": "077 疯狂赛车",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/078 疯狂摔角.pce",
+            "label": "078 疯狂摔角",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/079 凤凰战机.pce",
+            "label": "079 凤凰战机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/080 改造超人.pce",
+            "label": "080 改造超人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/081 改造超人2.pce",
+            "label": "081 改造超人2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/082 高尔夫少年.pce",
+            "label": "082 高尔夫少年",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/083 功夫.pce",
+            "label": "083 功夫",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/084 怪兽摔角.pce",
+            "label": "084 怪兽摔角",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/085 关原之役.pce",
+            "label": "085 关原之役",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/086 鬼屋.pce",
+            "label": "086 鬼屋",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/087 海底神话.pce",
+            "label": "087 海底神话",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/088 核心战机.pce",
+            "label": "088 核心战机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/089 亨利先生的大冒险.pce",
+            "label": "089 亨利先生的大冒险",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/090 虎之道.pce",
+            "label": "090 虎之道",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/091 花式撞球.pce",
+            "label": "091 花式撞球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/092 花札爱好者俱乐部.pce",
+            "label": "092 花札爱好者俱乐部",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/093 化妆舞会之谜.pce",
+            "label": "093 化妆舞会之谜",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/094 幻想空间.pce",
+            "label": "094 幻想空间",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/095 幻影战机.pce",
+            "label": "095 幻影战机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/096 幻之大地.pce",
+            "label": "096 幻之大地",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/097 追踪刑警.pce",
+            "label": "097 追踪刑警",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/098 机动劲旅.pce",
+            "label": "098 机动劲旅",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/099 逐电屋藤兵卫.pce",
+            "label": "099 逐电屋藤兵卫",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/100 机器人躲避球.pce",
+            "label": "100 机器人躲避球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/101 激烈战斗.pce",
+            "label": "101 激烈战斗",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/102 极乐中华大仙.pce",
+            "label": "102 极乐中华大仙",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/103 将棋 初段一直线.pce",
+            "label": "103 将棋 初段一直线",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/104 将棋 初段者无用.pce",
+            "label": "104 将棋 初段者无用",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/105 街头霸王2 冠军版.pce",
+            "label": "105 街头霸王2 冠军版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/106 结构足球 休曼杯90.pce",
+            "label": "106 结构足球 休曼杯90",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/107 究极虎.pce",
+            "label": "107 究极虎",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/108 绝对合体.pce",
+            "label": "108 绝对合体",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/109 卡达叙传说.pce",
+            "label": "109 卡达叙传说",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/110 开心苹果棋.pce",
+            "label": "110 开心苹果棋",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/111 终级网球.pce",
+            "label": "111 终极网球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/112 终级赛车.pce",
+            "label": "112 终级赛车",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/113 恐龙女战士.pce",
+            "label": "113 恐龙女战士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/114 终级警探.pce",
+            "label": "114 终级警探",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/115 雷电.pce",
+            "label": "115 雷电",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/116 连锁方块.pce",
+            "label": "116 连锁方块",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/117 琉球.pce",
+            "label": "117 琉球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/118 龙宝宝.pce",
+            "label": "118 龙宝宝",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/119 龙魂.pce",
+            "label": "119 龙魂",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/120 龙之刃.pce",
+            "label": "120 龙之刃",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/121 龙之子.pce",
+            "label": "121 龙之子",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/122 罗比.pce",
+            "label": "122 罗比",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/123 旅馆王.pce",
+            "label": "123 旅馆王",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/124 麻将霸王传.pce",
+            "label": "124 麻将霸王传",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/125 麻将刺客列传 麻雀战争.pce",
+            "label": "125 麻将刺客列传 麻雀战争",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/126 麻将悟空特别版.pce",
+            "label": "126 麻将悟空特别版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/127 麻将学院 东间宗四郎登场 温和版.pce",
+            "label": "127 麻将学院 东间宗四郎登场 温和版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/128 麻将学院 东间宗四郎登场 限制版.pce",
+            "label": "128 麻将学院 东间宗四郎登场 限制版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/129 马桶小子.pce",
+            "label": "129 马桶小子",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/130 毛毛虫.pce",
+            "label": "130 毛毛虫",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/131 毛球历险记.pce",
+            "label": "131 毛球历险记",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/132 冒险岛.pce",
+            "label": "132 冒险岛",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/133 冒险男爵.pce",
+            "label": "133 冒险男爵",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/134 帽子方块.pce",
+            "label": "134 帽子方块",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/135 美国职业篮球.pce",
+            "label": "135 美国职业篮球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/136 美女外传2.pce",
+            "label": "136 美女外传2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/137 战国麻雀.pce",
+            "label": "137 战国麻雀",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/138 真实拳击.pce",
+            "label": "138 真实拳击",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/139 迷宫塔.pce",
+            "label": "139 迷宫塔",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/140 迷魂方块.pce",
+            "label": "140 迷魂方块",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/141 迷魂阵.pce",
+            "label": "141 迷魂阵",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/142 明日之星摔角.pce",
+            "label": "142 明日之星摔角",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/143 摩托车大赛.pce",
+            "label": "143 摩托车大赛",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/144 战士之刃.pce",
+            "label": "144 战士之刃",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/145 魔洞战记.pce",
+            "label": "145 魔洞战记",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/146 宇宙达人.pce",
+            "label": "146 宇宙达人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/147 魔幻弹珠台.pce",
+            "label": "147 魔幻弹珠台",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/148 魔界八犬传.pce",
+            "label": "148 魔界八犬传",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/149 魔界王子.pce",
+            "label": "149 魔界王子",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/150 魔境传说.pce",
+            "label": "150 魔境传说",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/151 魔神英雄传.pce",
+            "label": "151 魔神英雄传",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/152 木匠兄弟.pce",
+            "label": "152 木匠兄弟",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/153 男人世界.pce",
+            "label": "153 男人世界",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/154 尼克罗斯要塞.pce",
+            "label": "154 尼克罗斯要塞",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/155 逆袭2.pce",
+            "label": "155 逆袭2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/156 幽魂领地.pce",
+            "label": "156 幽魂领地",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/157 女人快打2.pce",
+            "label": "157 女人快打2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/158 女武士传说.pce",
+            "label": "158 女武士传说",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/159 欧坦救美.pce",
+            "label": "159 欧坦救美",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/160 战斗直升机.pce",
+            "label": "160 战斗直升机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/161 战斗淘金者.pce",
+            "label": "161 战斗淘金者",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/162 霹雳游侠.pce",
+            "label": "162 霹雳游侠",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/163 凄狂传说.pce",
+            "label": "163 凄狂传说",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/164 奇奇怪界.pce",
+            "label": "164 奇奇怪界",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/165 青驴神话.pce",
+            "label": "165 青驴神话",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/166 拳王争霸.pce",
+            "label": "166 拳王争霸",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/167 燃烧天使.pce",
+            "label": "167 燃烧天使",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/168 热血高校躲避球部 PC番外篇.pce",
+            "label": "168 热血高校躲避球部 PC番外篇",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/169 热血高校躲避球部 PC足球篇.pce",
+            "label": "169 热血高校躲避球部 PC足球篇",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/170 热血摔角.pce",
+            "label": "170 热血摔角",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/171 热血摔角2.pce",
+            "label": "171 热血摔角2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/172 热血摔角3.pce",
+            "label": "172 热血摔角3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/173 忍.pce",
+            "label": "173 忍",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/174 忍者龙剑传.pce",
+            "label": "174 忍者龙剑传",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/175 忍者战士.pce",
+            "label": "175 忍者战士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/176 森田将棋.pce",
+            "label": "176 森田将棋",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/177 沙罗曼蛇.pce",
+            "label": "177 沙罗曼蛇",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/178 闪灵悍将.pce",
+            "label": "178 闪灵悍将",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/179 上海.pce",
+            "label": "179 上海",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/180 少爷冒险.pce",
+            "label": "180 少爷冒险",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/181 射击天狗.pce",
+            "label": "181 射击天狗",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/182 神剑传说2.pce",
+            "label": "182 神剑传说2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/183 神奇女孩.pce",
+            "label": "183 神奇女孩",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/184 神武传承.pce",
+            "label": "184 神武传承",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/185 胜利高尔夫.pce",
+            "label": "185 胜利高尔夫",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/186 胜利赛车.pce",
+            "label": "186 胜利赛车",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/187 世界棒球.pce",
+            "label": "187 世界棒球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/188 世界棒球91.pce",
+            "label": "188 世界棒球91",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/189 世界冒险记.pce",
+            "label": "189 世界冒险记",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/190 世界冒险记2.pce",
+            "label": "190 世界冒险记2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/191 世界赛马.pce",
+            "label": "191 世界赛马",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/192 世界沙滩排球.pce",
+            "label": "192 世界沙滩排球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/193 世界网球.pce",
+            "label": "193 世界网球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/194 兽王记.pce",
+            "label": "194 兽王记",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/195 树熊历险记.pce",
+            "label": "195 树熊历险记",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/196 水果机.pce",
+            "label": "196 水果机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/197 死灵战线.pce",
+            "label": "197 死灵战线",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/198 死亡之月.pce",
+            "label": "198 死亡之月",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/199 送货小子.pce",
+            "label": "199 送货小子",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/200 所罗门之钥.pce",
+            "label": "200 所罗门之钥",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/201 太极球.pce",
+            "label": "201 太极球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/202 太空哈利.pce",
+            "label": "202 太空哈利",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/203 太空模拟战.pce",
+            "label": "203 太空模拟战",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/204 太空侵略者 复活之日.pce",
+            "label": "204 太空侵略者 复活之日",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/205 太空兔罗比特别版.pce",
+            "label": "205 太空兔罗比特别版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/206 太空战斗机Plus.pce",
+            "label": "206 太空战斗机Plus",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/207 太空战机Alpha.pce",
+            "label": "207 太空战机Alpha",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/208 太平记.pce",
+            "label": "208 太平记",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/209 战斗躲避球.pce",
+            "label": "209 战斗躲避球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/210 泰坦球.pce",
+            "label": "210 泰坦球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/211 原子机械童.pce",
+            "label": "211 原子机械童",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/212 桃太郎传说 加强版.pce",
+            "label": "212 桃太郎传说 加强版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/213 桃太郎传说2.pce",
+            "label": "213 桃太郎传说2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/214 桃太郎传说外传.pce",
+            "label": "214 桃太郎传说外传",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/215 桃太郎活剧.pce",
+            "label": "215 桃太郎活剧",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/216 淘金者 迷失迷宫.pce",
+            "label": "216 淘金者 迷失迷宫",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/217 天圣龙.pce",
+            "label": "217 天圣龙",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/218 铁甲威龙.pce",
+            "label": "218 铁甲威龙",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/219 铁甲战车.pce",
+            "label": "219 铁甲战车",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/220 通讯少年.pce",
+            "label": "220 通讯少年",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/221 源平讨魔传.pce",
+            "label": "221 源平讨魔传",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/222 源平讨魔传系列卷二.pce",
+            "label": "222 源平讨魔传系列卷二",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/223 玩具小子.pce",
+            "label": "223 玩具小子",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/224 职业棒球89.pce",
+            "label": "224 职业棒球89",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/225 职业棒球90.pce",
+            "label": "225 职业棒球90",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/226 未来赛车.pce",
+            "label": "226 未来赛车",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/227 未来赛车2.pce",
+            "label": "227 未来赛车2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/228 乌兹冲锋枪.pce",
+            "label": "228 乌兹冲锋枪",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/229 武田信玄.pce",
+            "label": "229 武田信玄",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/230 武裝刑事.pce",
+            "label": "230 武裝刑事",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/231 武裝战斗刑事.pce",
+            "label": "231 武裝战斗刑事",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/232 西游记2.pce",
+            "label": "232 西游记2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/233 下载.pce",
+            "label": "233 下载",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/234 相聚一刻.pce",
+            "label": "234 相聚一刻",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/235 小袋鼠.pce",
+            "label": "235 小袋鼠",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/236 小蜜蜂88.pce",
+            "label": "236 小蜜蜂88",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/237 小魔女.pce",
+            "label": "237 小魔女",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/238 小英雄托马.pce",
+            "label": "238 小英雄托马",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/239 邪圣剑.pce",
+            "label": "239 邪圣剑",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/240 写真问答.pce",
+            "label": "240 写真问答",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/241 写真小子.pce",
+            "label": "241 写真小子",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/242 新冒险岛.pce",
+            "label": "242 新冒险岛",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/243 宇宙巡航机.pce",
+            "label": "243 宇宙巡航机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/244 宇宙双鹰.pce",
+            "label": "244 宇宙双鹰",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/245 新西兰故事.pce",
+            "label": "245 新西兰故事",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/246 旋风任务.pce",
+            "label": "246 旋风任务",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/247 血狼.pce",
+            "label": "247 血狼",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/248 炎之大地.pce",
+            "label": "248 炎之大地",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/249 炎之斗球儿 躲避球弹平.pce",
+            "label": "249 炎之斗球儿 躲避球弹平",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/250 妖怪道中记.pce",
+            "label": "250 妖怪道中记",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/251 妖魔传.pce",
+            "label": "251 妖魔传",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/252 义警.pce",
+            "label": "252 义警",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/253 异次元战机.pce",
+            "label": "253 异次元战机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/254 异形弹珠台.pce",
+            "label": "254 异形弹珠台",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/255 异形战机 I.pce",
+            "label": "255 异形战机 I",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/256 异形战机 II.pce",
+            "label": "256 异形战机 II",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/257 宇宙警备队.pce",
+            "label": "257 宇宙警备队",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/258 游戏人生.pce",
+            "label": "258 游戏人生",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/259 炸弹人.pce",
+            "label": "259 炸弹人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/260 炸弹人93.pce",
+            "label": "260 炸弹人93",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/PCE卡带/261 炸弹人94.pce",
+            "label": "261 炸弹人94",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "PCE.lpl"
+        }
+    ]
+}

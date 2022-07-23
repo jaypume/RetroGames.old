@@ -1,0 +1,347 @@
+{
+    "version": "1.4",
+    "default_core_path": "",
+    "default_core_name": "",
+    "label_display_mode": 0,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/01 SNK对Capcom - 千禧之战 (简).ngc",
+            "label": "01 SNK对Capcom - 千禧之战 (简)",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/02 Capcom Vs SNK卡片战士.ngc",
+            "label": "02 Capcom Vs SNK卡片战士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/03 NEO世界杯98彩色版.ngc",
+            "label": "03 NEO世界杯98彩色版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/04 NIGE-RON-PA.ngc",
+            "label": "04 NIGE-RON-PA",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/05 SNK Vs. Capcom卡片战士.ngc",
+            "label": "05 SNK Vs. Capcom卡片战士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/06 SNK对卡普空-卡片战士二代-加强版.ngc",
+            "label": "06 SNK对卡普空-卡片战士二代-加强版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/07 棒球之星.ngc",
+            "label": "07 棒球之星",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/08 吃豆人.ngc",
+            "label": "08 吃豆人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/09 超写真麻将.ngc",
+            "label": "09 超写真麻将",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/10 纯真回忆.ngc",
+            "label": "10 纯真回忆",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/11 大联盟高尔夫球.ngc",
+            "label": "11 大联盟高尔夫球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/12 饿狼传说-初次接触.ngc",
+            "label": "12 饿狼传说-初次接触",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/13 大霹雳职业摔跤.ngc",
+            "label": "13 大霹雳职业摔跤",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/14 法赛雷.ngc",
+            "label": "14 法赛雷",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/15 格斗之王R2.ngc",
+            "label": "15 格斗之王R2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/16 合金弹头1.ngc",
+            "label": "16 合金弹头1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/17 合金弹头2.ngc",
+            "label": "17 合金弹头2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/18 黑暗兵器.ngc",
+            "label": "18 黑暗兵器",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/19 机甲世纪.ngc",
+            "label": "19 机甲世纪",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/20 口袋黑白棋.ngc",
+            "label": "20 口袋黑白棋",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/21 口袋酷滑板.ngc",
+            "label": "21 口袋酷滑板",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/22 口袋网球.ngc",
+            "label": "22 口袋网球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/23 口袋魔法气泡.ngc",
+            "label": "23 口袋魔法气泡",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/24 洛克人格斗.ngc",
+            "label": "24 洛克人格斗",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/25 麻将.ngc",
+            "label": "25 麻将",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/26 魔法气泡大会战.ngc",
+            "label": "26 魔法气泡大会战",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/27 棉花小魔女 (J).ngp",
+            "label": "27 棉花小魔女 (J)",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/28 格斗之王R1.ngp",
+            "label": "28 格斗之王R1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/29 泡泡龙方块.ngc",
+            "label": "29 泡泡龙方块",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/30 拳皇少女格斗.ngc",
+            "label": "30 拳皇少女格斗",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/31 上海.ngc",
+            "label": "31 上海",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/32 神机世界.ngc",
+            "label": "32 神机世界",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/33 侍魂2.ngc",
+            "label": "33 侍魂2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/34 索尼克口袋冒险.ngc",
+            "label": "34 索尼克口袋冒险",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/35 顽皮鬼.ngc",
+            "label": "35 顽皮鬼",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/36 挑战!花扎道场.ngc",
+            "label": "36 挑战!花扎道场",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/37 无限的轮回.ngc",
+            "label": "37 无限的轮回",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/38 下潜警报-巴恩篇.ngc",
+            "label": "38 下潜警报-巴恩篇",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/39 下潜警报-吕贝卡篇.ngc",
+            "label": "39 下潜警报-吕贝卡篇",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/40 月华剑士.ngc",
+            "label": "40 月华剑士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/ngp/41 职业棒球.ngc",
+            "label": "41 职业棒球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        },
+        {
+            "path": "",
+            "label": "",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "ngp.lpl"
+        }
+    ]
+}

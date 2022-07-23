@@ -1,0 +1,563 @@
+{
+    "version": "1.4",
+    "default_core_path": "",
+    "default_core_name": "",
+    "label_display_mode": 0,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/kof94.zip",
+            "label": "001 拳皇94",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/kof95.zip",
+            "label": "002 拳皇95",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/kof96.zip",
+            "label": "003 拳皇96",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/kof97.zip",
+            "label": "004 拳皇97",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/kof98.zip",
+            "label": "005 拳皇98",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/kof99.zip",
+            "label": "006 拳皇99",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/kof2000.zip",
+            "label": "007 拳皇2000",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/kof2001.zip",
+            "label": "008 拳皇2001",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/kof2002.zip",
+            "label": "009 拳皇2002",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/合金弹头系列/mslug.zip",
+            "label": "010 合金弹头 1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/合金弹头系列/mslug2.zip",
+            "label": "011 合金弹头 2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/合金弹头系列/mslugx.zip",
+            "label": "012 合金弹头 2X",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/合金弹头系列/mslug3.zip",
+            "label": "013 合金弹头 3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/合金弹头系列/mslug4.zip",
+            "label": "014 合金弹头 4",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/合金弹头系列/mslug5.zip",
+            "label": "015 合金弹头 5",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/侍魂系列/samsho.zip",
+            "label": "016 侍魂 1 十二剑客录",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/侍魂系列/samsho2.zip",
+            "label": "017 侍魂 2 霸王丸地狱变",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/侍魂系列/samsho3.zip",
+            "label": "018 侍魂 3 斩红郎无双剑",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/侍魂系列/samsho4.zip",
+            "label": "019 侍魂 4 天草降临",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/侍魂系列/samsho5.zip",
+            "label": "020 侍魂 5",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/月华剑士系列/lastblad.zip",
+            "label": "021 月华剑士 1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/月华剑士系列/lastbld2.zip",
+            "label": "022 月华剑士 2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/饿狼传说系列/fatfury3.zip",
+            "label": "023 饿狼传说 3 远古征战",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/饿狼传说系列/rbff1.zip",
+            "label": "024 RB饿狼传说 1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/饿狼传说系列/rbff2.zip",
+            "label": "025 RB饿狼传说 2 新的来者",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/饿狼传说系列/rbffspec.zip",
+            "label": "026 RB饿狼传说 特别版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/饿狼传说系列/garou.zip",
+            "label": "027 饿狼传说 狼之印记",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/龙虎拳系列/aof2.zip",
+            "label": "028 龙虎拳 2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/龙虎拳系列/aof3.zip",
+            "label": "029 龙虎拳 3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/风云默示录系列/kizuna.zip",
+            "label": "030 风云默示录 kizuna",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/风云默示录系列/savagere.zip",
+            "label": "031 风云默示录 savagere",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/双截龙格斗/doubledr.zip",
+            "label": "032 双截龙格斗",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/炸弹人/neobombe.zip",
+            "label": "033 炸弹人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/天外魔境真传/kabukikl.zip",
+            "label": "034 天外魔境真传",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/火热火热7/wakuwak7.zip",
+            "label": "035 火热火热7",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/外星游龙/mutnat.zip",
+            "label": "036 外星游龙",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/爆裂者复仇/breakers.zip",
+            "label": "037 爆裂者复仇",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/s1945p/s1945p.zip",
+            "label": "038 s1945p",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/热血快打/burningf.zip",
+            "label": "039 热血快打",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/午夜噩梦/nitd.zip",
+            "label": "040 午夜噩梦",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/原始岛二代/preisle2.zip",
+            "label": "041 原始岛二代",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/顶级猎手/tophuntr.zip",
+            "label": "042 顶级猎手",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/痛快进行曲/aodk.zip",
+            "label": "043 痛快进行曲",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/碰碰球/bangbead.zip",
+            "label": "044 碰碰球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/武藏严流记/ganryu.zip",
+            "label": "045 武藏严流记",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/得点王系列/ssideki3.zip",
+            "label": "046 得点王3代",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/得点王系列/ssideki4.zip",
+            "label": "047 得点王4代",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/敌后奇兵/shocktro.zip",
+            "label": "048 敌后奇兵1",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/敌后奇兵/shocktr2.zip",
+            "label": "049 突围奇兵2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/番茄超人/ctomaday.zip",
+            "label": "050 番茄超人",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/泡泡龙/pbobbl2n.zip",
+            "label": "051 泡泡龙2代",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/忍者指令/ncommand.zip",
+            "label": "052 忍者指令",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/波奇和娜亚/pnyaa.zip",
+            "label": "053 波奇和娜亚",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/终极任务-终极手段/lresort.zip",
+            "label": "054 终极任务-终极手段",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/闪亮之星/blazstar.zip",
+            "label": "055 闪亮之星",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/霸王忍法贴/ninjamas.zip",
+            "label": "056  霸王忍法贴",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/梦幻小妖精/twinspri.zip",
+            "label": "057 梦幻小妖精",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/街头篮球/strhoop.zip",
+            "label": "058 街头篮球",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/战国传承3/sengoku3.zip",
+            "label": "059 战国传承3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/豪血寺一族斗婚/matrim.zip",
+            "label": "060 豪血寺一族斗婚",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/龙吼双截龙 解密版/rotd.zip",
+            "label": "061 龙吼双截龙 解密版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇VS街霸：乱舞千年加强版/svc.zip",
+            "label": "062 拳皇VS街霸：乱舞千年加强版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/kog.zip",
+            "label": "063 拳皇97果体版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/kof97pls.zip",
+            "label": "064 拳皇97加强版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/ct2k3sp.zip",
+            "label": "065 拳皇 卧虎藏龙",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/kf2k5uni.zip",
+            "label": "066 拳皇十周年纪念版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/kf2k2pls.zip",
+            "label": "067 拳皇2002 Plus",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/kf2k3bla.zip",
+            "label": "068 拳皇2003",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/NeoGeo/拳皇系列/kof2k4se.zip",
+            "label": "069 拳皇2004",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "NeoGeo.lpl"
+        }
+    ]
+}

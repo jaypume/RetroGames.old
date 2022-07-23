@@ -1,0 +1,267 @@
+{
+    "version": "1.4",
+    "default_core_path": "",
+    "default_core_name": "",
+    "label_display_mode": 0,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/1941/1941.zip",
+            "label": "1941",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/三个奇迹/3wonders.zip",
+            "label": "三个奇迹",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/三国志2 吞食天地/wofj.zip",
+            "label": "三国志2 吞食天地",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/出击飞龙/strider.zip",
+            "label": "出击飞龙",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/卡普空世界2/cworld2j.zip",
+            "label": "卡普空世界2",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/双麒儿/mtwins.zip",
+            "label": "双麒儿",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/名将/captcomm.zip",
+            "label": "名将",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/吞食天地/dynwar.zip",
+            "label": "吞食天地",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/圆桌骑士/knights.zip",
+            "label": "圆桌骑士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/大魔界村/ghouls.zip",
+            "label": "大魔界村",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/失落的世界/forgottn.zip",
+            "label": "失落的世界",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/威洛之旅/willow.zip",
+            "label": "威洛之旅",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/威虎战机/varth.zip",
+            "label": "威虎战机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/快打旋风/ffight.zip",
+            "label": "快打旋风",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/恐龙新世纪/dino.zip",
+            "label": "恐龙新世纪",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/惩罚者/punisher.zip",
+            "label": "惩罚者",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/战区88/unsquad.zip",
+            "label": "战区88",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/战场之狼 II/mercs.zip",
+            "label": "战场之狼 II",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/摔角霸王/slammast.zip",
+            "label": "摔角霸王",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/摔角霸王-最终之战/mbombrd.zip",
+            "label": "摔角霸王-最终之战",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/梦幻冒险/nemo.zip",
+            "label": "梦幻冒险",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/洛克人-力量之战/megaman.zip",
+            "label": "洛克人-力量之战",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/街头霸王II-四大天王/sf2ce.zip",
+            "label": "街头霸王II-四大天王",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/街头霸王II-天下斗士/sf2.zip",
+            "label": "街头霸王II-天下斗士",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/街头霸王II-超级战斗/sf2hf.zip",
+            "label": "街头霸王II-超级战斗",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/问答殿样之野望2全国版/qtono2.zip",
+            "label": "问答殿样之野望2全国版",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/雌虎战机/cawing.zip",
+            "label": "雌虎战机",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/魔法之剑-英雄的幻想/msword.zip",
+            "label": "魔法之剑-英雄的幻想",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/魔法方块/pnickj.zip",
+            "label": "魔法方块",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/魔法气泡3/pang3.zip",
+            "label": "魔法气泡3",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/龙之迷题/qad.zip",
+            "label": "龙之迷题",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        },
+        {
+            "path": "ux0:/[PUJIE]/ROM/CPS1/龙王/kod.zip",
+            "label": "龙王",
+            "core_path": "DETECT",
+            "core_name": "DETECT",
+            "crc32": "",
+            "db_name": "CPS1.lpl"
+        }
+    ]
+}
