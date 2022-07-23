@@ -1,0 +1,267 @@
+{
+  "version": "1.4",
+  "default_core_path": "~/Documents/RetroArch/cores/pcsx_rearmed_libretro.dll",
+  "default_core_name": "Sony - PlayStation (PCSX ReARMed)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/rom/PS/SDGDGSJ/SDGDGSJ.cue",
+      "label": "001 SD高达G世纪",
+      "core_path": "~/Documents/RetroArch/cores/pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/xyj.bin",
+      "label": "002 西游记",
+      "core_path": "~/Documents/RetroArch/cores/pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/fsyy.bin",
+      "label": "003 封神演义爱藏版",
+      "core_path": "~/Documents/RetroArch/cores/pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/slzyxy/sl.m3u",
+      "label": "004 私立正义学院",
+      "core_path": "~/Documents/RetroArch/cores/duckstation_libretro.dll",
+      "core_name": "Sony - PlayStation (DuckStation)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/dhhsd.bin",
+      "label": "005 大航海时代外传",
+      "core_path": "~/Documents/RetroArch/cores/pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/ccjjqe.bin",
+      "label": "006 第2次超级机器人大战",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/emcx.bin",
+      "label": "007 恶魔城X月下夜想曲",
+      "core_path": "~/Documents/RetroArch/cores/pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/gldy/Disc A.bin",
+      "label": "008 格兰蒂亚",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/hpkz2/hpkz2.bin",
+      "label": "009 皇牌空战2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/jsqy/Disc A.cue",
+      "label": "010 寄生前夜",
+      "core_path": "~/Documents/RetroArch/cores/duckstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/jsqy2/Parasite Eve 2 (DISC 1).ccd",
+      "label": "011 寄生前夜2",
+      "core_path": "~/Documents/RetroArch/cores/mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/3rmtl.bin",
+      "label": "012 柯南三人的名推理",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/lqscs/Legend of Dragoon, The (Disc 1).cue",
+      "label": "013 龙骑士传说",
+      "core_path": "~/Documents/RetroArch/cores/pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/mhmnz5.bin",
+      "label": "014 梦幻模拟战5",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/sjktz2/sjktz2.img",
+      "label": "015 沙加开拓者2",
+      "core_path": "~/Documents/RetroArch/cores/pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/sdyxz.bin",
+      "label": "016 射雕英雄传",
+      "core_path": "~/Documents/RetroArch/cores/duckstation_libretro.dll",
+      "core_name": "Sony - PlayStation (DuckStation)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/shwj2/Disc A.bin",
+      "label": "017 生化危机2",
+      "core_path": "~/Documents/RetroArch/cores/duckstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/sjcsmncq.img",
+      "label": "018 圣剑传说玛娜传奇",
+      "core_path": "~/Documents/RetroArch/cores/pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/skzl2/Disc A.bin",
+      "label": "019 时空之轮2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/alld.iso",
+      "label": "020 阿兰多拉",
+      "core_path": "~/Documents/RetroArch/cores/pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/tzrkx.bin",
+      "label": "021 天诛忍凯旋",
+      "core_path": "~/Documents/RetroArch/cores/duckstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/wjzm/toysdream.ISO",
+      "label": "022 玩具之梦",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/wzz/Brave_Fencer_Musashiden_Japan.ISO",
+      "label": "023 武藏传",
+      "core_path": "~/Documents/RetroArch/cores/pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/wsqs/wsqs.mdf",
+      "label": "024 武士枪手回升之斩",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/xzr/xzr.img",
+      "label": "025 星之刃",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/yhcs/Disc A.bin",
+      "label": "026 永恒传说",
+      "core_path": "~/Documents/RetroArch/cores/pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/yzdel1+2.img",
+      "label": "027 勇者斗恶龙怪兽篇1+2",
+      "core_path": "~/Documents/RetroArch/cores/pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/JJL.bin",
+      "label": "028 寂静岭",
+      "core_path": "~/Documents/RetroArch/cores/duckstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/FF7/FF7CD.m3u",
+      "label": "029 最终幻想7",
+      "core_path": "~/Documents/RetroArch/cores/duckstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/FF8/FF8CD.m3u",
+      "label": "030 最终幻想8",
+      "core_path": "~/Documents/RetroArch/cores/duckstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/FF9/EBOOT.PBP",
+      "label": "031 最终幻想9",
+      "core_path": "~/Documents/RetroArch/cores/mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS/FLMXT/Vagrant Story (Japan, Asia).cue",
+      "label": "032 放浪冒险谭",
+      "core_path": "~/Documents/RetroArch/cores/duckstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "00000000|crc",
+      "db_name": "PS.lpl"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "version": "1.4",
+  "default_core_path": "~/Documents/RetroArch/cores/pcsx_rearmed_libretro.dll",
+  "default_core_name": "Sony - PlayStation (PCSX ReARMed)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/rom/PS2/ADLYU.ISO",
+      "label": "001 奥丁领域",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation (pcsx2_libretro)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS2/God Of War 1/God Of War 1 CHS v3.0 DVD9 HMS.iso",
+      "label": "002 战神 1",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation (pcsx2_libretro)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS2/God Of War 2/God Of War 2 CHS v3.0 DVD9 HMS.iso",
+      "label": "003 战神 2",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation (pcsx2_libretro)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS2/ZZHX10.ISO",
+      "label": "004 最终幻想X",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation (pcsx2_libretro)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS2/ZZHX12.ISO",
+      "label": "005 最终幻想XII",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation (pcsx2_libretro)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS2/DQ8.ISO",
+      "label": "006 勇者斗恶龙8",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation (pcsx2_libretro)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS2/JJL4.ISO",
+      "label": "007 寂静岭4",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation (pcsx2_libretro)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS2/SHWJ2BF.ISO",
+      "label": "008 生化危机 爆发2",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation (pcsx2_libretro)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS2/ZZJB.ISO",
+      "label": "009 重装机兵-沙尘之锁",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation (pcsx2_libretro)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+ {
+      "path": "~/Documents/RetroArch/rom/PS2/YYDZ.iso",
+      "label": "010 樱花大战 炽热之血",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation (pcsx2_libretro)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS2/shin contra(SC)/shin contra(SC).bin",
+      "label": "011 真魂斗罗",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation (pcsx2_libretro)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS2/TenchuH.iso",
+      "label": "012 天诛红",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation (pcsx2_libretro)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+  {
+      "path": "~/Documents/RetroArch/rom/PS2/MMMJ/MMMJ.bin",
+      "label": "013 麻雀派对 跟水著美女打几圈",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation 2 (PCSX2)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+ {
+      "path": "~/Documents/RetroArch/rom/PS2/GLMS.ISO",
+      "label": "014 格林魔书",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation 2 (PCSX2)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+ {
+      "path": "~/Documents/RetroArch/rom/PS2/EMC-WZTX.ISO",
+      "label": "015 恶魔城 无罪的叹息",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation 2 (PCSX2)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+ {
+      "path": "~/Documents/RetroArch/rom/PS2/WDYJX.ISO",
+      "label": "016 旺达与巨像",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation 2 (PCSX2)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+ {
+      "path": "~/Documents/RetroArch/rom/PS2/ZHL3.ISO",
+      "label": "017 捉猴啦3",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation 2 (PCSX2)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+{
+      "path": "~/Documents/RetroArch/rom/PS2/KCLY.ISO",
+      "label": "018 狂城丽影",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation 2 (PCSX2)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/PS2/SGWS5.iso",
+      "label": "019 三国无双5",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation (pcsx2_libretro)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+  {
+      "path": "~/Documents/RetroArch/rom/PS2/SMCS2.iso",
+      "label": "020 宿命传说2",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation (pcsx2_libretro)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    },
+  {
+      "path": "~/Documents/RetroArch/rom/PS2/LBSDQB2.iso",
+      "label": "021 龙背上的骑兵2",
+      "core_path": "~/Documents/RetroArch/cores/pcsx2_libretro.dll",
+      "core_name": "Sony - PlayStation (pcsx2_libretro)",
+      "crc32": "00000000|crc",
+      "db_name": "PS2.lpl"
+    }
+  ]
+}
