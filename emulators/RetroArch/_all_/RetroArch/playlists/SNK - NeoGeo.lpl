@@ -1,0 +1,571 @@
+{
+  "version": "1.4",
+  "default_core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+  "default_core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/kof94.zip",
+      "label": "001 拳皇 94",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/kof95.zip",
+      "label": "002 拳皇 95",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/kof96.zip",
+      "label": "003 拳皇 96",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/kof97.zip",
+      "label": "004 拳皇 97",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/kof98.zip",
+      "label": "005 拳皇 98",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/kof99.zip",
+      "label": "006 拳皇 99",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/kof2000.zip",
+      "label": "007 拳皇 2000",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/kof2001.zip",
+      "label": "008 拳皇 2001",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/kof2002.zip",
+      "label": "009 拳皇 2002",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/kf2k2pls.zip",
+      "label": "010 拳皇2002 Plus",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/ct2k3sp.zip",
+      "label": "011 拳皇2003",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/kof2k4se.zip",
+      "label": "012 拳皇2004",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/kf10thep.zip",
+      "label": "013 拳皇十周年纪念版",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/kog.zip",
+      "label": "014 拳皇97果体版",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/SvC Chaos - SNK vs Capcom/svc.zip",
+      "label": "015 拳皇 对 街霸 - SVC 混沌",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+  {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/cthd2003.zip",
+      "label": "070 拳皇 卧虎藏龙",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+ {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kof/kof97pls.zip",
+      "label": "016 拳皇97风云再起",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Metal Slug/mslug.zip",
+      "label": "017 合金弹头 1",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Metal Slug/mslug2.zip",
+      "label": "018 合金弹头 2",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Metal Slug/mslug3.zip",
+      "label": "019 合金弹头 3",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Metal Slug/mslug4.zip",
+      "label": "020 合金弹头 4",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Metal Slug/mslug5.zip",
+      "label": "021 合金弹头 5",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Metal Slug/mslugx.zip",
+      "label": "022 合金弹头 X",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Samurai Shodown/samsho.zip",
+      "label": "023 侍魂 1",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Samurai Shodown/samsho2.zip",
+      "label": "024 侍魂 2",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Samurai Shodown/samsho3.zip",
+      "label": "025 侍魂 3",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Samurai Shodown/samsho4.zip",
+      "label": "026 侍魂 4",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Samurai Shodown/samsho5.zip",
+      "label": "027 侍魂 5",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Double Dragon/doubledr.zip",
+      "label": "028 双截龙",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Waku Waku 7/wakuwak7.zip",
+      "label": "029 七战士 - 火热火热 7",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Fatal Fury/rbff1.zip",
+      "label": "030 RB 饿狼传说",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Fatal Fury/rbff2.zip",
+      "label": "031 RB 饿狼传说 2 - 新的来者",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Fatal Fury/rbffspec.zip",
+      "label": "032 RB 饿狼传说 特别版",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Fatal Fury/fatfury3.zip",
+      "label": "033 饿狼传说 3",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Breakers/breakers.zip",
+      "label": "034 爆裂人",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Pochi and Nyaa/pnyaa.zip",
+      "label": "035 宠物方块",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Strikers 1945 Plus/s1945p.zip",
+      "label": "036 打击者 1945 加强版",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Super Sidekicks/ssideki3.zip",
+      "label": "037 得点王 3 - 光荣的挑战",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Super Sidekicks/ssideki4.zip",
+      "label": "038 得点王 4 - 终极十一人",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Top Hunter/tophuntr.zip",
+      "label": "039 顶尖猎人 - 罗迪 凯茜",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Ninja Masters/ninjamas.zip",
+      "label": "040 霸王忍法帖",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Fatal Fury/garou.zip",
+      "label": "041 饿狼 - 群狼之证 狼之烙印",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Captain Tomaday/ctomaday.zip",
+      "label": "042 蕃茄超人",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Kizuna Encounter/savagere.zip",
+      "label": "043 风云默示录 - 格斗创世",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Kizuna Encounter/kizuna.zip",
+      "label": "044 风云默示录 2 - 超级组队战",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Nightmare in the Dark/nitd.zip",
+      "label": "045 黑暗守墓者 - 暗黑恶梦",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Street Hoop/strhoop.zip",
+      "label": "046 街头篮球 梦幻篮球赛",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Rage of the Dragons/rotd.zip",
+      "label": "047 龙吼 - 双截龙",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Art of Fighting/aof2.zip",
+      "label": "048 龙虎之拳 2",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Art of Fighting/aof3.zip",
+      "label": "049 龙虎之拳 3 - 斗士之路",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Twinklestar Sprites/twinspri.zip",
+      "label": "050 梦幻小妖精",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Puzzle Bobble 2/pbobbl2n.zip",
+      "label": "051 泡泡龙 2",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Bang Bead/bangbead.zip",
+      "label": "052 碰碰球",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Burning Fight/burningf.zip",
+      "label": "053 热血快打",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Ninja Command/ncommand.zip",
+      "label": "054 忍者战士",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Blazing Star/blazstar.zip",
+      "label": "055 闪亮之星 炽热星空",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Kabuki Klash/kabukikl.zip",
+      "label": "056 天外魔境真传 - 东方伊甸园",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/kabukikl/kabukikl.zip",
+      "label": "057 天外魔境真传加强版",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Aggressors of Dark Kombat/aodk.zip",
+      "label": "058 痛快 GANGAN 进行曲 - 热血进行曲",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Shock Troopers/shocktro.zip",
+      "label": "059 突击骑兵 敌后奇兵",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Shock Troopers/shocktr2.zip",
+      "label": "060 突击骑兵 敌后奇兵 - 第二分队",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Mutation Nation/mutnat.zip",
+      "label": "061 外星游龙",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Ganryu/ganryu.zip",
+      "label": "062 武藏严流记",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Matrimelee/matrim.zip",
+      "label": "063 新豪血寺一族 - 斗婚",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Prehistoric Isle 2/preisle2.zip",
+      "label": "064 原始岛 2",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/The Last Blade/lastblad.zip",
+      "label": "065 月华剑士 1",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/The Last Blade/lastbld2.zip",
+      "label": "066 月华剑士 2",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Neo Bomberman/neobombe.zip",
+      "label": "067 炸弹人",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Sengoku 3/sengoku3.zip",
+      "label": "068 战国传承 3",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/NeoGeo/Last Resort/lresort.zip",
+      "label": "069 终极任务",
+      "core_path": "~/Documents/RetroArch/cores/fbalpha2012_neogeo_libretro.dll",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "00000000|crc",
+      "db_name": "NeoGeo.lpl"
+    }
+  ]
+}

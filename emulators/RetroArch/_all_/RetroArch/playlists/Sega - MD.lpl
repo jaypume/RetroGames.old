@@ -1,0 +1,2163 @@
+{
+  "version": "1.4",
+  "default_core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+  "default_core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/rom/MD/001 小飞侠.smd",
+      "label": "001 小飞侠",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/002 mazin传说.smd",
+      "label": "002 mazin传说",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/002 修改版 Mazin 传说 Start键加9条人命 HP 及隐身.bin",
+      "label": "002 修改版 Mazin 传说 Start键加9条人命 HP 及隐身",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/003 Mega银河战士.smd",
+      "label": "003 Mega银河战士",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/004 VR战士2.smd",
+      "label": "004 VR战士2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/005 X战警1.smd",
+      "label": "005 X战警1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/006 X战警2.smd",
+      "label": "006 X战警2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/007 修改版 阿拉丁 无限命.gen",
+      "label": "007 修改版 阿拉丁 无限命",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/007 阿拉丁.smd",
+      "label": "007 阿拉丁",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/008 阿莉莎之龙 命不减 闪电恢复×3.smd",
+      "label": "008 阿莉莎之龙 命不减 闪电恢复×3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/009 阿斯特瑞克斯 大救援.smd",
+      "label": "009 阿斯特瑞克斯 大救援",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/010 阿斯特瑞克斯 上帝之力.smd",
+      "label": "010 阿斯特瑞克斯 上帝之力",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/011 啊Q连环炮 中文版.smd",
+      "label": "011 啊Q连环炮 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/012 巴哈姆特战记.smd",
+      "label": "012 巴哈姆特战记",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/013 宝石方块3.smd",
+      "label": "013 宝石方块3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/014 修改版 暴力克星 多命版.bin",
+      "label": "014 修改版 暴力克星 多命版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/014 暴力克星.smd",
+      "label": "014 暴力克星",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/015 修改版 蝙蝠侠 人不减，START加99个飞镖 恢复血.bin",
+      "label": "015 修改版 蝙蝠侠 人不减，START加99个飞镖 恢复血",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/015 蝙蝠侠.smd",
+      "label": "015 蝙蝠侠",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/016 修改版 蝙蝠侠与罗宾a键满气攻击增加威力c换命暂停换武器器.gen",
+      "label": "016 修改版 蝙蝠侠与罗宾a键满气攻击增加威力c换命暂停换武器器",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/016 蝙蝠侠与罗宾.smd",
+      "label": "016 蝙蝠侠与罗宾",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/017 彩虹岛.smd",
+      "label": "017 彩虹岛",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/018 超级忍1.smd",
+      "label": "018 超级忍1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/019 修改版 超级忍2 无限命.gen",
+      "label": "019 修改版 超级忍2 无限命",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/019 超级忍2.smd",
+      "label": "019 超级忍2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/019 超级忍2 中文版.md",
+      "label": "019 超级忍2 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/020 修改版 超人 无敌版.bin",
+      "label": "020 修改版 超人 无敌版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/020 超人.smd",
+      "label": "020 超人",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/021 出击飞龙.smd",
+      "label": "021 出击飞龙",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/022 丛林大冒险 无限命.bin",
+      "label": "022 丛林大冒险 无限命",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/023 大航海时代1 中文版.md",
+      "label": "023 大航海时代1 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/024 大航海时代2  意志加强中文版.bin",
+      "label": "024 大航海时代2  意志加强中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/025 大魔界村.smd",
+      "label": "025 大魔界村",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/026 大头小子.smd",
+      "label": "026 大头小子",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/027 大战略 闪电奇袭 中文版.md",
+      "label": "027 大战略 闪电奇袭 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/028 动物快打.smd",
+      "label": "028 动物快打",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/029 修改版 斗技王 5个魔法消耗量为0 经验升级最大值.bin",
+      "label": "029 修改版 斗技王 5个魔法消耗量为0 经验升级最大值",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/029 斗技王.bin",
+      "label": "029 斗技王",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/030 恶魔波子机.bin",
+      "label": "030 恶魔波子机",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/031 爆裂激战.smd",
+      "label": "031 爆裂激战",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/032 修改版 恶魔城 血族 Start键加满99颗宝石，9条人命，及HP.bin",
+      "label": "032 修改版 恶魔城 血族 Start键加满99颗宝石，9条人命，及HP",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/032 恶魔城-血族.bin",
+      "label": "032 恶魔城-血族",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/033 飞马骑士.smd",
+      "label": "033 飞马骑士",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/034 飞天蝙蝠ZERO.smd",
+      "label": "034 飞天蝙蝠ZERO",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/035 飞翔蝙蝠2.smd",
+      "label": "035 飞翔蝙蝠2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/036 风中奇缘.smd",
+      "label": "036 风中奇缘",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/037 封神英杰传 中文版.md",
+      "label": "037 封神英杰传 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/038 疯狂米老鼠.smd",
+      "label": "038 疯狂米老鼠",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/039 弗兰克大冒险.smd",
+      "label": "039 弗兰克大冒险",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/040 复仇之刃.smd",
+      "label": "040 复仇之刃",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/041 盖亚战机越死越多 死后换武器暂停键增加防护罩.bin",
+      "label": "041 盖亚战机越死越多 死后换武器暂停键增加防护罩",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/042 修改版 钢铁帝国 两个机甲  99架战机 闪电 血满不减 速度最快.bin",
+      "label": "042 修改版 钢铁帝国 两个机甲  99架战机 闪电 血满不减 速度最快",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/042 钢铁帝国.smd",
+      "label": "042 钢铁帝国",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/043 港都少年 中文版.mdx",
+      "label": "043 港都少年 中文版",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/044 高飞狗的惊异之旅 不减血版.bin",
+      "label": "044 高飞狗的惊异之旅 不减血版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/045 割喉岛.smd",
+      "label": "045 割喉岛",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/046 真实的怪物.smd",
+      "label": "046 真实的怪物",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/047 怪物世界1.smd",
+      "label": "047 怪物世界1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/048 怪物世界3.smd",
+      "label": "048 怪物世界3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/049 修改版 怪物世界4 无敌版.gen",
+      "label": "049 修改版 怪物世界4 无敌版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/049 怪物世界4 中文版.md",
+      "label": "049 怪物世界4 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/050 灌篮高手 正面的对决 中文版.md",
+      "label": "050 灌篮高手 正面的对决 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/051 修改版 光明与黑暗 诸神的遗产 中文版 HACK.bin",
+      "label": "051 修改版 光明与黑暗 诸神的遗产 中文版 HACK",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/052 修改版 光明力量2 古代封印 中文版 秘籍输入简化.bin",
+      "label": "052 修改版 光明力量2 古代封印 中文版 秘籍输入简化",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/052 光明力量2 古代之封印 中文版.md",
+      "label": "052 光明力量2 古代之封印 中文版",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/053 三只笨鼠.smd",
+      "label": "053 三只笨鼠",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/054 光明十字军 中文版.md",
+      "label": "054 光明十字军 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/055 封神英杰传 HACK.gen",
+      "label": "055 封神英杰传 HACK",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/056 澎湃的电风 中文版.md",
+      "label": "056 澎湃的电风 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/057 光之继承者 托尔的传说 中文版.md",
+      "label": "057 光之继承者 托尔的传说 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/058 修改版 光子继承者 皇帝的财宝 武器装备齐全 血 钱最多.bin",
+      "label": "058 修改版 光子继承者 皇帝的财宝 武器装备齐全 血 钱最多",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/058 光子继承者 皇帝的财宝 中文版.md",
+      "label": "058 光子继承者 皇帝的财宝 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/059 联合前线_轨道战争 中文版.smd",
+      "label": "059 联合前线_轨道战争 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/060 巫术神界 中文版.bin",
+      "label": "060 巫术神界 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/061 黑水海盗.smd",
+      "label": "061 黑水海盗",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/062 轰天雷2.smd",
+      "label": "062 轰天雷2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/063 轰天雷3.bin",
+      "label": "063 轰天雷3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/064 花式撞球.smd",
+      "label": "064 花式撞球",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/065 幻影堡垒不可思议的御城大冒.smd",
+      "label": "065 幻影堡垒不可思议的御城大冒",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/066 修改版 毁灭部队之异型战争 无限命 子弹.bin",
+      "label": "066 修改版 毁灭部队之异型战争 无限命 子弹",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/066 毁灭部队之异型战争.smd",
+      "label": "066 毁灭部队之异型战争",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/067 修改版 混乱能量 255血 武器满威力.bin",
+      "label": "067 修改版 混乱能量 255血 武器满威力",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/067 混乱能量.bin",
+      "label": "067 混乱能量",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/068 修改版 魂斗罗 铁血兵团 中文版 无限命.bin",
+      "label": "068 修改版 魂斗罗 铁血兵团 中文版 无限命",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/068 魂斗罗.smd",
+      "label": "068 魂斗罗",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/069 火宝战记皇室血裔.bin",
+      "label": "069 火宝战记皇室血裔",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/070 火箭骑士 无限命.bin",
+      "label": "070 火箭骑士 无限命",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/071 火箭骑士历险记.smd",
+      "label": "071 火箭骑士历险记",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/072 修改版 火枪英雄 HP不减.bin",
+      "label": "072 修改版 火枪英雄 HP不减",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/072 火枪英雄.smd",
+      "label": "072 火枪英雄",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/073 火星逃脱者.gen",
+      "label": "073 火星逃脱者",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/074 吉姆力量 人数不减 炸弹为9 暂停加命.bin",
+      "label": "074 吉姆力量 人数不减 炸弹为9 暂停加命",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/075 疾风战机.smd",
+      "label": "075 疾风战机",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/076 神剑传说.smd",
+      "label": "076 神剑传说",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/077 修改版 鲛鲛鲛 命炸弹不减 暂停后 按上进入测试模式.bin",
+      "label": "077 修改版 鲛鲛鲛 命炸弹不减 暂停后 按上进入测试模式",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/077 鲛.鲛.鲛.smd",
+      "label": "077 鲛.鲛.鲛",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/078 街头霸王 超.smd",
+      "label": "078 街头霸王 超",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/079 街头霸王2PLUS.smd",
+      "label": "079 街头霸王2PLUS",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/080 修改版 雷电传说 炸弹无限 C+↑散弹 按C+↓激光.bin",
+      "label": "080 修改版 雷电传说 炸弹无限 C+↑散弹 按C+↓激光",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/080 雷电传说.smd",
+      "label": "080 雷电传说",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/081 金刚狼.smd",
+      "label": "081 金刚狼",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/082 修改版 龙珠z之武勇列传 貝吉塔隱藏超殺條件完美hack.gen",
+      "label": "082 修改版 龙珠z之武勇列传 貝吉塔隱藏超殺條件完美hack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/082 龙珠z之武勇列传.smd",
+      "label": "082 龙珠z之武勇列传",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/083 空手道.smd",
+      "label": "083 空手道",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/084 孔雀王II 无敌版.bin",
+      "label": "084 孔雀王II 无敌版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/085 兰博3.smd",
+      "label": "085 兰博3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/086 户外大飙车.smd",
+      "label": "086 户外大飙车",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/087 修改版 雷鸟号3 无限命.bin",
+      "label": "087 修改版 雷鸟号3 无限命",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/087 雷鸟号3.smd",
+      "label": "087 雷鸟号3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/088 雷鸟号4.bin",
+      "label": "088 雷鸟号4",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/089 粒子战士1.smd",
+      "label": "089 粒子战士1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/090 粒子战士2 无敌版.gen",
+      "label": "090 粒子战士2 无敌版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/091 另一个世界.smd",
+      "label": "091 另一个世界",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/092 修改版 龙凤神偷 无限体力.gen",
+      "label": "092 修改版 龙凤神偷 无限体力",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/092 龙凤神偷.smd",
+      "label": "092 龙凤神偷",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/093 洛克人1.2.3合集.smd",
+      "label": "093 洛克人1.2.3合集",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/094 麻将俱乐部雀侦物语 中文版.md",
+      "label": "094 麻将俱乐部雀侦物语 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/095 马吉卡努大冒险.smd",
+      "label": "095 马吉卡努大冒险",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/096 修改版 迈克尔杰克逊 攻击效果修改.bin",
+      "label": "096 修改版 迈克尔杰克逊 攻击效果修改",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/096 迈克杰克逊.bin",
+      "label": "096 迈克杰克逊",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/097 修改版 脉冲超人 99命 血.gen",
+      "label": "097 修改版 脉冲超人 99命 血",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/097 脉冲超人.smd",
+      "label": "097 脉冲超人",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/098 漫画地带 血值5000，折飞机不扣血.gen",
+      "label": "098 漫画地带 血值5000，折飞机不扣血",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/099 美军上尉与复仇者.smd",
+      "label": "099 美军上尉与复仇者",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/100 美女与野兽-美女的搜索.smd",
+      "label": "100 美女与野兽-美女的搜索",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/101 蒙纳克皇族：最终战斗传说 中文版.md",
+      "label": "101 蒙纳克皇族：最终战斗传说 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/102 梦幻模拟战1.smd",
+      "label": "102 梦幻模拟战1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/103 梦幻模拟战2 中文版.md",
+      "label": "103 梦幻模拟战2 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/104 修改版 梦幻战士 无限命+血不减+MP无限 hack.bin",
+      "label": "104 修改版 梦幻战士 无限命+血不减+MP无限 hack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/104 梦幻战士.smd",
+      "label": "104 梦幻战士",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/105 修改版 梦幻战士3 美版 6命 HP 时间不减.bin",
+      "label": "105 修改版 梦幻战士3 美版 6命 HP 时间不减",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/105 梦幻战士3.smd",
+      "label": "105 梦幻战士3",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/106 修改版 梦幻之星4 千年纪的终结 全员LV99.smd",
+      "label": "106 修改版 梦幻之星4 千年纪的终结 全员LV99",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/106 梦幻之星4 千年纪的终结 中文版.md",
+      "label": "106 梦幻之星4 千年纪的终结 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/107 米老鼠-神秘的大马戏团.smd",
+      "label": "107 米老鼠-神秘的大马戏团",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/108 魔法气泡外传.smd",
+      "label": "108 魔法气泡外传",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/109 魔界使者.smd",
+      "label": "109 魔界使者",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/110 木偶奇遇记.smd",
+      "label": "110 木偶奇遇记",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/111 怒之铁拳1 无敌版.bin",
+      "label": "111 修改版 怒之铁拳1 无敌版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/111 怒之铁拳1.smd",
+      "label": "111 怒之铁拳1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/112 修改版 怒之铁拳2 B+↑更改主角 START加HP.bin",
+      "label": "112 修改版 怒之铁拳2 B+↑更改主角 START加HP",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/112 修改版 怒之铁拳2 不知火舞 9命 HP时间不减.bin",
+      "label": "112 修改版 怒之铁拳2 不知火舞 9命 HP时间不减",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/112 怒之铁拳2 大蛇悟空版.bin",
+      "label": "112 修改版 怒之铁拳2 大蛇悟空版",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/112 怒之铁拳2 春丽完美版.bin",
+      "label": "112 修改版 怒之铁拳2 春丽完美版",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/112 怒之铁拳2 最终强化版.bin",
+      "label": "112 修改版 怒之铁拳2 最终强化版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/112 怒之铁拳2 皮鞭女王版.bin",
+      "label": "112 修改版 怒之铁拳2 皮鞭女王版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/112 怒之铁拳2 福利版.bin",
+      "label": "112 修改版 怒之铁拳2 福利版",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/112 怒之铁拳2 阿修祸祭依格尼斯.bin",
+      "label": "112 修改版 怒之铁拳2 阿修祸祭依格尼斯",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/112 怒之铁拳2 阿鲁卡多天羽忍.bin",
+      "label": "112 修改版 怒之铁拳2 阿鲁卡多天羽忍",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/112 怒之铁拳２ 神龟无敌版.smd",
+      "label": "112 修改版 怒之铁拳２ 神龟无敌版",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/112 怒之铁拳2.smd",
+      "label": "112 怒之铁拳2",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/113 修改版 怒之铁拳3 7人版.smd",
+      "label": "113 修改版 怒之铁拳3 7人版",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/113 修改版 怒之铁拳3 BT版.bin",
+      "label": "113 修改版 怒之铁拳3 BT版",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/113 修改版 怒之铁拳3 换人版.bin",
+      "label": "113 修改版 怒之铁拳3 换人版",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/113 修改版 怒之铁拳3 终极AXEL.bin",
+      "label": "113 修改版 怒之铁拳3 终极AXEL",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/113 怒之铁拳3 中文版.md",
+      "label": "113 怒之铁拳3 中文版",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/114 炮灰前直冲.smd",
+      "label": "114 炮灰前直冲",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/115 皮克急速大冒险.smd",
+      "label": "115 皮克急速大冒险",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/116 修改版 魔导物语 汉化版 体力 魔力999.gen",
+      "label": "116 修改版 魔导物语 汉化版 体力 魔力999",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/116 魔导物语 中文版.md",
+      "label": "116 魔导物语 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/117 蚯蚓吉姆1.smd",
+      "label": "117 蚯蚓吉姆1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/118 修改版 蚯蚓吉姆2 不死版.gen",
+      "label": "118 修改版 蚯蚓吉姆2 不死版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/118 蚯蚓吉姆2.smd",
+      "label": "118 蚯蚓吉姆2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/119 忍者好小子.smd",
+      "label": "119 忍者好小子",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/120 忍者神龟 格斗大会.gen",
+      "label": "120 忍者神龟 格斗大会",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/121 忍者神龟.smd",
+      "label": "121 忍者神龟",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/122 忍者武雷传说 中文版.smd",
+      "label": "122 忍者武雷传说 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/123 日落骑士 多命版.smd",
+      "label": "123 日落骑士 多命版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/124 三国志2  中文版.md",
+      "label": "124 三国志2  中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/125 三国志3  中文版.md",
+      "label": "125 三国志3  中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/126 三国志5  中文版.md",
+      "label": "126 三国志5  中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/127 三国志列传 乱世群英 中文版.md",
+      "label": "127 三国志列传 乱世群英 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/128 沙漠攻击.smd",
+      "label": "128 沙漠攻击",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/129 上海.smd",
+      "label": "129 上海",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/130 圣剑.smd",
+      "label": "130 圣剑",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/131 大乱斗.smd",
+      "label": "131 大乱斗",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/132 兽王记.smd",
+      "label": "132 兽王记",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/133 双截龙1.smd",
+      "label": "133 双截龙1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/134 双截龙2.smd",
+      "label": "134 双截龙2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/135 双截龙3.smd",
+      "label": "135 双截龙3",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/136 水浒传 中文版.md",
+      "label": "136 水浒传 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/137 修改版 水浒风云传 中文版 死后加命.bin",
+      "label": "137 修改版 水浒风云传 中文版 死后加命",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/137 水浒风云传 中文版.smd",
+      "label": "137 水浒风云传 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/138 四天明王.smd",
+      "label": "138 四天明王",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/139 索尼克.smd",
+      "label": "139 索尼克",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/140 索尼克2.smd",
+      "label": "140 索尼克2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/141 索尼克3.smd",
+      "label": "141 索尼克3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/142 修改版 索尼克 3D HACK 全关卡.smd",
+      "label": "142 修改版 索尼克 3D HACK 全关卡",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/142 索尼克3D.smd",
+      "label": "142 索尼克3D",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/143 索尼克弹珠台.smd",
+      "label": "143 索尼克弹珠台",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/144 索尼克与纳克鲁斯.smd",
+      "label": "144 索尼克与纳克鲁斯",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/145 太阁立志传 中文版.md",
+      "label": "145 太阁立志传 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/146 太空蚂蚁战士.smd",
+      "label": "146 太空蚂蚁战士",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/147 太空战士 魔法战士 中文版.md",
+      "label": "147 太空战士 魔法战士 中文版",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/148 太阳码头.md",
+      "label": "148 太阳码头",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/149 唐老鸭历险记.smd",
+      "label": "149 唐老鸭历险记",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/150 天空魔城.smd",
+      "label": "150 天空魔城",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/151 修改版 天使之翼 数值满.gen",
+      "label": "151 修改版 天使之翼 数值满",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/151 天使之翼.bin",
+      "label": "151 天使之翼",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/152 兔宝宝历险记 无限命.bin",
+      "label": "152 兔宝宝历险记 无限命",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/153 外星双傻1.smd",
+      "label": "153 外星双傻1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/154 外星双傻2.smd",
+      "label": "154 外星双傻2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/155 饿狼传说2.smd",
+      "label": "155 饿狼传说2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/156 外星王子.bin",
+      "label": "156 外星王子",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/157 维京人.bin",
+      "label": "157 维京人",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/158 武器大师.smd",
+      "label": "158 武器大师",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/159 武士道.smd",
+      "label": "159 武士道",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/160 武士魂.bin",
+      "label": "160 武士魂",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/161 武装行警.smd",
+      "label": "161 武装行警",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/162 悟空外传 中文版.md",
+      "label": "162 悟空外传 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/163 陷阱 玛亚冒险.bin",
+      "label": "163 陷阱 玛亚冒险",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/164 小鬼当家.sms",
+      "label": "164 小鬼当家",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/165 小鬼当家2.smd",
+      "label": "165 小鬼当家2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/166 小精灵1.bin",
+      "label": "166 小精灵1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/167 小精灵2.bin",
+      "label": "167 小精灵2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/168 小象露露.smd",
+      "label": "168 小象露露",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/169 修改版 新创世纪 中文版 不减血.smd",
+      "label": "169 修改版 新创世纪 中文版 不减血",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/169 新创世纪 中文版.md",
+      "label": "169 新创世纪 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/170 修改版 新乞丐王子 按A键不遇敌.bin",
+      "label": "170 修改版 新乞丐王子 按A键不遇敌",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/170 新乞丐王子 中文版.md",
+      "label": "170 新乞丐王子 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/171 信长野望 霸王传 中文版.md",
+      "label": "171 信长野望 霸王传 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/172 修改版 星际枪骑兵 无敌 携带两个导弹 战机不减.bin",
+      "label": "172 修改版 星际枪骑兵 无敌 携带两个导弹 战机不减",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/172 星际枪骑兵.smd",
+      "label": "172 星际枪骑兵",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/173 修改版 旋风女战士  体力无限+MP不减.bin",
+      "label": "173 修改版 旋风女战士  体力无限+MP不减",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/173 旋风女战士.smd",
+      "label": "173 旋风女战士",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/174 亚瑟传说 中文版.md",
+      "label": "174 亚瑟传说 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/175 亚生命战争.bin",
+      "label": "175 亚生命战争",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/175 修改版 亚生命战争 战机不变C键聚气攻击，A键隐身攻击.bin",
+      "label": "175 修改版 亚生命战争 战机不变C键聚气攻击，A键隐身攻击",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/176 炎之斗球儿-躲避球弹平.smd",
+      "label": "176 炎之斗球儿-躲避球弹平",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/177 修改版 杨家将 增加血 命 续关.smd",
+      "label": "177 修改版 杨家将 增加血 命 续关",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/177 杨家将.md",
+      "label": "177 杨家将",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/178 异形3.smd",
+      "label": "178 异形3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/179 异形风暴 无敌版.gen",
+      "label": "179 异形风暴 无敌版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/180 修改版 翼人 人数不变 按B+C 死后 火力最强.bin",
+      "label": "180 修改版 翼人 人数不变 按B+C 死后 火力最强",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/180 翼人.smd",
+      "label": "180 翼人",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/181 屠龙英雄传.smd",
+      "label": "181 屠龙英雄传",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/182 英雄传说2 繁菜单.md",
+      "label": "182 英雄传说2 繁菜单",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/183 影武者.smd",
+      "label": "183 影武者",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/184 永恒追求.bin",
+      "label": "184 永恒追求",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/185 幽游白书 魔强统一战 中文版.md",
+      "label": "185 幽游白书 魔强统一战 中文版",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/186 幽游白书外传.smd",
+      "label": "186 幽游白书外传",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/187 元朝秘史 苍狼与白鹿 中文版.smd",
+      "label": "187 元朝秘史 苍狼与白鹿 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/188 修改版 炸弹人按y键无敌加九命.bin",
+      "label": "188 修改版 炸弹人按y键无敌加九命",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/188 炸弹人.smd",
+      "label": "188 炸弹人",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/189 大头小子.smd",
+      "label": "189 大头小子",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/190 詹姆斯庞德3 海星行动.smd",
+      "label": "190 詹姆斯庞德3 海星行动",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/191 战斗玛利亚  人无限 装备强 炸弹无限.bin",
+      "label": "191 战斗玛利亚  人无限 装备强 炸弹无限",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/192 修改版 忍者蛙与双截龙 无限命 hack.bin",
+      "label": "192 修改版 忍者蛙与双截龙 无限命",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/192 战斗蛙与双截龙.smd",
+      "label": "192 战斗蛙与双截龙",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/193 修改版 战斗原始人 人数不减，无敌，A，B，C+↑+↓ 换武器.bin",
+      "label": "193 修改版 战斗原始人 人数不减，无敌，A，B，C+↑+↓ 换武器",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/193 战斗原始人.smd",
+      "label": "193 战斗原始人",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/194 修改版 战斧1 血不减.gen",
+      "label": "194 修改版 战斧1 血不减",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/194 战斧1.smd",
+      "label": "194 战斧1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/195 修改版 战斧2 HP MP无限.gen",
+      "label": "195 修改版 战斧2 HP MP无限",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/195 战斧2.smd",
+      "label": "195 战斧2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/196 修改版 战斧3 人数不减 Start键补血  加满6个炸弹.bin",
+      "label": "196 修改版 战斧3 人数不减 Start键补血  加满6个炸弹",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/196 战斧3.smd",
+      "label": "196 战斧3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/197 真人快打1.bin",
+      "label": "197 真人快打1",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/198 真人快打2.bin",
+      "label": "198 真人快打2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/199 真人快打3.bin",
+      "label": "199 真人快打3",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/200 致命杀手2.smd",
+      "label": "200 致命杀手2",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/201 修改版 战场之狼 续关 炸弹无限.gen",
+      "label": "201 修改版 战场之狼 续关 炸弹无限",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/201 战场之狼.smd",
+      "label": "201 战场之狼",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/202 太平记 中文版.md",
+      "label": "202 太平记 中文版",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/203 EX-异种.smd",
+      "label": "203 EX-异种",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/204 小原始人1.bin",
+      "label": "204 小原始人",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/205 小原始人2.smd",
+      "label": "205 小原始人2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/206 总部追击2.smd",
+      "label": "206 总部追击2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/rom/MD/207 鸡蛋冒险.smd",
+      "label": "207 鸡蛋冒险",
+      "core_path": "~/Documents/RetroArch/cores/genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "MD.lpl"
+    }
+  ]
+}
