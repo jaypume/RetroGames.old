@@ -1,0 +1,227 @@
+{
+  "version": "1.4",
+  "default_core_path": "D:\\RetroArch\\cores\\yabause_libretro.dll",
+  "default_core_name": "Sega - Saturn (Yabause)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "D:\\RetroArch\\rom\\wii\\瓦里奥大陆 摇晃\\WLSsc[RWLJ01].wbfs",
+      "label": "001 瓦里奥大陆 摇晃",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\wii\\异色代码 R 记忆之门\\ACGHH-0132-AnotherR.wbfs",
+      "label": "002 异色代码 R 记忆之门",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\wii\\塞尔达传说 时之笛\\SZD.wad",
+      "label": "003 塞尔达传说 时之笛",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\wii\\超级纸片马里奥\\超级纸片马里奥.wbfs",
+      "label": "005 超级纸片马里奥",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\wii\\大地探索者\\ESEEKER.wbfs",
+      "label": "006 大地探索者",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\wii\\大神\\大神.iso",
+      "label": "007 大神",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\wii\\风之克罗诺亚 幻影之门\\风之克罗诺亚 幻影之门.wbfs",
+      "label": "008 风之克罗诺亚 幻影之门",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\wii\\零 月蚀之假面\\零-月蚀的假面.wbfs",
+      "label": "009 零 月蚀之假面",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\wii\\零 真红之蝶\\零-真红之蝶.wbfs",
+      "label": "010 零 真红之蝶",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\wii\\胧村正 妖刀传\\胧村正 妖刀传.wbfs",
+      "label": "011 胧村正 妖刀传",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\ngc\\塞尔达传说 黄昏公主\\塞尔达传说 黄昏公主.iso",
+      "label": "012 塞尔达传说 黎明公主",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\wii\\火焰纹章 晓之女神\\晓之女神汉化版.iso",
+      "label": "026 火焰纹章 晓之女神",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\wii\\马里奥赛车Wii\\马里奥赛车Wii.wbfs",
+      "label": "014 马里奥赛车Wii",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\wii\\星之卡比 Wii\\星之卡比 重返.wbfs",
+      "label": "015 星之卡比 Wii",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\wii\\塞尔达传说 天空之剑\\塞尔达传说 天空之剑.wbfs",
+      "label": "016 塞尔达传说 天空之剑",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\ngc\\塞尔达传说 四支剑\\塞尔达传说 四支剑.gcz",
+      "label": "017 塞尔达传说 四支剑",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "NGC"
+    },
+ {
+      "path": "D:\\RetroArch\\rom\\wii\\TZ4.wbfs",
+      "label": "018 天诛4",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+{
+      "path": "D:\\RetroArch\\rom\\ngc\\红侠乔伊_CN.火热乱斗.gcm",
+      "label": "019 红侠乔 .火热乱斗",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "NGC"
+    },
+ {
+      "path": "D:\\RetroArch\\rom\\wii\\生化危机 安布雷拉历代记.wbfs",
+      "label": "022 生化危机 安布雷拉历代记",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+ {
+      "path": "D:\\RetroArch\\rom\\wii\\异度之刃.wbfs",
+      "label": "020 异度之刃",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+ {
+      "path": "D:\\RetroArch\\rom\\wii\\御姐玫瑰 革命.wbfs",
+      "label": "021 御姐玫瑰 革命",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+ {
+      "path": "D:\\RetroArch\\rom\\wii\\生化危机 暗黑编年史.wbfs",
+      "label": "023 生化危机 暗黑编年史",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "WII"
+    },
+ {
+      "path": "D:\\RetroArch\\rom\\wii\\IKARUGA.ISO",
+      "label": "013 斑鸠",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "NGC"
+    },
+ {
+      "path": "D:\\RetroArch\\rom\\wii\\火焰之纹章：苍炎之轨迹.gcz",
+      "label": "027 火焰之纹章 苍炎之轨迹",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "NGC"
+    },
+ {
+      "path": "D:\\RetroArch\\rom\\wii\\生化危机2_CN.iso",
+      "label": "024 生化危机2",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "NGC"
+    },
+ {
+      "path": "D:\\RetroArch\\rom\\wii\\生化危机3_CN_V2.0.iso",
+      "label": "025 生化危机3",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "NGC"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\ngc\\塞尔达传说 风之杖\\塞尔达传说 风之杖.gcz",
+      "label": "004 塞尔达传说 风之杖",
+      "core_path": "D:\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "NGC"
+    }
+  ]
+}

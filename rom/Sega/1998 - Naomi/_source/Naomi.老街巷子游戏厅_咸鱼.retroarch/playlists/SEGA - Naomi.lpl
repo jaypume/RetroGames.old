@@ -1,0 +1,283 @@
+{
+  "version": "1.4",
+  "default_core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+  "default_core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\mvsc2.zip",
+      "label": "漫威对街霸2",
+      "core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\ninjaslt.zip",
+      "label": "忍者突袭",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\otrigger.zip",
+      "label": "蝴蝶效应",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\pjustic.zip",
+      "label": "燃烧吧正义学园",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\pstone.zip",
+      "label": "pstone",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\pstone2.zip",
+      "label": "pstone2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\rumblf2p.zip",
+      "label": "斗鱼 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\sfz3ugd.zip",
+      "label": "少年街霸 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\sgtetris.zip",
+      "label": "sega俄罗斯方块",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\slasho.zip",
+      "label": "slasho",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\smarinef.zip",
+      "label": "smarinef",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\sstrkfgt.zip",
+      "label": "sstrkfgt",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\toyfight.zip",
+      "label": "toyfight",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\virnba.zip",
+      "label": "virnba",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\wldkicks.zip",
+      "label": "wldkicks",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\wrungp.zip",
+      "label": "wrungp",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\zerogu2.zip",
+      "label": "zerogu2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\zombrvn.zip",
+      "label": "zombrvn",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\zunou.zip",
+      "label": "zunou",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\samsptk.zip",
+      "label": "侍魂6",
+      "core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\fotns.zip",
+      "label": "北斗神拳",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\cvs2.zip",
+      "label": "卡普通vsSNK2百万格斗",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\capsnk.zip",
+      "label": "卡普通vsSNK千禧格斗",
+      "core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\mslug6.zip",
+      "label": "合金弹头6",
+      "core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\asndynmt.zip",
+      "label": "火爆刑事EX",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\kick4csh.zip",
+      "label": "现场足球 (海外版)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\doa2m.zip",
+      "label": "生或死2",
+      "core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\mushik2e.zip",
+      "label": "甲虫王者2e",
+      "core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\ausfache.zip",
+      "label": "电光战纪",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\ggisuka.zip",
+      "label": "罪恶装备",
+      "core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\ggx.zip",
+      "label": "罪恶装备x",
+      "core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\ggxxac.zip",
+      "label": "罪恶装备xxac",
+      "core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\cspike.zip",
+      "label": "锐击",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\Naomi\\mazan.zip",
+      "label": "魔斩",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Naomi.lpl"
+    }
+  ]
+}

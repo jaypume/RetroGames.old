@@ -1,0 +1,323 @@
+{
+  "version": "1.4",
+  "default_core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+  "default_core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\CHINAEMU\\CHINAEMU.CDI",
+      "label": "CHINAEMU",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\JoJo's Bizarre Adventure (USA).chd",
+      "label": "JOJO未来的遗产",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Virtua Cop 2 (Japan).chd",
+      "label": "vr特警",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Zombie Revenge (Europe) (En,Ja).chd",
+      "label": "僵尸复仇",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Spawn\\Spawn_CN_DCLT.CDI",
+      "label": "再生侠",
+      "core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\MUSAPEY.CDI",
+      "label": "姆沙皮的巧克力",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Cosmic Smash (Japan).chd",
+      "label": "宇宙扣球",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Triggerheart Exelica (Japan).chd",
+      "label": "扳机之心",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\IKARUGA\\[DC-STG]Dreamcast_IKARUGA_(J)[T-CHS_1_1][oz01_geeses].CDI",
+      "label": "斑鸠",
+      "core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Last Blade 2, The - Heart of the Samurai (USA).chd",
+      "label": "月华剑士2",
+      "core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Confidential Mission (Europe) (En,Fr,De,Es).chd",
+      "label": "机密任务",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\DC_Grandia2_C_FOR_EMU_V2.cdi",
+      "label": "格兰蒂亚2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It).chd",
+      "label": "格斗之蛇2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Fighting Force 2 (USA).chd",
+      "label": "格斗力量2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\House of the Dead 2, The (Europe) (En,Fr,De,Es).chd",
+      "label": "死亡之屋2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Death Crimson OX (USA).chd",
+      "label": "死亡火枪 ox",
+      "core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Death Crimson 2 (Japan).chd",
+      "label": "死亡火枪2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Jet Set Radio (Europe) (En,Fr,De,Es).chd",
+      "label": "涂鸦小子",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Marvel vs  Capcom 2 - New Age of Heroes (Europe).chd",
+      "label": "漫画英雄对卡普空2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Soulcalibur (Europe) (En,Fr,De,Es).chd",
+      "label": "灵魂能力",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Bangai-O (NTSC)(US).chd",
+      "label": "班凯奥魂",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Veronica\\Code Veronica.m3u",
+      "label": "生化危机 代号维罗妮卡",
+      "core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Dead or Alive 2 (Europe).chd",
+      "label": "生或死2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Crazy Taxi (Europe).chd",
+      "label": "疯狂出租车",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Crazy Taxi 2 (Europe) (En,Ja,Fr,De,Es).chd",
+      "label": "疯狂出租车2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\ILLBLEED\\ILLBLEED_C_4IN1_HACK3_BY_YZB.cdi",
+      "label": "病血",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Dynamite Cop (Europe).chd",
+      "label": "终极警探",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Power Stone (Europe).chd",
+      "label": "能量宝石1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Power Stone 2 (Europe).chd",
+      "label": "能量宝石2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\SM2\\SM2.m3u",
+      "label": "莎木2A",
+      "core_path": "D:\\RetroArch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\SM2\\SM2 B.bin",
+      "label": "莎木2B",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\SM2\\SM2 C.bin",
+      "label": "莎木2C",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\SM2\\SM2 D.bin",
+      "label": "莎木2D",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Blue Stinger (Europe).chd",
+      "label": "蓝刺",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Sonic Adventure (Europe) (En,Ja,Fr,De,Es).chd",
+      "label": "血腥射击",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Hydro Thunder (Europe).chd",
+      "label": "雷霆快艇",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\GigaWing 2 (USA).chd",
+      "label": "雷鸟之翼2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\test0music\\test0music.CDI",
+      "label": "音乐大师",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    },
+    {
+      "path": "D:\\RetroArch\\rom\\DC\\Soul Fighter (Europe).chd",
+      "label": "魂之战士",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DC.lpl"
+    }
+  ]
+}
