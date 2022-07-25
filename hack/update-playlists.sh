@@ -1,9 +1,11 @@
 #!/bin/bash
 
+# This is the source root /path/to/RetroGames/
 ROOT_PATH=$(git rev-parse --show-toplevel)
 
 platforms=(
-    'Android'
+    # platform, default_path_prefix
+    'Android', ''
     'Apple IOS'
     'Nintendo Switch'
     'Sony PSV'
@@ -51,41 +53,6 @@ emulators=(
     'Sony - PSP'
 )
 
-# emulators/RetroArch/
-
-update_playlist_for_all() {
-    for platform in ${platforms[@]}; do
-        update_playlist_for_platform $platform
-    done
-}
-
-update_playlist_for_platform() {
-
-    echo $platform $emulator
-    lines=""
-    for file in ${files[@]}; do
-        lines+=$(jq -n -c --arg path $file \
-            --arg label $file \
-            --arg core_path mGBA.so \
-            --arg core_name mGBA \
-            --arg crc32 '00000000|crc' \
-            --arg db_name $file \
-            '$ARGS.named')
-    done
-    lines_json=$(jq -s '.' <<<$lines)
-
-    final=$(jq -n --arg version "1.2" \
-        --arg default_core_path "" \
-        --arg default_core_name "" \
-        --arg label_display_mode 0 \
-        --arg right_thumbnail_mode 1 \
-        --arg left_thumbnail_mode 0 \
-        --argjson items "$lines_json" \
-        '$ARGS.named')
-
-    echo "$final" >$emulator.lpl
-}
-
 update_sorted_csv() {
     titles=""
     for f in "$_dir_rom"/*; do
@@ -104,6 +71,8 @@ update_sorted_csv() {
 }
 
 update_playlists_from_csv() {
+    # A line in csv file is like:
+    # 龙珠大冒险, long zhu da mao xian
     lines=""
     while IFS=',' read -r cn_name py_name; do
         echo "$cn_name"
@@ -117,6 +86,7 @@ update_playlists_from_csv() {
     done < <(tail -n +1 "$csv_file.csv")
     lines_json=$(jq -s '.' <<<$lines)
 
+    # The final json in *.lpl playlists file.
     lpl_json=$(jq -n --arg version "1.2" \
         --arg default_core_path "" \
         --arg default_core_name "" \
@@ -125,7 +95,9 @@ update_playlists_from_csv() {
         --arg left_thumbnail_mode 0 \
         --argjson items "$lines_json" \
         '$ARGS.named')
-    echo "$lpl_json" > "$_dir_lpl/$emulator.lpl"
+
+    # Then output it to for example xx/playlists/Nintendo - GBA.lpl
+    echo "$lpl_json" >"$_dir_lpl/$emulator.lpl"
 }
 
 update_platform_emulator() {
@@ -145,5 +117,5 @@ update_platform_emulator() {
     update_playlists_from_csv
 }
 
-update_platform_emulator "Android" "Nintendo - GBA" ".gba" "/storage/9C33-6BBD/RetroArch/@ROM/Nintendo - GBA/"
+update_platform_emulator "Android" "Nintendo - GBA" ".gba" "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - GBA/"
 # update_platform_emulator "Android" "Sony - PS2" ".chd"
