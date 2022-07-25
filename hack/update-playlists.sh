@@ -3,13 +3,16 @@
 # This is the source root /path/to/RetroGames/
 ROOT_PATH=$(git rev-parse --show-toplevel)
 
+# if Android, should replace XXXX-XXXX to your real SD card ID
+# if Windows, should replace '/' to '\\' global
+# should not have space after ',', this will cause some error
 platforms=(
     # platform, default_path_prefix
-    'Android', ''
-    'Apple IOS'
-    'Nintendo Switch'
-    'Sony PSV'
-    'Windows'
+    'Android,/storage/XXXX-XXXX/RetroArch/@ROM/'
+    'Apple IOS', '~/Documents/RetroArch/@ROM/'
+    'Nintendo Switch', '/RetroArch/@ROM/'
+    'Sony PSV', 'uma0:/data/retroarch/@ROM/'
+    'Windows', 'D:\\RetroArch\\@ROM\\'
 )
 
 emulators=(
@@ -54,30 +57,32 @@ emulators=(
 )
 
 update_sorted_csv() {
-    titles=""
+    # lines=
     for f in "$_dir_rom"/*; do
         file=$(basename "$f")
-        title=$(basename -s $suffix "$file")
+        extension="${file##*.}"
+        filename="${file%.*}"
         # TODO: 在-或者·前面添加空格，如果前面不是中文的话
-        # TODO: 如果后缀不满足，应该给出warning
+        # TODO: 如果是文件夹该怎么处理
         echo "$file"
         # TODO: 换用更快速的go-pinyin版本
-        title_py=$(echo $(pypinyin -s zhao "$title") | awk '{$1=$1};1')
-        titles+="$title, $title_py"$'\n'
+        #只把title转换为拼音
+        file_py=$(echo $(pypinyin -s zhao "$filename") | awk '{$1=$1};1').$extension
+        lines+="$file, $file_py"$'\n'
     done
-    echo "$titles" >"$csv_file".unsort.csv
+    echo -n "$lines" >"$csv_file".unsort.csv
     sorted="$(sort -k 2 -t ',' "$csv_file".unsort.csv)"
     echo "$sorted" >"$csv_file.csv"
 }
 
 update_playlists_from_csv() {
     # A line in csv file is like:
-    # 龙珠大冒险, long zhu da mao xian
+    # 龙珠大冒险.gba, long zhu da mao xian
     lines=""
     while IFS=',' read -r cn_name py_name; do
         echo "$cn_name"
-        lines+=$(jq -n -c --arg path "$prefix$cn_name$suffix" \
-            --arg label "$cn_name" \
+        lines+=$(jq -n -c --arg path "$prefix$cn_name" \
+            --arg label "${cn_name%.*}" \
             --arg core_path "" \
             --arg core_name "" \
             --arg crc32 '00000000|crc' \
@@ -100,11 +105,10 @@ update_playlists_from_csv() {
     echo "$lpl_json" >"$_dir_lpl/$emulator.lpl"
 }
 
-update_platform_emulator() {
+update_one_platform_one_emulator() {
     platform=$1 # For example: Android, Apple IOS
     emulator=$2 # For example: Nintendo - GBA
-    suffix=$3
-    prefix=$4
+    prefix=$3
     _dir=$ROOT_PATH/emulators/RetroArch/$platform/RetroArch.Full
     _dir_rom=$_dir/@ROM/$emulator
     _dir_csv=$_dir/csv
@@ -113,9 +117,25 @@ update_platform_emulator() {
     mkdir -p "$_dir_csv"
     mkdir -p "$_dir_lpl"
 
-    # update_sorted_csv
+    # if dont want to update all csv, comment this line
+    update_sorted_csv
+    # TODO: 优化这里的函数，如果已有csv的话，直接更新所有其他平台
     update_playlists_from_csv
 }
 
-update_platform_emulator "Android" "Nintendo - GBA" ".gba" "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - GBA/"
-# update_platform_emulator "Android" "Sony - PS2" ".chd"
+update_all_platform_one_emulator() {
+    for platform_and_prefix in "${platforms[@]}"; do
+        platform=$(echo $platform_and_prefix | cut -d',' -f 1)
+        prefix=$(echo $platform_and_prefix | cut -d',' -f 2)
+        echo "Starting to udpate ""[$platform : $emulator]"
+        update_one_platform_one_emulator "$platform" "$emulator" "$prefix"
+    done
+}
+
+update_all_platform_all_emulator() {
+    for emulator in "${emulators[@]}"; do
+        update_all_platform_one_emulator "$emulator"
+    done
+}
+
+update_all_platform_all_emulator
