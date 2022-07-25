@@ -12,7 +12,7 @@ platforms=(
     'Apple IOS,~/Documents/RetroArch/@ROM/'
     'Nintendo Switch,/RetroArch/@ROM/'
     'Sony PSV,uma0:/data/retroarch/@ROM/'
-    'Windows,D:\\RetroArch\\@ROM\\'
+    'Windows,D:\RetroArch\@ROM\'
 )
 
 emulators=(
@@ -132,7 +132,7 @@ update_all_platform_one_emulator() {
     for platform_and_prefix in "${platforms[@]}"; do
         platform=$(echo $platform_and_prefix | cut -d',' -f 1)
         prefix=$(echo $platform_and_prefix | cut -d',' -f 2)
-        echo "Starting to udpate ""[$platform : $emulator]"
+        echo "=========================Starting to udpate ""[$platform : $emulator]"
         update_one_platform_one_emulator "$platform" "$emulator" "$prefix"
     done
 }
