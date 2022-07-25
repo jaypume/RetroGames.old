@@ -9,24 +9,24 @@ ROOT_PATH=$(git rev-parse --show-toplevel)
 platforms=(
     # platform, default_path_prefix
     'Android,/storage/XXXX-XXXX/RetroArch/@ROM/'
-    'Apple IOS', '~/Documents/RetroArch/@ROM/'
-    'Nintendo Switch', '/RetroArch/@ROM/'
-    'Sony PSV', 'uma0:/data/retroarch/@ROM/'
-    'Windows', 'D:\\RetroArch\\@ROM\\'
+    'Apple IOS,~/Documents/RetroArch/@ROM/'
+    'Nintendo Switch,/RetroArch/@ROM/'
+    'Sony PSV,uma0:/data/retroarch/@ROM/'
+    'Windows,D:\\RetroArch\\@ROM\\'
 )
 
 emulators=(
-    '3DO - 3DO'
+    # '3DO - 3DO'
     'Atari - Lynx'
     'BANDAI - WS'
-    'Capcom - CPS1'
-    'Capcom - CPS2'
-    'Capcom - CPS3'
-    'MAME'
+    # 'Capcom - CPS1'
+    # 'Capcom - CPS2'
+    # 'Capcom - CPS3'
+    # 'MAME'
     'Microsoft - DOS'
-    'NEC - PC-FX'
+    # 'NEC - PC-FX'
     'NEC - PCE'
-    'NEC - PCE CD'
+    # 'NEC - PCE CD'
     'Nintendo - 3DS'
     'Nintendo - FC'
     'Nintendo - FC ALL'
@@ -43,13 +43,13 @@ emulators=(
     'Nintendo - SFC ALL'
     'Nintendo - WII'
     'Sega - 32X'
-    'Sega - Dreamcast'
+    # 'Sega - Dreamcast'
     'Sega - GG'
     'Sega - MD'
     'Sega - MS'
     'Sega - Naomi'
     'Sega - Saturn'
-    'SNK - NeoGeo'
+    # 'SNK - NeoGeo'
     'SNK - NGP'
     'Sony - PS1'
     'Sony - PS2'
@@ -111,15 +111,20 @@ update_one_platform_one_emulator() {
     prefix=$3
     _dir=$ROOT_PATH/emulators/RetroArch/$platform/RetroArch.Full
     _dir_rom=$_dir/@ROM/$emulator
-    _dir_csv=$_dir/csv
+    _dir_csv=$ROOT_PATH/emulators/RetroArch/_all_/RetroArch/csv
     _dir_lpl=$_dir/playlists
     csv_file=$_dir_csv/$emulator
     mkdir -p "$_dir_csv"
     mkdir -p "$_dir_lpl"
 
     # if dont want to update all csv, comment this line
-    update_sorted_csv
     # TODO: 优化这里的函数，如果已有csv的话，直接更新所有其他平台
+    if [ -f "$csv_file".csv ]; 
+    then
+        echo "$csv_file".csv" is existing, skip"
+    else
+        update_sorted_csv
+    fi
     update_playlists_from_csv
 }
 
