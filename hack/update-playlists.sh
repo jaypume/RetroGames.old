@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/bin/zsh
+# TODO: may need to move zsh to bash
 
 # This is the source root /path/to/RetroGames/
 ROOT_PATH=$(git rev-parse --show-toplevel)
@@ -6,7 +7,7 @@ ROOT_PATH=$(git rev-parse --show-toplevel)
 # Android: should replace XXXX-XXXX to your real SD card ID
 # Windows: should replace '/' to '\\' global
 # Switch: not supports Chinese filename, for making sure it works right,
-# we need to `bash hack/update-switch-rom` 
+# we need to `bash hack/update-switch-rom`
 # should not have space after ',', this will cause some error
 platforms=(
     # platform, default_path_prefix
@@ -59,7 +60,7 @@ emulators=(
 )
 
 update_sorted_csv() {
-    # lines=
+    lines=
     for f in "$_dir_rom"/*; do
         file=$(basename "$f")
         extension="${file##*.}"
@@ -75,6 +76,7 @@ update_sorted_csv() {
     echo -n "$lines" >"$csv_file".unsort.csv
     sorted="$(sort -k 2 -t ',' "$csv_file".unsort.csv)"
     echo "$sorted" >"$csv_file.csv"
+    rm -f "$csv_file".unsort.csv
 }
 
 update_playlists_from_csv() {
@@ -113,7 +115,7 @@ update_one_platform_one_emulator() {
     prefix=$3
     _dir=$ROOT_PATH/emulators/RetroArch/$platform/RetroArch.Full
     _dir_rom=$_dir/@ROM/$emulator
-    _dir_csv=$ROOT_PATH/emulators/RetroArch/_all_/RetroArch/csv
+    _dir_csv=$ROOT_PATH/emulators/RetroArch/_base_/RetroArch/CSV
     _dir_lpl=$_dir/playlists
     csv_file=$_dir_csv/$emulator
     mkdir -p "$_dir_csv"
@@ -121,8 +123,7 @@ update_one_platform_one_emulator() {
 
     # if dont want to update all csv, comment this line
     # TODO: 优化这里的函数，如果已有csv的话，直接更新所有其他平台
-    if [ -f "$csv_file".csv ]; 
-    then
+    if [ -f "$csv_file".csv ]; then
         echo "$csv_file".csv" is existing, skip"
     else
         update_sorted_csv
