@@ -4,7 +4,7 @@
 ROOT_PATH=$(git rev-parse --show-toplevel)
 BASE_RA_PATH="emulators/RetroArch/_base_/RetroArch"
 
-names=(
+lines=(
     "rom/Arcade/1999 - MAME/MAME"
     "rom/Arcade/1996 - CPS3/Capcom - CPS3"
     "rom/Arcade/1993 - CPS2/Capcom - CPS2"
@@ -50,7 +50,7 @@ copy_rom() {
     target_path=$1
     rm -rf "$ROOT_PATH/$target_path/@ROM"
     mkdir -p "$ROOT_PATH/$target_path/@ROM"
-    for elem in "${names[@]}"; do
+    for elem in "${lines[@]}"; do
         emulator=$(basename "$elem")
         ln -rs "$ROOT_PATH/$elem" "$ROOT_PATH/$target_path/@ROM/$emulator"
     done
@@ -68,9 +68,32 @@ copy_rom_from_base() {
     ln -rs "$ROOT_PATH/$BASE_RA_PATH/thumbnails"/* "$target_thumbnails_path/"
 }
 
+copy_rom_and_thumbnails_not_relpath() {
+    target_path=$1
+    rom_path="$ROOT_PATH/$target_path/@ROM"
+    thumb_path="$ROOT_PATH/$target_path/thumbnails"
+    rm -rf "$rom_path" && mkdir -p "$rom_path"
+    rm -rf "$thumb_path" && mkdir -p "$thumb_path"
+
+    # copy rom
+    for elem in "${lines[@]}"; do
+        emulator=$(basename "$elem")
+        cp -a "$ROOT_PATH/$elem" "$rom_path/$emulator"
+    done
+
+    # copy thumbnails
+    cp -a "$ROOT_PATH/$BASE_RA_PATH/thumbnails"/* "$thumb_path/"
+
+    # fix symbolink by annex
+    git add "$ROOT_PATH/$target_path"
+    git annex fix "$ROOT_PATH/$target_path"
+}
+
 copy_rom "$BASE_RA_PATH"
 copy_rom_from_base "Android"
 copy_rom_from_base "Apple IOS"
 copy_rom_from_base "Sony PSV"
 copy_rom_from_base "Windows"
-# copy_rom "emulators/RetroArch/Nintendo Switch/RetroArch/@ROM/"
+
+# for switch, it is special, because we should rename them to pinyin later.
+copy_rom_and_thumbnails_not_relpath "emulators/RetroArch/Nintendo Switch/RetroArch.Full"
