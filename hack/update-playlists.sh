@@ -12,10 +12,10 @@ ROOT_PATH=$(git rev-parse --show-toplevel)
 platforms=(
     # platform, default_path_prefix
     'Android,/storage/XXXX-XXXX/RetroArch/@ROM/'
-    'Apple IOS,~/Documents/RetroArch/@ROM/'
-    'Nintendo Switch,/RetroArch/@ROM/'
-    'Sony PSV,uma0:/data/retroarch/@ROM/'
-    'Windows,D:\RetroArch\@ROM\'
+    # 'Apple IOS,~/Documents/RetroArch/@ROM/'
+    # 'Nintendo Switch,/RetroArch/@ROM/'
+    # 'Sony PSV,uma0:/data/retroarch/@ROM/'
+    # 'Windows,D:\RetroArch\@ROM\'
 )
 
 emulators=(
@@ -61,16 +61,23 @@ emulators=(
 
 update_sorted_csv() {
     lines=
+    # _dir_rom: ".../@ROM/Nintendo - GBA"
+
     for f in "$_dir_rom"/*; do
         file=$(basename "$f")
         extension="${file##*.}"
         filename="${file%.*}"
-        # TODO: 在-或者·前面添加空格，如果前面不是中文的话
         # TODO: 如果是文件夹该怎么处理
         echo "$file"
         # TODO: 换用更快速的go-pinyin版本
         #只把title转换为拼音
-        file_py=$(echo $(pypinyin -s zhao "$filename") | awk '{$1=$1};1').$extension
+        if [[ $_dir_rom == *ALL ]]; then
+            # if it is end with "ALL", it shows that all filenames are in Englinsh.
+            file_py="$file"
+        else
+            # Chinese filename included, need to transfer to pinyin
+            file_py=$(echo $(pypinyin -s zhao "$filename") | awk '{$1=$1};1').$extension
+        fi
         lines+="$file, $file_py"$'\n'
     done
     echo -n "$lines" >"$csv_file".unsort.csv
@@ -128,7 +135,7 @@ update_one_platform_one_emulator() {
     else
         update_sorted_csv
     fi
-    update_playlists_from_csv
+    # update_playlists_from_csv
 }
 
 update_all_platform_one_emulator() {
