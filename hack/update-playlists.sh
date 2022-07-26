@@ -3,8 +3,10 @@
 # This is the source root /path/to/RetroGames/
 ROOT_PATH=$(git rev-parse --show-toplevel)
 
-# if Android, should replace XXXX-XXXX to your real SD card ID
-# if Windows, should replace '/' to '\\' global
+# Android: should replace XXXX-XXXX to your real SD card ID
+# Windows: should replace '/' to '\\' global
+# Switch: not supports Chinese filename, for making sure it works right,
+# we need to `bash hack/update-switch-rom` 
 # should not have space after ',', this will cause some error
 platforms=(
     # platform, default_path_prefix
