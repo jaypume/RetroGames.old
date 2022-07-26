@@ -78,7 +78,8 @@ update_sorted_csv() {
             # Chinese filename included, need to transfer to pinyin
             file_py=$(echo $(pypinyin -s zhao "$filename") | awk '{$1=$1};1').$extension
         fi
-        lines+="$file, $file_py"$'\n'
+        # should no space here
+        lines+="$file,$file_py"$'\n'
     done
     echo -n "$lines" >"$csv_file".unsort.csv
     sorted="$(sort -k 2 -t ',' "$csv_file".unsort.csv)"
@@ -135,7 +136,7 @@ update_one_platform_one_emulator() {
     else
         update_sorted_csv
     fi
-    # update_playlists_from_csv
+    update_playlists_from_csv
 }
 
 update_all_platform_one_emulator() {
