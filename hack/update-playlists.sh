@@ -11,11 +11,11 @@ ROOT_PATH=$(git rev-parse --show-toplevel)
 # should not have space after ',', this will cause some error
 platforms=(
     # platform, default_path_prefix
-    'Android,/storage/XXXX-XXXX/RetroArch/@ROM/'
-    # 'Apple IOS,~/Documents/RetroArch/@ROM/'
-    # 'Nintendo Switch,/RetroArch/@ROM/'
-    # 'Sony PSV,uma0:/data/retroarch/@ROM/'
-    # 'Windows,D:\RetroArch\@ROM\'
+    # 'Android,/storage/XXXX-XXXX/RetroArch/@ROM'
+    # 'Apple IOS,~/Documents/RetroArch/@ROM'
+    'Nintendo Switch,/retroarch/@ROM'
+    # 'Sony PSV,uma0:/data/retroarch/@ROM'
+    # 'Windows,D:\RetroArch\@ROM'
 )
 
 emulators=(
@@ -32,18 +32,18 @@ emulators=(
     # 'NEC - PCE CD'
     'Nintendo - 3DS'
     'Nintendo - FC'
-    'Nintendo - FC ALL'
-    'Nintendo - GB ALL'
+    # 'Nintendo - FC ALL'
+    # 'Nintendo - GB ALL'
     'Nintendo - GBA'
-    'Nintendo - GBA ALL'
+    # 'Nintendo - GBA ALL'
     'Nintendo - GBC'
-    'Nintendo - GBC ALL'
+    # 'Nintendo - GBC ALL'
     'Nintendo - N64'
-    'Nintendo - N64 ALL'
+    # 'Nintendo - N64 ALL'
     'Nintendo - NDS'
     'Nintendo - NGC'
     'Nintendo - SFC'
-    'Nintendo - SFC ALL'
+    # 'Nintendo - SFC ALL'
     'Nintendo - WII'
     'Sega - 32X'
     # 'Sega - Dreamcast'
@@ -93,7 +93,7 @@ update_playlists_from_csv() {
     lines=""
     while IFS=',' read -r cn_name py_name; do
         echo "$cn_name"
-        lines+=$(jq -n -c --arg path "$prefix$cn_name" \
+        lines+=$(jq -n -c --arg path "$prefix/$emulator/$py_name" \
             --arg label "${cn_name%.*}" \
             --arg core_path "" \
             --arg core_name "" \
