@@ -1,0 +1,282 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/BC dong wu sai che.32x",
+      "label": "BC动物赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/FIFA guo ji zu qiu 96.32x",
+      "label": "FIFA国际足球96",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/NBA jia nian hua jin biao sai.32x",
+      "label": "NBA嘉年华锦标赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/VR sai che hao hua ban.32x",
+      "label": "VR赛车豪华版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/VR zhan shi.32x",
+      "label": "VR战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/WWF feng kuang shuai jiao.32x",
+      "label": "WWF疯狂摔角",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/WWF shi jie shuai jiao bi sai.32x",
+      "label": "WWF世界摔跤比赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/an ying zhong dui.32x",
+      "label": "暗影中队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/bang qiu ju le bu 95.32x",
+      "label": "棒球俱乐部95",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/chong po huo wang wan quan ban.32x",
+      "label": "冲破火网完全版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/dong wu ge dou.32x",
+      "label": "动物格斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/feng niao.32x",
+      "label": "蜂鸟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/gan lan qiu ju le bu.32x",
+      "label": "橄榄球俱乐部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/gao er fu 36.32x",
+      "label": "高尔夫36",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/he jin shou ling.32x",
+      "label": "合金首领",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/hei se jing ji.32x",
+      "label": "黑色荆棘",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/hui mie zhan shi.32x",
+      "label": "毁灭战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/jie pai xiao zi.32x",
+      "label": "节拍小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/kong jian zhan ji.32x",
+      "label": "空间战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/kong long yong bing.32x",
+      "label": "恐龙佣兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/li ti kong zhan 2000.32X",
+      "label": "立体空战2000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/ma ya mao xian.32x",
+      "label": "玛雅冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/mo tuo che yue ye sai.32x",
+      "label": "摩托车越野赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/quan ji zheng ba.32x",
+      "label": "拳击争霸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/san guo zhi IV.32x",
+      "label": "三国志IV",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/shi jie zhi ye bang qiu 95.32x",
+      "label": "世界职业棒球95",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/suo ni ke.32x",
+      "label": "索尼克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/tai kong ha li.32x",
+      "label": "太空哈利",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/wu zhuang jiu shi.32x",
+      "label": "武装鹫狮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/xing ji mi hang.32x",
+      "label": "星际迷航",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/xing qiu da zhan.32x",
+      "label": "星球大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/yu zhou kun chong ge dou.32x",
+      "label": "宇宙昆虫格斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/zhen ren kuai da 2.32x",
+      "label": "真人快打2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - 32X/zhi zhu xia huo wang.32x",
+      "label": "蜘蛛侠火网",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/Sony - PSP/Rock Band Unplugged (US).iso",
+      "label": "Rock Band Unplugged (US)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PSP/Tactics Ogre - Let Us Cling Together (EU).iso",
+      "label": "Tactics Ogre - Let Us Cling Together (EU)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PSP/guai wu lie ren 3rd xie dai ban [ jian ] [ACG han hua zu ].iso",
+      "label": "怪物猎人3rd 携带版 [简] [ACG汉化组]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PSP/huang pai kong zhan X - gui ying cang qiong nei bu zui zhong xiu zheng ban [ fan ] [PSPChina& lei shen han hua ].iso",
+      "label": "皇牌空战 X - 诡影苍穹 内部最终修正版 [繁] [PSPChina&雷神汉化]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PSP/le ke le ke.iso",
+      "label": "乐克乐克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PSP/lu na - yin xing he sheng [ jian ] [WGFWGF].iso",
+      "label": "露娜-银星和声 [简] [WGFWGF]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PSP/nv shen yi wen lu 3 xie dai ban v1.1[ jian ][ pu jia han hua zu ].iso",
+      "label": "女神异闻录3 携带版 v1.1[简][扑家汉化组]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PSP/pa da peng 3 [ fan ] [ guan fang zhong wen ban ] [SONY].iso",
+      "label": "啪嗒砰3 [繁] [官方中文版] [SONY]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PSP/shi kuang zu qiu 10 V1.5 [ jian ] [PSPChina& wan quan shi kuang ].iso",
+      "label": "实况足球 10 V1.5 [简] [PSPChina&完全实况]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PSP/ying xiong chuan shuo - kong zhi gui ji [ jian ] [CG han hua zu ].iso",
+      "label": "英雄传说 - 空之轨迹 [简] [CG汉化组]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PSP/zhan shen - si ba da zhi hun [ fan ] [ guan fang zhong wen ban ] [SONY].iso",
+      "label": "战神-斯巴达之魂 [繁] [官方中文版] [SONY]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PSP/zui zhong huan xiang 7 he xin wei ji ( wei ji zhi yuan )v1.04][ jian ][CG han hua zu ].iso",
+      "label": "最终幻想7 核心危机(危机之源)v1.04][简][CG汉化组]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PSP/zui zhong huan xiang zhan lve ban - shi zi zhan zheng [ jian ][CG han hua zu & tian huan wang ]( xiu fu shi fang ji neng tuo man BUG).iso",
+      "label": "最终幻想 战略版-狮子战争 [简][CG汉化组&天幻网](修复释放技能拖慢BUG)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    }
+  ]
+}

@@ -1,0 +1,2914 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/3D de jun zong bu.gba",
+      "label": "3D德军总部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/CT te zhong bu dui 1.gba",
+      "label": "CT特种部队1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/CT te zhong bu dui 2.gba",
+      "label": "CT特种部队2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/CT te zhong bu dui 3.gba",
+      "label": "CT特种部队3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/DOOM- hui mie zhan shi 2.gba",
+      "label": "DOOM-毁灭战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/DOOM- hui mie zhan shi.gba",
+      "label": "DOOM-毁灭战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/GT zhi ye gai nian jin biao sai che.gba",
+      "label": "GT职业概念锦标赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/J lian meng zu qiu zhi ye chuang zao qiu hui.gba",
+      "label": "J联盟足球职业创造球会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/Q ban sai che A.gba",
+      "label": "Q版赛车A",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/R fei xing dui III.gba",
+      "label": "R飞行队III",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/RPG zhi zao.gba",
+      "label": "RPG制造",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/SD gao da G shi ji.gba",
+      "label": "SD高达G世纪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/SD gao da li liang.gba",
+      "label": "SD高达力量",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/X zhan jing 2- lang ren zhi fu chou.gba",
+      "label": "X战警2-狼人之复仇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/a zi man hua dai wang.gba",
+      "label": "阿滋漫画大王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ai ke si VS se wa - dan dao zhuan jia 2.gba",
+      "label": "艾克斯VS瑟娃-弹道专家2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ai ke si VS se wa.gba",
+      "label": "艾克斯VS瑟娃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ao te man jing bei dui - guai shou tu ji.gba",
+      "label": "奥特曼警备队-怪兽突击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/bao li mo tuo.gba",
+      "label": "暴力摩托",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/bao zhuan tuo luo 2002 ji dou sai - qing long zhi zhang.gba",
+      "label": "爆转陀螺2002激斗赛-青龙之章",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/bian fu xia 1- fu chou.gba",
+      "label": "蝙蝠侠1-复仇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/bian fu xia 2- xin te zu de fu huo.gba",
+      "label": "蝙蝠侠2-辛特组的复活",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/bian fu xia 3- dan sheng.gba",
+      "label": "蝙蝠侠3-诞生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/bian fu xiao zi.gba",
+      "label": "蝙蝠小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/bo si wang zi - shi zhi sha.gba",
+      "label": "波斯王子-时之沙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/cai hong 6 hao.gba",
+      "label": "彩虹6号",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/cang shu tian tang A.gba",
+      "label": "仓鼠天堂A",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao ji duo bi qiu A.gba",
+      "label": "超级躲避球A",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao ji huo qiang ying xiong.gba",
+      "label": "超级火枪英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao ji ji qi ren da zhan - yuan chuang shi ji OG2.gba",
+      "label": "超级机器人大战-原创世纪OG2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao ji ji qi ren da zhan A.gba",
+      "label": "超级机器人大战A",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao ji ji qi ren da zhan D.gba",
+      "label": "超级机器人大战D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao ji ji qi ren da zhan J.gba",
+      "label": "超级机器人大战J",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao ji ji qi ren da zhan OG.gba",
+      "label": "超级机器人大战OG",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao ji ji qi ren da zhan R.gba",
+      "label": "超级机器人大战R",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao ji jie ba dui zhan fang kuai 2.gba",
+      "label": "超级街霸对战方块2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao ji jie tou ba wang 2X- fu su.gba",
+      "label": "超级街头霸王2X-复苏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao ji ma li ao 3- yao qi dao.gba",
+      "label": "超级马里奥3-耀奇岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao ji ma li ao 4.gba",
+      "label": "超级马里奥4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao ji ma li ao A.gba",
+      "label": "超级马里奥A",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao mo jie cun R.gba",
+      "label": "超魔界村R",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao ren te gong dui.gba",
+      "label": "超人特工队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao shi kong yao sai.gba",
+      "label": "超时空要塞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chao xie zhen ma que tong chuang hui.gba",
+      "label": "超写真麻雀同窗会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chen mo de ju ji shou.gba",
+      "label": "沉默的狙击手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chen mo de yi ji - si kuang shen zhan ji wai zhuan.gba",
+      "label": "沉默的遗迹-四狂神战记外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/cheng long mao xian - hei shou dang chuan shuo.gba",
+      "label": "成龙冒险-黑手党传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/cheng shi jiu huo ying xiong che.gba",
+      "label": "城市救火英雄车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chuan shuo shi jie - huan zhuang mi gong 2.gba",
+      "label": "传说世界-换装迷宫2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chuan shuo shi jie - huan zhuang mi gong 3.gba",
+      "label": "传说世界-换装迷宫3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/chun qing fang dong qiao fang ke - zhu fu zhi zhong sheng.gba",
+      "label": "纯情房东俏房客-祝福之钟声",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/da dao wu you wei men - xin shi dai chu dong !.gba",
+      "label": "大盗伍佑卫门-新时代出动!",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/da jin gang - yao bai zhi wang.gba",
+      "label": "大金刚-摇摆之王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/da li shui shou - chong xiang bo cai.gba",
+      "label": "大力水手-冲向菠菜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/da ma que.gba",
+      "label": "大麻雀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/da zhan lve.gba",
+      "label": "大战略",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/da zhong ruan jian xi lie - shu du.gba",
+      "label": "大众软件系列-数独",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/dan mei meng xiang - yin you mo shi lu.gba",
+      "label": "耽美梦想-吟游默示录",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/di qiu mao xian 3.gba",
+      "label": "地球冒险3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/di si ni quan ming xing ti yu xi lie - mo tuo che.gba",
+      "label": "迪斯尼全明星体育系列-摩托车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/di si ni shi zi wang.gba",
+      "label": "迪斯尼狮子王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/di si ni xian lv qi yuan - qi huan zhi lv.gba",
+      "label": "迪斯尼仙履奇缘-奇幻之旅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/di si ni xing ji bao bei 1.gba",
+      "label": "迪斯尼星际宝贝1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/di si ni xing ji bao bei 2.gba",
+      "label": "迪斯尼星际宝贝2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/dian ti da zuo zhan - xin ban & jiu ban.gba",
+      "label": "电梯大作战-新版&旧版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/dong wu si yang yuan.gba",
+      "label": "动物饲养员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/duo ka bang guai wu lie ren.gba",
+      "label": "多卡邦怪物猎人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/e ling qi shi.gba",
+      "label": "恶灵骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/e mo cheng - bai ye xie zou qu.gba",
+      "label": "恶魔城-白夜协奏曲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/e mo cheng - xiao yue yuan wu qu.gba",
+      "label": "恶魔城-晓月圆舞曲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/e mo cheng - yue zhi lun hui.gba",
+      "label": "恶魔城-月之轮回",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/fei chang jian die xiao zi 3D.gba",
+      "label": "非常间谍小子3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/fen lie xi bao ： ming ri pan duo la.gba",
+      "label": "分裂细胞：明日潘多拉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/fen lie xi bao.gba",
+      "label": "分裂细胞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/feng kuang chu zu che.gba",
+      "label": "疯狂出租车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/feng kuang yue ye mo tuo che.gba",
+      "label": "疯狂越野摩托车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/feng zhi ke luo nuo ya 1- meng jian di guo.gba",
+      "label": "风之克罗诺亚1-梦见帝国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/feng zhi ke luo nuo ya 2- meng zhi xuan shou xun hui sai.gba",
+      "label": "风之克罗诺亚2-梦之选手巡回赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/feng zhi ke luo nuo ya ying xiong - chuan shuo de xing zhi hui zhang.gba",
+      "label": "风之克罗诺亚英雄-传说的星之徽章",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/fu te sai che 3.gba",
+      "label": "福特赛车3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gang tie di guo.gba",
+      "label": "钢铁帝国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gang zhi lian jin shu shi - hui yi zhi zou ming qu.gba",
+      "label": "钢之炼金术士-回忆之奏鸣曲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gang zhi lian jin shu shi - mi zou zhi lun wu qu.gba",
+      "label": "钢之炼金术士-迷走之轮舞曲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gao da Seed- ge dou pian.gba",
+      "label": "高达Seed-格斗篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gao ji zhan zheng 2- hei dong de sheng qi.gba",
+      "label": "高级战争2-黑洞的升起",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gao ji zhan zheng.gba",
+      "label": "高级战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gao xiao shou yan jia qiang xi lie - ying yu shu yu pian -650 pian yu shou lu.gba",
+      "label": "高校受验加强系列-英语熟语篇-650片语收录",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gu huo lang - bao tiao de luo bi de yu zi se bao bei long.gba",
+      "label": "古惑狼-暴跳的罗彼德与紫色宝贝龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gu huo lang - wu jin de mao xian.gba",
+      "label": "古惑狼-无尽的冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gu huo lang 2.gba",
+      "label": "古惑狼2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gu huo lang sai che.gba",
+      "label": "古惑狼赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gu huo lang tai tan.gba",
+      "label": "古惑狼泰坦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gu mu li ying - chuan qi.gba",
+      "label": "古墓丽影-传奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gu mu li ying - yu yan.gba",
+      "label": "古墓丽影-预言",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/guai shou xiao wu.gba",
+      "label": "怪兽小屋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/guai wu shou hu zhe.gba",
+      "label": "怪物守护者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/guai wu zhao huan shi.gba",
+      "label": "怪物召唤士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/guang ming li liang - an hei long de fu huo.gba",
+      "label": "光明力量-暗黑龙的复活",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/guang ming zhi hun 1.gba",
+      "label": "光明之魂1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/guang ming zhi hun 2.gba",
+      "label": "光明之魂2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gui tai lang - wei ji yi fa ! yao guai lie dao.gba",
+      "label": "鬼太郎-危机一发!妖怪列岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gui wu zhe zhan lve ban.gba",
+      "label": "鬼舞者战略版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/gui yan kuang dao - jing.gba",
+      "label": "鬼眼狂刀-京",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ha li bo te he mi shi.gba",
+      "label": "哈利波特和密室",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ha li bo te yu a zi ka ban de qiu tu.gba",
+      "label": "哈利波特与阿兹卡班的囚徒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ha mu tai lang 4- hong se da xing jin.gba",
+      "label": "哈姆太郎4-虹色大行进",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ha qian yao guai.gba",
+      "label": "哈欠妖怪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/hai mian bao bao - ben bo.gba",
+      "label": "海绵宝宝-笨伯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/hai mian bao bao - huo shan dao zhi zhan.gba",
+      "label": "海绵宝宝-火山岛之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/hai mian bao bao - ya te lan di si.gba",
+      "label": "海绵宝宝-亚特兰蒂斯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/hai zei wang - bang qiu jin xing qu.gba",
+      "label": "海贼王-棒球进行曲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/hai zei wang - mu biao shang jin wang.gba",
+      "label": "海贼王-目标赏金王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/hai zei wang - shao nian tiao yue.gba",
+      "label": "海贼王-少年跳跃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/han wei zhan shi.gba",
+      "label": "捍卫战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/he jin dan tou A.gba",
+      "label": "合金弹头A",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/he jin she ji zhe.gba",
+      "label": "合金射击者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/hua huo da hui.gba",
+      "label": "花火大会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/huan xiang chuan shuo.gba",
+      "label": "幻想传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/huang jia qi shi tuan wai zhuan - luo di si de qi shi.gba",
+      "label": "皇家骑士团外传-罗迪斯的骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/huang jin tai yang 1- kai qi de feng yin.gba",
+      "label": "黄金太阳1-开启的封印",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/huang jin tai yang 2- shi luo de shi dai.gba",
+      "label": "黄金太阳2-失落的时代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/hui mie gong jue A.gba",
+      "label": "毁灭公爵A",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/hun dou luo - yi xing zhan zheng EX.gba",
+      "label": "魂斗罗-异型战争EX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/huo yan zhi wen zhang - feng yin zhi jian.gba",
+      "label": "火焰之纹章-封印之剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/huo yan zhi wen zhang - lie huo zhi jian.gba",
+      "label": "火焰之纹章-烈火之剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/huo yan zhi wen zhang - sheng mo zhi guang shi.gba",
+      "label": "火焰之纹章-圣魔之光石",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/huo ying ren zhe - mu ye zhan ji.gba",
+      "label": "火影忍者-木叶战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/huo ying ren zhe - zui qiang ren zhe da ji he 1.gba",
+      "label": "火影忍者-最强忍者大集合1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/huo ying ren zhe - zui qiang ren zhe da ji he 2.gba",
+      "label": "火影忍者-最强忍者大集合2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ji dong zhan shi gao da SEED DESTINY.gba",
+      "label": "机动战士高达SEED DESTINY",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ji dong zhan shi gao da SEED- you qing pian.gba",
+      "label": "机动战士高达SEED-友情篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ji dou ! ying xiong ao te man.gba",
+      "label": "激斗!英雄奥特曼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ji he shi dai - dian dian chao liu.gba",
+      "label": "几何世代-点点潮流",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ji jing ling.gba",
+      "label": "寂静岭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ji pin fei che - ka ben xia gu.gba",
+      "label": "极品飞车-卡本峡谷",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ji qi mao - lv zhi huo xing zheng jiu zuo zhan.gba",
+      "label": "机器猫-绿之惑星拯救作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ji xie hua jun dui.gba",
+      "label": "机械化军队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/jia le bi hai dao 2- wang zhe cai bao.gba",
+      "label": "加勒比海盗2-亡者财宝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/jia le bi hai dao.gba",
+      "label": "加勒比海盗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/jian dan 2960 di san ji - xing guang mo fa shi.gba",
+      "label": "简单2960第三集-星光魔法使",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/jian dan 2960 di yi ji - zhuo mian you xi.gba",
+      "label": "简单2960第一集-桌面游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/jian dan shuo ying yu 1.gba",
+      "label": "简单说英语1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/jian dan shuo ying yu 2.gba",
+      "label": "简单说英语2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/jie zou tian guo.gba",
+      "label": "节奏天国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/jin huo lie ren - shi kong de mao xian zhe.gba",
+      "label": "禁货猎人-时空的冒险者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/jiu ji jie quan dao - jin tai lang de fu chou.gba",
+      "label": "究极截拳道-金太郎的复仇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/jue zhan xing qiu.gba",
+      "label": "决战猩球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ka pian ju hui.gba",
+      "label": "卡片聚会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ke na mi wa wa sai che.gba",
+      "label": "科纳米哇哇赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/kong long lie ren - jin hua.gba",
+      "label": "恐龙猎人-进化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/kuai da xuan feng ONE.gba",
+      "label": "快打旋风ONE",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/la bi xiao xin 1- dian ying le yuan da mao xian !.gba",
+      "label": "蜡笔小新1-电影乐园大冒险!",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/la bi xiao xin 2.gba",
+      "label": "蜡笔小新2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/le gao xing qiu da zhan.gba",
+      "label": "乐高星球大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/le ni tong da mao xian.gba",
+      "label": "乐尼通大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/lei man 1.gba",
+      "label": "雷曼1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/lei man 2- a fei fu chou.gba",
+      "label": "雷曼2-阿飞复仇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/lei man 3.gba",
+      "label": "雷曼3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/lei man 4- feng kuang tu zi.gba",
+      "label": "雷曼4-疯狂兔子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/lei niao.gba",
+      "label": "雷鸟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/lei ting zhi ren zhi sheng ji.gba",
+      "label": "雷霆之刃直升机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/lei ting zhi yin.gba",
+      "label": "雷霆之音",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/li xiao long - ying xiong zai xian.gba",
+      "label": "李小龙-英雄再现",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/lian jin shu shi ma li ai li & an si de gong zuo shi - feng zhi chuan yan.gba",
+      "label": "炼金术士玛丽艾莉&安丝的工作室-风之传言",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/lie huo zhi yan.gba",
+      "label": "烈火之炎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/long zhan shi - huo yan zhi qi xi.gba",
+      "label": "龙战士-火焰之气息",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/long zhan shi 2- shi ming zhi zi.gba",
+      "label": "龙战士2-使命之子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/long zhu GT- bian shen.gba",
+      "label": "龙珠GT-变身",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/long zhu Z- bu ou de fen nu.gba",
+      "label": "龙珠Z-布欧的愤怒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/long zhu Z- dui jue.gba",
+      "label": "龙珠Z-对决",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/long zhu Z- wu kong de yi chan 2.gba",
+      "label": "龙珠Z-悟空的遗产2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/long zhu Z- wu kong de yi chan.gba",
+      "label": "龙珠Z-悟空的遗产",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/long zhu Z- wu kong dou ju.gba",
+      "label": "龙珠Z-舞空斗剧",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/long zhu da mao xian.gba",
+      "label": "龙珠大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/lu xing niao da lu - tou zi you xi.gba",
+      "label": "陆行鸟大陆-骰子游戏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/luo ke ren ZERO1.gba",
+      "label": "洛克人ZERO1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/luo ke ren ZERO2.gba",
+      "label": "洛克人ZERO2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/luo ke ren ZERO3.gba",
+      "label": "洛克人ZERO3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/luo ke ren ZERO4.gba",
+      "label": "洛克人ZERO4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/luo ke ren wang luo da zhan EXE2.gba",
+      "label": "洛克人网络大战EXE2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/luo ke ren wang luo zhan dou EXE1.gba",
+      "label": "洛克人网络战斗EXE1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/luo ke ren yu fu lu di.gba",
+      "label": "洛克人与佛鲁迪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/luo ke ren zhan dou wang luo EXE3- huang ban.gba",
+      "label": "洛克人战斗网络EXE3-黄版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/luo ke ren zhan dou wang luo EXE4- lan yue liang.gba",
+      "label": "洛克人战斗网络EXE4-蓝月亮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/luo xuan po huai zhe - hong zhen zuan zi.gba",
+      "label": "螺旋破坏者-轰振钻子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ma li ao VS da jin gang.gba",
+      "label": "马里奥VS大金刚",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ma li ao dan zhu tai.gba",
+      "label": "马里奥弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ma li ao sai che A chao ji xun hui sai.gba",
+      "label": "马里奥赛车A超级巡回赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ma li ao yu lu yi RPG.gba",
+      "label": "马里奥与路易RPG",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ma que xing shi.gba",
+      "label": "麻雀刑事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/man hua di dai.gba",
+      "label": "漫画地带",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/mei mei gong zhu.gba",
+      "label": "妹妹公主",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/mi lao shu 1- mo fa chuan shuo.gba",
+      "label": "米老鼠1-魔法传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/mi lao shu 2- shen mi ma xi tuan.gba",
+      "label": "米老鼠2-神秘马戏团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/mi lao shu 3- mi lao shu he tang lao ya.gba",
+      "label": "米老鼠3-米老鼠和唐老鸭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/mi ni Q ban sai che 2 dai bian su chi lun zhi gong lu lv xing.gba",
+      "label": "迷你Q版赛车2代变速齿轮之公路旅行",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ming zhen tan ke nan - bei zu ji de ming zhen tan.gba",
+      "label": "名侦探柯南-被阻击的名侦探",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ming zhen tan ke nan - li ming zhi bei.gba",
+      "label": "名侦探柯南-黎明之碑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/mo deng yuan shi ren.gba",
+      "label": "摩登原始人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/mo fa lao shi nie ji !- si ren shou ke 2.gba",
+      "label": "魔法老师涅吉!-私人授课2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/mo fa qi pao da hui zhan.gba",
+      "label": "魔法气泡大会战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/mo ni da lou SP.gba",
+      "label": "模拟大楼SP",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/mo ni ren sheng - shang liu she hui.gba",
+      "label": "模拟人生-上流社会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/mu chang wu yu - kuang shi zhen de huo ban men - nv hai pian.gba",
+      "label": "牧场物语-矿石镇的伙伴们-女孩篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/mu chang wu yu - kuang shi zhen de peng you men.gba",
+      "label": "牧场物语-矿石镇的朋友们",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/na po lun.gba",
+      "label": "拿破仑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ni ke tong hai mian bao bao he peng you men - wan ju ji qi ren lai xi.gba",
+      "label": "尼克通海绵宝宝和朋友们-玩具机器人来袭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ni zhuan cai pan 2.gba",
+      "label": "逆转裁判2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ni zhuan cai pan 3.gba",
+      "label": "逆转裁判3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ni zhuan cai pan.gba",
+      "label": "逆转裁判",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/niao ren zhan dui - huang ye li liang.gba",
+      "label": "鸟人战队-荒野力量",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/niao ren zhan dui - jin gang zhan shi S.P.D..gba",
+      "label": "鸟人战队-金刚战士S.P.D.",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/niao ren zhan dui - ju long lei ming.gba",
+      "label": "鸟人战队-巨龙雷鸣",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/niao ren zhan dui - shi kong da zuo zhan.gba",
+      "label": "鸟人战队-时空大作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/niao ren zhan dui - wu shi feng bao.gba",
+      "label": "鸟人战队-武士风暴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/pen qi nv hai - mo nv jiu jiu Go.gba",
+      "label": "喷气女孩-魔女啾啾Go",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/qi che zong dong yuan - quan guo da sai.gba",
+      "label": "汽车总动员-全国大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/qi qi guai jie.gba",
+      "label": "奇奇怪界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/qiao ji tian tang zhi men.gba",
+      "label": "敲击天堂之门",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/qin yin di sheng - ge lan di de fu chou.gba",
+      "label": "琴音笛声-格兰蒂的复仇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/qing song wan huan le zu qiu.gba",
+      "label": "轻松玩欢乐足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/qing wa mao xian 2- mo fa guo da mao xian.gba",
+      "label": "青蛙冒险2-魔法国大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/qiu yin zhan shi 2.gba",
+      "label": "蚯蚓战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/quan huang EX- xin xue.gba",
+      "label": "拳皇EX-新血",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/quan huang EX2- hao jiao de xue ye.gba",
+      "label": "拳皇EX2-嚎叫的血液",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/re xue wu yu EX.gba",
+      "label": "热血物语EX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ren tian tang bo wu guan 4.gba",
+      "label": "任天堂博物馆4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ren xing dian nao tian shi xin.gba",
+      "label": "人形电脑天使心",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ren yu xuan lv.gba",
+      "label": "人鱼旋律",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ren zhe shen gui 2- bing jian zuo zhan.gba",
+      "label": "忍者神龟2-并肩作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ren zhe shen gui.gba",
+      "label": "忍者神龟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ren zhe xing jing.gba",
+      "label": "忍者刑警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/rong yu xun zhang - di xia di kang.gba",
+      "label": "荣誉勋章-地下抵抗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/rong yu xun zhang - shen tou zhe.gba",
+      "label": "荣誉勋章-渗透者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/sai er da chuan shuo - suo xiao mao.gba",
+      "label": "塞尔达传说-缩小帽",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/sai er da chuan shuo - zhong shen de san jiao li liang yu si ren zhi jian.gba",
+      "label": "塞尔达传说-众神的三角力量与四人之剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/san guo zhi kong ming chuan.gba",
+      "label": "三国志孔明传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/san guo zhi ying jie chuan.gba",
+      "label": "三国志英杰传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/san guo zhi.gba",
+      "label": "三国志",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/sha luo man she.gba",
+      "label": "沙罗曼蛇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/shan ling er ren zu - di yu de chou jue.gba",
+      "label": "闪灵二人组-地狱的丑角",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/shang hai.gba",
+      "label": "上海",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/shao nian jie ba 3.gba",
+      "label": "少年街霸3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/shen qi si xia.gba",
+      "label": "神奇四侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/shen tan jia jie te - gao ji ren wu.gba",
+      "label": "神探佳杰特-高级任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/shen tan jia jie te - sai che.gba",
+      "label": "神探佳杰特-赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/shen you ji su ling shi wei lai sai che.gba",
+      "label": "神游极速零式未来赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/sheng dan jing hun ye.gba",
+      "label": "圣诞惊魂夜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/sheng dan lao ren.gba",
+      "label": "圣诞老人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/sheng hua wei ji 2.gba",
+      "label": "生化危机2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/sheng li 11 ren - shi kuang zu qiu.gba",
+      "label": "胜利11人-实况足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/shi jia la li jin biao sai che.gba",
+      "label": "世嘉拉力锦标赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/shi jie chuan shuo - zhao huan zhe zhi xue tong.gba",
+      "label": "世界传说-召唤者之血统",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/shou hu ying xiong A.gba",
+      "label": "守护英雄A",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/shu ma bao bei - ge dou zhi hun 1.gba",
+      "label": "数码宝贝-格斗之魂1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/shu ma bao bei - ge dou zhi hun 2.gba",
+      "label": "数码宝贝-格斗之魂2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/shuang jie long.gba",
+      "label": "双截龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/si shen xue ran shi hun jie.gba",
+      "label": "死神 血染尸魂界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/suo ni ke 2.gba",
+      "label": "索尼克2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/suo ni ke 3.gba",
+      "label": "索尼克3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/suo ni ke da mao xian.gba",
+      "label": "索尼克大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/suo ni ke zhan dou.gba",
+      "label": "索尼克战斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/tai kong pin dao 5- wu la la zhi xuan yao gong ji.gba",
+      "label": "太空频道5-舞啦啦之炫耀攻击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/tai kong ru qin zhe EX.gba",
+      "label": "太空入侵者EX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/tai kong zhan dou ji R.gba",
+      "label": "太空战斗机R",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/tang mu he jie li - tao chu di yu.gba",
+      "label": "汤姆和杰利-逃出地狱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/tang mu he jie rui - mo fa ling dang.gba",
+      "label": "汤姆和杰瑞-魔法铃铛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/tao jin zhe.gba",
+      "label": "淘金者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/tao tai lang dian tie G!.gba",
+      "label": "桃太郎电铁G!",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/te ji ren.gba",
+      "label": "特技人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/te lu ni ke da mao xian 2- bu ke si yi de mi gong.gba",
+      "label": "特鲁尼克大冒险2-不可思议的迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/te lu ni ke da mao xian 3- bu ke si yi de mi gong.gba",
+      "label": "特鲁尼克大冒险3-不可思议的迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/tian cai ye ye - shi shang zui qiang zhi tu xia zuo.gba",
+      "label": "天才爷爷-史上最强之土下座",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/tian wai mo jing - qing zhi tian wai.gba",
+      "label": "天外魔境-青之天外",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/tie bi a tong mu - a tong mu xin zhi mi mi.gba",
+      "label": "铁臂阿童木-阿童木心之秘密",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/tie quan.gba",
+      "label": "铁拳",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/tong ling wang - jing shen da shi 2.gba",
+      "label": "通灵王-精神大师2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/tong ling wang - jing shen da shi.gba",
+      "label": "通灵王-精神大师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/tong qin yi bi.gba",
+      "label": "通勤一笔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/tou wen zi D sai che - ling yi ge gu shi.gba",
+      "label": "头文字D赛车-另一个故事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wa li ao shi jie 4.gba",
+      "label": "瓦里奥世界4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wa li ao zhi zao.gba",
+      "label": "瓦里奥制造",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wai xing ren - zhuo lu.gba",
+      "label": "外星人-着陆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wan ju jun ren - cao chang de zhan zheng.gba",
+      "label": "玩具军人-草场的战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wang guo zhi xin - ji yi zhi lian.gba",
+      "label": "王国之心-记忆之链",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wang qiu wang zi - guang rong zhi jin.gba",
+      "label": "网球王子-光荣之金",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wang qiu wang zi - shi shang zhi yin.gba",
+      "label": "网球王子-时尚之银",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wang qiu wang zi - tian cai shao nian xue yuan.gba",
+      "label": "网球王子-天才少年学院",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wang qiu wang zi 2003- bing lan ban.gba",
+      "label": "网球王子2003-冰蓝版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wang qiu wang zi 2003- huo hong ban.gba",
+      "label": "网球王子2003-火红版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wo hu cang long.gba",
+      "label": "卧虎藏龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wo men de tai yang 1.gba",
+      "label": "我们的太阳1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wo men de tai yang 2.gba",
+      "label": "我们的太阳2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wo men de tai yang 3- sa ba ta de ni xi.gba",
+      "label": "我们的太阳3-萨巴塔的逆袭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wu di feng huo lun sai che - zhang ai tiao zhan sai.gba",
+      "label": "无敌风火轮赛车-障碍挑战赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/wu zhi ren - shan guang.gba",
+      "label": "舞之刃-闪光",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xia dao lie che shou.gba",
+      "label": "侠盗猎车手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xiao fei xia - hui dao meng bu luo di guo.gba",
+      "label": "小飞侠-回到梦不落帝国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xiao long si pai luo - bing dong de ji jie.gba",
+      "label": "小龙斯派罗-冰冻的季节",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xiao long si pai luo - rui nuo xi si de gong ji.gba",
+      "label": "小龙斯派罗-瑞诺西斯的攻击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xiao long si pai luo - you qing da zuo zhan !.gba",
+      "label": "小龙斯派罗-友情大作战!",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xiao long si pai luo 2- huo yan de ji jie.gba",
+      "label": "小龙斯派罗2-火焰的季节",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xiao yi xiong bing - ji xian sai che.gba",
+      "label": "小蚁雄兵-极限赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xie dai dian shou 2- li liang ban.gba",
+      "label": "携带电兽2-力量版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xie dai dian shou 2- su du ban.gba",
+      "label": "携带电兽2-速度版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xin tiao peng ren - mei wei chu fang.gba",
+      "label": "心跳烹饪-美味厨房",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xin yue sheng jian chuan shuo.gba",
+      "label": "新约圣剑传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xin zhang yi wen lu.gba",
+      "label": "信长异闻录",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xing yu hui mie zhe 2173- yi zhu.gba",
+      "label": "星域毁灭者2173-遗嘱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xing yun qiang shou lu ke - tong ji fan.gba",
+      "label": "幸运枪手路克-通缉犯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xing zhi ka bi - jing zhi mi gong.gba",
+      "label": "星之卡比-镜之谜宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xing zhi ka bi - meng zhi quan di la ke si.gba",
+      "label": "星之卡比-梦之泉蒂拉克丝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/xu ni wang qiu.gba",
+      "label": "虚拟网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/yi ci yuan di ren.gba",
+      "label": "异次元敌人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/yi deng zhan ji II.gba",
+      "label": "伊登战机II",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/yi deng zhan ji.gba",
+      "label": "伊登战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/yin he zhan ji.gba",
+      "label": "银河战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/yin he zhan shi 1.gba",
+      "label": "银河战士1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/yin he zhan shi 2- ling dian ren wu.gba",
+      "label": "银河战士2-零点任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/yin he zhi xing - lu na chuan qi.gba",
+      "label": "银河之星-露娜传奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/ying xiong ben se - ma ke si · pei en.gba",
+      "label": "英雄本色-马克思·佩恩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/yong zhe dou e long guai wu pian 3- lv tuan zhi xin.gba",
+      "label": "勇者斗恶龙怪物篇3-旅团之心",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/you gu duo la gong zhu lian meng.gba",
+      "label": "尤古朵拉公主联盟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/you qing zu qiu 4v4- de fen !!.gba",
+      "label": "友情足球4v4-得分!!",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/you xi wang - guai shou jue dou guo ji ban 2.gba",
+      "label": "游戏王-怪兽决斗国际版2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/you xi wang - mu biao jue dou wang guai shou GX!.gba",
+      "label": "游戏王-目标决斗王怪兽GX!",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/you xi wang - shi jie jin biao sai 2004.gba",
+      "label": "游戏王-世界锦标赛2004",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/you xi wang 8- po mie zhi da xie shen.gba",
+      "label": "游戏王8-破灭之大邪神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/you xi wang Expert3.gba",
+      "label": "游戏王Expert3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/you xi wang UM2006.gba",
+      "label": "游戏王UM2006",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/you xi wang guo ji ban.gba",
+      "label": "游戏王国际版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/yue shu zhi di Riviera.gba",
+      "label": "约束之地Riviera",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zha dan ren ma ke si 2- hong ban.gba",
+      "label": "炸弹人马克思2-红版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zha dan ren ma ke si 2- lan ban.gba",
+      "label": "炸弹人马克思2-蓝版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhan guo ge ming wai zhuan.gba",
+      "label": "战国革命外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhan mu si bang de 007- shui yu zheng feng 007.gba",
+      "label": "詹姆斯邦德007-谁与争锋007",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhan mu si bang de 007- ye huo.gba",
+      "label": "詹姆斯邦德007-夜火",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhao huan zhi ye - zhu jian wu yu - qi yuan zhi shi.gba",
+      "label": "召唤之夜-铸剑物语-起源之石",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhao huan zhi ye - zhu jian wu yu 2.gba",
+      "label": "召唤之夜-铸剑物语2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhao huan zhi ye - zhu jian wu yu.gba",
+      "label": "召唤之夜-铸剑物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhen nv shen zhuan sheng.gba",
+      "label": "真女神转生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhen ren kuai da - zhi ming lian meng.gba",
+      "label": "真人快打-致命联盟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhen tan shen gong si san lang - bai ying shao nv.gba",
+      "label": "侦探神宫寺三郎-白影少女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhen tan xue yuan Q- ming zhen tan jiu shi ni !.gba",
+      "label": "侦探学院Q-名侦探就是你!",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhen · san guo wu shuang.gba",
+      "label": "真·三国无双",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zheng xie huan xiang qu Zero.gba",
+      "label": "正邪幻想曲Zero",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhi huan wang - wang zhe gui lai.gba",
+      "label": "指环王-王者归来",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhi mu de fa ze.gba",
+      "label": "植木的法则",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhi zhu ren - wei zhi de wei xie.gba",
+      "label": "蜘蛛人-未知的威胁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhi zhu xia - niu yue zhi zhan.gba",
+      "label": "蜘蛛侠-纽约之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhong jie zhe 3 ji qi de jue qi.gba",
+      "label": "终结者3机器的崛起",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhong zhuang ji bing 2· gai.gba",
+      "label": "重装机兵2·改",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhong zhuang qi shi - shan guang ying xiong de dan sheng !.gba",
+      "label": "重装骑士-闪光英雄的诞生!",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhu luo ji gong yuan 3-DNA ji yin.gba",
+      "label": "侏罗纪公园3-DNA基因",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhuan zhuan bang.gba",
+      "label": "转转棒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zhuo gui te gong dui -Ecto-1 xing dong.gba",
+      "label": "捉鬼特工队-Ecto-1行动",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zuan di xiao zi - bu ke si yi de xi jun.gba",
+      "label": "钻地小子-不可思议的细菌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zui e ke xing X.gba",
+      "label": "罪恶克星X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zui zhong huan xiang 1+2- hun zhi li ming.gba",
+      "label": "最终幻想1+2-魂之黎明",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zui zhong huan xiang 4.gba",
+      "label": "最终幻想4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zui zhong huan xiang 5.gba",
+      "label": "最終幻想5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zui zhong huan xiang liu dai.gba",
+      "label": "最终幻想六代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - GBA/zui zhong huan xiang zhan lve ban.gba",
+      "label": "最终幻想战略版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBA.lpl"
+    }
+  ]
+}

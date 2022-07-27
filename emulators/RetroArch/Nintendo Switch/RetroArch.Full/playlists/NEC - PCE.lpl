@@ -1,0 +1,2098 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/1943 gai.pce",
+      "label": "1943改",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/F wu zhuang zhan ji.pce",
+      "label": "F武装战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/F1 da sai che.pce",
+      "label": "F1大赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/F1 jia shi yuan - wang zhong zhi wang.pce",
+      "label": "F1驾驶员-王中之王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/F1 jing ji chang 91 shi jie jin biao sai.pce",
+      "label": "F1竞技场91 世界锦标赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/F1 jing ji chang 92 yin su.pce",
+      "label": "F1竞技场92 音速",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/F1 jing ji chang.pce",
+      "label": "F1竞技场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/F1 zhi meng.pce",
+      "label": "F1之梦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/Gunhed.pce",
+      "label": "Gunhed",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/J lian meng wei da 11 ren.pce",
+      "label": "J联盟伟大11人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/Naxat bang qiu.pce",
+      "label": "Naxat棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/Naxat gao er fu gong kai sai.pce",
+      "label": "Naxat高尔夫公开赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/P47 zi you zhan shi.pce",
+      "label": "P47 自由战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/PC dian ren.pce",
+      "label": "PC电人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/PC yuan ren 2.pce",
+      "label": "PC原人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/PC yuan ren 3.pce",
+      "label": "PC原人3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/PC yuan ren.pce",
+      "label": "PC原人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/Q ban sha luo man she.pce",
+      "label": "Q版沙罗曼蛇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ROCK ON.pce",
+      "label": "ROCK ON",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/Spin Pair.pce",
+      "label": "Spin Pair",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ai ji na.pce",
+      "label": "艾吉娜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ai li si mao xian shi jie.pce",
+      "label": "爱丽丝冒险世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ai li si meng you xian jing.pce",
+      "label": "爱丽丝梦游仙境",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/an hei chuan shuo.pce",
+      "label": "暗黑传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/an ye sheng wu.pce",
+      "label": "暗夜生物",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/bai qing fu jun shi fan sheng fu.pce",
+      "label": "柏青夫君 十番胜负",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/bao li bing shang qu gun qiu.pce",
+      "label": "暴力冰上曲棍球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/bao lun da zuo zhan.pce",
+      "label": "宝伦大作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/bao shi fang kuai.pce",
+      "label": "宝石方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/bao xiao ren.pce",
+      "label": "爆笑人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/bian fu xia.pce",
+      "label": "蝙蝠侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/bian qing wai zhuan.pce",
+      "label": "弁庆外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/bing feng.pce",
+      "label": "兵峰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/cai hong dao 2 zhe yang san zhi xing.pce",
+      "label": "彩虹岛2 遮阳伞之星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chang shi zu qiu.pce",
+      "label": "场式足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji bang qiu lian meng 2.pce",
+      "label": "超级棒球联盟2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji bang qiu lian meng 3.pce",
+      "label": "超级棒球联盟3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji bang qiu lian meng 4.pce",
+      "label": "超级棒球联盟4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji bang qiu lian meng 5.pce",
+      "label": "超级棒球联盟5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji bang qiu lian meng 93.pce",
+      "label": "超级棒球联盟93",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji bang qiu lian meng.pce",
+      "label": "超级棒球联盟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji gao er fu.pce",
+      "label": "超级高尔夫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji jin shu sha shou.pce",
+      "label": "超级金属杀手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji pai qiu.pce",
+      "label": "超级排球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji sai che.pce",
+      "label": "超级赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji tao tai lang dian tie 2.pce",
+      "label": "超级桃太郎电铁2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji tao tai lang dian tie.pce",
+      "label": "超级桃太郎电铁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji tie ban zhen.pce",
+      "label": "超级铁板阵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji wang qiu.pce",
+      "label": "超级网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji xing ji zhan shi.pce",
+      "label": "超级星际战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji yun dong yuan.pce",
+      "label": "超级运动员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao ji zu qiu.pce",
+      "label": "超级足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao jue lun ren.pce",
+      "label": "超绝伦人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chao kong zhan ji.pce",
+      "label": "超空战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/cheng long zhi long.pce",
+      "label": "成龙之龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/cheng shi lie ren.pce",
+      "label": "城市猎人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chi dou ren.pce",
+      "label": "吃豆人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chong po huo wang 2.pce",
+      "label": "冲破火网2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chui bo tang wei ji.pce",
+      "label": "吹波糖危机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/chui qiu da sai.pce",
+      "label": "槌球大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/da di wen zhang.pce",
+      "label": "大地文章",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/da shui guo.pce",
+      "label": "打水果",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/da xiang pu ping cheng ban.pce",
+      "label": "大相扑 平成版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/da xuan feng.pce",
+      "label": "大旋风",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/di di の da mo gong.pce",
+      "label": "地底の大魔宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/di yu zhi lv.pce",
+      "label": "地狱之旅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ding ji qi fan.pce",
+      "label": "定吉七番",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/dong wu jin tou nao.pce",
+      "label": "动物金头脑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/du shi ji hua.pce",
+      "label": "都市计划",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/duo la A meng a la bo zhi ye.pce",
+      "label": "哆啦A梦 阿拉伯之夜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/duo la A meng mi gong da zuo zhan.pce",
+      "label": "哆啦A梦 迷宫大作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/e mo chuan.pce",
+      "label": "恶魔传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/fei zhuang qi bing.pce",
+      "label": "飞装骑兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/feng huang zhan ji.pce",
+      "label": "凤凰战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/feng kuang qian jin.pce",
+      "label": "疯狂前进",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/feng kuang sai che.pce",
+      "label": "疯狂赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/feng kuang shuai jiao.pce",
+      "label": "疯狂摔角",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/gai zao chao ren 2.pce",
+      "label": "改造超人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/gai zao chao ren.pce",
+      "label": "改造超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/gao er fu shao nian.pce",
+      "label": "高尔夫少年",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/gong fu.pce",
+      "label": "功夫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/guai shou shuai jiao.pce",
+      "label": "怪兽摔角",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/guan yuan zhi yi.pce",
+      "label": "关原之役",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/gui wu.pce",
+      "label": "鬼屋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/hai di shen hua.pce",
+      "label": "海底神话",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/he xin zhan ji.pce",
+      "label": "核心战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/heng li xian sheng de da mao xian.pce",
+      "label": "亨利先生的大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/hu zhi dao.pce",
+      "label": "虎之道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/hua shi zhuang qiu.pce",
+      "label": "花式撞球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/hua zha ai hao zhe ju le bu.pce",
+      "label": "花札爱好者俱乐部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/hua zhuang wu hui zhi mi.pce",
+      "label": "化妆舞会之谜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/huan xiang kong jian.pce",
+      "label": "幻想空间",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/huan ying zhan ji.pce",
+      "label": "幻影战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/huan zhi da di.pce",
+      "label": "幻之大地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ji dong jing lv.pce",
+      "label": "机动劲旅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ji le zhong hua da xian.pce",
+      "label": "极乐中华大仙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ji lie zhan dou.pce",
+      "label": "激烈战斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ji qi ren duo bi qiu.pce",
+      "label": "机器人躲避球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/jiang qi chu duan yi zhi xian.pce",
+      "label": "将棋 初段一直线",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/jiang qi chu duan zhe wu yong.pce",
+      "label": "将棋 初段者无用",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/jie gou zu qiu xiu man bei 90.pce",
+      "label": "结构足球 休曼杯90",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/jie tou ba wang 2 guan jun ban.pce",
+      "label": "街头霸王2 冠军版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/jiu ji hu.pce",
+      "label": "究极虎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/jue dui he ti.pce",
+      "label": "绝对合体",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ka da xu chuan shuo.pce",
+      "label": "卡达叙传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/kai xin ping guo qi.pce",
+      "label": "开心苹果棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/kong long nv zhan shi.pce",
+      "label": "恐龙女战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/lei dian.pce",
+      "label": "雷电",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/lian suo fang kuai.pce",
+      "label": "连锁方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/liu qiu.pce",
+      "label": "琉球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/long bao bao.pce",
+      "label": "龙宝宝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/long hun.pce",
+      "label": "龙魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/long zhi ren.pce",
+      "label": "龙之刃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/long zhi zi.pce",
+      "label": "龙之子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/luo bi.pce",
+      "label": "罗比",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/lv guan wang.pce",
+      "label": "旅馆王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ma jiang ba wang chuan.pce",
+      "label": "麻将霸王传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ma jiang ci ke lie zhuan ma que zhan zheng.pce",
+      "label": "麻将刺客列传 麻雀战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ma jiang wu kong te bie ban.pce",
+      "label": "麻将悟空特别版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ma jiang xue yuan dong jian zong si lang deng chang wen he ban.pce",
+      "label": "麻将学院 东间宗四郎登场 温和版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ma jiang xue yuan dong jian zong si lang deng chang xian zhi ban.pce",
+      "label": "麻将学院 东间宗四郎登场 限制版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ma tong xiao zi.pce",
+      "label": "马桶小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mao mao chong.pce",
+      "label": "毛毛虫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mao qiu li xian ji.pce",
+      "label": "毛球历险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mao xian dao.pce",
+      "label": "冒险岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mao xian nan jue.pce",
+      "label": "冒险男爵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mao zi fang kuai.pce",
+      "label": "帽子方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mei guo zhi ye lan qiu.pce",
+      "label": "美国职业篮球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mei nv wai zhuan 2.pce",
+      "label": "美女外传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mi gong ta.pce",
+      "label": "迷宫塔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mi hun fang kuai.pce",
+      "label": "迷魂方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mi hun zhen.pce",
+      "label": "迷魂阵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ming ri zhi xing shuai jiao.pce",
+      "label": "明日之星摔角",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mo dong zhan ji.pce",
+      "label": "魔洞战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mo huan dan zhu tai.pce",
+      "label": "魔幻弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mo jie ba quan chuan.pce",
+      "label": "魔界八犬传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mo jie wang zi.pce",
+      "label": "魔界王子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mo jing chuan shuo.pce",
+      "label": "魔境传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mo shen ying xiong chuan.pce",
+      "label": "魔神英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mo tuo che da sai.pce",
+      "label": "摩托车大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/mu jiang xiong di.pce",
+      "label": "木匠兄弟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/nan ren shi jie.pce",
+      "label": "男人世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ni ke luo si yao sai.pce",
+      "label": "尼克罗斯要塞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ni xi 2.pce",
+      "label": "逆袭2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/nv ren kuai da 2.pce",
+      "label": "女人快打2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/nv wu shi chuan shuo.pce",
+      "label": "女武士传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ou tan jiu mei.pce",
+      "label": "欧坦救美",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/pi li you xia.pce",
+      "label": "霹雳游侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/qi kuang chuan shuo.pce",
+      "label": "凄狂传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/qi qi guai jie.pce",
+      "label": "奇奇怪界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/qing lv shen hua.pce",
+      "label": "青驴神话",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/quan wang zheng ba.pce",
+      "label": "拳王争霸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ran shao tian shi.pce",
+      "label": "燃烧天使",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/re xue gao xiao duo bi qiu bu PC fan wai pian.pce",
+      "label": "热血高校躲避球部 PC番外篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/re xue gao xiao duo bi qiu bu PC zu qiu pian.pce",
+      "label": "热血高校躲避球部 PC足球篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/re xue shuai jiao 2.pce",
+      "label": "热血摔角2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/re xue shuai jiao 3.pce",
+      "label": "热血摔角3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/re xue shuai jiao.pce",
+      "label": "热血摔角",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ren zhe long jian chuan.pce",
+      "label": "忍者龙剑传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ren zhe zhan shi.pce",
+      "label": "忍者战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/ren.pce",
+      "label": "忍",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/sen tian jiang qi.pce",
+      "label": "森田将棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/sha luo man she.pce",
+      "label": "沙罗曼蛇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shan ling han jiang.pce",
+      "label": "闪灵悍将",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shang hai.pce",
+      "label": "上海",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shao ye mao xian.pce",
+      "label": "少爷冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/she ji tian gou.pce",
+      "label": "射击天狗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shen jian chuan shuo 2.pce",
+      "label": "神剑传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shen qi nv hai.pce",
+      "label": "神奇女孩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shen wu chuan cheng.pce",
+      "label": "神武传承",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/sheng li gao er fu.pce",
+      "label": "胜利高尔夫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/sheng li sai che.pce",
+      "label": "胜利赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shi jie bang qiu 91.pce",
+      "label": "世界棒球91",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shi jie bang qiu.pce",
+      "label": "世界棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shi jie mao xian ji 2.pce",
+      "label": "世界冒险记2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shi jie mao xian ji.pce",
+      "label": "世界冒险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shi jie sai ma.pce",
+      "label": "世界赛马",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shi jie sha tan pai qiu.pce",
+      "label": "世界沙滩排球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shi jie wang qiu.pce",
+      "label": "世界网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shou wang ji.pce",
+      "label": "兽王记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shu xiong li xian ji.pce",
+      "label": "树熊历险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/shui guo ji.pce",
+      "label": "水果机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/si ling zhan xian.pce",
+      "label": "死灵战线",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/si wang zhi yue.pce",
+      "label": "死亡之月",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/song huo xiao zi.pce",
+      "label": "送货小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/suo luo men zhi yao.pce",
+      "label": "所罗门之钥",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tai ji qiu.pce",
+      "label": "太极球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tai kong ha li.pce",
+      "label": "太空哈利",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tai kong mo ni zhan.pce",
+      "label": "太空模拟战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tai kong qin lve zhe fu huo zhi ri.pce",
+      "label": "太空侵略者 复活之日",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tai kong tu luo bi te bie ban.pce",
+      "label": "太空兔罗比特别版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tai kong zhan dou ji Plus.pce",
+      "label": "太空战斗机Plus",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tai kong zhan ji Alpha.pce",
+      "label": "太空战机Alpha",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tai ping ji.pce",
+      "label": "太平记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tai tan qiu.pce",
+      "label": "泰坦球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tao jin zhe mi shi mi gong.pce",
+      "label": "淘金者 迷失迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tao tai lang chuan shuo 2.pce",
+      "label": "桃太郎传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tao tai lang chuan shuo jia qiang ban.pce",
+      "label": "桃太郎传说 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tao tai lang chuan shuo wai zhuan.pce",
+      "label": "桃太郎传说外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tao tai lang huo ju.pce",
+      "label": "桃太郎活剧",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tian sheng long.pce",
+      "label": "天圣龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tie jia wei long.pce",
+      "label": "铁甲威龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tie jia zhan che.pce",
+      "label": "铁甲战车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/tong xun shao nian.pce",
+      "label": "通讯少年",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/wan ju xiao zi.pce",
+      "label": "玩具小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/wei lai sai che 2.pce",
+      "label": "未来赛车2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/wei lai sai che.pce",
+      "label": "未来赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/wu tian xin xuan.pce",
+      "label": "武田信玄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/wu zhuang xing shi.pce",
+      "label": "武裝刑事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/wu zhuang zhan dou xing shi.pce",
+      "label": "武裝战斗刑事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/wu zi chong feng qiang.pce",
+      "label": "乌兹冲锋枪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/xi you ji 2.pce",
+      "label": "西游记2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/xia zai.pce",
+      "label": "下载",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/xiang ju yi ke.pce",
+      "label": "相聚一刻",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/xiao dai shu.pce",
+      "label": "小袋鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/xiao mi feng 88.pce",
+      "label": "小蜜蜂88",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/xiao mo nv.pce",
+      "label": "小魔女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/xiao ying xiong tuo ma.pce",
+      "label": "小英雄托马",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/xie sheng jian.pce",
+      "label": "邪圣剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/xie zhen wen da.pce",
+      "label": "写真问答",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/xie zhen xiao zi.pce",
+      "label": "写真小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/xin mao xian dao.pce",
+      "label": "新冒险岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/xin xi lan gu shi.pce",
+      "label": "新西兰故事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/xuan feng ren wu.pce",
+      "label": "旋风任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/xue lang.pce",
+      "label": "血狼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yan zhi da di.pce",
+      "label": "炎之大地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yan zhi dou qiu er duo bi qiu dan ping.pce",
+      "label": "炎之斗球儿 躲避球弹平",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yao guai dao zhong ji.pce",
+      "label": "妖怪道中记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yao mo chuan.pce",
+      "label": "妖魔传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yi ci yuan zhan ji.pce",
+      "label": "异次元战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yi jing.pce",
+      "label": "义警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yi xing dan zhu tai.pce",
+      "label": "异形弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yi xing zhan ji I.pce",
+      "label": "异形战机 I",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yi xing zhan ji II.pce",
+      "label": "异形战机 II",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/you hun ling di.pce",
+      "label": "幽魂领地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/you xi ren sheng.pce",
+      "label": "游戏人生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yu zhou da ren.pce",
+      "label": "宇宙达人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yu zhou jing bei dui.pce",
+      "label": "宇宙警备队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yu zhou shuang ying.pce",
+      "label": "宇宙双鹰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yu zhou xun hang ji.pce",
+      "label": "宇宙巡航机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yuan ping tao mo chuan xi lie juan er.pce",
+      "label": "源平讨魔传系列卷二",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yuan ping tao mo chuan.pce",
+      "label": "源平讨魔传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/yuan zi ji xie tong.pce",
+      "label": "原子机械童",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zha dan ren 93.pce",
+      "label": "炸弹人93",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zha dan ren 94.pce",
+      "label": "炸弹人94",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zha dan ren.pce",
+      "label": "炸弹人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zhan dou duo bi qiu.pce",
+      "label": "战斗躲避球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zhan dou tao jin zhe.pce",
+      "label": "战斗淘金者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zhan dou zhi sheng ji.pce",
+      "label": "战斗直升机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zhan guo ma que.pce",
+      "label": "战国麻雀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zhan shi zhi ren.pce",
+      "label": "战士之刃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zhen shi quan ji.pce",
+      "label": "真实拳击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zhi ye bang qiu 89.pce",
+      "label": "职业棒球89",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zhi ye bang qiu 90.pce",
+      "label": "职业棒球90",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zhong ji jing tan.pce",
+      "label": "终级警探",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zhong ji sai che.pce",
+      "label": "终级赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zhong ji wang qiu.pce",
+      "label": "终级网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zhu dian wu teng bing wei.pce",
+      "label": "逐电屋藤兵卫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zhui zong xing jing.pce",
+      "label": "追踪刑警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zui hou de ren dao.pce",
+      "label": "最后的忍道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/NEC - PCE/zui zhong zhan ji.pce",
+      "label": "最终战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    }
+  ]
+}

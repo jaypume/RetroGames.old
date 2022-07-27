@@ -1,0 +1,410 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/a bi a di de mao xian.zip",
+      "label": "阿比阿弟的冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/ang zang la li pan tu jing cha.zip",
+      "label": "肮脏拉里 叛徒警察",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/bao li lan qiu.zip",
+      "label": "暴力篮球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/bian fu xia hui gui.zip",
+      "label": "蝙蝠侠回归",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/bing qiu.zip",
+      "label": "冰球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/chao ji mao qiu.zip",
+      "label": "超级毛球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/chao ji zhang ai sai che.zip",
+      "label": "超级障碍赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/de gu la bu si shen.zip",
+      "label": "德古拉 不死神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/du chang.zip",
+      "label": "赌场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/fang cheng shi sai che.zip",
+      "label": "方程式赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/fei pin gou.zip",
+      "label": "废品狗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/gang zhao.zip",
+      "label": "钢爪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/ge duo 106 tu bian hou.zip",
+      "label": "各多106 突变猴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/gong fu fan guan.zip",
+      "label": "功夫饭馆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/hai de la.zip",
+      "label": "海德拉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/ji mi kang na si wang qiu.zip",
+      "label": "吉米康纳斯网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/ji qi ren gan lan qiu lian sai 2072.zip",
+      "label": "机器人橄榄球联赛2072",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/ji qi ren zhan chang 2084.zip",
+      "label": "机器人战场2084",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/jin bao dan zhu tai.zip",
+      "label": "劲爆弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/kuang bao ju shou.zip",
+      "label": "狂暴巨兽",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/lei dian.zip",
+      "label": "雷电",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/ling tu zhi zhan.zip",
+      "label": "领土之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/lv shu zong dong yuan.zip",
+      "label": "旅鼠总动员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/ma li bu sha tan pai qiu.zip",
+      "label": "玛莉布沙滩排球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/mi gong ren wu.zip",
+      "label": "迷宫任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/pang bo bi.zip",
+      "label": "胖波比",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/pao pao wei ji.zip",
+      "label": "泡泡危机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/quan mian tong ji.zip",
+      "label": "全面通缉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/ren zhe long jian chuan 1.zip",
+      "label": "忍者龙剑传1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/ren zhe long jian chuan 3.zip",
+      "label": "忍者龙剑传3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/sha mo feng bao chong fan hai wan.zip",
+      "label": "沙漠风暴 重返海湾",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/shi jie bei zu qiu.zip",
+      "label": "世界杯足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/shi qi shi dai.zip",
+      "label": "石器时代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/shou zhi ying.zip",
+      "label": "兽之影",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/shuang jie long.zip",
+      "label": "双截龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/shui guan gong ren.zip",
+      "label": "水管工人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/si lun yue ye sai che.zip",
+      "label": "四轮越野赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/tao jin zhe.zip",
+      "label": "淘金者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/te ji sai che.zip",
+      "label": "特技赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/wan bao lu xiang qian chong.zip",
+      "label": "万宝路向前冲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/wan ren zhan shi 2.zip",
+      "label": "腕刃战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/wei jing shao nian.zip",
+      "label": "维京少年",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/wei li zhan shi.zip",
+      "label": "威力战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/yi xing VS tie xue zhan shi.zip",
+      "label": "异形VS铁血战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/yi xing ren wu.zip",
+      "label": "异形任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/yuan ren chuan shuo.zip",
+      "label": "猿人传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/zhan che.zip",
+      "label": "战车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/zhan zheng di dai 2000.zip",
+      "label": "战争地带2000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/zhi ming bo ji zui zhong bi sai.zip",
+      "label": "致命搏击 最终比赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Atari - Lynx/δ#3A67C4.zip",
+      "label": "δ#3A67C4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    }
+  ]
+}

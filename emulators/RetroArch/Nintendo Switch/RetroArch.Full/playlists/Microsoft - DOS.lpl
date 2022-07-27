@@ -1,0 +1,138 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/PCYR2.zip",
+      "label": "PCYR2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/bao xiao san guo zhi.zip",
+      "label": "爆笑三国志",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/chao ji yi sheng.zip",
+      "label": "超级医生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/da ming ying xiong chuan.zip",
+      "label": "大明英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/feng shen yan yi.zip",
+      "label": "封神演义",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/fu jia tian xia.zip",
+      "label": "富甲天下",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/guang ming sheng shi tuan.zip",
+      "label": "光明圣使团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/jin yong qun xia chuan.zip",
+      "label": "金庸群侠传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/luan shi fu mo lu.zip",
+      "label": "乱世伏魔录",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/san guo zhi xiong ba tian xia.zip",
+      "label": "三国志雄霸天下",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/she diao ying xiong chuan.zip",
+      "label": "射雕英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/tian wai jian sheng lu.zip",
+      "label": "天外剑圣录",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/xi xiao chun qiu.zip",
+      "label": "嬉笑春秋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/xian jian qi xia chuan.zip",
+      "label": "仙剑奇侠传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/xuan yuan jian 1.zip",
+      "label": "轩辕剑1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Microsoft - DOS/yan long qi shi tuan 1.zip",
+      "label": "炎龙骑士团1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/da ni zhuan cai pan 2 cheng bu tang long zhi jie de jue wu.cci",
+      "label": "大逆转裁判2 成步堂龙之介的觉悟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/da ni zhuan cai pan cheng bu tang long zhi jie de mao xian.cci",
+      "label": "大逆转裁判 成步堂龙之介的冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/dong ku wu yu 3D.cci",
+      "label": "洞窟物语3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/huo yan wen zhang ： jue xing.cci",
+      "label": "火焰纹章：觉醒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/huo yan wen zhang ：IF.cci",
+      "label": "火焰纹章：IF",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/ji xian tuo chu 2 shan ren si wang.cci",
+      "label": "极限脱出2 善人死亡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/ji xian tuo chu 3 ling shi kun jing.cci",
+      "label": "极限脱出3 零时困境",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/kou dai yao guai jiu ji hong bao shi.cci",
+      "label": "口袋妖怪究极红宝石",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/kou dai yao guai shi yuan lan bao shi.cci",
+      "label": "口袋妖怪始源蓝宝石",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/lei dun jiao shou VS ni zhuan cai pan.cci",
+      "label": "雷顿教授VS逆转裁判",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/lei dun jiao shou yu chao wen ming A de yi chan.cci",
+      "label": "雷顿教授与超文明A的遗产",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/lei dun jiao shou yu qi ji jia mian plus.3ds",
+      "label": "雷顿教授与奇迹假面plus",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/lei dun nv shi fu hao wang de yin mou.cci",
+      "label": "雷顿女士富豪王的阴谋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/ma li ao 3D da lu.cci",
+      "label": "马里奥3D大陆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/nao duan lian 5 fen zhong mo gui te xun.cci",
+      "label": "脑锻炼5分钟魔鬼特训",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/ni zhuan cai pan 123 cheng bu tang jing xuan ji.cci",
+      "label": "逆转裁判123成步堂精选集",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/ni zhuan cai pan 4.cci",
+      "label": "逆转裁判4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/ni zhuan cai pan 5.cci",
+      "label": "逆转裁判5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/ni zhuan cai pan 6.cci",
+      "label": "逆转裁判6",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/re xue ying pai SP.cci",
+      "label": "热血硬派SP",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/sai er da chuan shuo san jiao li liang ying xiong.cci",
+      "label": "塞尔达传说 三角力量英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/sai er da chuan shuo shi zhi di.cci",
+      "label": "塞尔达传说 时之笛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/sai er da chuan shuo zhong shen de san jiao li liang 2.cci",
+      "label": "塞尔达传说 众神的三角力量2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/shan ji sai che 3D.cci",
+      "label": "山脊赛车3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/wei jie jue shi jian sou cha ke ： yao yuan de ji yi.cci",
+      "label": "未解决事件搜查科：遥远的记忆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/xing zhi ka bi san chong cai.cci",
+      "label": "星之卡比三重彩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/yong qi mo shi lu di er dai.cci",
+      "label": "勇气默示录 第二代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/yong qi mo shi lu di yi dai.3ds",
+      "label": "勇气默示录 第一代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/zheng qi shi jie da jie lve.cci",
+      "label": "蒸汽世界 大劫掠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - 3DS/zhong zhuang ji bing 4.cci",
+      "label": "重装机兵4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    }
+  ]
+}

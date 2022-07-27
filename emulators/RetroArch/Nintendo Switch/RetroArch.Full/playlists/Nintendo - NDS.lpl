@@ -1,0 +1,450 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/METALMAX3.zip",
+      "label": "METALMAX3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/chao ji ji qi ren da zhan W.zip",
+      "label": "超级机器人大战W",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/chao zhi dao 2.zip",
+      "label": "超执刀2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/chao zhi dao.zip",
+      "label": "超执刀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/e mo cheng bei duo de ke yin.zip",
+      "label": "恶魔城 被夺的刻印",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/e mo cheng cang yue de shi zi jia.zip",
+      "label": "恶魔城 苍月的十字架",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/e mo cheng fei xu de xiao xiang.zip",
+      "label": "恶魔城 废墟的肖像",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/e mo xing cun zhe 2.zip",
+      "label": "恶魔幸存者2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/er zhi guo.zip",
+      "label": "二之国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/fu wen gong fang 3.zip",
+      "label": "符文工房3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/gang zhi lian jin shu shi.zip",
+      "label": "钢之炼金术师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/gao ji zhan zheng hui mie ri.zip",
+      "label": "高级战争 毁灭日",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/gao ji zhan zheng shuang chong da ji.zip",
+      "label": "高级战争 双重打击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/gao su ka pian zhan dou ka pian ying xiong.zip",
+      "label": "高速卡片战斗 卡片英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/gui hun li liang chuang shi ji.zip",
+      "label": "鬼魂力量 创世纪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/hai zei wang ju ren zhan zheng.zip",
+      "label": "海贼王 巨人战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/huang jin tai yang qi hei de li ming.zip",
+      "label": "黄金太阳 漆黑的黎明",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/huo yan wen zhang xin wen zhang zhi mi guang yu ying de ying xiong.zip",
+      "label": "火焰纹章 新纹章之谜 光与影的英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/jie zou tian guo huang jin ban.zip",
+      "label": "节奏天国 黄金版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/jin tian yi shao nian shi jian bu e mo zhi sha ren hang hai.zip",
+      "label": "金田一少年事件簿 恶魔之杀人航海",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/kou dai yao guai bai 1 han hua ban.zip",
+      "label": "口袋妖怪白1汉化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/kou dai yao guai hei di er dai.zip",
+      "label": "口袋妖怪黑 第二代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/lan long PLUS.zip",
+      "label": "蓝龙PLUS",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/lei dun jiao shou yu bu ke si yi de xiao zhen.zip",
+      "label": "雷顿教授与不可思议的小镇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/lei dun jiao shou yu e mo zhi xiang.zip",
+      "label": "雷顿教授与恶魔之箱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/lei dun jiao shou yu mo shen zhi di.zip",
+      "label": "雷顿教授与魔神之笛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/lei dun jiao shou yu zui hou de shi jian lv xing.zip",
+      "label": "雷顿教授与最后的时间旅行",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/luo ke ren ZX Advent.zip",
+      "label": "洛克人ZX Advent",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/luo ke ren ZX.zip",
+      "label": "洛克人 ZX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/mei shao nv ma jiang 3.zip",
+      "label": "美少女麻将3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/ni zhuan cai pan 4.zip",
+      "label": "逆转裁判4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/ni zhuan cai pan fu su de ni zhuan.zip",
+      "label": "逆转裁判 复苏的逆转",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/ni zhuan jian shi 2.zip",
+      "label": "逆转检事2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/ni zhuan jian shi.zip",
+      "label": "逆转检事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/ren zhe long jian chuan long jian.zip",
+      "label": "忍者龙剑传 龙剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/sai er da chuan shuo da di de qi di.zip",
+      "label": "塞尔达传说 大地的汽笛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/sai er da chuan shuo huan ying sha lou.zip",
+      "label": "塞尔达传说 幻影沙漏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/sai er da chuan shuo ling hun gui ji.zip",
+      "label": "塞尔达传说 灵魂轨迹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/shen tan jia li lve.zip",
+      "label": "神探伽利略",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/si long yu ma ke bei er de mi zhi wu yu 2.zip",
+      "label": "斯隆与马克贝尔的谜之物语2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/si long yu ma ke bei er de mi zhi wu yu.zip",
+      "label": "斯隆与马克贝尔的谜之物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/si shen DS zhui zhu cang tian de ming yun.zip",
+      "label": "死神DS 追逐苍天的命运",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/ying yuan tuan.zip",
+      "label": "应援团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/yong zhe dou e long 4.zip",
+      "label": "勇者斗恶龙4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/yong zhe dou e long 5.zip",
+      "label": "勇者斗恶龙5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/yong zhe dou e long 6.zip",
+      "label": "勇者斗恶龙6",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/yong zhe dou e long 9.zip",
+      "label": "勇者斗恶龙9",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/you ling zhen tan.zip",
+      "label": "幽灵侦探",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/zhao huan zhi ye X lei zhi huang guan.zip",
+      "label": "召唤之夜X 泪之皇冠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/zhao huan zhi ye shuang sheng shi dai jing ling men de gong ming.zip",
+      "label": "召唤之夜 双生时代 精灵们的共鸣",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/zhong zhuang ji bing 2 zhong zhi ban.zip",
+      "label": "重装机兵2重制版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/zui zhong huan xiang 3.zip",
+      "label": "最终幻想3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/zui zhong huan xiang 4.zip",
+      "label": "最终幻想4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/zui zhong huan xiang wai zhuan guang zhi si zhan shi.zip",
+      "label": "最终幻想外传 光之四战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NDS/zui zhong huan xiang zhan lve ban A2 feng xue de mo fa shu.zip",
+      "label": "最终幻想战略版A2封穴的魔法书",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NDS.lpl"
+    }
+  ]
+}

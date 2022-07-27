@@ -1,0 +1,850 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/Sega - GG/007 jue dou.gg",
+      "label": "007 决斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/F-15 fei ying.gg",
+      "label": "F-15飞鹰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/NBA Jam TE.gg",
+      "label": "NBA Jam TE",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/Shaq Fu.gg",
+      "label": "Shaq Fu",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/VRսʿ.gg",
+      "label": "VRսʿ",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/X zhan jing 1.gg",
+      "label": "X战警1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/X zhan jing 2.gg",
+      "label": "X战警2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/X zhan jing 3.gg",
+      "label": "X战警3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/a la ding.gg",
+      "label": "阿拉丁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/bian fu xia 1.gg",
+      "label": "蝙蝠侠1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/bian fu xia 2.gg",
+      "label": "蝙蝠侠2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/bian fu xia 3.gg",
+      "label": "蝙蝠侠3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/bo si wang zi.gg",
+      "label": "波斯王子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/cang ku fan.gg",
+      "label": "仓库番",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/chao ji ren 1.gg",
+      "label": "超级忍1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/chao ji ren 2.gg",
+      "label": "超级忍2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/chao ren.gg",
+      "label": "超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/chi dou xiao jing ling.gg",
+      "label": "吃豆小精灵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/chu ji fei long.gg",
+      "label": "出击飞龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/e lang chuan shuo te bie ban.gg",
+      "label": "饿狼传说特别版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/gang tie xia.gg",
+      "label": "钢铁侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/ge li fen.gg",
+      "label": "格里芬",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/ge si la.gg",
+      "label": "哥斯拉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/guai wu ka che da zhan.gg",
+      "label": "怪物卡车大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/guai wu shi jie 2.gg",
+      "label": "怪物世界2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/guan lan gao shou.gg",
+      "label": "灌篮高手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/guang ming li liang wai zhuan 1.gg",
+      "label": "光明力量外传1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/guang ming li liang wai zhuan 2.gg",
+      "label": "光明力量外传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/guang ming li liang wai zhuan 3.gg",
+      "label": "光明力量外传3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/gui shen tong zi.gg",
+      "label": "鬼神童子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/hai tun li xian ji 1.gg",
+      "label": "海豚历险记1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/hai tun li xian ji 2.gg",
+      "label": "海豚历险记2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/hua xue zhe.gg",
+      "label": "滑雪者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/huan you shi jie.gg",
+      "label": "环游世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/huo qiang ying xiong.gg",
+      "label": "火枪英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/ji jia zhan shi.gg",
+      "label": "机甲战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/ji xie zhan jing 3.gg",
+      "label": "机械战警3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/ji xie zhan jing dui zhong jie zhe.gg",
+      "label": "机械战警对终结者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/la bi xiao xin.gg",
+      "label": "蜡笔小新",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/lang chao wu shi.gg",
+      "label": "浪潮武士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/lu na.gg",
+      "label": "露娜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/luo ke ren.gg",
+      "label": "洛克人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/mao he lao shu.gg",
+      "label": "猫和老鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/mao zhuo lao shu.gg",
+      "label": "猫捉老鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/mei ren yu.gg",
+      "label": "美人鱼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/mei shao nv zhan shi.gg",
+      "label": "美少女战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/meng huan zhi xing mao xian.gg",
+      "label": "梦幻之星冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/meng huan zhi xing wai zhuan.gg",
+      "label": "梦幻之星外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/mi lao shu mo fa shi.gg",
+      "label": "米老鼠 魔法师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/mi lao shu wang guo chuan shuo.gg",
+      "label": "米老鼠 王国传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/mi lao shu zhong ji tiao zhan.gg",
+      "label": "米老鼠 终极挑战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/nu zhi tie quan 1.gg",
+      "label": "怒之铁拳1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/nu zhi tie quan 2.gg",
+      "label": "怒之铁拳2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/nv shen zhuan sheng wai zhuan 1.gg",
+      "label": "女神转生外传1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/nv shen zhuan sheng wai zhuan 2.gg",
+      "label": "女神转生外传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/pao pao long.gg",
+      "label": "泡泡龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/qiang li zhan ji 2.gg",
+      "label": "强力战机2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/qiu yin zhan shi.gg",
+      "label": "蚯蚓战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/ren zhe long jian chuan.gg",
+      "label": "忍者龙剑传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/ren zhe wa.gg",
+      "label": "忍者蛙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/shang wei mi ling.gg",
+      "label": "上尉密令",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/shi hun.gg",
+      "label": "侍魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/shi zi wang.gg",
+      "label": "狮子王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/shuang jie long.gg",
+      "label": "双截龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/shui jing zhan shi.gg",
+      "label": "水晶战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/song bao tong.gg",
+      "label": "送报童",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/suo ni ke 1.gg",
+      "label": "索尼克1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/suo ni ke 2.gg",
+      "label": "索尼克2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/suo ni ke dan zhu tai.gg",
+      "label": "索尼克弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/suo ni ke jia qiang ban 1.gg",
+      "label": "索尼克加强版1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/suo ni ke jia qiang ban 2.gg",
+      "label": "索尼克加强版2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/suo ni ke mi gong.gg",
+      "label": "索尼克迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/suo ni ke sai che 1.gg",
+      "label": "索尼克赛车1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/suo ni ke sai che 2.gg",
+      "label": "索尼克赛车2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/ta er si da mao xian.gg",
+      "label": "塔尔斯大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/tai kong ha li.gg",
+      "label": "太空哈利",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/tang lao ya 1.gg",
+      "label": "唐老鸭1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/tang lao ya 2.gg",
+      "label": "唐老鸭2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/tie tou xiao zi.gg",
+      "label": "铁头小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/tie xue zhan shi 2.gg",
+      "label": "铁血战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/wai xing wang zi.gg",
+      "label": "外星王子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/wang qiu.gg",
+      "label": "网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/xi xue gui fu su.gg",
+      "label": "吸血鬼复苏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/xin pu sen yi jia.gg",
+      "label": "辛普森一家",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/xing ji lv xing 1.gg",
+      "label": "星际旅行1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/xing ji lv xing 2.gg",
+      "label": "星际旅行2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/xing qiu da zhan 1.gg",
+      "label": "星球大战1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/xing qiu da zhan 2.gg",
+      "label": "星球大战2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/yi xing 3.gg",
+      "label": "异形3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/yi xing te gong dui.gg",
+      "label": "异形特攻队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/you you bai shu 1.gg",
+      "label": "幽游白书1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/you you bai shu 2.gg",
+      "label": "幽游白书2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/zhen bao zhu xiao zi.gg",
+      "label": "真宝珠小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/zhen ren kuai da 1.gg",
+      "label": "真人快打1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/zhen ren kuai da 2.gg",
+      "label": "真人快打2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/zhen ren kuai da 3.gg",
+      "label": "真人快打3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/zhen shi huang yan.gg",
+      "label": "真实谎言",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/zhi zhu xia 1.gg",
+      "label": "蜘蛛侠1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/zhi zhu xia 2.gg",
+      "label": "蜘蛛侠2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/zhi zhu xia 3.gg",
+      "label": "蜘蛛侠3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/zhong jie zhe 1.gg",
+      "label": "终结者1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/zhong jie zhe 2 jie ji.gg",
+      "label": "终结者2 街机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/zhong jie zhe 2 shen pan ri.gg",
+      "label": "终结者2 审判日",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/zhu luo ji gong yuan.gg",
+      "label": "侏罗纪公园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - GG/zui hou de dong zuo ying xiong.gg",
+      "label": "最后的动作英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    }
+  ]
+}

@@ -1,0 +1,2810 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/3x3 zhi yan shou mo feng huan.smc",
+      "label": "3x3只眼 兽魔奉还",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/46 yi nian wu yu.smc",
+      "label": "46亿年物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/BB niao yu da ye lang.smc",
+      "label": "BB鸟与大野狼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/F-ZERO.smc",
+      "label": "F-ZERO",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/GO!GO! e mo shao nian 2.smc",
+      "label": "GO!GO!恶魔少年2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/GO!GO! e mo shao nian 3.smc",
+      "label": "GO!GO!恶魔少年3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/GO!GO! e mo shao nian zhong wen ban.smc",
+      "label": "GO!GO!恶魔少年 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK GO e mo shao nian wu di.smc",
+      "label": "HACK GO恶魔少年 无敌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK X zhan jing bian zhong mo shi lu wu di wu xian xue ， ming.smc",
+      "label": "HACK X战警  变种末世录无敌无限血，命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK a la ding wu xian ping guo wu xian sheng ming.smc",
+      "label": "HACK 阿拉丁 无限苹果无限生命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK bao li xing jing wu xian ren.smc",
+      "label": "HACK 暴力刑警无限人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK bing feng neng yuan bu jian.smc",
+      "label": "HACK 兵蜂 能源不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK chao ji da jin gang 1 wu xian ren tou ming.smc",
+      "label": "HACK 超级大金刚1 无限人透明",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK chao ji da jin gang 2 sheng ming wu xian.sfc",
+      "label": "HACK 超级大金刚2生命无限",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK chao ji da jin gang 3 sheng ming wu xian.sfc",
+      "label": "HACK 超级大金刚3生命无限",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK chao ji e mo cheng 4 wu xian ren tou ming.smc",
+      "label": "HACK 超级恶魔城4 无限人透明",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK chao ji jie tou ba wang 2 chao qiang ban.smc",
+      "label": "HACK 超级街头霸王2 超强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK chao ji mao xian dao wu di.smc",
+      "label": "HACK 超级冒险岛 无敌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK chao ji shuang jie long 4 wu xian ren.smc",
+      "label": "HACK 超级双截龙4 无限人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK chao ji zha dan ren 2 ren shi jian zha dan wei li bu jian.smc",
+      "label": "HACK 超级炸弹人2 人时间炸弹威力不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK chao ji zhan shi 1 wu xian ren wu xian bao hu.sfc",
+      "label": "HACK 超级战士1 无限人无限保护",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK chao ji zhan shi 2 wu xian ren wu xian bao hu.sfc",
+      "label": "HACK 超级战士2 无限人无限保护",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK chao mo jie cun ban tou ming.smc",
+      "label": "HACK 超魔界村 半透明",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK chao ren si li feng sheng jue zhao bu jian 、 ren shu bu jian.smc",
+      "label": "HACK 超人死里逢生 绝招不减、人数不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK chao shi kong yao sai wu di.smc",
+      "label": "HACK 超时空要塞 无敌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK chuan shuo zhan shi bu jian xue ， ming ， zha dan.sfc",
+      "label": "HACK 传说战士 不减血，命，炸弹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK da dao wu wei men 3 dai 1.2P neng yuan wu xian.smc",
+      "label": "HACK 大盗五卫门3代1.2P能源无限",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK da dao wu you wei men 2 neng yuan jin qian bu jian.smc",
+      "label": "HACK 大盗伍右卫门2 能源金钱不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK da fei ya huo xing ren wu wu di ban.smc",
+      "label": "HACK 达菲鸭 火星任务无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK da li gong tou POW ren bu jian.smc",
+      "label": "HACK 大力工头POW人不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK dian jing 1 ren sheng ming qi neng yuan bu jian.smc",
+      "label": "HACK 电精1  人生命气能源不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK dou ji chuan wu xian ming.sfc",
+      "label": "HACK 斗姬传 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK e mo cheng XX ti li bu jian ming shu bu jian xin bu jian.sfc",
+      "label": "HACK 恶魔城 XX 体力不减命数不减心不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK fei tian bian fu 2 quan bu jian.smc",
+      "label": "HACK 飞天蝙蝠2 全不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK gang tie zhan shi wu di ban.sfc",
+      "label": "HACK 钢铁战士 无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK guai wu san ren xing wu xian xue ， ming ， gu ， hou.sfc",
+      "label": "HACK 怪物三人行 无限血，命，骨，吼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK guan lan gao shou 2 xiu gai ban.sfc",
+      "label": "HACK 灌篮高手2 修改版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK gui shen tong zi zhong wen ban wu xian sheng xue ming bao hu.smc",
+      "label": "HACK 鬼神童子 中文版  无限生血命保护",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK hai fu chuan bei.smc",
+      "label": "HACK 海腹川背",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK huang ye shuang qiang wu di ban.smc",
+      "label": "HACK 荒野双抢无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK hun dou luo 3 ou ban wu xian ming wu xian zha dan.smc",
+      "label": "HACK 魂斗罗3 欧版 无限命无限炸弹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK huo jian qi shi.smc",
+      "label": "HACK 火箭骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK ji xie zhan jing dui zhong jie zhe ming shu ti li zeng jia.sfc",
+      "label": "HACK 机械战警对终结者 命数体力增加",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK kuai da xing shi luan wu di.smc",
+      "label": "HACK 快打刑事 乱 无敌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK kuai da xuan feng 1 wu xian ming.smc",
+      "label": "HACK 快打旋风1 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK kuai da xuan feng 2 wu xian ren shu.smc",
+      "label": "HACK 快打旋风2 无限人数",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK kuai da xuan feng 3 zhong ji ban.smc",
+      "label": "HACK 快打旋风3终极版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK lei ting ying hao wu xian ming ren ba zhong wu qi wu xian zi dan.sfc",
+      "label": "HACK 雷霆英豪 无限命人八种武器无限子弹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK luo ke ren X chu shi yong you quan wu qi ban.smc",
+      "label": "HACK 洛克人X 初始拥有全武器版 ",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK luo ke ren X2 bu jian xue.smc",
+      "label": "HACK 洛克人X2 不减血",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK luo ke ren X3 wu xian ren.smc",
+      "label": "HACK 洛克人 X3 无限人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK luo ke ren he fu luo di.sfc",
+      "label": "HACK 洛克人和佛罗迪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK ma li ming xing he ji wu di wu xian ren.smc",
+      "label": "HACK 玛莉明星合集无敌无限人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK ma yi zhan shi wu xian xue ， ming ， zi dan ， fa bao.smc",
+      "label": "HACK 蚂蚁战士 无限血，命，子弹，法宝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK mei guo shang wei wu xian xue ， ming.sfc",
+      "label": "HACK 美国上尉 无限血，命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK mei shi zhan dui qiang wei ye lang xue bu jian ( pa dian deng ren ) di yi ji si.smc",
+      "label": "HACK 美食战队 蔷薇野郎血不减(怕电灯人)敌一击死",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK mian hua mo nv ren fa li bu jian.smc",
+      "label": "HACK 棉花魔女 人法力不減",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK ming jiang wu xian ren.smc",
+      "label": "HACK 名将 无限人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK mo fa da jin ji wu di.smc",
+      "label": "HACK 魔法大进击 无敌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK mo fa ti qin shou wu di ban.smc",
+      "label": "HACK 魔法提琴手 无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK mo shou wang wu xian xue ， ming.sfc",
+      "label": "HACK 魔兽王 无限血，命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK nan guo shao nian qi gong ren bu jian.smc",
+      "label": "HACK 南国少年 氣功人不減",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK pang ke yong shi wu xian ren.sfc",
+      "label": "HACK 庞克勇士 无限人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK qi qi guai jie 1 wu di wu xian bao hu hu shen fu chao chang shi jian.smc",
+      "label": "HACK 奇奇怪界1 无敌无限保护护身符超常时间",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK qi qi guai jie 2 wu xian ming qi shi zi wu xian ming ban.smc",
+      "label": "HACK 奇奇怪界2 无限命骑狮子无限命版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK re xue ying pai.smc",
+      "label": "HACK 热血硬派",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK ren zhe shen gui 4 ming wu xian.smc",
+      "label": "HACK 忍者神龟4 命无限",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK ren zhe zhan shi ya wu di ban.smc",
+      "label": "HACK 忍者战士牙 无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK shang hai 3 wu xian shi.smc",
+      "label": "HACK 上海3  无限时",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK tai kong zhan dou ji wu xian ren shu.sfc",
+      "label": "HACK 太空战斗机 无限人数",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK wu zhuang bu dui wu xian ren.smc",
+      "label": "HACK 武装部队 无限人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK xiao fang yuan.smc",
+      "label": "HACK 消防员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK yin he feng bao ming bu jian.sfc",
+      "label": "HACK 银河风暴 命不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK yin su chao ren 2.smc",
+      "label": "HACK 音速超人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK yuan zhuo wu shi wu xian ren.smc",
+      "label": "HACK 圆桌武士 无限人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK zhan dou yuan shi ren 2 wu xian ren.sfc",
+      "label": "HACK 战斗原始人2 无限人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK zhan dou yuan shi ren 3 wu xian ming xue.sfc",
+      "label": "HACK 战斗原始人3 无限命血",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK zhan fu hei shui hai dao wu xian ming.sfc",
+      "label": "HACK 战斧黑水海盗 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/HACK zhan guo chuan cheng 1 jie guan ci shu wu xian.smc",
+      "label": "HACK 战国传承1 接关次数无限",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/J ji hua.smc",
+      "label": "J计划",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/SD fei long zhi quan.smc",
+      "label": "SD 飞龙之拳",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/SD gao da X.smc",
+      "label": "SD高达X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/X zhan jing bian zhong mo ri.smc",
+      "label": "X战警 变种末日",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/a la ding.sfc",
+      "label": "阿拉丁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/an hei zhi po huai shen.smc",
+      "label": "暗黑之破坏神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/an long chuan shuo.sfc",
+      "label": "暗龙传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ba ba luo sa ju qing han hua.sfc",
+      "label": "巴巴罗萨 剧情汉化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ba bi si 2.smc",
+      "label": "巴比斯2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/bai chi dian xia zong dong yuan.smc",
+      "label": "白痴殿下总动员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/bao li xing jing.sfc",
+      "label": "暴力刑警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/bao ran zhan ji.smc",
+      "label": "爆燃战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ben ge pai wei qi qi sheng.sfc",
+      "label": "本格派围棋棋圣",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/bian fu xia gui lai.sfc",
+      "label": "蝙蝠侠归来",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/bian fu xia.smc",
+      "label": "蝙蝠侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/bing feng cai hong ling dang de mao xian.smc",
+      "label": "兵蜂 彩虹铃当的冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/bing feng.smc",
+      "label": "兵蜂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/bing qiu.smc",
+      "label": "冰球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/bo gu wu yu （ mei shao nv jian shi ）.smc",
+      "label": "啵咕物语（美少女剑士）",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/cai bao lie ren G zhong wen ban.smc",
+      "label": "财宝猎人G 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji EDF.sfc",
+      "label": "超级EDF",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji da jin gang 1.smc",
+      "label": "超级大金刚1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji da jin gang 2.sfc",
+      "label": "超级大金刚2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji da jin gang 3.sfc",
+      "label": "超级大金刚3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji e luo si fang kuai 3.sfc",
+      "label": "超级俄罗斯方块3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji e mo cheng 4.smc",
+      "label": "超级恶魔城4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji hua zha 2.smc",
+      "label": "超级花札2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji jie tou ba wang 2 zhong wen ban.sfc",
+      "label": "超级街头霸王2 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji ma li ao qi xing chuan shuo.sfc",
+      "label": "超级马里奥七星传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji ma li ao quan ming xing.sfc",
+      "label": "超级玛丽奥全明星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji ma li ao sai che.smc",
+      "label": "超级马里奥赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji ma li ao shi jie 2： yao xi dao.smc",
+      "label": "超级马里奥世界2：耀西岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji ma li ao shi jie.sfc",
+      "label": "超级马里奥世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji mao xian dao 2.sfc",
+      "label": "超级冒险岛2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji meng huan zhan shi 4.smc",
+      "label": "超级梦幻战士4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji ren zhe jun.sfc",
+      "label": "超级忍者君",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji shuang jie long.smc",
+      "label": "超级双截龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji wa qiang shi jie 1.smc",
+      "label": "超级瓦强世界1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji wa qiang shi jie 2.smc",
+      "label": "超级瓦强世界2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji wang qiu.smc",
+      "label": "超级网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji yin he zhan shi zhong wen ban.smc",
+      "label": "超级银河战士 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji yuan ren.smc",
+      "label": "超级原人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji zha dan ren 1.smc",
+      "label": "超级炸弹人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji zha dan ren 2.smc",
+      "label": "超级炸弹人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji zha dan ren 3.smc",
+      "label": "超级炸弹人3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji zhan shi 2.smc",
+      "label": "超级战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji zhan shi.smc",
+      "label": "超级战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji zhong guo ren shi jie 2.smc",
+      "label": "超级中国人世界2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji zhong guo ren shi jie.sfc",
+      "label": "超级中国人世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ji zhui zong HQ.smc",
+      "label": "超级追踪HQ",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao mo jie cun.smc",
+      "label": "超魔界村",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao ren si li feng sheng.smc",
+      "label": "超人 死里逢生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao shi kong yao sai.sfc",
+      "label": "超时空要塞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao shi kong zhi lun zhong wen ban.smc",
+      "label": "超时空之轮 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao yue dian feng 1.smc",
+      "label": "超越颠峰1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao yue dian feng 2.smc",
+      "label": "超越颠峰2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao yue dian feng 3000.sfc",
+      "label": "超越颠峰3000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chao zhen shi ma que P4.smc",
+      "label": "超真实麻雀 P4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chuan shuo zhan shi.smc",
+      "label": "传说战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/chuang shi feng mo lu.smc",
+      "label": "创世封魔录",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/da bei shou wu yu 2.sfc",
+      "label": "大贝兽物语2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/da dao wu you wei men 2.smc",
+      "label": "大盗伍佑卫门2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/da dao wu you wei men 3.sfc",
+      "label": "大盗伍佑卫门3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/da fei ya huo xing ren wu.smc",
+      "label": "达菲鸭 火星任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/da hang hai shi dai 2 zhong wen ban.sfc",
+      "label": "大航海时代2 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/da li gong tou.smc",
+      "label": "大力工头",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/da mo dao chang.smc",
+      "label": "达摩道场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/di 3 ci chao ji ji qi ren da zhan zhong wen ban.smc",
+      "label": "第3次超级机器人大战 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/di 4 ci chao ji ji qi ren da zhan xuan dan han hua.smc",
+      "label": "第4次超级机器人大战 选单汉化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/di qiu mao xian 2.sfc",
+      "label": "地球冒险2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/dian jing zhong wen ban.smc",
+      "label": "电精 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/dian nao zhan ji.sfc",
+      "label": "电脑战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/dou ji chuan.sfc",
+      "label": "斗姬传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/duo la A meng 4 da xiong he yue zhi wang guo shao liang han hua.smc",
+      "label": "哆啦A梦4 大雄和月之王国 少量汉化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/e luo si wu dou wai zhuan.sfc",
+      "label": "俄罗斯武斗外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/e mo cheng XX.smc",
+      "label": "恶魔城XX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/fei tian bian fu 2.smc",
+      "label": "飞天蝙蝠2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/fei tian bian fu.smc",
+      "label": "飞天蝙蝠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/fei xing ju le bu.smc",
+      "label": "飞行俱乐部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/feng lai zhi xi lin 2 zhong wen ban.smc",
+      "label": "风来之西林2 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/feng shui hui lang ji.sfc",
+      "label": "风水回廊记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/gai ya huan xiang ji zhong wen ban.smc",
+      "label": "盖亚幻想纪 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/gang ren.smc",
+      "label": "钢忍",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/gang tie zhan shi.sfc",
+      "label": "钢铁战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/gao fei gou hai zei dao da mao xian.smc",
+      "label": "高飞狗海贼岛大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/gao qiao ming ren mao xian dao.smc",
+      "label": "高桥名人冒险岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ge wu ji luo ke si.smc",
+      "label": "歌舞妓洛克斯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/guai wu san ren xing.smc",
+      "label": "怪物三人行",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/guan jun zhuang qiu shao liang han hua.smc",
+      "label": "冠军撞球 少量汉化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/guan lan gao shou 2 zhong wen ban.smc",
+      "label": "灌篮高手2 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/guang jiao a di.smc",
+      "label": "光脚阿迪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/guang san chuan shuo.sfc",
+      "label": "光伞传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/gui shen tong zi lie dou lei chuan zhong wen ban.smc",
+      "label": "鬼神童子 烈斗雷传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/gui tai lang.smc",
+      "label": "鬼太郎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ha li ju ren wu tan xian.sfc",
+      "label": "哈利巨人屋探险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/hai fu chuan bei.smc",
+      "label": "海腹川背",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/hao qiang shen lei chuan shuo.sfc",
+      "label": "豪枪神雷传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/hei an fa ling.smc",
+      "label": "黑暗法令",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/hei se jing ji.smc",
+      "label": "黑色荆棘",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/hei shui hai dao.smc",
+      "label": "黑水海盗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/heng shan guang hui san guo zhi zhong wen ban.smc",
+      "label": "横山光辉三国誌 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/hua xian zi fang kuai.sfc",
+      "label": "花仙子方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/huan xiang chuan shuo.smc",
+      "label": "幻想传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/huan xiang nv zi shuai jiao.sfc",
+      "label": "幻象女子摔角",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/huang jia qi shi tuan 2 zhong wen ban.smc",
+      "label": "皇家骑士团2 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/huang jia qi shi tuan zhong wen ban.sfc",
+      "label": "皇家骑士团 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/huang long zhi er.smc",
+      "label": "黄龙之耳",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/huang ye shuang qiang.sfc",
+      "label": "荒野双枪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/hui mie wu qi.sfc",
+      "label": "毁灭武器",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/hun dou luo 3.sfc",
+      "label": "魂斗罗3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/huo jian qi shi.smc",
+      "label": "火箭骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/huo yan wen zhang - wen zhang zhi mi zhong wen ban.smc",
+      "label": "火炎纹章-纹章之迷 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/huo yan zhi wen zhang 4 sheng zhan xi pu zhong wen ban.smc",
+      "label": "火焰之纹章4 圣战系谱 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/huo yan zhi wen zhang duo la ji ya 776.smc",
+      "label": "火焰之纹章 多拉基亚776",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ji dong zhan ji gao da W.sfc",
+      "label": "机动战记高达W",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ji jia zheng ba 3050.sfc",
+      "label": "机甲争霸 3050",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ji kong zhan ji.smc",
+      "label": "激空战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ji shang Q ban sha luo man she.sfc",
+      "label": "极上Q版沙罗曼蛇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ji xie zhan jing dui zhong jie zhe.sfc",
+      "label": "机械战警对终结者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/jia lou luo wang.smc",
+      "label": "迦楼罗王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/jian wang zhi wang 1.smc",
+      "label": "剑王之王1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/jian wang zhi wang 2.smc",
+      "label": "剑王之王2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/jin shu ji qi ren zhan ji.sfc",
+      "label": "金属机器人战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ka tong ji jin.smc",
+      "label": "卡通集锦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/kai lun de feng kuang zhui zhu.smc",
+      "label": "凯伦的疯狂追逐",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/kuai da xing jing luan.smc",
+      "label": "快打刑警 乱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/kuai da xing shi 1.smc",
+      "label": "快打刑事1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/kuai da xing shi xiu luo.smc",
+      "label": "快打刑事修罗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/kuai da xuan feng 2.smc",
+      "label": "快打旋风2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/kuai da xuan feng 3.smc",
+      "label": "快打旋风3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/kuang bao jian dao.sfc",
+      "label": "狂暴剑道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/lang man sha jia 2.smc",
+      "label": "浪漫沙加2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/lang man sha jia 3 zhong wen ban.smc",
+      "label": "浪漫沙加3 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/lei sha chu ji 2.smc",
+      "label": "雷莎出击2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/lei ting ying hao.smc",
+      "label": "雷霆英豪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/lin ju bu shi ren.smc",
+      "label": "邻居不是人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/long qi shi 4.smc",
+      "label": "龙骑士4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/long zhan shi 1.smc",
+      "label": "龙战士1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/long zhan shi 2 huo yan zhi qi xi.smc",
+      "label": "龙战士2 火焰之气息",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/lu ka da mao xian.smc",
+      "label": "露卡大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/luo ke ren 7.sfc",
+      "label": "洛克人7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/luo ke ren X.smc",
+      "label": "洛克人 X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/luo ke ren X2.sfc",
+      "label": "洛克人 X2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/luo ke ren X3.smc",
+      "label": "洛克人 X3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/luo ke ren yu fu lu di.sfc",
+      "label": "洛克人与弗鲁迪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ma li ao yi sheng.sfc",
+      "label": "马里奥医生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ma li ou chai wu gong.smc",
+      "label": "马力欧拆屋工",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ma ya mao xian.smc",
+      "label": "玛亚冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ma yi zhan shi.sfc",
+      "label": "蚂蚁战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mei guo chao ren mi bao zhi zhan.sfc",
+      "label": "美国超人 秘宝之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mei nv yu ye shou.sfc",
+      "label": "美女与野兽",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mei shao nv que shi.smc",
+      "label": "美少女雀士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mei shi zhan dui qiang wei ye lang.smc",
+      "label": "美食战队 蔷薇野郎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/meng huan mo ni zhan zhong wen ban.sfc",
+      "label": "梦幻模拟战 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mi lao shu yu tang lao ya 3.smc",
+      "label": "米老鼠与唐老鸭3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mian hua xiao mo nv.smc",
+      "label": "棉花小魔女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mo fa da mao xian.sfc",
+      "label": "魔法大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mo fa nan hai.smc",
+      "label": "魔法男孩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mo fa qi pao wu yu 2.smc",
+      "label": "魔法气泡物语2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mo fa qi pao wu yu tie wan fan sheng ji.smc",
+      "label": "魔法气泡物语 铁腕繁盛记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mo fa ti qin shou.smc",
+      "label": "魔法提琴手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mo gui da di.smc",
+      "label": "魔鬼大帝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mo jie cun wai zhuan wen zhang pian.smc",
+      "label": "魔界村外传 纹章篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mo shen Z.smc",
+      "label": "魔神Z",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mo shen zhuan sheng 2 zhong wen ban.smc",
+      "label": "魔神转生2 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mo shou wang.sfc",
+      "label": "魔兽王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mo zhuang ji shen zhong wen ban.smc",
+      "label": "魔装机神 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mu chang wu yu zhong wen ban.smc",
+      "label": "牧场物语 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mu mo jiang lin shi.smc",
+      "label": "幕末降临时",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/mu ou qi yu ji.smc",
+      "label": "木偶奇遇记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/nan guo shao nian qi xiao xie.sfc",
+      "label": "南国少年 奇小邪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/pang ke yong shi.smc",
+      "label": "庞克勇士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ping guo he zhan.sfc",
+      "label": "苹果核战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/qi long zhu Z chao wu dou chuan 1.smc",
+      "label": "七龙珠Z超武斗传1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/qi long zhu Z chao wu dou chuan 2.smc",
+      "label": "七龙珠Z超武斗传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/qi long zhu Z chao wu dou chuan 3.smc",
+      "label": "七龙珠Z超武斗传3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/qi long zhu Z chao wu kong chuan jue xing pian zhong wen ban.sfc",
+      "label": "七龙珠Z超悟空传 觉醒篇 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/qi long zhu Z chao wu kong chuan tu ji pian zhong wen ban.smc",
+      "label": "七龙珠Z超悟空传 突激篇 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/qi qi guai jie 1.smc",
+      "label": "奇奇怪界1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/qi qi guai jie 2.sfc",
+      "label": "奇奇怪界2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/qi yi hou zi men de bao dao.sfc",
+      "label": "奇异 猴子们的宝岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/qian xian ren wu wai zhuan qiang zhi wei ji.sfc",
+      "label": "前线任务 外传 枪之危机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/qian xian ren wu zhong wen ban.smc",
+      "label": "前线任务 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/qiang jiu cai hong.sfc",
+      "label": "抢救彩虹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/qing long chuan.smc",
+      "label": "青龙传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/que dou shi tong luo wang 2.smc",
+      "label": "雀斗士 铜锣王2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/re xue ying pai.sfc",
+      "label": "热血硬派",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ren zhe shen gui 4.smc",
+      "label": "忍者神龟4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ren zhe wa yu shuang jie long.smc",
+      "label": "忍者蛙与双截龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ren zhe zhan shi ya.smc",
+      "label": "忍者战士 牙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/sai er da chuan shuo zhong wen ban.smc",
+      "label": "塞尔达传说 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/san guo ying jie chuan zhong wen ban.smc",
+      "label": "三国英杰传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/sang de la da mao xian.smc",
+      "label": "桑德拉大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/shang hai 3.smc",
+      "label": "上海3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/shao nian ren zhe.smc",
+      "label": "少年忍者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/shen feng te gong dui.smc",
+      "label": "神风特工队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/shen jian 2097 wu shi.smc",
+      "label": "神剑2097武士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/sheng jian chuan shuo 2.smc",
+      "label": "圣剑传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/sheng jian chuan shuo 3 zhong wen ban.smc",
+      "label": "圣剑传说3 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/sheng ling zhu chuan 2.sfc",
+      "label": "圣灵珠传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/shi kuang shi jie zu qiu 1.sfc",
+      "label": "实况世界足球1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/shi luo de wei jing.smc",
+      "label": "失落的维京",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/si kuang shen zhan ji 2.sfc",
+      "label": "四狂神战记2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/tai kong zhan dou ji.smc",
+      "label": "太空战斗机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/te nei lu ke da mao xian.sfc",
+      "label": "特內鲁克大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/tian di chuang zao zhong wen ban.smc",
+      "label": "天地创造 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/tian kong ren wu.sfc",
+      "label": "天空任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/tian long zhan.sfc",
+      "label": "天龙斩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/tian shi zhi yi 3 huang di de tiao zhan.smc",
+      "label": "天使之翼3皇帝的挑战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/tian shi zhi yi 4.smc",
+      "label": "天使之翼4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/tian shi zhi yi 5 zhong wen ban.smc",
+      "label": "天使之翼5 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/tian wai mo jing ZERO jian ti v1.0.smc",
+      "label": "天外魔境ZERO简体v1.0",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/tun shi tian di san guo qun xiong chuan zhong wen ban.smc",
+      "label": "吞食天地 三国群雄传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/wa li ou de mu tou fang kuai.sfc",
+      "label": "瓦力欧的木头方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/wan pi tu da mao xian.smc",
+      "label": "顽皮兔大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/wan pi tu da yun dong hui.smc",
+      "label": "顽皮兔大运动会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/wu ren dao wu yu zhong wen ban.smc",
+      "label": "无人岛物语 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/wu zhuang bu dui.smc",
+      "label": "武装部队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/wu zi lian zhu.smc",
+      "label": "五子连珠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/xi bu qiang shu.smc",
+      "label": "西部枪鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/xiao fang yuan.smc",
+      "label": "消防员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/xiao gui dang jia.smc",
+      "label": "小鬼当家",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/xiao hong mao qia qia.smc",
+      "label": "小红帽恰恰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/xin zhang zhi ye wang wu jiang feng yun lu.smc",
+      "label": "信长之野望 武将风云录",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/xing ji huo hu 1.smc",
+      "label": "星际火狐1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/xing ji huo hu 2.sfc",
+      "label": "星际火狐2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/xing zhi hai yang.smc",
+      "label": "星之海洋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/xing zhi ka bi chao ji zhi xing.smc",
+      "label": "星之卡比 超级之星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/xing zhi ka bi meng zhi da lu 3.smc",
+      "label": "星之卡比梦之大陆3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/ya.smc",
+      "label": "牙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yao gun bao hu zhe.smc",
+      "label": "摇滚保护者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yao xi e luo si fang kuai.sfc",
+      "label": "耀西俄罗斯方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yi li ya.sfc",
+      "label": "伊莉雅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yi su 3 zhong wen ban.smc",
+      "label": "伊苏3 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yi su 4 tai yang de jia mian zhong wen ban.smc",
+      "label": "伊苏4 太阳的假面 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yi su 5 shi luo de sha zhi dou kai fen.sfc",
+      "label": "伊苏5 失落的砂之都凯芬",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yi xing 3.smc",
+      "label": "异形3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yi xing zhan ji 3.smc",
+      "label": "异形战机 3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yin he feng bao.smc",
+      "label": "银河风暴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yin he zhan guo qun xiong chuan zhong wen ban.smc",
+      "label": "银河战国群雄传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yin su chao ren 2.smc",
+      "label": "音速超人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yin su xiao zi yu xiao wei ba.smc",
+      "label": "音速小子与小尾巴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yong zhe dou e long 1+2 zhong wen ban.smc",
+      "label": "勇者斗恶龙1+2中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yong zhe dou e long 3 zhong wen ban.smc",
+      "label": "勇者斗恶龙3 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yong zhe dou e long 5.smc",
+      "label": "勇者斗恶龙5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yong zhe dou e long 6 zhong wen ban.smc",
+      "label": "勇者斗恶龙6 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/you you bai shu 1.smc",
+      "label": "幽游白书1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/you you bai shu 2.smc",
+      "label": "幽游白书2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/you you bai shu mo jie zui qiang lie zhuan.sfc",
+      "label": "幽游白书 魔界最强列传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/you you bai shu te bie pian.smc",
+      "label": "幽游白书 特别篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yu zhou qi shi.smc",
+      "label": "宇宙骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yu zhou xun hang ji 3.smc",
+      "label": "宇宙巡航机3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/yue kong kuang long.smc",
+      "label": "越空狂龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zha dan ren 4.smc",
+      "label": "炸弹人4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zha dan ren 5.smc",
+      "label": "炸弹人5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zhan 3 zhong wen ban.smc",
+      "label": "斩3 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zhan dou yuan shi ren 2.smc",
+      "label": "战斗原始人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zhan dou yuan shi ren 3.smc",
+      "label": "战斗原始人3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zhan guo chuan cheng 1.smc",
+      "label": "战国传承1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zhen nv shen zhuan sheng 2.smc",
+      "label": "真女神转生2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zhen nv shen zhuan sheng IF.smc",
+      "label": "真女神转生IF",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zhen nv shen zhuan sheng.sfc",
+      "label": "真女神转生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zhen sheng ke.sfc",
+      "label": "真圣刻",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zhi hui wang zhe.smc",
+      "label": "智慧王者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zhi yuan hua.smc",
+      "label": "祗园花",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zhong zhuang ji bing 2 zhong wen ban.sfc",
+      "label": "重装机兵2 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zhong zhuang ji bing Returns zhong wen ban.smc",
+      "label": "重装机兵Returns 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zhong zhuang ji bing wa er ken zhong wen ban.sfc",
+      "label": "重装机兵 瓦尔肯 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zui hou de sheng jing 3.sfc",
+      "label": "最后的圣经3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zui zhong huan xiang 5 zhong wen ban.smc",
+      "label": "最终幻想5 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - SFC/zui zhong huan xiang 6 zhong wen ban.smc",
+      "label": "最终幻想6 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - SFC.lpl"
+    }
+  ]
+}

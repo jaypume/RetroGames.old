@@ -1,0 +1,810 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/Sega - MS/007 jue dou.sms",
+      "label": "007 决斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/a li ke si xiao zi - qi huan shi jie da mao xian.sms",
+      "label": "阿历克斯小子 - 奇幻世界大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/bao li mo tuo.sms",
+      "label": "暴力摩托",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/bei dou shen quan.sms",
+      "label": "北斗神拳",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/bian fu xia.sms",
+      "label": "蝙蝠侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/bo si wang zi.sms",
+      "label": "波斯王子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/cai hong dao.sms",
+      "label": "彩虹岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/chao ji ren.sms",
+      "label": "超级忍",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/chao ren.sms",
+      "label": "超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/cheng long ti guan.sms",
+      "label": "成龙踢馆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/chi dou xiao jing ling.sms",
+      "label": "吃豆小精灵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/chong po huo wang.sms",
+      "label": "冲破火网",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/chu ji fei long 1.sms",
+      "label": "出击飞龙1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/chu ji fei long 2.sms",
+      "label": "出击飞龙2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/di ke tan zhang.sms",
+      "label": "迪克探长",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/hai tun li xian ji.sms",
+      "label": "海豚历险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/hong hu mao xian.sms",
+      "label": "红狐冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/huan you shi jie.sms",
+      "label": "环游世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/hui dao wei lai 2.sms",
+      "label": "回到未来2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/hui dao wei lai 3.sms",
+      "label": "回到未来3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/hui mie gong jue.sms",
+      "label": "毁灭公爵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/huo lie niao.sms",
+      "label": "火烈鸟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/huo xian da xing dong.sms",
+      "label": "火线大行动",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/ji xie zhan jing 3.sms",
+      "label": "机械战警3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/ji xie zhan jing dui zhong jie zhe.sms",
+      "label": "机械战警对终结者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/jie tou ba wang II.sms",
+      "label": "街头霸王II",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/kong que wang.sms",
+      "label": "孔雀王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/kong zhong hun dou luo.sms",
+      "label": "空中魂斗罗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/lan bo 1.sms",
+      "label": "兰博1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/lan bo 3.sms",
+      "label": "兰博3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/lan jing ling.sms",
+      "label": "蓝精灵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/lei ting zhi ren.sms",
+      "label": "雷霆之刃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/li xiao long chuan qi.sms",
+      "label": "李小龙传奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/lv ju ren.sms",
+      "label": "绿巨人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/mao he lao shu.sms",
+      "label": "猫和老鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/meng huan zhi xing.sms",
+      "label": "梦幻之星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/mi lao shu meng huan cheng bao.sms",
+      "label": "米老鼠 梦幻城堡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/mi lao shu mo fa da lu.sms",
+      "label": "米老鼠 魔法大陆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/mi lao shu wang guo chuan shuo.sms",
+      "label": "米老鼠 王国传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/mo deng yuan shi ren.sms",
+      "label": "摩登原始人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/mo jie cun.sms",
+      "label": "魔界村",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/nu zhi tie quan 1.sms",
+      "label": "怒之铁拳1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/nu zhi tie quan 2.sms",
+      "label": "怒之铁拳2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/nv jing xing shi 2.sms",
+      "label": "女警刑事2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/pao pao long.sms",
+      "label": "泡泡龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/qi xi xiao zi.sms",
+      "label": "七喜小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/qiang li zhan ji 1.sms",
+      "label": "强力战机1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/qiang li zhan ji 2.sms",
+      "label": "强力战机2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/qiu yin zhan shi.sms",
+      "label": "蚯蚓战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/re xue ying pai.sms",
+      "label": "热血硬派",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/ren zhe long jian chuan.sms",
+      "label": "忍者龙剑传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/sha mo feng bao.sms",
+      "label": "沙漠风暴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/shan dian xia.sms",
+      "label": "闪电侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/shen qi nan hai 1.sms",
+      "label": "神奇男孩1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/shen qi nan hai 2.sms",
+      "label": "神奇男孩2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/shen qi nan hai 3.sms",
+      "label": "神奇男孩3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/shen qi nan hai 4.sms",
+      "label": "神奇男孩4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/shi kong zhan shi.sms",
+      "label": "时空战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/shi zi wang.sms",
+      "label": "狮子王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/shou wang ji.sms",
+      "label": "兽王记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/song bao tong.sms",
+      "label": "送报童",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/suo luo men zhi shi.sms",
+      "label": "所罗门之匙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/suo ni ke 1.sms",
+      "label": "索尼克1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/suo ni ke 2.sms",
+      "label": "索尼克2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/suo ni ke 3.sms",
+      "label": "索尼克3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/suo ni ke 4.sms",
+      "label": "索尼克4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/tai kong qiang.sms",
+      "label": "太空枪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/tai kong zhan dou ji.sms",
+      "label": "太空战斗机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/tang lao ya 1.sms",
+      "label": "唐老鸭1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/tang lao ya 2.sms",
+      "label": "唐老鸭2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/te bie xing shi zu.sms",
+      "label": "特别刑事组",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/tie gou chuan zhang.sms",
+      "label": "铁钩船长",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/tie tou xiao zi.sms",
+      "label": "铁头小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/tie xue zhan shi 2.sms",
+      "label": "铁血战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/tuo tuo shi jie 3.sms",
+      "label": "托托世界3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/wai xing zhan jiang.sms",
+      "label": "外星战将",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/wang zhe zhi jian.sms",
+      "label": "王者之剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/wu shi zhi ren.sms",
+      "label": "武士之刃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/xi xue gui chuan shuo.sms",
+      "label": "吸血鬼传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/xi xue gui fu su.sms",
+      "label": "吸血鬼复苏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/xiao yuan shi ren 1.sms",
+      "label": "小原始人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/xiao yuan shi ren 2.sms",
+      "label": "小原始人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/ye lang te gong dui.sms",
+      "label": "野狼特工队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/yi su.sms",
+      "label": "伊苏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/yi xing 3.sms",
+      "label": "异形3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/yi xing feng bao.sms",
+      "label": "异形风暴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/yi xing zhan ji.sms",
+      "label": "异形战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/yin hang wei ji.sms",
+      "label": "银行危机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/ying wu zhe.sms",
+      "label": "影舞者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/zhan chang zhi lang.sms",
+      "label": "战场之狼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/zhan fu.sms",
+      "label": "战斧",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/zhan mu si bang de 2.sms",
+      "label": "詹姆斯邦德2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/zhen bao zhu xiao zi.sms",
+      "label": "真宝珠小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/zheng fa mi ling.sms",
+      "label": "蒸发密令",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/zhong hua da xian.sms",
+      "label": "中华大仙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/zhong jie zhe 1.sms",
+      "label": "终结者1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/zhong jie zhe 2 jie ji.sms",
+      "label": "终结者2 街机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/zhong jie zhe 2 shen pan ri.sms",
+      "label": "终结者2 审判日",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/zhu luo ji gong yuan.sms",
+      "label": "侏罗纪公园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MS/zhuo gui gan si dui.sms",
+      "label": "捉鬼敢死队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MS.lpl"
+    }
+  ]
+}

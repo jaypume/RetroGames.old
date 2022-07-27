@@ -1,0 +1,170 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/chao ji zhi pian ma li ao.wbfs",
+      "label": "超级纸片马里奥",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/da di tan suo zhe.wbfs",
+      "label": "大地探索者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/feng zhi ke luo nuo ya huan ying zhi men.wbfs",
+      "label": "风之克罗诺亚 幻影之门",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/huo yan wen zhang cang yan gui ji.gcz",
+      "label": "火焰纹章 苍炎轨迹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/huo yan wen zhang xiao zhi nv shen.iso",
+      "label": "火焰纹章 晓之女神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/ling - yue shi de jia mian.wbfs",
+      "label": "零-月蚀的假面",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/ling - zhen hong zhi die.wbfs",
+      "label": "零-真红之蝶",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/long cun zheng yao dao chuan.wbfs",
+      "label": "胧村正 妖刀传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/ma li ao sai che wii.wbfs",
+      "label": "马里奥赛车wii",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/sai er da chuan shuo shi zhi di.wad",
+      "label": "塞尔达传说 时之笛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/sai er da chuan shuo tian kong zhi jian.wbfs",
+      "label": "塞尔达传说 天空之剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/sheng hua wei ji 2.iso",
+      "label": "生化危机2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/sheng hua wei ji 3.iso",
+      "label": "生化危机3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/sheng hua wei ji an bu lei la li dai ji.wbfs",
+      "label": "生化危机 安布雷拉历代记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/sheng hua wei ji an hei bian nian shi.wbfs",
+      "label": "生化危机 暗黑编年史",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/wa li ao da lu yao huang.wbfs",
+      "label": "瓦里奥大陆 摇晃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/xing zhi ka bi chong fan.wbfs",
+      "label": "星之卡比 重返",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/yi du zhi ren.wbfs",
+      "label": "异度之刃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/yi se dai ma R ji yi zhi men.wbfs",
+      "label": "异色代码 R 记忆之门",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - WII/yu jie mei gui ge ming.wbfs",
+      "label": "御姐玫瑰 革命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - WII.lpl"
+    }
+  ]
+}

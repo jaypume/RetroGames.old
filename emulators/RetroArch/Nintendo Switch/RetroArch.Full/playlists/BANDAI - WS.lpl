@@ -1,0 +1,450 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/FLASH lian ren.ws",
+      "label": "FLASH恋人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/SD gao da G shi dai 2.ws",
+      "label": "SD高达 G世代2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/SD gao da du yan gao da.ws",
+      "label": "SD高达 独眼高达",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/SD gao da nian dai zhan ji UC.ws",
+      "label": "SD高达 年代战记UC",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/SD gao da ying xiong chuan qi shi chuan shuo.ws",
+      "label": "SD高达英雄传 骑士传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/SD gao da ying xiong chuan wu zhe chuan shuo.ws",
+      "label": "SD高达英雄传 武者传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/ao te man guang zhi guo de shi zhe.ws",
+      "label": "奥特曼 光之国的使者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/ban shu ying xiong.ws",
+      "label": "半熟英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/bao zuan xiao ying xiong.ws",
+      "label": "爆钻小英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/chao ji ji qi ren da zhan jing hua ban 1.ws",
+      "label": "超级机器人大战 精华版1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/chao ji ji qi ren da zhan jing hua ban 3.ws",
+      "label": "超级机器人大战 精华版3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/dong gan wa wa.ws",
+      "label": "动感娃娃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/e luo si fang kuai.ws",
+      "label": "俄罗斯方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/fu huo xie shen.ws",
+      "label": "复活邪神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/hai zei wang qiao ba da mao xian.ws",
+      "label": "海贼王 乔巴大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/hai zei wang wei da zhi zhan.ws",
+      "label": "海贼王 伟大之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/hei an zhi yan zhan dou zha men.ws",
+      "label": "黑暗之眼 战斗闸门",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/huan xiang mo chuan zui you ji yang yan zhi suo.ws",
+      "label": "幻想魔传最游记 阳炎之所",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/huo ying ren zhe.ws",
+      "label": "火影忍者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/ji dong zhan shi gao da Seed.ws",
+      "label": "机动战士高达Seed",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/ji dong zhan shi gao da Vol.1 Side7.ws",
+      "label": "机动战士高达Vol.1 Side7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/ji dong zhan shi gao da Vol.2 Jaburo.ws",
+      "label": "机动战士高达Vol.2 Jaburo",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/ji qi mao.ws",
+      "label": "机器猫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/kong bu chuan shuo 2.ws",
+      "label": "恐怖传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/lian jin shu shi ma li & ai li.ws",
+      "label": "炼金术士玛莉&艾莉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/lie ren X lie ren jue ze.ws",
+      "label": "猎人X猎人 抉择",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/lie ren X lie ren tan lan dao.ws",
+      "label": "猎人X猎人 贪婪岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/lie ren X lie ren yin dao zhe.ws",
+      "label": "猎人X猎人 引导者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/lu xing niao da mao xian.ws",
+      "label": "陆行鸟大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/luo ke ren EXE N1 da zhan.ws",
+      "label": "洛克人EXE N1大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/luo ke ren EXE.ws",
+      "label": "洛克人EXE",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/ming zhen tan ke nan huang hun shi de huang nv.ws",
+      "label": "名侦探柯南 簧昏时的皇女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/mo jian X.ws",
+      "label": "魔剑X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/mo jie ta shi.ws",
+      "label": "魔界塔士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/qi long zhu.ws",
+      "label": "七龙珠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/qian xian ren wu.ws",
+      "label": "前线任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/quan ye cha feng yun hui juan.ws",
+      "label": "犬夜叉 风云绘卷",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/quan ye cha.ws",
+      "label": "犬夜叉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/san mao tan an.ws",
+      "label": "三毛探案",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/sheng dou shi xing shi huang jin chuan shuo pian.ws",
+      "label": "圣斗士星矢 黄金传说篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/sheng qi shi zhi zhan 1.ws",
+      "label": "圣骑士之战1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/sheng qi shi zhi zhan 2.ws",
+      "label": "圣骑士之战2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/shu ma bao bei yin yang ji ban.ws",
+      "label": "数码宝贝 阴阳极版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/shu ma bao long ge dou tian wang.ws",
+      "label": "数码暴龙 格斗天王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/tong ling wang zi wei lai de yi zhi.ws",
+      "label": "通灵王子 未来的意志",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/xian jie chuan 2.ws",
+      "label": "仙界传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/xing chen zhan shi.ws",
+      "label": "星辰战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/yao jing zhan shi ji shen fu huo.ws",
+      "label": "妖精战士 机神复活",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/yong yuan he ni zai yi qi.ws",
+      "label": "永远和你在一起",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/yu zhou zhan jian da he hao.ws",
+      "label": "宇宙战舰大和号",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/yue shu zhi di.ws",
+      "label": "约束之地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/zhan fu.ws",
+      "label": "战斧",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/zui zhong huan xiang I.ws",
+      "label": "最终幻想I",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/zui zhong huan xiang II.ws",
+      "label": "最终幻想II",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/BANDAI - WS/zui zhong huan xiang IV.ws",
+      "label": "最终幻想IV",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    }
+  ]
+}

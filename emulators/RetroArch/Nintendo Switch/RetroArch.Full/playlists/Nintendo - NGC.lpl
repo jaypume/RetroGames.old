@@ -1,0 +1,42 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/Nintendo - NGC/huo yan zhi wen zhang cang yan zhi gui ji.gcz",
+      "label": "火焰之纹章 苍炎之轨迹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NGC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NGC/sai er da chuan shuo feng zhi zhang.gcz",
+      "label": "塞尔达传说 风之杖",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NGC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NGC/sai er da chuan shuo huang hun gong zhu.iso",
+      "label": "塞尔达传说 黄昏公主",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NGC.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Nintendo - NGC/sai er da chuan shuo si zhi jian.gcz",
+      "label": "塞尔达传说 四支剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - NGC.lpl"
+    }
+  ]
+}

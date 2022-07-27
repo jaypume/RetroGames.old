@@ -1,0 +1,2162 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/Sega - MD/EX- yi zhong.smd",
+      "label": "EX-异种",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/Mazin chuan shuo Start jian jia 9 tiao ren ming HP ji yin shen.bin",
+      "label": "Mazin 传说 Start键加9条人命 HP 及隐身",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/Mega yin he zhan shi.smd",
+      "label": "Mega银河战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/VR zhan shi 2.smd",
+      "label": "VR战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/X zhan jing 1.smd",
+      "label": "X战警1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/X zhan jing 2.smd",
+      "label": "X战警2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/a Q lian huan pao zhong wen ban.smd",
+      "label": "啊Q连环炮 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/a la ding wu xian ming.gen",
+      "label": "阿拉丁 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/a la ding.smd",
+      "label": "阿拉丁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/a li sha zhi long ming bu jian shan dian hui fu ×3.smd",
+      "label": "阿莉莎之龙 命不减 闪电恢复×3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/a si te rui ke si da jiu yuan.smd",
+      "label": "阿斯特瑞克斯 大救援",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/a si te rui ke si shang di zhi li.smd",
+      "label": "阿斯特瑞克斯 上帝之力",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ba ha mu te zhan ji.smd",
+      "label": "巴哈姆特战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/bao li ke xing duo ming ban.bin",
+      "label": "暴力克星 多命版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/bao li ke xing.smd",
+      "label": "暴力克星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/bao lie ji zhan.smd",
+      "label": "爆裂激战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/bao shi fang kuai 3.smd",
+      "label": "宝石方块3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/bian fu xia ren bu jian ，START jia 99 ge fei biao hui fu xue.bin",
+      "label": "蝙蝠侠 人不减，START加99个飞镖 恢复血",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/bian fu xia yu luo bin a jian man qi gong ji zeng jia wei li c huan ming zan ting huan wu qi qi.gen",
+      "label": "蝙蝠侠与罗宾a键满气攻击增加威力c换命暂停换武器器",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/bian fu xia yu luo bin.smd",
+      "label": "蝙蝠侠与罗宾",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/bian fu xia.smd",
+      "label": "蝙蝠侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/cai hong dao.smd",
+      "label": "彩虹岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/chao ji ren 1.smd",
+      "label": "超级忍1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/chao ji ren 2 wu xian ming.gen",
+      "label": "超级忍2 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/chao ji ren 2 zhong wen ban.md",
+      "label": "超级忍2 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/chao ji ren 2.smd",
+      "label": "超级忍2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/chao ren wu di ban.bin",
+      "label": "超人 无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/chao ren.smd",
+      "label": "超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/chu ji fei long.smd",
+      "label": "出击飞龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/cong lin da mao xian wu xian ming.bin",
+      "label": "丛林大冒险 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/da hang hai shi dai 1 zhong wen ban.md",
+      "label": "大航海时代1 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/da hang hai shi dai 2 yi zhi jia qiang zhong wen ban.bin",
+      "label": "大航海时代2  意志加强中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/da luan dou.smd",
+      "label": "大乱斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/da mo jie cun.smd",
+      "label": "大魔界村",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/da tou xiao zi.smd",
+      "label": "大头小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/da zhan lve shan dian qi xi zhong wen ban.md",
+      "label": "大战略 闪电奇袭 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/dong wu kuai da.smd",
+      "label": "动物快打",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/dou ji wang 5 ge mo fa xiao hao liang wei 0 jing yan sheng ji zui da zhi.bin",
+      "label": "斗技王 5个魔法消耗量为0 经验升级最大值",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/dou ji wang.bin",
+      "label": "斗技王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/e lang chuan shuo 2.smd",
+      "label": "饿狼传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/e mo bo zi ji.bin",
+      "label": "恶魔波子机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/e mo cheng - xue zu.bin",
+      "label": "恶魔城-血族",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/e mo cheng xue zu Start jian jia man 99 ke bao shi ，9 tiao ren ming ， ji HP.bin",
+      "label": "恶魔城 血族 Start键加满99颗宝石，9条人命，及HP",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/fei ma qi shi.smd",
+      "label": "飞马骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/fei tian bian fu ZERO.smd",
+      "label": "飞天蝙蝠ZERO",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/fei xiang bian fu 2.smd",
+      "label": "飞翔蝙蝠2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/feng kuang mi lao shu.smd",
+      "label": "疯狂米老鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/feng shen ying jie chuan HACK.gen",
+      "label": "封神英杰传 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/feng shen ying jie chuan zhong wen ban.md",
+      "label": "封神英杰传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/feng zhong qi yuan.smd",
+      "label": "风中奇缘",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/fu chou zhi ren.smd",
+      "label": "复仇之刃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/fu lan ke da mao xian.smd",
+      "label": "弗兰克大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/gai ya zhan ji yue si yue duo si hou huan wu qi zan ting jian zeng jia fang hu zhao.bin",
+      "label": "盖亚战机越死越多死后换武器暂停键增加防护罩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/gang dou shao nian zhong wen ban.mdx",
+      "label": "港都少年 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/gang tie di guo liang ge ji jia 99 jia zhan ji shan dian xue man bu jian su du zui kuai.bin",
+      "label": "钢铁帝国 两个机甲  99架战机 闪电 血满不减 速度最快",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/gang tie di guo.smd",
+      "label": "钢铁帝国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/gao fei gou de jing yi zhi lv bu jian xue ban.bin",
+      "label": "高飞狗的惊异之旅 不减血版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ge hou dao.smd",
+      "label": "割喉岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/guai wu shi jie 1.smd",
+      "label": "怪物世界1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/guai wu shi jie 3.smd",
+      "label": "怪物世界3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/guai wu shi jie 4 wu di ban.gen",
+      "label": "怪物世界4 无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/guai wu shi jie 4 zhong wen ban.md",
+      "label": "怪物世界4 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/guan lan gao shou zheng mian de dui jue zhong wen ban.md",
+      "label": "灌篮高手 正面的对决 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/guang ming li liang 2 gu dai feng yin zhong wen ban mi ji shu ru jian hua.bin",
+      "label": "光明力量2 古代封印 中文版 秘籍输入简化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/guang ming li liang 2 gu dai zhi feng yin zhong wen ban.md",
+      "label": "光明力量2 古代之封印 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/guang ming shi zi jun zhong wen ban.md",
+      "label": "光明十字军 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/guang ming yu hei an zhu shen de yi chan zhong wen ban HACK.bin",
+      "label": "光明与黑暗 诸神的遗产 中文版 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/guang ming yu hei an zhu shen de yi chan zhong wen ban.md",
+      "label": "光明与黑暗 诸神的遗产 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/guang zhi ji cheng zhe tuo er de chuan shuo zhong wen ban.md",
+      "label": "光之继承者 托尔的传说 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/guang zi ji cheng zhe huang di de cai bao wu qi zhuang bei qi quan xue qian zui duo.bin",
+      "label": "光子继承者 皇帝的财宝 武器装备齐全 血 钱最多",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/guang zi ji cheng zhe huang di de cai bao zhong wen ban.md",
+      "label": "光子继承者 皇帝的财宝 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/hei shui hai dao.smd",
+      "label": "黑水海盗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/hong tian lei 2.smd",
+      "label": "轰天雷2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/hong tian lei 3.bin",
+      "label": "轰天雷3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/hu wai da biao che.smd",
+      "label": "户外大飙车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/hua shi zhuang qiu.smd",
+      "label": "花式撞球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/huan ying bao lei bu ke si yi de yu cheng da mao.smd",
+      "label": "幻影堡垒不可思议的御城大冒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/hui mie bu dui zhi yi xing zhan zheng wu xian ming zi dan.bin",
+      "label": "毁灭部队之异型战争 无限命 子弹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/hui mie bu dui zhi yi xing zhan zheng.smd",
+      "label": "毁灭部队之异型战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/hun dou luo tie xue bing tuan zhong wen ban wu xian ming.bin",
+      "label": "魂斗罗 铁血兵团 中文版 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/hun dou luo.smd",
+      "label": "魂斗罗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/hun luan neng liang 255 xue wu qi man wei li.bin",
+      "label": "混乱能量 255血 武器满威力",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/hun luan neng liang.bin",
+      "label": "混乱能量",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/huo bao zhan ji huang shi xue yi.bin",
+      "label": "火宝战记皇室血裔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/huo jian qi shi li xian ji.smd",
+      "label": "火箭骑士历险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/huo jian qi shi wu xian ming.bin",
+      "label": "火箭骑士 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/huo qiang ying xiong HP bu jian.bin",
+      "label": "火枪英雄 HP不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/huo qiang ying xiong.smd",
+      "label": "火枪英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/huo xing tao tuo zhe.gen",
+      "label": "火星逃脱者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ji dan mao xian.smd",
+      "label": "鸡蛋冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ji feng zhan ji.smd",
+      "label": "疾风战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ji mu li liang ren shu bu jian zha dan wei 9 zan ting jia ming.bin",
+      "label": "吉姆力量 人数不减 炸弹为9 暂停加命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/jiao . jiao . jiao.smd",
+      "label": "鲛.鲛.鲛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/jiao jiao jiao ming zha dan bu jian zan ting hou an shang jin ru ce shi mo shi.bin",
+      "label": "鲛鲛鲛 命炸弹不减 暂停后 按上进入测试模式",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/jie tou ba wang 2PLUS.smd",
+      "label": "街头霸王2PLUS",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/jie tou ba wang chao.smd",
+      "label": "街头霸王 超",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/jin gang lang.smd",
+      "label": "金刚狼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/kong que wang II wu di ban.bin",
+      "label": "孔雀王II 无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/kong shou dao.smd",
+      "label": "空手道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/lan bo 3.smd",
+      "label": "兰博3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/lei dian chuan shuo zha dan wu xian C+↑ san dan an C+↓ ji guang.bin",
+      "label": "雷电传说 炸弹无限 C+↑散弹 按C+↓激光",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/lei dian chuan shuo.smd",
+      "label": "雷电传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/lei niao hao 3 wu xian ming.bin",
+      "label": "雷鸟号3 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/lei niao hao 3.SMD",
+      "label": "雷鸟号3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/lei niao hao 4.SMD",
+      "label": "雷鸟号4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/li zi zhan shi 1.smd",
+      "label": "粒子战士1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/li zi zhan shi 2 wu di ban.gen",
+      "label": "粒子战士2 无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/lian he qian xian _ gui dao zhan zheng zhong wen ban.smd",
+      "label": "联合前线_轨道战争 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ling yi ge shi jie.smd",
+      "label": "另一个世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/long feng shen tou wu xian ti li.gen",
+      "label": "龙凤神偷 无限体力",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/long feng shen tou.smd",
+      "label": "龙凤神偷",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/long zhu z zhi wu yong lie zhuan bei ji ta yin cang chao sha tiao jian wan mei hack.gen",
+      "label": "龙珠z之武勇列传 貝吉塔隱藏超殺條件完美hack",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/long zhu z zhi wu yong lie zhuan.smd",
+      "label": "龙珠z之武勇列传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/luo ke ren 1.2.3 he ji.smd",
+      "label": "洛克人1.2.3合集",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ma ji ka nu da mao xian.smd",
+      "label": "马吉卡努大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ma jiang ju le bu que zhen wu yu zhong wen ban.md",
+      "label": "麻将俱乐部雀侦物语 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/mai chong chao ren 99 ming xue.gen",
+      "label": "脉冲超人 99命 血",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/mai chong chao ren.smd",
+      "label": "脉冲超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/mai ke er jie ke xun gong ji xiao guo xiu gai.bin",
+      "label": "迈克尔杰克逊 攻击效果修改",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/mai ke jie ke xun.bin",
+      "label": "迈克杰克逊",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/man hua di dai xue zhi 5000， zhe fei ji bu kou xue.gen",
+      "label": "漫画地带 血值5000，折飞机不扣血",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/mazin chuan shuo.smd",
+      "label": "mazin传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/mei jun shang wei yu fu chou zhe.smd",
+      "label": "美军上尉与复仇者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/mei nv yu ye shou - mei nv de sou suo.smd",
+      "label": "美女与野兽-美女的搜索",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/meng huan mo ni zhan 1.smd",
+      "label": "梦幻模拟战1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/meng huan mo ni zhan 2 zhong wen ban.md",
+      "label": "梦幻模拟战2 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/meng huan zhan shi 3 mei ban 6 ming HP shi jian bu jian.BIN",
+      "label": "梦幻战士3 美版 6命 HP 时间不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/meng huan zhan shi 3.smd",
+      "label": "梦幻战士3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/meng huan zhan shi wu xian ming + xue bu jian +MP wu xian hack.bin",
+      "label": "梦幻战士 无限命+血不减+MP无限 hack",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/meng huan zhan shi.smd",
+      "label": "梦幻战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/meng huan zhi xing 4 qian nian ji de zhong jie quan yuan LV99.smd",
+      "label": "梦幻之星4 千年纪的终结 全员LV99",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/meng huan zhi xing 4 qian nian ji de zhong jie zhong wen ban.md",
+      "label": "梦幻之星4 千年纪的终结 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/meng na ke huang zu ： zui zhong zhan dou chuan shuo zhong wen ban.md",
+      "label": "蒙纳克皇族：最终战斗传说 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/mi lao shu - shen mi de da ma xi tuan.smd",
+      "label": "米老鼠-神秘的大马戏团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/mo dao wu yu han hua ban ti li mo li 999.gen",
+      "label": "魔导物语 汉化版 体力 魔力999",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/mo dao wu yu zhong wen ban.md",
+      "label": "魔导物语 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/mo fa qi pao wai zhuan.smd",
+      "label": "魔法气泡外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/mo jie shi zhe.smd",
+      "label": "魔界使者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/mu ou qi yu ji.smd",
+      "label": "木偶奇遇记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 1 wu di ban.BIN",
+      "label": "怒之铁拳1 无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 1.smd",
+      "label": "怒之铁拳1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 2 B+↑ geng gai zhu jue START jia HP.bin",
+      "label": "怒之铁拳2 B+↑更改主角 START加HP",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 2 a lu ka duo tian yu ren.bin",
+      "label": "怒之铁拳2 阿鲁卡多天羽忍",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 2 a xiu huo ji yi ge ni si.bin",
+      "label": "怒之铁拳2 阿修祸祭依格尼斯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 2 bu zhi huo wu 9 ming HP shi jian bu jian.BIN",
+      "label": "怒之铁拳2 不知火舞 9命 HP时间不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 2 chun li wan mei ban.bin",
+      "label": "怒之铁拳2 春丽完美版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 2 da she wu kong ban.bin",
+      "label": "怒之铁拳2 大蛇悟空版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 2 fu li ban.BIN",
+      "label": "怒之铁拳2 福利版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 2 pi bian nv wang ban.bin",
+      "label": "怒之铁拳2 皮鞭女王版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 2 zui zhong qiang hua ban.bin",
+      "label": "怒之铁拳2 最终强化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 2.smd",
+      "label": "怒之铁拳2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 3 7 ren ban.smd",
+      "label": "怒之铁拳3 7人版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 3 BT ban.bin",
+      "label": "怒之铁拳3 BT版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 3 huan ren ban.bin",
+      "label": "怒之铁拳3 换人版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 3 zhong ji AXEL.bin",
+      "label": "怒之铁拳3 终极AXEL",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan 3 zhong wen ban.md",
+      "label": "怒之铁拳3 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/nu zhi tie quan ２ shen gui wu di ban.smd",
+      "label": "怒之铁拳２ 神龟无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/pao hui qian zhi chong.smd",
+      "label": "炮灰前直冲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/peng pai de dian feng zhong wen ban.md",
+      "label": "澎湃的电风 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/pi ke ji su da mao xian.smd",
+      "label": "皮克急速大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/qiu yin ji mu 1.smd",
+      "label": "蚯蚓吉姆1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/qiu yin ji mu 2 bu si ban.gen",
+      "label": "蚯蚓吉姆2 不死版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/qiu yin ji mu 2.smd",
+      "label": "蚯蚓吉姆2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ren zhe hao xiao zi.smd",
+      "label": "忍者好小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ren zhe shen gui ge dou da hui.gen",
+      "label": "忍者神龟 格斗大会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ren zhe shen gui.smd",
+      "label": "忍者神龟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ren zhe wa yu shuang jie long wu xian ming hack.bin",
+      "label": "忍者蛙与双截龙 无限命 hack",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ren zhe wu lei chuan shuo zhong wen ban.smd",
+      "label": "忍者武雷传说 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ri luo qi shi duo ming ban.SMD",
+      "label": "日落骑士 多命版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/san guo zhi 2 zhong wen ban.md",
+      "label": "三国志2  中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/san guo zhi 3 zhong wen ban.md",
+      "label": "三国志3  中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/san guo zhi 5 zhong wen ban.md",
+      "label": "三国志5  中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/san guo zhi lie zhuan luan shi qun ying zhong wen ban.md",
+      "label": "三国志列传 乱世群英 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/san zhi ben shu.smd",
+      "label": "三只笨鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/sha mo gong ji.smd",
+      "label": "沙漠攻击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/shang hai.smd",
+      "label": "上海",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/shen jian chuan shuo.smd",
+      "label": "神剑传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/sheng jian.smd",
+      "label": "圣剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/shou wang ji.smd",
+      "label": "兽王记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/shuang jie long 1.smd",
+      "label": "双截龙1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/shuang jie long 2.smd",
+      "label": "双截龙2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/shuang jie long 3.smd",
+      "label": "双截龙3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/shui hu feng yun chuan zhong wen ban si hou jia ming.bin",
+      "label": "水浒风云传 中文版 死后加命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/shui hu feng yun chuan zhong wen ban.smd",
+      "label": "水浒风云传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/shui hu zhuan zhong wen ban.md",
+      "label": "水浒传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/si tian ming wang.smd",
+      "label": "四天明王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/suo ni ke 2.smd",
+      "label": "索尼克2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/suo ni ke 3.smd",
+      "label": "索尼克3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/suo ni ke 3D HACK quan guan qia.SMD",
+      "label": "索尼克 3D HACK 全关卡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/suo ni ke 3D.SMD",
+      "label": "索尼克3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/suo ni ke dan zhu tai.smd",
+      "label": "索尼克弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/suo ni ke yu na ke lu si.smd",
+      "label": "索尼克与纳克鲁斯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/suo ni ke.smd",
+      "label": "索尼克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/tai ge li zhi chuan zhong wen ban.md",
+      "label": "太阁立志传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/tai kong ma yi zhan shi.smd",
+      "label": "太空蚂蚁战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/tai kong zhan shi mo fa zhan shi zhong wen ban.md",
+      "label": "太空战士 魔法战士 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/tai ping ji zhong wen ban.md",
+      "label": "太平记 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/tai yang ma tou.md",
+      "label": "太阳码头",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/tang lao ya li xian ji.smd",
+      "label": "唐老鸭历险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/tian kong mo cheng.smd",
+      "label": "天空魔城",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/tian shi zhi yi shu zhi man.gen",
+      "label": "天使之翼 数值满",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/tian shi zhi yi.bin",
+      "label": "天使之翼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/tu bao bao li xian ji wu xian ming.bin",
+      "label": "兔宝宝历险记 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/tu long ying xiong chuan.smd",
+      "label": "屠龙英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/wai xing shuang sha 1.smd",
+      "label": "外星双傻1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/wai xing shuang sha 2.smd",
+      "label": "外星双傻2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/wai xing wang zi.bin",
+      "label": "外星王子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/wei jing ren.bin",
+      "label": "维京人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/wu kong wai zhuan zhong wen ban.md",
+      "label": "悟空外传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/wu qi da shi.smd",
+      "label": "武器大师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/wu shi dao.smd",
+      "label": "武士道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/wu shi hun.bin",
+      "label": "武士魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/wu shu shen jie zhong wen ban.bin",
+      "label": "巫术神界 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/wu zhuang xing jing.smd",
+      "label": "武装行警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xian jing ma ya mao xian.bin",
+      "label": "陷阱 玛亚冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xiao fei xia.smd",
+      "label": "小飞侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xiao gui dang jia 2.smd",
+      "label": "小鬼当家2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xiao gui dang jia.sms",
+      "label": "小鬼当家",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xiao jing ling 1.bin",
+      "label": "小精灵1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xiao jing ling 2.bin",
+      "label": "小精灵2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xiao xiang lu lu.smd",
+      "label": "小象露露",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xiao yuan shi ren 1.bin",
+      "label": "小原始人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xiao yuan shi ren 2.smd",
+      "label": "小原始人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xin chuang shi ji zhong wen ban bu jian xue.smd",
+      "label": "新创世纪 中文版 不减血",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xin chuang shi ji zhong wen ban.md",
+      "label": "新创世纪 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xin qi gai wang zi an A jian bu yu di.bin",
+      "label": "新乞丐王子 按A键不遇敌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xin qi gai wang zi zhong wen ban.md",
+      "label": "新乞丐王子 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xin zhang ye wang ba wang chuan zhong wen ban.md",
+      "label": "信长野望 霸王传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xing ji qiang qi bing wu di xie dai liang ge dao dan zhan ji bu jian.bin",
+      "label": "星际枪骑兵 无敌 携带两个导弹 战机不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xing ji qiang qi bing.smd",
+      "label": "星际枪骑兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xuan feng nv zhan shi ti li wu xian +MP bu jian.bin",
+      "label": "旋风女战士  体力无限+MP不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/xuan feng nv zhan shi.smd",
+      "label": "旋风女战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ya se chuan shuo zhong wen ban.md",
+      "label": "亚瑟传说 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ya sheng ming zhan zheng zhan ji bu bian C jian ju qi gong ji ，A jian yin shen gong ji.bin",
+      "label": "亚生命战争 战机不变C键聚气攻击，A键隐身攻击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ya sheng ming zhan zheng.bin",
+      "label": "亚生命战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/yan zhi dou qiu er - duo bi qiu dan ping.smd",
+      "label": "炎之斗球儿-躲避球弹平",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/yang jia jiang zeng jia xue ming xu guan.smd",
+      "label": "杨家将 增加血 命 续关",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/yang jia jiang.md",
+      "label": "杨家将",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/yi ren ren shu bu bian an B+C si hou huo li zui qiang.bin",
+      "label": "翼人 人数不变 按B+C 死后 火力最强",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/yi ren.smd",
+      "label": "翼人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/yi xing 3.smd",
+      "label": "异形3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/yi xing feng bao wu di ban.gen",
+      "label": "异形风暴 无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ying wu zhe.smd",
+      "label": "影武者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/ying xiong chuan shuo 2 fan cai dan.md",
+      "label": "英雄传说2 繁菜单",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/yong heng zhui qiu.bin",
+      "label": "永恒追求",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/you you bai shu mo qiang tong yi zhan zhong wen ban.md",
+      "label": "幽游白书 魔强统一战 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/you you bai shu wai zhuan.smd",
+      "label": "幽游白书外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/yuan chao mi shi cang lang yu bai lu zhong wen ban.smd",
+      "label": "元朝秘史 苍狼与白鹿 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zha dan ren an y jian wu di jia jiu ming.bin",
+      "label": "炸弹人按y键无敌加九命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zha dan ren.smd",
+      "label": "炸弹人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhan chang zhi lang xu guan zha dan wu xian.gen",
+      "label": "战场之狼 续关 炸弹无限",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhan chang zhi lang.smd",
+      "label": "战场之狼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhan dou ma li ya ren wu xian zhuang bei qiang zha dan wu xian.bin",
+      "label": "战斗玛利亚  人无限 装备强 炸弹无限",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhan dou wa yu shuang jie long.smd",
+      "label": "战斗蛙与双截龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhan dou yuan shi ren ren shu bu jian ， wu di ，A，B，C+↑+↓ huan wu qi.bin",
+      "label": "战斗原始人 人数不减，无敌，A，B，C+↑+↓ 换武器",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhan dou yuan shi ren.smd",
+      "label": "战斗原始人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhan fu 1 xue bu jian.gen",
+      "label": "战斧1 血不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhan fu 1.SMD",
+      "label": "战斧1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhan fu 2 HP MP wu xian.gen",
+      "label": "战斧2 HP MP无限",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhan fu 2.SMD",
+      "label": "战斧2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhan fu 3 ren shu bu jian Start jian bu xue jia man 6 ge zha dan.bin",
+      "label": "战斧3 人数不减 Start键补血  加满6个炸弹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhan fu 3.SMD",
+      "label": "战斧3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhan mu si pang de 3 hai xing xing dong.smd",
+      "label": "詹姆斯庞德3 海星行动",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhen ren kuai da 1.bin",
+      "label": "真人快打1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhen ren kuai da 2.bin",
+      "label": "真人快打2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhen ren kuai da 3.BIN",
+      "label": "真人快打3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhen shi de guai wu.smd",
+      "label": "真实的怪物",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zhi ming sha shou 2.smd",
+      "label": "致命杀手2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sega - MD/zong bu zhui ji 2.smd",
+      "label": "总部追击2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/retroarch/@ROM/Sony - PS1/da hang hai shi dai wai zhuan.bin",
+      "label": "大航海时代外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PS1.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PS1/e mo cheng yue xia ye xiang qu.img",
+      "label": "恶魔城月下夜想曲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PS1.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PS1/she diao ying xiong chuan.bin",
+      "label": "射雕英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PS1.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PS1/sheng jian chuan shuo - ma na chuan qi.img",
+      "label": "圣剑传说 - 玛娜传奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PS1.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PS1/yong zhe dou e long guai shou pian 1+2.img",
+      "label": "勇者斗恶龙怪兽篇1+2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PS1.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PS1/zui zhong huan xiang 7.img",
+      "label": "最终幻想7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PS1.lpl"
+    },
+    {
+      "path": "/retroarch/@ROM/Sony - PS1/zui zhong huan xiang zhan lve ban.bin",
+      "label": "最终幻想战略版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PS1.lpl"
+    }
+  ]
+}
