@@ -83,3 +83,5 @@ cp -rL '～/RetroGames/emulators/RetroArch/Nintendo Switch/RetroArch.Full'  '/Vo
     - 中文名/xx.cue,xx.bin
     - 中文名/xxx.zip
     - 中文名/xxx.zip 一堆系列的，NEOGEO，要改成咸鱼
+
+- [ ] 增加RetroArch每种平台的图标
