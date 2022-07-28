@@ -1,3 +1,6 @@
 .idea
 .vscode
 .DS_Store
+
+# this config not push to the repository
+hack/config.sh
