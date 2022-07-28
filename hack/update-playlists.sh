@@ -79,12 +79,12 @@ update_one_platform_one_emulator() {
     mkdir -p "$_dir_csv"
     mkdir -p "$_dir_lpl"
 
-    # if csv is existing, skip this emulator.
-    # if [ -f "$csv_file".csv ]; then
-    #     echo "$csv_file".csv" is existing, skip"
-    # else
+    if csv is existing, skip this emulator.
+    if [ -f "$csv_file".csv ]; then
+        echo "$csv_file".csv" is existing, skip"
+    else
         update_sorted_csv
-    # fi
+    fi
     update_playlists_from_csv
 }
 
