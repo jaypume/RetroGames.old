@@ -23,7 +23,7 @@ emulators=(
     # '3DO - 3DO'
     # 'Atari - Lynx'
     # 'BANDAI - WS'
-    # 'Capcom - CPS1'
+    'Capcom - CPS1'
     # 'Capcom - CPS2'
     # 'Capcom - CPS3'
     # 'MAME'

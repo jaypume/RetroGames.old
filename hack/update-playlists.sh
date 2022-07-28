@@ -7,24 +7,28 @@ source "$ROOT_PATH/hack/config.sh"
 update_sorted_csv() {
     lines=
     # _dir_rom: ".../@ROM/Nintendo - GBA"
-
     for f in "$_dir_rom"/*; do
-        file=$(basename "$f")
-        extension="${file##*.}"
-        filename="${file%.*}"
-        # TODO: 如果是文件夹该怎么处理
-        echo "$file"
-        # TODO: 换用更快速的go-pinyin版本
-        #只把title转换为拼音
-        if [[ $_dir_rom == *ALL ]]; then
-            # if it is end with "ALL", it shows that all filenames are in Englinsh.
-            file_py="$file"
+        if [[ -d "$f" ]];
+        then
+            echo "$f""is dir"
         else
-            # Chinese filename included, need to transfer to pinyin
-            file_py=$(echo $(pypinyin -s zhao "$filename") | awk '{$1=$1};1').$extension
+            file=$(basename "$f")
+            extension="${file##*.}"
+            filename="${file%.*}"
+            # TODO: 如果是文件夹该怎么处理
+            echo "$file"
+            # TODO: 换用更快速的go-pinyin版本
+            #只把title转换为拼音
+            if [[ $_dir_rom == *ALL ]]; then
+                # if it is end with "ALL", it shows that all filenames are in Englinsh.
+                file_py="$file"
+            else
+                # Chinese filename included, need to transfer to pinyin
+                file_py=$(echo $(pypinyin -s zhao "$filename") | awk '{$1=$1};1').$extension
+            fi
+            # should no space here
+            lines+="$file,$file_py"$'\n'
         fi
-        # should no space here
-        lines+="$file,$file_py"$'\n'
     done
     echo -n "$lines" >"$csv_file".unsort.csv
     sorted="$(sort -k 2 -t ',' "$csv_file".unsort.csv)"
@@ -38,7 +42,8 @@ update_playlists_from_csv() {
     lines=""
     while IFS=',' read -r cn_name py_name; do
         echo "$cn_name"
-        lines+=$(jq -n -c --arg path "$prefix/$emulator/$py_name" \
+        # TODO: 如果是Swtich, 下面这行要改为py_name
+        lines+=$(jq -n -c --arg path "$prefix/$emulator/$cn_name" \
             --arg label "${cn_name%.*}" \
             --arg core_path "" \
             --arg core_name "" \
@@ -75,11 +80,11 @@ update_one_platform_one_emulator() {
     mkdir -p "$_dir_lpl"
 
     # if csv is existing, skip this emulator.
-    if [ -f "$csv_file".csv ]; then
-        echo "$csv_file".csv" is existing, skip"
-    else
+    # if [ -f "$csv_file".csv ]; then
+    #     echo "$csv_file".csv" is existing, skip"
+    # else
         update_sorted_csv
-    fi
+    # fi
     update_playlists_from_csv
 }
 
