@@ -1,9 +1,6 @@
 #!/bin/bash
 
-
-ROOT_PATH=$(git rev-parse --show-toplevel)
-source "$ROOT_PATH/hack/init.sh"
-
+source "$ROOT_PATH/hack/config.sh"
 
 # 可以根据这个脚本来制作自己的合集
 copy_thumb_to_switch() {

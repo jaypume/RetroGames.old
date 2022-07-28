@@ -1,11 +1,8 @@
 #!/bin/zsh
 
-# the command should like:
-# ./rename_by_csv.sh "Nintendo - GBA"
+# this scripts is just for test.
 
-# db = "Nintendo - GBA"
 db=$1
-
 dir_rom="../@ROM/$db",
 dir_boxarts="../thumbnails/$db/Named_Boxarts"
 dir_snaps="../thumbnails/$db/Named_Snaps"

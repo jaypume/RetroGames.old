@@ -1,8 +1,6 @@
 #!/bin/bash
 
-
-
-bash init.sh
+source "$ROOT_PATH/hack/config.sh"
 
 update_one_emulator() {
     echo "start to update $emulator"

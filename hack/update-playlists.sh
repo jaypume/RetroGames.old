@@ -1,63 +1,7 @@
 #!/bin/zsh
 # TODO: may need to move zsh to bash
 
-# This is the source root /path/to/RetroGames/
-ROOT_PATH=$(git rev-parse --show-toplevel)
-
-# Android: should replace XXXX-XXXX to your real SD card ID
-# Windows: should replace '/' to '\\' global
-# Switch: not supports Chinese filename, for making sure it works right,
-# we need to `bash hack/update-switch-rom`
-# should not have space after ',', this will cause some error
-platforms=(
-    # platform, default_path_prefix
-    # 'Android,/storage/XXXX-XXXX/RetroArch/@ROM'
-    # 'Apple IOS,~/Documents/RetroArch/@ROM'
-    'Nintendo Switch,/retroarch/@ROM'
-    # 'Sony PSV,uma0:/data/retroarch/@ROM'
-    # 'Windows,D:\RetroArch\@ROM'
-)
-
-emulators=(
-    # '3DO - 3DO'
-    'Atari - Lynx'
-    'BANDAI - WS'
-    # 'Capcom - CPS1'
-    # 'Capcom - CPS2'
-    # 'Capcom - CPS3'
-    # 'MAME'
-    'Microsoft - DOS'
-    # 'NEC - PC-FX'
-    'NEC - PCE'
-    # 'NEC - PCE CD'
-    'Nintendo - 3DS'
-    'Nintendo - FC'
-    # 'Nintendo - FC ALL'
-    # 'Nintendo - GB ALL'
-    'Nintendo - GBA'
-    # 'Nintendo - GBA ALL'
-    'Nintendo - GBC'
-    # 'Nintendo - GBC ALL'
-    'Nintendo - N64'
-    # 'Nintendo - N64 ALL'
-    'Nintendo - NDS'
-    'Nintendo - NGC'
-    'Nintendo - SFC'
-    # 'Nintendo - SFC ALL'
-    'Nintendo - WII'
-    'Sega - 32X'
-    # 'Sega - Dreamcast'
-    'Sega - GG'
-    'Sega - MD'
-    'Sega - MS'
-    'Sega - Naomi'
-    'Sega - Saturn'
-    # 'SNK - NeoGeo'
-    'SNK - NGP'
-    'Sony - PS1'
-    'Sony - PS2'
-    'Sony - PSP'
-)
+source "$ROOT_PATH/hack/config.sh"
 
 update_sorted_csv() {
     lines=
@@ -129,8 +73,7 @@ update_one_platform_one_emulator() {
     mkdir -p "$_dir_csv"
     mkdir -p "$_dir_lpl"
 
-    # if dont want to update all csv, comment this line
-    # TODO: 优化这里的函数，如果已有csv的话，直接更新所有其他平台
+    # if csv is existing, skip this emulator.
     if [ -f "$csv_file".csv ]; then
         echo "$csv_file".csv" is existing, skip"
     else

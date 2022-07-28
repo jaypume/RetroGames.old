@@ -5,6 +5,21 @@ ROOT_PATH=$(git rev-parse --show-toplevel)
 BASE_RA_PATH="emulators/RetroArch/_base_/RetroArch"
 BASE_NS_PATH="emulators/RetroArch/Nintendo Switch/RetroArch.Full"
 
+
+# Android: should replace XXXX-XXXX to your real SD card ID
+# Windows: should replace '/' to '\\' global
+# Switch: not supports Chinese filename, for making sure it works right,
+# we need to `bash hack/update-switch-rom`
+# should not have space after ',', this will cause some error
+platforms=(
+    # platform, default_path_prefix
+    'Android,/storage/XXXX-XXXX/RetroArch/@ROM'
+    # 'Apple IOS,~/Documents/RetroArch/@ROM'
+    # 'Nintendo Switch,/retroarch/@ROM'
+    # 'Sony PSV,uma0:/data/retroarch/@ROM'
+    # 'Windows,D:\RetroArch\@ROM'
+)
+
 emulators=(
     # '3DO - 3DO'
     'Atari - Lynx'

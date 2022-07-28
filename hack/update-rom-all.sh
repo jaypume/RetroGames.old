@@ -1,8 +1,6 @@
 #!/bin/bash
 
-# This is the source root /path/to/RetroGames/
-ROOT_PATH=$(git rev-parse --show-toplevel)
-BASE_RA_PATH="emulators/RetroArch/_base_/RetroArch"
+source "$ROOT_PATH/hack/config.sh"
 
 lines=(
     "rom/Arcade/1999 - MAME/MAME"
