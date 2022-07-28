@@ -1,6 +1,7 @@
 #!/bin/zsh
 # TODO: may need to move zsh to bash
 
+ROOT_PATH=$(git rev-parse --show-toplevel)
 source "$ROOT_PATH/hack/config.sh"
 
 update_sorted_csv() {

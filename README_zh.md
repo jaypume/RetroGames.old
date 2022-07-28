@@ -40,13 +40,23 @@ cp -rL '～/RetroGames/emulators/RetroArch/Nintendo Switch/RetroArch.Full'  '/Vo
 `-rL`表示会把符号链接的原始内容进行拷贝，而不是符号链接本身。
 
 
+## 可以实现什么样的效果？(TODO)
+### Windows
+### Nintendo Switch
+### Sony PSV
+### Apple IOS
+### Android
+
+
 ## 更新游戏教程
 如果你需要自行添加游戏ROM并更新列表的话。
+### 新ROM增加或改名后怎么办？
+比如如果更新了PSP文件名和缩略图文件名的话：
+1. 删除CSV中的PSP.csv
+2. 执行 `zsh hack/update-playlists.sh`
 
-### 有新的ROM提交和更新的流程
-### 有新的ROM如何更新？
-- 不要使用系统浏览器来拷贝或操作相对路径，最好使用linux 命令
-
+### 如果更新了Switch咋办？
+1. `bash hack/update-switch.sh`
 
 ## 待办
 
