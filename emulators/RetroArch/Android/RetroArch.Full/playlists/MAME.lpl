@@ -1,0 +1,810 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/1945 3改 [FBA2012]/1945kiii.zip",
+      "label": "1945 3改 [FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/64号街区 [FBA]/64streetja.zip",
+      "label": "64号街区 [FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/X 战警  [mame2003]/xmen.zip",
+      "label": "X 战警  [mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/暴风战机 [FBA2012]/vfive.zip",
+      "label": "暴风战机 [FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/暴力风暴 [mame03]/viostorm.zip",
+      "label": "暴力风暴 [mame03]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/蝙蝠骑警香港版 [FBA]/batriderhk.zip",
+      "label": "蝙蝠骑警香港版 [FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/变身忍者 [MAME2003]/shadfrce.zip",
+      "label": "变身忍者 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/变形战士[FBA]/metamrpha.zip",
+      "label": "变形战士[FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/彩京1945 1 [FBA]/s1945.zip",
+      "label": "彩京1945 1 [FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/彩京1945 2 [FBA2012]/s1945ii.zip",
+      "label": "彩京1945 2 [FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/彩京战国 [MAME2003]/sngkace.zip",
+      "label": "彩京战国 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/长空超少年[FBA2012]/esprade.zip",
+      "label": "长空超少年[FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/超级火力 [FBA]/turbofrcu.zip",
+      "label": "超级火力 [FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/沉默之龙 [mame2003]/silentd.zip",
+      "label": "沉默之龙 [mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/成龙踢馆 1 [mame2003]/kungfum.zip",
+      "label": "成龙踢馆 1 [mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/成龙踢馆 2 [mame2003]/vigilant.zip",
+      "label": "成龙踢馆 2 [mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/赤色要塞 [mame2003]/jackal.zip",
+      "label": "赤色要塞 [mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/出发兵蜂[MAME2003]/blswhstl.zip",
+      "label": "出发兵蜂[MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/大力工头 [MAME2000]/",
+      "label": "大力工头 [MAME2000]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/刀锋领主 [MAME2003]/bmaster.zip",
+      "label": "刀锋领主 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/地狱小和尚 [MAME2003]/bonzeadv.zip",
+      "label": "地狱小和尚 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/电精 1 [mame2003]/denjinmk.zip",
+      "label": "电精 1 [mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/电精 2 [FBA2012]/grdians.zip",
+      "label": "电精 2 [FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/斗神光辉 [MAME2003]/karatblz.zip",
+      "label": "斗神光辉 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/疯狂抢手 [FBA2012]/batsugun.zip",
+      "label": "疯狂抢手 [FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/高卢奇兵 [MAME2003]/asterix.zip",
+      "label": "高卢奇兵 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/功夫 [MAME2003]/yiear.zip",
+      "label": "功夫 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/古巴战士 [mame2000]/gwarj.zip",
+      "label": "古巴战士 [mame2000]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/海底大战争 [MAME2003]/inthunt.zip",
+      "label": "海底大战争 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/豪血寺一族 1 [FBA2012]/powerins.zip",
+      "label": "豪血寺一族 1 [FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/豪血寺一族 2 [FBA]/pwrinst2.zip",
+      "label": "豪血寺一族 2 [FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/豪血寺一族外传 最强传说[FBA2012]/plegends.zip",
+      "label": "豪血寺一族外传 最强传说[FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/糊涂忍者[FBA2012]/charlien.zip",
+      "label": "糊涂忍者[FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/荒野大镖客美版[FBA]/gunsmokeua.zip",
+      "label": "荒野大镖客美版[FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/魂斗罗 1 [mame2000]/Contra.zip",
+      "label": "魂斗罗 1 [mame2000]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/魂斗罗 2 [mame2000]/Scontra.zip",
+      "label": "魂斗罗 2 [mame2000]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/机甲部队 [FBA]/roboarma.zip",
+      "label": "机甲部队 [FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/剑豪 [MAME2003]/kengo.zip",
+      "label": "剑豪 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/街头霸王 3.3 [FBA2012]/sfiii3.zip",
+      "label": "街头霸王 3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/街头格斗 [MAME2000]/tturf.zip",
+      "label": "街头格斗 [MAME2000]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/精英忍者[FBA2012]/metmqstr.zip",
+      "label": "精英忍者[FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/九反威龙 2  [FBA2012]/vendettaj.zip",
+      "label": "九反威龙 2  [FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/牢门山物语[MAME2003]/guwange.zip",
+      "label": "牢门山物语[MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/雷电 [MAME2003]/raiden.zip",
+      "label": "雷电 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/雷龙 1 [FBA]/tdragonb.zip",
+      "label": "雷龙 1 [FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/雷龙 2  [FBA2012]/tdragon2.zip",
+      "label": "雷龙 2  [FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/雷鸟之翼 [MAME03]/gigawing.zip",
+      "label": "雷鸟之翼 [MAME03]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/雷射战机 [FBA核心]/dogyuun.zip",
+      "label": "雷射战机 [FBA核心]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/龙之忍者 [MAME2003]/baddudes.zip",
+      "label": "龙之忍者 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/美少女战士 [FBA2012]/sailormn.zip",
+      "label": "美少女战士 [FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/秘密警察 [MAME2003]/uccops.zip",
+      "label": "秘密警察 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/民国教育委员会 [MAME2003]/quizchql.zip",
+      "label": "民国教育委员会 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/怒首领蜂 1 [FBA2012]/ddonpach.zip",
+      "label": "怒首领蜂 1 [FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/怒之忍者日版 [FBA]/mystwarrj.zip",
+      "label": "怒之忍者日版 [FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/麒麟OS战警 [FBA2012]/osman.zip",
+      "label": "麒麟OS战警 [FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/七龙珠 [MAME2003]/dbz2.zip",
+      "label": "七龙珠 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/乔乔的奇妙冒险 [FBA2012]/jojo.zip",
+      "label": "乔乔的奇妙冒险 [FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/忍者棒球 [MAME2003]/nbbatman.zip",
+      "label": "忍者棒球 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/忍者神龟 1 [mame2000]/",
+      "label": "忍者神龟 1 [mame2000]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/忍者神龟 2 [mame2000]/tmnt2.zip",
+      "label": "忍者神龟 2 [mame2000]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/忍者蛙 [MAME2003]/btoads.zip",
+      "label": "忍者蛙 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/森林保护神 [mame2003]/growl.zip",
+      "label": "森林保护神 [mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/石破天惊[FBA2012]/agallet.zip",
+      "label": "石破天惊[FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/双截龙 1 [mame2000]/ddragon.zip",
+      "label": "双截龙 1 [mame2000]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/双截龙 2 [mame2000]/ddragon2.zip",
+      "label": "双截龙 2 [mame2000]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/双截龙 3 [mame2003]/ddragon3.zip",
+      "label": "双截龙 3 [mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/丝路传说 [MAME2003]/silkroad.zip",
+      "label": "丝路传说 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/特殊战队UAG日版 [FBA]/tndrcadej.zip",
+      "label": "特殊战队UAG日版 [FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/天蚕变95 [mame2003]/fantsy95.zip",
+      "label": "天蚕变95 [mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/天蝉变 [MAME2003]/fantasia.zip",
+      "label": "天蝉变 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/天蝉变 新幻想曲 [FBA2012]/wownfant.zip",
+      "label": "天蝉变 新幻想曲 [FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/铁钩船长[MAME2003]/hook.zip",
+      "label": "铁钩船长[MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/脱狱 [mame2000]/pow.zip",
+      "label": "脱狱 [mame2000]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/武装飞鸟 1 [FBA2012]/gunbird.zip",
+      "label": "武装飞鸟 1 [FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/西部牛仔 [mame2003]/ssriders.zip",
+      "label": "西部牛仔 [mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/吸尘器 [MAME2003]/tumblep.zip",
+      "label": "吸尘器 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/希特勒复活[FBA]/bionicc.zip",
+      "label": "希特勒复活[FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/小猫钓鱼[FBA2012]/uopoko.zip",
+      "label": "小猫钓鱼[FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/新 天蝉变 [mame2003]/newfant.zip",
+      "label": "新 天蝉变 [mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/徐徐大作战[mame2003]/bishi.zip",
+      "label": "徐徐大作战[mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/雪人兄弟3 [FBA]/snowbro3.zip",
+      "label": "雪人兄弟3 [FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/异形魂斗罗 [MAME2003]/aliens.zip",
+      "label": "异形魂斗罗 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/银色千年 [FBA]/silvmil.zip",
+      "label": "银色千年 [FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/鹦鹉历险记 [FBA]/jjsquawk.zip",
+      "label": "鹦鹉历险记 [FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/影子传说 [MAME2003]/lkage.zip",
+      "label": "影子传说 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/宇宙巡航机 1 [MAME2000]/vulcan.zip",
+      "label": "宇宙巡航机 1 [MAME2000]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/宇宙巡航机3 [mame2003]/gradius3.zip",
+      "label": "宇宙巡航机3 [mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/宇宙巡航机 [mame2003]/nemesis.zip",
+      "label": "宇宙巡航机 [mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/宇宙野兔日版 [FBA]/buckyjaa.zip",
+      "label": "宇宙野兔日版 [FBA]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/原始岛(世界版) [MAME2000]/Prehisle.zip",
+      "label": "原始岛(世界版) [MAME2000]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/越战1975 [mame2003]/nam1975.zip",
+      "label": "越战1975 [mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/战斗原始人 [MAME2000]/cninja.zip",
+      "label": "战斗原始人 [MAME2000]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/战斧 1 [MAME2003]/goldnaxe.zip",
+      "label": "战斧 1 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/战斧 2 [MAME2003]/ga2j.zip",
+      "label": "战斧 2 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/战火惊魂 1 [MAME2003]/gunforce.zip",
+      "label": "战火惊魂 1 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/战火惊魂 2 [MAME2003]/gunforc2.zip",
+      "label": "战火惊魂 2 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/征战者[FBA2012]/gaia.zip",
+      "label": "征战者[FBA2012]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/中东战争 [MAME2000]/silkworm.zip",
+      "label": "中东战争 [MAME2000]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/中华大仙 [mame2003]/chukatai.zip",
+      "label": "中华大仙 [mame2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/MAME/最后忍道 [MAME2003]/nspirit.zip",
+      "label": "最后忍道 [MAME2003]",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    }
+  ]
+}

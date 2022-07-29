@@ -8,14 +8,26 @@ update_sorted_csv() {
     lines=
     # _dir_rom: ".../@ROM/Nintendo - GBA"
     for f in "$_dir_rom"/*; do
-        if [[ -d "$f" ]];
-        then
-            echo "$f""is dir"
+        if [[ -d "$f" ]]; then
+            # boot_file is like xx.zip, xx.cue, cc.lst
+            boot_file="$(find -E "$f" -regex '.*\.(cue|m3u|cdi|gdi|lst|bin|zip)' -exec basename {} \; | head -n 1)"
+            _dir=$(basename "$f")
+            file="$_dir/$boot_file"
+            echo "$file"
+            # #只把title转换为拼音
+            if [[ $_dir_rom == *ALL ]]; then
+                # if it is end with "ALL", it shows that all filenames are in Englinsh.
+                file_py="$file"
+            else
+                # Chinese filename included, need to transfer to pinyin
+                file_py=$(echo $(pypinyin -s zhao "$_dir") | awk '{$1=$1};1')
+            fi
+            # should no space here
+            lines+="$file,$file_py"$'\n'
         else
             file=$(basename "$f")
             extension="${file##*.}"
             filename="${file%.*}"
-            # TODO: 如果是文件夹该怎么处理
             echo "$file"
             # TODO: 换用更快速的go-pinyin版本
             #只把title转换为拼音
@@ -44,7 +56,7 @@ update_playlists_from_csv() {
         echo "$cn_name"
         # TODO: 如果是Swtich, 下面这行要改为py_name
         lines+=$(jq -n -c --arg path "$prefix/$emulator/$cn_name" \
-            --arg label "${cn_name%.*}" \
+            --arg label "${$(echo $cn_name| cut -d'/' -f1)%.*}" \
             --arg core_path "" \
             --arg core_name "" \
             --arg crc32 '00000000|crc' \
@@ -79,7 +91,7 @@ update_one_platform_one_emulator() {
     mkdir -p "$_dir_csv"
     mkdir -p "$_dir_lpl"
 
-    if csv is existing, skip this emulator.
+    # if csv is existing, skip this emulator.
     if [ -f "$csv_file".csv ]; then
         echo "$csv_file".csv" is existing, skip"
     else
