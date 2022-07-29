@@ -35,7 +35,7 @@
 
 2. 拷贝到对应机器SD卡
 ```
-cp -rL '～/RetroGames/emulators/RetroArch/Nintendo Switch/RetroArch.Full'  '/Volumes/SDCard'
+cp -rpL '～/RetroGames/emulators/RetroArch/Nintendo Switch/RetroArch.Full'  '/Volumes/SDCard'
 ```
 `-rL`表示会把符号链接的原始内容进行拷贝，而不是符号链接本身。
 
@@ -85,3 +85,6 @@ cp -rL '～/RetroGames/emulators/RetroArch/Nintendo Switch/RetroArch.Full'  '/Vo
     - 中文名/xxx.zip 一堆系列的，NEOGEO，要改成咸鱼
 
 - [ ] 增加RetroArch每种平台的图标
+- [ ] 优化cp命令
+    - 图形界面
+    - 展示拷贝进度条。

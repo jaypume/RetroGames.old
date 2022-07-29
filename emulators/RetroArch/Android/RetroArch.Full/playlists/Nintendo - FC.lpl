@@ -1,0 +1,6394 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/1942.nes",
+      "label": "1942",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/1943.nes",
+      "label": "1943",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/1944.nes",
+      "label": "1944",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/1945.nes",
+      "label": "1945",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/1991赌马.nes",
+      "label": "1991赌马",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/4人麻将.nes",
+      "label": "4人麻将",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/B计划.nes",
+      "label": "B计划",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/CAPCOM音乐30合一.nes",
+      "label": "CAPCOM音乐30合一",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/F-1赛车.nes",
+      "label": "F-1赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/F15战机.nes",
+      "label": "F15战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/FC原人.nes",
+      "label": "FC原人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/JuJu传说.nes",
+      "label": "JuJu传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/SD英雄总决战 打倒邪恶军团.nes",
+      "label": "SD英雄总决战 打倒邪恶军团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/X战警.nes",
+      "label": "X战警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/阿尔戈斯战士.nes",
+      "label": "阿尔戈斯战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/阿拉丁1.nes",
+      "label": "阿拉丁1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/阿拉丁2.nes",
+      "label": "阿拉丁2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/阿拉丁3.nes",
+      "label": "阿拉丁3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/阿拉丁4.nes",
+      "label": "阿拉丁4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/爱的小屋.nes",
+      "label": "爱的小屋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/埃及.nes",
+      "label": "埃及",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/暗黑破坏神.nes",
+      "label": "暗黑破坏神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/暗棋.nes",
+      "label": "暗棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/傲剑江湖.nes",
+      "label": "傲剑江湖",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/巴特龙战机.nes",
+      "label": "巴特龙战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/百万富翁.nes",
+      "label": "百万富翁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/半熟英雄.nes",
+      "label": "半熟英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/包青天.nes",
+      "label": "包青天",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/爆笑三国.nes",
+      "label": "爆笑三国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/暴走淘金者1.nes",
+      "label": "暴走淘金者1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/暴走淘金者2.nes",
+      "label": "暴走淘金者2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/北斗神拳1.nes",
+      "label": "北斗神拳1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/北斗神拳2.nes",
+      "label": "北斗神拳2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/北斗神拳3.nes",
+      "label": "北斗神拳3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/北斗神拳4.nes",
+      "label": "北斗神拳4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/蝙蝠侠1.nes",
+      "label": "蝙蝠侠1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/蝙蝠侠2.nes",
+      "label": "蝙蝠侠2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/蝙蝠侠3.nes",
+      "label": "蝙蝠侠3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/变形战机Z.nes",
+      "label": "变形战机Z",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/兵蜂1.nes",
+      "label": "兵蜂1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/兵蜂2.nes",
+      "label": "兵蜂2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/兵蜂3.nes",
+      "label": "兵蜂3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/冰山登山者.nes",
+      "label": "冰山登山者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/波斯王子.nes",
+      "label": "波斯王子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/不动明王传 恶魔之剑.nes",
+      "label": "不动明王传 恶魔之剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/不动明王传.nes",
+      "label": "不动明王传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/布鲁斯兄弟.nes",
+      "label": "布鲁斯兄弟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/彩虹岛.nes",
+      "label": "彩虹岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/财神到.nes",
+      "label": "财神到",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/餐厅争夺战.nes",
+      "label": "餐厅争夺战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/茶茶丸之大冒险.nes",
+      "label": "茶茶丸之大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/长枪手传奇.nes",
+      "label": "长枪手传奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超惑星战记.nes",
+      "label": "超惑星战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级阿拉丁.nes",
+      "label": "超级阿拉丁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级冲刺赛.nes",
+      "label": "超级冲刺赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级大富翁.nes",
+      "label": "超级大富翁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级大战略.nes",
+      "label": "超级大战略",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级机器人大战A.nes",
+      "label": "超级机器人大战A",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级间谍猎人.nes",
+      "label": "超级间谍猎人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级玛丽1.nes",
+      "label": "超级玛丽1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级马力欧2.nes",
+      "label": "超级马力欧2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级马力欧3.nes",
+      "label": "超级马力欧3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级马力欧 路易基之谜.nes",
+      "label": "超级马力欧 路易基之谜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级马力欧 神风1999.nes",
+      "label": "超级马力欧 神风1999",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级马力欧 神风2000.nes",
+      "label": "超级马力欧 神风2000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级马力欧 神风路奇.nes",
+      "label": "超级马力欧 神风路奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级马力欧 索尼克.nes",
+      "label": "超级马力欧 索尼克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级马力欧 新的冒险.nes",
+      "label": "超级马力欧 新的冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级马力欧兄弟拆屋工.nes",
+      "label": "超级马力欧兄弟拆屋工",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级马力欧兄弟.nes",
+      "label": "超级马力欧兄弟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级马力欧 耀奇.nes",
+      "label": "超级马力欧 耀奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级马力欧医生.nes",
+      "label": "超级马力欧医生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级忍.nes",
+      "label": "超级忍",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级贪吃蛇.nes",
+      "label": "超级贪吃蛇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级中国人1.nes",
+      "label": "超级中国人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级中国人2.nes",
+      "label": "超级中国人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超级中国人3.nes",
+      "label": "超级中国人3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超魔兽大战.nes",
+      "label": "超魔兽大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超人狼战记.nes",
+      "label": "超人狼战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超人.nes",
+      "label": "超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超时空要塞.nes",
+      "label": "超时空要塞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/超越地平线.nes",
+      "label": "超越地平线",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/城堡探险.nes",
+      "label": "城堡探险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/惩罚者.nes",
+      "label": "惩罚者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/成吉思汗.nes",
+      "label": "成吉思汗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/成龙提馆1.nes",
+      "label": "成龙提馆1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/成龙提馆2.nes",
+      "label": "成龙提馆2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/成龙之龙.nes",
+      "label": "成龙之龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/吃豆小精灵1.nes",
+      "label": "吃豆小精灵1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/吃豆小精灵2.nes",
+      "label": "吃豆小精灵2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/赤色要塞.nes",
+      "label": "赤色要塞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/冲破火网1.nes",
+      "label": "冲破火网1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/冲破火网2.nes",
+      "label": "冲破火网2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/宠物大家族 部落纷争.nes",
+      "label": "宠物大家族 部落纷争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/宠物高达战记.nes",
+      "label": "宠物高达战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/宠物小精灵2.nes",
+      "label": "宠物小精灵2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/宠物小精灵4.nes",
+      "label": "宠物小精灵4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/宠物小精灵6.nes",
+      "label": "宠物小精灵6",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/锄大D.nes",
+      "label": "锄大D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/楚汉风云.nes",
+      "label": "楚汉风云",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/楚汉争霸.nes",
+      "label": "楚汉争霸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/楚留香 香帅传奇之血海飘零.nes",
+      "label": "楚留香 香帅传奇之血海飘零",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大白鲨.nes",
+      "label": "大白鲨",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大鼻子原始人1.nes",
+      "label": "大鼻子原始人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大鼻子原始人2.nes",
+      "label": "大鼻子原始人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大盗伍佑卫门1.nes",
+      "label": "大盗伍佑卫门1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大盗伍佑卫门2.nes",
+      "label": "大盗伍佑卫门2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大盗伍佑卫门之天下宝藏.nes",
+      "label": "大盗伍佑卫门之天下宝藏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大航海时代1.nes",
+      "label": "大航海时代1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大航海时代7.nes",
+      "label": "大航海时代7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大话水浒.nes",
+      "label": "大话水浒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大话西游 火星电子.nes",
+      "label": "大话西游 火星电子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大话西游 南晶科技.nes",
+      "label": "大话西游 南晶科技",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大金刚1.nes",
+      "label": "大金刚1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大金刚2.nes",
+      "label": "大金刚2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大金刚3.nes",
+      "label": "大金刚3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大金刚 香蕉船.nes",
+      "label": "大金刚 香蕉船",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/打空气1.nes",
+      "label": "打空气1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/打空气2.nes",
+      "label": "打空气2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大力工头1.nes",
+      "label": "大力工头1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大力工头2.nes",
+      "label": "大力工头2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大力水手.nes",
+      "label": "大力水手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大蜜蜂.nes",
+      "label": "大蜜蜂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大唐风云4.nes",
+      "label": "大唐风云4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大眼蛙大冒险1.nes",
+      "label": "大眼蛙大冒险1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大眼蛙大冒险2.nes",
+      "label": "大眼蛙大冒险2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/大战略.nes",
+      "label": "大战略",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/打砖块.nes",
+      "label": "打砖块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/弹珠台.nes",
+      "label": "弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/刀锋战士1.nes",
+      "label": "刀锋战士1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/刀锋战士2.nes",
+      "label": "刀锋战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/刀锋战士 日版.nes",
+      "label": "刀锋战士 日版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/刀剑英雄传.nes",
+      "label": "刀剑英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/盗帅.nes",
+      "label": "盗帅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/第2次超级机器人大战.nes",
+      "label": "第2次超级机器人大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/第3次超级机器人大战.nes",
+      "label": "第3次超级机器人大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/第4次超级机器人大战.nes",
+      "label": "第4次超级机器人大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/地道战.nes",
+      "label": "地道战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/地底大作战.nes",
+      "label": "地底大作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/地底探险1.nes",
+      "label": "地底探险1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/地底探险2.nes",
+      "label": "地底探险2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/帝国风暴.nes",
+      "label": "帝国风暴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/帝国时代.nes",
+      "label": "帝国时代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/帝国战机.nes",
+      "label": "帝国战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/帝国直升机.nes",
+      "label": "帝国直升机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/地球冒险.nes",
+      "label": "地球冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/地狱极乐丸.nes",
+      "label": "地狱极乐丸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/电视玛丽.nes",
+      "label": "电视玛丽",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/电梯大盗.nes",
+      "label": "电梯大盗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/东方传说.nes",
+      "label": "东方传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/东风.nes",
+      "label": "东风",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/东周列国志.nes",
+      "label": "东周列国志",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/斗者的挽歌.nes",
+      "label": "斗者的挽歌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/斗智评盘.nes",
+      "label": "斗智评盘",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/赌神.nes",
+      "label": "赌神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/夺宝奇兵1.nes",
+      "label": "夺宝奇兵1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/夺宝奇兵2.nes",
+      "label": "夺宝奇兵2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/夺宝奇兵3.nes",
+      "label": "夺宝奇兵3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/夺宝小英豪 光明与黑暗传说.nes",
+      "label": "夺宝小英豪 光明与黑暗传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/饿狼传说2.nes",
+      "label": "饿狼传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/饿狼传说特別版.nes",
+      "label": "饿狼传说特別版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/俄罗斯方块.nes",
+      "label": "俄罗斯方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/恶魔城1.nes",
+      "label": "恶魔城1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/恶魔城2.nes",
+      "label": "恶魔城2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/恶魔城3.nes",
+      "label": "恶魔城3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/恶魔城4.nes",
+      "label": "恶魔城4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/恶魔城 王子.nes",
+      "label": "恶魔城 王子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/腭鱼先生.nes",
+      "label": "腭鱼先生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/法老王.nes",
+      "label": "法老王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/飞狼.nes",
+      "label": "飞狼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/菲利克斯猫.nes",
+      "label": "菲利克斯猫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/飞龙之拳1.nes",
+      "label": "飞龙之拳1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/飞龙之拳2.nes",
+      "label": "飞龙之拳2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/飞龙之拳3.nes",
+      "label": "飞龙之拳3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/飞龙之拳4.nes",
+      "label": "飞龙之拳4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/飞龙之拳特別版.nes",
+      "label": "飞龙之拳特別版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/飞龙.nes",
+      "label": "飞龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/飞人战士.nes",
+      "label": "飞人战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/飞翼人.nes",
+      "label": "飞翼人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/愤怒的小鸟1.nes",
+      "label": "愤怒的小鸟1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/愤怒的小鸟2.nes",
+      "label": "愤怒的小鸟2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/疯狂鸡蛋仔.nes",
+      "label": "疯狂鸡蛋仔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/风色幻想.nes",
+      "label": "风色幻想",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/封神榜 伏魔三太子.nes",
+      "label": "封神榜 伏魔三太子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/封神榜.nes",
+      "label": "封神榜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/风云.nes",
+      "label": "风云",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/斧王.nes",
+      "label": "斧王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/高尔夫.nes",
+      "label": "高尔夫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/戈德曼.nes",
+      "label": "戈德曼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/格斗之王96.nes",
+      "label": "格斗之王96",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/格斗之王97.nes",
+      "label": "格斗之王97",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/格斗之王R1 最强格斗王.nes",
+      "label": "格斗之王R1 最强格斗王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/格斗之王R2 大蛇四天王.nes",
+      "label": "格斗之王R2 大蛇四天王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/格兰蒂亚.nes",
+      "label": "格兰蒂亚",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/哥伦布传.nes",
+      "label": "哥伦布传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/功夫.nes",
+      "label": "功夫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/公路赛车.nes",
+      "label": "公路赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/公路之星1.nes",
+      "label": "公路之星1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/公路之星2.nes",
+      "label": "公路之星2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/古巴战士.nes",
+      "label": "古巴战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/孤独战士 惑星戒严令.nes",
+      "label": "孤独战士 惑星戒严令",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/古墓丽影.nes",
+      "label": "古墓丽影",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/怪物制造者1.nes",
+      "label": "怪物制造者1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/怪物制造者2.nes",
+      "label": "怪物制造者2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/光明之神.nes",
+      "label": "光明之神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/光之神话 天使岛传说.nes",
+      "label": "光之神话 天使岛传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/鬼魅战记.nes",
+      "label": "鬼魅战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/鬼屋冒险.nes",
+      "label": "鬼屋冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/国际象棋.nes",
+      "label": "国际象棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/哈利传奇.nes",
+      "label": "哈利传奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/汉刘邦.nes",
+      "label": "汉刘邦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/汉堡包.nes",
+      "label": "汉堡包",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/捍卫战士1.nes",
+      "label": "捍卫战士1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/捍卫战士2.nes",
+      "label": "捍卫战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/合金风暴.nes",
+      "label": "合金风暴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/合金装备1.nes",
+      "label": "合金装备1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/合金装备2.nes",
+      "label": "合金装备2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/黑暗之蛊.nes",
+      "label": "黑暗之蛊",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/黑白棋.nes",
+      "label": "黑白棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/黑客.nes",
+      "label": "黑客",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/红巾特攻队.nes",
+      "label": "红巾特攻队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/红楼梦.nes",
+      "label": "红楼梦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/轰天至尊.nes",
+      "label": "轰天至尊",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/红猪.nes",
+      "label": "红猪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/虎胆龙威.nes",
+      "label": "虎胆龙威",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/葫芦金刚.nes",
+      "label": "葫芦金刚",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/虎穴行动.nes",
+      "label": "虎穴行动",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/花式九球.nes",
+      "label": "花式九球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/幻世禄.nes",
+      "label": "幻世禄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/幻想传说.nes",
+      "label": "幻想传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/黄帝.nes",
+      "label": "黄帝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/黄飞鸿.nes",
+      "label": "黄飞鸿",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/黄金太阳.nes",
+      "label": "黄金太阳",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/荒野大嫖客.nes",
+      "label": "荒野大嫖客",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/毁灭之神.nes",
+      "label": "毁灭之神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魂斗罗1 欧版.nes",
+      "label": "魂斗罗1 欧版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魂斗罗1.nes",
+      "label": "魂斗罗1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魂斗罗2 欧版.nes",
+      "label": "魂斗罗2 欧版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魂斗罗2.nes",
+      "label": "魂斗罗2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魂斗罗3 力量.nes",
+      "label": "魂斗罗3 力量",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魂斗罗X.nes",
+      "label": "魂斗罗X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魂斗罗 超级魂.nes",
+      "label": "魂斗罗 超级魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魂斗罗 超级战魂.nes",
+      "label": "魂斗罗 超级战魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魂斗罗 快打.nes",
+      "label": "魂斗罗 快打",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魂斗罗 异形战争.nes",
+      "label": "魂斗罗 异形战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/混沌世界.nes",
+      "label": "混沌世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/火凤凰.nes",
+      "label": "火凤凰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/火箭飞车.nes",
+      "label": "火箭飞车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/火箭人.nes",
+      "label": "火箭人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/火龙.nes",
+      "label": "火龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/火鸟.nes",
+      "label": "火鸟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/火炮.nes",
+      "label": "火炮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/火炎纹章 圣战系谱.nes",
+      "label": "火炎纹章 圣战系谱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/火影忍者.nes",
+      "label": "火影忍者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/霍元甲.nes",
+      "label": "霍元甲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/火之鸟 凤凰篇.nes",
+      "label": "火之鸟 凤凰篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/激斗圣战士.nes",
+      "label": "激斗圣战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/基督山恩仇记.nes",
+      "label": "基督山恩仇记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/机器猫 超时空歴险.nes",
+      "label": "机器猫 超时空歴险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/机器猫小叮当.nes",
+      "label": "机器猫小叮当",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/机器猫.nes",
+      "label": "机器猫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/机器鸟.nes",
+      "label": "机器鸟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/机器战士高达.nes",
+      "label": "机器战士高达",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/机器子战记.nes",
+      "label": "机器子战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/机械战警1.nes",
+      "label": "机械战警1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/机械战警2.nes",
+      "label": "机械战警2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/甲A.nes",
+      "label": "甲A",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/嘉蒂外传.nes",
+      "label": "嘉蒂外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/加菲猫.nes",
+      "label": "加菲猫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/假面的忍者 赤影.nes",
+      "label": "假面的忍者 赤影",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/假面的忍者 花丸.nes",
+      "label": "假面的忍者 花丸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/加纳战机.nes",
+      "label": "加纳战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/加其夫天国地狱.nes",
+      "label": "加其夫天国地狱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/剑王.nes",
+      "label": "剑王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/剑侠情源.nes",
+      "label": "剑侠情源",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/将棋秘传.nes",
+      "label": "将棋秘传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/街头霸王2 12人(6人).nes",
+      "label": "街头霸王2 12人(6人)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/街头霸王2 16人(8人).nes",
+      "label": "街头霸王2 16人(8人)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/街头霸王2 18人(9人).nes",
+      "label": "街头霸王2 18人(9人)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/街头霸王2 20人(10人).nes",
+      "label": "街头霸王2 20人(10人)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/街头霸王2 4人.nes",
+      "label": "街头霸王2 4人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/街头霸王2 5人.nes",
+      "label": "街头霸王2 5人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/街头霸王2 56人(13人).nes",
+      "label": "街头霸王2 56人(13人)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/街头霸王2 60人(10人).nes",
+      "label": "街头霸王2 60人(10人)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/街头霸王2 8人.nes",
+      "label": "街头霸王2 8人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/街头霸王2 9人.nes",
+      "label": "街头霸王2 9人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/街头霸王 ZERO2'97.nes",
+      "label": "街头霸王 ZERO2'97",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/街头霸王 ZERO2.nes",
+      "label": "街头霸王 ZERO2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/街头格斗小子.nes",
+      "label": "街头格斗小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/街头战士2010.nes",
+      "label": "街头战士2010",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/禁毒卫士.nes",
+      "label": "禁毒卫士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/金曲KTV.nes",
+      "label": "金曲KTV",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/筋肉人.nes",
+      "label": "筋肉人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/金属风暴.nes",
+      "label": "金属风暴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/金鹰之剑.nes",
+      "label": "金鹰之剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/金庸群侠传.nes",
+      "label": "金庸群侠传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/镜花源.nes",
+      "label": "镜花源",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/荊轲刺秦王.nes",
+      "label": "荊轲刺秦王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/荊轲新传.nes",
+      "label": "荊轲新传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/救火英雄.nes",
+      "label": "救火英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/究极虎.nes",
+      "label": "究极虎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/九七港京拉力赛车.nes",
+      "label": "九七港京拉力赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/救世主.nes",
+      "label": "救世主",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/绝代双娇.nes",
+      "label": "绝代双娇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/绝对合体.nes",
+      "label": "绝对合体",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/决战太平洋.nes",
+      "label": "决战太平洋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/喀拉OK.nes",
+      "label": "喀拉OK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/喀诺夫.nes",
+      "label": "喀诺夫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/康体舞王.nes",
+      "label": "康体舞王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/科乐美世界1.nes",
+      "label": "科乐美世界1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/科乐美世界2.nes",
+      "label": "科乐美世界2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/恐龙岛.nes",
+      "label": "恐龙岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/恐龙战队.nes",
+      "label": "恐龙战队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/孔雀王1.nes",
+      "label": "孔雀王1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/孔雀王2.nes",
+      "label": "孔雀王2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/空中魂斗罗.nes",
+      "label": "空中魂斗罗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/空中要塞.nes",
+      "label": "空中要塞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋宝石 红.nes",
+      "label": "口袋宝石 红",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋宝石 金.nes",
+      "label": "口袋宝石 金",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋宝石 蓝.nes",
+      "label": "口袋宝石 蓝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋宝石 银.nes",
+      "label": "口袋宝石 银",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋宝石.nes",
+      "label": "口袋宝石",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋宠物 翡翠.nes",
+      "label": "口袋宠物 翡翠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋宠物 红.nes",
+      "label": "口袋宠物 红",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋怪兽1.nes",
+      "label": "口袋怪兽1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋怪兽2.nes",
+      "label": "口袋怪兽2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋怪兽3.nes",
+      "label": "口袋怪兽3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋怪兽 绿 绿叶版.nes",
+      "label": "口袋怪兽 绿 绿叶版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋怪兽 绿叶版.nes",
+      "label": "口袋怪兽 绿叶版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋精灵 金.nes",
+      "label": "口袋精灵 金",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋精灵 水晶.nes",
+      "label": "口袋精灵 水晶",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋里的魔鬼.nes",
+      "label": "口袋里的魔鬼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋水晶.nes",
+      "label": "口袋水晶",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋妖怪 宝石版.nes",
+      "label": "口袋妖怪 宝石版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋妖怪 绿叶版.nes",
+      "label": "口袋妖怪 绿叶版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋妖怪 皮喀丘Y2K.nes",
+      "label": "口袋妖怪 皮喀丘Y2K",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋妖怪 皮喀丘传说.nes",
+      "label": "口袋妖怪 皮喀丘传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/口袋妖怪 四合一.nes",
+      "label": "口袋妖怪 四合一",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/快打传说.nes",
+      "label": "快打传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/快打旋风3.nes",
+      "label": "快打旋风3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/快打旋风.nes",
+      "label": "快打旋风",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/快杰洋枪丸1.nes",
+      "label": "快杰洋枪丸1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/快杰洋枪丸2 机关之地大冒险.nes",
+      "label": "快杰洋枪丸2 机关之地大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/快杰洋枪丸3 对决!相凌轩.nes",
+      "label": "快杰洋枪丸3 对决!相凌轩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/快乐比奇3 地球战士.nes",
+      "label": "快乐比奇3 地球战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魁梧男人.nes",
+      "label": "魁梧男人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/蝋笔小新.nes",
+      "label": "蝋笔小新",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/拉迪亚战记.nes",
+      "label": "拉迪亚战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/拉格朗日点.nes",
+      "label": "拉格朗日点",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/蓝博.nes",
+      "label": "蓝博",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/蓝精灵.nes",
+      "label": "蓝精灵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/雷电2.nes",
+      "label": "雷电2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/里见八犬传.nes",
+      "label": "里见八犬传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/梁山英雄.nes",
+      "label": "梁山英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/烈火.nes",
+      "label": "烈火",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/林则徐禁烟.nes",
+      "label": "林则徐禁烟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/灵幻道士.nes",
+      "label": "灵幻道士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/灵界护法.nes",
+      "label": "灵界护法",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/六角方块.nes",
+      "label": "六角方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/六三四剑.nes",
+      "label": "六三四剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/龙魂 新的传说.nes",
+      "label": "龙魂 新的传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/龙牙.nes",
+      "label": "龙牙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/龙战士.nes",
+      "label": "龙战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/龙之忍者.nes",
+      "label": "龙之忍者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/龙珠Z 超武斗传2.nes",
+      "label": "龙珠Z 超武斗传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/龙珠Z 超武斗传5.nes",
+      "label": "龙珠Z 超武斗传5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/龙珠Z1 强袭！赛亚人.nes",
+      "label": "龙珠Z1 强袭！赛亚人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/龙珠Z2 激战弗利萨.nes",
+      "label": "龙珠Z2 激战弗利萨",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/龙珠Z3 列战人造人间.nes",
+      "label": "龙珠Z3 列战人造人间",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/龙珠Z4 赛亚人灭绝计划.nes",
+      "label": "龙珠Z4 赛亚人灭绝计划",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/龙珠大冒险.nes",
+      "label": "龙珠大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/龙珠 孙悟空过关.nes",
+      "label": "龙珠 孙悟空过关",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/卢邦三世.nes",
+      "label": "卢邦三世",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/鹿鼎记.nes",
+      "label": "鹿鼎记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/乱世三国.nes",
+      "label": "乱世三国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/罗宾汉.nes",
+      "label": "罗宾汉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/洛克人1.nes",
+      "label": "洛克人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/洛克人2 Dr.Wily之谜.nes",
+      "label": "洛克人2 Dr.Wily之谜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/洛克人3 Dr.Wily的末日.nes",
+      "label": "洛克人3 Dr.Wily的末日",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/洛克人4 新的野心.nes",
+      "label": "洛克人4 新的野心",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/洛克人5 布鲁斯的圈套.nes",
+      "label": "洛克人5 布鲁斯的圈套",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/洛克人6 史上最长的战斗.nes",
+      "label": "洛克人6 史上最长的战斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/洛克人7.nes",
+      "label": "洛克人7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/洛克人Exile.nes",
+      "label": "洛克人Exile",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/洛克人X.nes",
+      "label": "洛克人X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/罗罗大冒险1.nes",
+      "label": "罗罗大冒险1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/罗罗大冒险2.nes",
+      "label": "罗罗大冒险2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/罗罗大冒险3.nes",
+      "label": "罗罗大冒险3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/绿色兵团.nes",
+      "label": "绿色兵团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/绿野仙踪.nes",
+      "label": "绿野仙踪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/麻将方块.nes",
+      "label": "麻将方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/麻雀世界 歌舞伎町篇.nes",
+      "label": "麻雀世界 歌舞伎町篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/麻雀世界.nes",
+      "label": "麻雀世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/麻雀.nes",
+      "label": "麻雀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/马戏团.nes",
+      "label": "马戏团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/麦当劳世界.nes",
+      "label": "麦当劳世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/猫和老鼠1.nes",
+      "label": "猫和老鼠1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/猫和老鼠3.nes",
+      "label": "猫和老鼠3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/冒险岛1.nes",
+      "label": "冒险岛1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/冒险岛2.nes",
+      "label": "冒险岛2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/冒险岛3.nes",
+      "label": "冒险岛3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/冒险岛4.nes",
+      "label": "冒险岛4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/猫捉老鼠.nes",
+      "label": "猫捉老鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/美国富豪.nes",
+      "label": "美国富豪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/美猴王.nes",
+      "label": "美猴王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/美女拳.nes",
+      "label": "美女拳",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/梦幻仙境.nes",
+      "label": "梦幻仙境",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/梦境之王.nes",
+      "label": "梦境之王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/盟军赶死队.nes",
+      "label": "盟军赶死队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/梦之勇士.nes",
+      "label": "梦之勇士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/迷宫封印.nes",
+      "label": "迷宫封印",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/迷魂车.nes",
+      "label": "迷魂车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/米老鼠1 大冒险.nes",
+      "label": "米老鼠1 大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/米老鼠2 数字岛大冒险.nes",
+      "label": "米老鼠2 数字岛大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/米老鼠3 梦幻气球.nes",
+      "label": "米老鼠3 梦幻气球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/摩艾君.nes",
+      "label": "摩艾君",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魔城传说2 大魔司教.nes",
+      "label": "魔城传说2 大魔司教",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魔道劫.nes",
+      "label": "魔道劫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魔道士阴谋.nes",
+      "label": "魔道士阴谋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/摩登原始人1.nes",
+      "label": "摩登原始人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/摩登原始人2.nes",
+      "label": "摩登原始人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魔法门之英雄无敌.nes",
+      "label": "魔法门之英雄无敌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魔法总动员.nes",
+      "label": "魔法总动员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魔幻世界.nes",
+      "label": "魔幻世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魔界村.nes",
+      "label": "魔界村",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魔界塔士.nes",
+      "label": "魔界塔士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魔女小红帽.nes",
+      "label": "魔女小红帽",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魔神法师.nes",
+      "label": "魔神法师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魔神英雄传.nes",
+      "label": "魔神英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魔兽世界 恶魔猎人.nes",
+      "label": "魔兽世界 恶魔猎人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魔塔.nes",
+      "label": "魔塔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魔天童子.nes",
+      "label": "魔天童子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/摩托车大赛.nes",
+      "label": "摩托车大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/魔域英雄传.nes",
+      "label": "魔域英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/牧场物语.nes",
+      "label": "牧场物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/拿咤传奇.nes",
+      "label": "拿咤传奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/南极冒险.nes",
+      "label": "南极冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/鸟人战队 格斗1.nes",
+      "label": "鸟人战队 格斗1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/鸟人战队 格斗2.nes",
+      "label": "鸟人战队 格斗2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/鸟人战队.nes",
+      "label": "鸟人战队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/纽约大拳猫.nes",
+      "label": "纽约大拳猫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/农场小精灵.nes",
+      "label": "农场小精灵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/怒1.nes",
+      "label": "怒1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/怒2.nes",
+      "label": "怒2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/怒3.nes",
+      "label": "怒3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/女警刑事3.nes",
+      "label": "女警刑事3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/女神的救赎.nes",
+      "label": "女神的救赎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/女神转生1.nes",
+      "label": "女神转生1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/女神转生2.nes",
+      "label": "女神转生2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/欧陆之战.nes",
+      "label": "欧陆之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/泡泡龙1.nes",
+      "label": "泡泡龙1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/泡泡龙2.nes",
+      "label": "泡泡龙2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/澎澎车.nes",
+      "label": "澎澎车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/霹雳神兵.nes",
+      "label": "霹雳神兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/匹诺槽的复苏.nes",
+      "label": "匹诺槽的复苏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/平成BT帝国战.nes",
+      "label": "平成BT帝国战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/菩故须苛战争.nes",
+      "label": "菩故须苛战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/扑克集锦.nes",
+      "label": "扑克集锦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/扑克精灵.nes",
+      "label": "扑克精灵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/扑克麻雀.nes",
+      "label": "扑克麻雀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/扑克.nes",
+      "label": "扑克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/七宝奇谋1.nes",
+      "label": "七宝奇谋1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/七宝奇谋2.nes",
+      "label": "七宝奇谋2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/企鹅梦物语.nes",
+      "label": "企鹅梦物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/企鹅先生 冒险之旅.nes",
+      "label": "企鹅先生 冒险之旅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/七国大战.nes",
+      "label": "七国大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/气球大战.nes",
+      "label": "气球大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/齐天大圣.nes",
+      "label": "齐天大圣",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/棋王.nes",
+      "label": "棋王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/潜水艇.nes",
+      "label": "潜水艇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/前线大作战.nes",
+      "label": "前线大作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/敲冰块.nes",
+      "label": "敲冰块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/蚯蚓战士2.nes",
+      "label": "蚯蚓战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/蚯蚓战士3.nes",
+      "label": "蚯蚓战士3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/趣味成语屋.nes",
+      "label": "趣味成语屋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/趣味方块.nes",
+      "label": "趣味方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/热血躱避球.nes",
+      "label": "热血躱避球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/热血格斗传说.nes",
+      "label": "热血格斗传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/热血进行曲.nes",
+      "label": "热血进行曲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/热血篮球.nes",
+      "label": "热血篮球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/热血曲棍球.nes",
+      "label": "热血曲棍球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/热血时代剧.nes",
+      "label": "热血时代剧",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/热血物语.nes",
+      "label": "热血物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/热血新记禄.nes",
+      "label": "热血新记禄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/热血硬派.nes",
+      "label": "热血硬派",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/热血足球联盟.nes",
+      "label": "热血足球联盟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/热血足球.nes",
+      "label": "热血足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/人间兵器2 雷霆任务.nes",
+      "label": "人间兵器2 雷霆任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/人间兵器.nes",
+      "label": "人间兵器",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/任天堂战争.nes",
+      "label": "任天堂战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/忍者 阿修罗之章.nes",
+      "label": "忍者 阿修罗之章",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/忍者茶茶丸.nes",
+      "label": "忍者茶茶丸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/忍者龙剑传1.nes",
+      "label": "忍者龙剑传1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/忍者龙剑传2.nes",
+      "label": "忍者龙剑传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/忍者龙剑传3.nes",
+      "label": "忍者龙剑传3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/忍者龙剑传 女忍.nes",
+      "label": "忍者龙剑传 女忍",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/忍者神龟1.nes",
+      "label": "忍者神龟1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/忍者神龟2.nes",
+      "label": "忍者神龟2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/忍者神龟3.nes",
+      "label": "忍者神龟3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/忍者神龟4.nes",
+      "label": "忍者神龟4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/忍者特训.nes",
+      "label": "忍者特训",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/忍者蛙和双截龙.nes",
+      "label": "忍者蛙和双截龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/忍者蛙.nes",
+      "label": "忍者蛙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/忍者刑警.nes",
+      "label": "忍者刑警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/荣耀之骑士团.nes",
+      "label": "荣耀之骑士团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/塞尔达传说1 幻想大陆海尔拉.nes",
+      "label": "塞尔达传说1 幻想大陆海尔拉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/塞尔达传说2 林克冒险.nes",
+      "label": "塞尔达传说2 林克冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/塞尔达传说 缩小帽.nes",
+      "label": "塞尔达传说 缩小帽",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/塞外奇侠传.nes",
+      "label": "塞外奇侠传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三国春秋 四川省.nes",
+      "label": "三国春秋 四川省",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三国大乱斗 战国.nes",
+      "label": "三国大乱斗 战国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三国群侠传.nes",
+      "label": "三国群侠传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三国无双 猛将传.nes",
+      "label": "三国无双 猛将传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三国志1 中原之霸者.nes",
+      "label": "三国志1 中原之霸者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三国志2 霸王的大陆.nes",
+      "label": "三国志2 霸王的大陆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三国志4 赤壁风云.nes",
+      "label": "三国志4 赤壁风云",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三国志 傲视天地.nes",
+      "label": "三国志 傲视天地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三国志 曹操传.nes",
+      "label": "三国志 曹操传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三国志 赤壁之战.nes",
+      "label": "三国志 赤壁之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三国志 吕布传.nes",
+      "label": "三国志 吕布传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三国志 群雄争霸.nes",
+      "label": "三国志 群雄争霸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三国志 雄霸天下.nes",
+      "label": "三国志 雄霸天下",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三国忠烈传.nes",
+      "label": "三国忠烈传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三十六计.nes",
+      "label": "三十六计",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三侠五义.nes",
+      "label": "三侠五义",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三眼神童.nes",
+      "label": "三眼神童",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/三只小猪.nes",
+      "label": "三只小猪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/杀虫大战.nes",
+      "label": "杀虫大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/杀虫战记.nes",
+      "label": "杀虫战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/杀戮战场.nes",
+      "label": "杀戮战场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/沙罗曼蛇Q版.nes",
+      "label": "沙罗曼蛇Q版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/沙罗曼蛇.nes",
+      "label": "沙罗曼蛇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/沙滩排球.nes",
+      "label": "沙滩排球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/上海大亨.nes",
+      "label": "上海大亨",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/上海教父.nes",
+      "label": "上海教父",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/上尉密令.nes",
+      "label": "上尉密令",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/少林武者.nes",
+      "label": "少林武者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/少年邦德.nes",
+      "label": "少年邦德",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/少年游侠.nes",
+      "label": "少年游侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/射雕英雄传.nes",
+      "label": "射雕英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/神鬼传奇.nes",
+      "label": "神鬼传奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/神话剑云3.nes",
+      "label": "神话剑云3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/神密金三角.nes",
+      "label": "神密金三角",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/神奇宝贝.nes",
+      "label": "神奇宝贝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/神探柯南.nes",
+      "label": "神探柯南",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/神鹰战机.nes",
+      "label": "神鹰战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/神勇小白兔.nes",
+      "label": "神勇小白兔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/圣斗士星矢 北欧篇.nes",
+      "label": "圣斗士星矢 北欧篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/圣斗士星矢 黄金篇.nes",
+      "label": "圣斗士星矢 黄金篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/圣斗士星矢 天马之幻想.nes",
+      "label": "圣斗士星矢 天马之幻想",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/生化危机.nes",
+      "label": "生化危机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/圣火徽章3.nes",
+      "label": "圣火徽章3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/圣火徽章外传 索非亚复苏.nes",
+      "label": "圣火徽章外传 索非亚复苏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/圣火徽章.nes",
+      "label": "圣火徽章",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/圣火列传.nes",
+      "label": "圣火列传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/圣火少侠.nes",
+      "label": "圣火少侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/圣剑传说.nes",
+      "label": "圣剑传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/圣铃传说.nes",
+      "label": "圣铃传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/生命的奇迹 超级宝宝.nes",
+      "label": "生命的奇迹 超级宝宝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/侍魂1.nes",
+      "label": "侍魂1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/侍魂2.nes",
+      "label": "侍魂2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/侍魂3.nes",
+      "label": "侍魂3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/侍魂 武道士列传.nes",
+      "label": "侍魂 武道士列传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/侍魂 英雄大格斗.nes",
+      "label": "侍魂 英雄大格斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/世界英雄2.nes",
+      "label": "世界英雄2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/时空地带.nes",
+      "label": "时空地带",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/时空斗士.nes",
+      "label": "时空斗士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/时空小子.nes",
+      "label": "时空小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/时空之轮.nes",
+      "label": "时空之轮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/失落的神器.nes",
+      "label": "失落的神器",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/石器时代.nes",
+      "label": "石器时代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/狮王传奇.nes",
+      "label": "狮王传奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/狮子王1.nes",
+      "label": "狮子王1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/狮子王3.nes",
+      "label": "狮子王3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/狮子王5.nes",
+      "label": "狮子王5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/狮子王6.nes",
+      "label": "狮子王6",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/守护者坦克.nes",
+      "label": "守护者坦克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/兽王记.nes",
+      "label": "兽王记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/数独 & 五子棋.nes",
+      "label": "数独 & 五子棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/数码宝贝.nes",
+      "label": "数码宝贝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/数码暴龙4.nes",
+      "label": "数码暴龙4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/数码暴龙.nes",
+      "label": "数码暴龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/数码战队2.nes",
+      "label": "数码战队2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/双截龙1.nes",
+      "label": "双截龙1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/双截龙2.nes",
+      "label": "双截龙2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/双截龙3.nes",
+      "label": "双截龙3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/双截龙4.nes",
+      "label": "双截龙4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/双鹰 乔兄弟的复仇.nes",
+      "label": "双鹰 乔兄弟的复仇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/双鹰.nes",
+      "label": "双鹰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/水浒神兽.nes",
+      "label": "水浒神兽",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/水浒传.nes",
+      "label": "水浒传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/水浒.nes",
+      "label": "水浒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/水上魂斗罗 赤影战士.nes",
+      "label": "水上魂斗罗 赤影战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/四川麻将 制服篇.nes",
+      "label": "四川麻将 制服篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/四川麻将.nes",
+      "label": "四川麻将",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/丝路传奇.nes",
+      "label": "丝路传奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/四人麻将.nes",
+      "label": "四人麻将",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/送报童1.nes",
+      "label": "送报童1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/送报童2.nes",
+      "label": "送报童2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/松鼠大作战1.nes",
+      "label": "松鼠大作战1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/松鼠大作战2.nes",
+      "label": "松鼠大作战2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/隋唐演义.nes",
+      "label": "隋唐演义",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/隋唐英雄.nes",
+      "label": "隋唐英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/孙小毛奇幻岛.nes",
+      "label": "孙小毛奇幻岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/所罗门之匙2.nes",
+      "label": "所罗门之匙2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/索尼克.nes",
+      "label": "索尼克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/太空哈利.nes",
+      "label": "太空哈利",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/太空幻想.nes",
+      "label": "太空幻想",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/太空战机.nes",
+      "label": "太空战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/台球传说 花撞2.nes",
+      "label": "台球传说 花撞2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/泰坦尼克号 火星电子.nes",
+      "label": "泰坦尼克号 火星电子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/泰坦尼克号 南晶科技.nes",
+      "label": "泰坦尼克号 南晶科技",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/台湾花牌麻雀.nes",
+      "label": "台湾花牌麻雀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/台湾麻雀.nes",
+      "label": "台湾麻雀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/太阳系战机.nes",
+      "label": "太阳系战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/坦克大战.nes",
+      "label": "坦克大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/坦克风云.nes",
+      "label": "坦克风云",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/唐伯虎点秋香.nes",
+      "label": "唐伯虎点秋香",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/唐老鸭1.nes",
+      "label": "唐老鸭1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/唐老鸭2.nes",
+      "label": "唐老鸭2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/唐老鸭 怪鸭.nes",
+      "label": "唐老鸭 怪鸭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/唐老鸭 跳跃赛铇.nes",
+      "label": "唐老鸭 跳跃赛铇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/汤姆厉险记.nes",
+      "label": "汤姆厉险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/淘气厨师 食物的世界.nes",
+      "label": "淘气厨师 食物的世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/特救指令.nes",
+      "label": "特救指令",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/特库摩世界杯足球赛.nes",
+      "label": "特库摩世界杯足球赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/提督的决断.nes",
+      "label": "提督的决断",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/提王.nes",
+      "label": "提王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/天国与地狱.nes",
+      "label": "天国与地狱",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/天龙八部.nes",
+      "label": "天龙八部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/天神之剑.nes",
+      "label": "天神之剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/天使之翼1.nes",
+      "label": "天使之翼1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/天使之翼2.nes",
+      "label": "天使之翼2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/天王降魔传.nes",
+      "label": "天王降魔传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/跳舞机.nes",
+      "label": "跳舞机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/铁板阵1.nes",
+      "label": "铁板阵1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/铁板阵2.nes",
+      "label": "铁板阵2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/铁拳2.nes",
+      "label": "铁拳2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/铁拳3.nes",
+      "label": "铁拳3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/铁血战士.nes",
+      "label": "铁血战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/偸看扑克.nes",
+      "label": "偸看扑克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/兔宝宝大冒险1.nes",
+      "label": "兔宝宝大冒险1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/兔宝宝大冒险2.nes",
+      "label": "兔宝宝大冒险2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/屠龙刀.nes",
+      "label": "屠龙刀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/屠龙记1.nes",
+      "label": "屠龙记1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/屠龙记2.nes",
+      "label": "屠龙记2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/屠龙记4.nes",
+      "label": "屠龙记4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/突然君.nes",
+      "label": "突然君",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/图形推理.nes",
+      "label": "图形推理",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/推倒胡麻将.nes",
+      "label": "推倒胡麻将",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/推箱子.nes",
+      "label": "推箱子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/呑食天地1.nes",
+      "label": "呑食天地1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/呑食天地2.nes",
+      "label": "呑食天地2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/脱狱1.nes",
+      "label": "脱狱1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/脱狱2.nes",
+      "label": "脱狱2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/外星战士1.nes",
+      "label": "外星战士1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/外星战士2.nes",
+      "label": "外星战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/顽皮狗.nes",
+      "label": "顽皮狗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/网球.nes",
+      "label": "网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/王者无双.nes",
+      "label": "王者无双",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/王子复仇记.nes",
+      "label": "王子复仇记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/未来小子.nes",
+      "label": "未来小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/未来战争2020.nes",
+      "label": "未来战争2020",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/威洛传奇.nes",
+      "label": "威洛传奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/围棋大战.nes",
+      "label": "围棋大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/无极魔界.nes",
+      "label": "无极魔界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/无赖战士.nes",
+      "label": "无赖战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/武林外传.nes",
+      "label": "武林外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/武侠天地.nes",
+      "label": "武侠天地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/西楚霸王.nes",
+      "label": "西楚霸王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/希特勒复活.nes",
+      "label": "希特勒复活",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/西天取经1.nes",
+      "label": "西天取经1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/西天取经2.nes",
+      "label": "西天取经2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/西游记1.nes",
+      "label": "西游记1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/西游记2.nes",
+      "label": "西游记2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/西游记 格斗.nes",
+      "label": "西游记 格斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/西游记后传.nes",
+      "label": "西游记后传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/西游记 孙孙.nes",
+      "label": "西游记 孙孙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/仙剑奇侠.nes",
+      "label": "仙剑奇侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/象棋学园.nes",
+      "label": "象棋学园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/香帅传奇.nes",
+      "label": "香帅传奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/笑傲江湖群侠记.nes",
+      "label": "笑傲江湖群侠记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/笑傲江湖.nes",
+      "label": "笑傲江湖",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/小博士.nes",
+      "label": "小博士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/小红帽.nes",
+      "label": "小红帽",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/小玛丽.nes",
+      "label": "小玛丽",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/小美人鱼.nes",
+      "label": "小美人鱼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/小蜜蜂.nes",
+      "label": "小蜜蜂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/新人类.nes",
+      "label": "新人类",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/新英雄传.nes",
+      "label": "新英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/新月剑痕.nes",
+      "label": "新月剑痕",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/兴奋摩托车.nes",
+      "label": "兴奋摩托车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/星际魂斗罗.nes",
+      "label": "星际魂斗罗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/星际武士.nes",
+      "label": "星际武士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/星际战机1.nes",
+      "label": "星际战机1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/星际战机2.nes",
+      "label": "星际战机2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/星际之门.nes",
+      "label": "星际之门",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/星空飞箭.nes",
+      "label": "星空飞箭",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/星之喀比 星之泉物语.nes",
+      "label": "星之喀比 星之泉物语",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/熊猫太子.nes",
+      "label": "熊猫太子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/轩辕剑外传之天之痕.nes",
+      "label": "轩辕剑外传之天之痕",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/雪人兄弟.nes",
+      "label": "雪人兄弟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/寻秦记.nes",
+      "label": "寻秦记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/眼镜蛇特种部队1.nes",
+      "label": "眼镜蛇特种部队1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/眼镜蛇特种部队2.nes",
+      "label": "眼镜蛇特种部队2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/杨家将.nes",
+      "label": "杨家将",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/耀奇之神奇蛋仔.nes",
+      "label": "耀奇之神奇蛋仔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/耀西的饼干.nes",
+      "label": "耀西的饼干",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/野狼特工队.nes",
+      "label": "野狼特工队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/夜明珠.nes",
+      "label": "夜明珠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/一揆.nes",
+      "label": "一揆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/伊苏1.nes",
+      "label": "伊苏1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/伊苏2.nes",
+      "label": "伊苏2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/伊苏3.nes",
+      "label": "伊苏3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/倚天屠龙记.nes",
+      "label": "倚天屠龙记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/异形3.nes",
+      "label": "异形3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/异形之太空探险者.nes",
+      "label": "异形之太空探险者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/异域诛魂.nes",
+      "label": "异域诛魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/银白色沙加.nes",
+      "label": "银白色沙加",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/银河号.nes",
+      "label": "银河号",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/银河武士.nes",
+      "label": "银河武士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/银河战士.nes",
+      "label": "银河战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/银影侠.nes",
+      "label": "银影侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/英烈群侠传.nes",
+      "label": "英烈群侠传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/樱桃小丸子.nes",
+      "label": "樱桃小丸子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/英雄传奇.nes",
+      "label": "英雄传奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/英雄传.nes",
+      "label": "英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/影子传说.nes",
+      "label": "影子传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/勇者斗恶龙1.nes",
+      "label": "勇者斗恶龙1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/勇者斗恶龙2.nes",
+      "label": "勇者斗恶龙2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/勇者斗恶龙3 罪恶渊源.nes",
+      "label": "勇者斗恶龙3 罪恶渊源",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/勇者斗恶龙3.nes",
+      "label": "勇者斗恶龙3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/勇者斗恶龙4.nes",
+      "label": "勇者斗恶龙4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/勇者斗恶龙8.nes",
+      "label": "勇者斗恶龙8",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/勇者斗恶龙 勇者的试练.nes",
+      "label": "勇者斗恶龙 勇者的试练",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/幽灵列车.nes",
+      "label": "幽灵列车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/游戏宝贝.nes",
+      "label": "游戏宝贝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/游戏明星大乱斗.nes",
+      "label": "游戏明星大乱斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/游戏王.nes",
+      "label": "游戏王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/幽幽白书 暗黑武道会.nes",
+      "label": "幽幽白书 暗黑武道会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/幽游白书 魔界最强列传.nes",
+      "label": "幽游白书 魔界最强列传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/游园地.nes",
+      "label": "游园地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/宇宙刑警.nes",
+      "label": "宇宙刑警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/宇宙巡航机1.nes",
+      "label": "宇宙巡航机1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/宇宙巡航机2.nes",
+      "label": "宇宙巡航机2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/原始人1.nes",
+      "label": "原始人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/原始人2.nes",
+      "label": "原始人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/岳飞传.nes",
+      "label": "岳飞传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/月风魔传.nes",
+      "label": "月风魔传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/越野战车.nes",
+      "label": "越野战车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/月之水晶.nes",
+      "label": "月之水晶",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/月之台球.nes",
+      "label": "月之台球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/炸弹人1.nes",
+      "label": "炸弹人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/炸弹人2.nes",
+      "label": "炸弹人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/炸弹之王.nes",
+      "label": "炸弹之王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/战场之狼.nes",
+      "label": "战场之狼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/战斗原始人.nes",
+      "label": "战斗原始人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/战斗直升机.nes",
+      "label": "战斗直升机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/战国群雄传.nes",
+      "label": "战国群雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/战国四川省.nes",
+      "label": "战国四川省",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/战国无双.nes",
+      "label": "战国无双",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/长靴猫1.nes",
+      "label": "长靴猫1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/长靴猫2.nes",
+      "label": "长靴猫2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/真本西游记.nes",
+      "label": "真本西游记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/真假猴王.nes",
+      "label": "真假猴王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/真人快打1.nes",
+      "label": "真人快打1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/真人快打2.nes",
+      "label": "真人快打2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/真人快打3.nes",
+      "label": "真人快打3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/真人快打4.nes",
+      "label": "真人快打4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/真人快打5.nes",
+      "label": "真人快打5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/真人快打6.nes",
+      "label": "真人快打6",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/真田十勇士.nes",
+      "label": "真田十勇士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/争霸世纪.nes",
+      "label": "争霸世纪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/拯救世纪 光明之神.nes",
+      "label": "拯救世纪 光明之神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/蜘蛛侠.nes",
+      "label": "蜘蛛侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/中东战争.nes",
+      "label": "中东战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/中国大亨.nes",
+      "label": "中国大亨",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/中国兔宝宝.nes",
+      "label": "中国兔宝宝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/中国象棋.nes",
+      "label": "中国象棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/中华大仙.nes",
+      "label": "中华大仙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/中华英雄.nes",
+      "label": "中华英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/终结者1.nes",
+      "label": "终结者1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/终结者2 审判日.nes",
+      "label": "终结者2 审判日",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/重装机兵.nes",
+      "label": "重装机兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/侏罗纪公园.nes",
+      "label": "侏罗纪公园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/捉鬼敢死队1.nes",
+      "label": "捉鬼敢死队1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/捉鬼敢死队2 新.nes",
+      "label": "捉鬼敢死队2 新",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/捉鬼敢死队2.nes",
+      "label": "捉鬼敢死队2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/最后的动作英雄.nes",
+      "label": "最后的动作英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/最后的忍者.nes",
+      "label": "最后的忍者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/最游记之唐三藏.nes",
+      "label": "最游记之唐三藏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/最终幻想1.nes",
+      "label": "最终幻想1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/最终幻想2.nes",
+      "label": "最终幻想2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/最终幻想3.nes",
+      "label": "最终幻想3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/最终幻想4.nes",
+      "label": "最终幻想4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/最终幻想5.nes",
+      "label": "最终幻想5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/最终幻想7.nes",
+      "label": "最终幻想7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Nintendo - FC/最终幻想 黑暗篇.nes",
+      "label": "最终幻想 黑暗篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - FC.lpl"
+    }
+  ]
+}

@@ -1,0 +1,2098 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/1943改.pce",
+      "label": "1943改",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/F武装战机.pce",
+      "label": "F武装战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/F1大赛车.pce",
+      "label": "F1大赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/F1驾驶员-王中之王.pce",
+      "label": "F1驾驶员-王中之王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/F1竞技场91 世界锦标赛.pce",
+      "label": "F1竞技场91 世界锦标赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/F1竞技场92 音速.pce",
+      "label": "F1竞技场92 音速",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/F1竞技场.pce",
+      "label": "F1竞技场",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/F1之梦.pce",
+      "label": "F1之梦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/Gunhed.pce",
+      "label": "Gunhed",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/J联盟伟大11人.pce",
+      "label": "J联盟伟大11人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/Naxat棒球.pce",
+      "label": "Naxat棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/Naxat高尔夫公开赛.pce",
+      "label": "Naxat高尔夫公开赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/P47 自由战士.pce",
+      "label": "P47 自由战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/PC电人.pce",
+      "label": "PC电人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/PC原人2.pce",
+      "label": "PC原人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/PC原人3.pce",
+      "label": "PC原人3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/PC原人.pce",
+      "label": "PC原人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/Q版沙罗曼蛇.pce",
+      "label": "Q版沙罗曼蛇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/ROCK ON.pce",
+      "label": "ROCK ON",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/Spin Pair.pce",
+      "label": "Spin Pair",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/艾吉娜.pce",
+      "label": "艾吉娜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/爱丽丝冒险世界.pce",
+      "label": "爱丽丝冒险世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/爱丽丝梦游仙境.pce",
+      "label": "爱丽丝梦游仙境",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/暗黑传说.pce",
+      "label": "暗黑传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/暗夜生物.pce",
+      "label": "暗夜生物",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/柏青夫君 十番胜负.pce",
+      "label": "柏青夫君 十番胜负",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/暴力冰上曲棍球.pce",
+      "label": "暴力冰上曲棍球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/宝伦大作战.pce",
+      "label": "宝伦大作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/宝石方块.pce",
+      "label": "宝石方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/爆笑人.pce",
+      "label": "爆笑人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/蝙蝠侠.pce",
+      "label": "蝙蝠侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/弁庆外传.pce",
+      "label": "弁庆外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/兵峰.pce",
+      "label": "兵峰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/彩虹岛2 遮阳伞之星.pce",
+      "label": "彩虹岛2 遮阳伞之星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/场式足球.pce",
+      "label": "场式足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级棒球联盟2.pce",
+      "label": "超级棒球联盟2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级棒球联盟3.pce",
+      "label": "超级棒球联盟3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级棒球联盟4.pce",
+      "label": "超级棒球联盟4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级棒球联盟5.pce",
+      "label": "超级棒球联盟5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级棒球联盟93.pce",
+      "label": "超级棒球联盟93",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级棒球联盟.pce",
+      "label": "超级棒球联盟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级高尔夫.pce",
+      "label": "超级高尔夫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级金属杀手.pce",
+      "label": "超级金属杀手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级排球.pce",
+      "label": "超级排球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级赛车.pce",
+      "label": "超级赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级桃太郎电铁2.pce",
+      "label": "超级桃太郎电铁2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级桃太郎电铁.pce",
+      "label": "超级桃太郎电铁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级铁板阵.pce",
+      "label": "超级铁板阵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级网球.pce",
+      "label": "超级网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级星际战士.pce",
+      "label": "超级星际战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级运动员.pce",
+      "label": "超级运动员",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超级足球.pce",
+      "label": "超级足球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超绝伦人.pce",
+      "label": "超绝伦人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/超空战机.pce",
+      "label": "超空战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/成龙之龙.pce",
+      "label": "成龙之龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/城市猎人.pce",
+      "label": "城市猎人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/吃豆人.pce",
+      "label": "吃豆人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/冲破火网2.pce",
+      "label": "冲破火网2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/吹波糖危机.pce",
+      "label": "吹波糖危机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/槌球大赛.pce",
+      "label": "槌球大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/大地文章.pce",
+      "label": "大地文章",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/打水果.pce",
+      "label": "打水果",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/大相扑 平成版.pce",
+      "label": "大相扑 平成版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/大旋风.pce",
+      "label": "大旋风",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/地底の大魔宫.pce",
+      "label": "地底の大魔宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/地狱之旅.pce",
+      "label": "地狱之旅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/定吉七番.pce",
+      "label": "定吉七番",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/动物金头脑.pce",
+      "label": "动物金头脑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/都市计划.pce",
+      "label": "都市计划",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/哆啦A梦 阿拉伯之夜.pce",
+      "label": "哆啦A梦 阿拉伯之夜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/哆啦A梦 迷宫大作战.pce",
+      "label": "哆啦A梦 迷宫大作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/恶魔传.pce",
+      "label": "恶魔传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/飞装骑兵.pce",
+      "label": "飞装骑兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/凤凰战机.pce",
+      "label": "凤凰战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/疯狂前进.pce",
+      "label": "疯狂前进",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/疯狂赛车.pce",
+      "label": "疯狂赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/疯狂摔角.pce",
+      "label": "疯狂摔角",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/改造超人2.pce",
+      "label": "改造超人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/改造超人.pce",
+      "label": "改造超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/高尔夫少年.pce",
+      "label": "高尔夫少年",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/功夫.pce",
+      "label": "功夫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/怪兽摔角.pce",
+      "label": "怪兽摔角",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/关原之役.pce",
+      "label": "关原之役",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/鬼屋.pce",
+      "label": "鬼屋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/海底神话.pce",
+      "label": "海底神话",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/核心战机.pce",
+      "label": "核心战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/亨利先生的大冒险.pce",
+      "label": "亨利先生的大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/虎之道.pce",
+      "label": "虎之道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/花式撞球.pce",
+      "label": "花式撞球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/花札爱好者俱乐部.pce",
+      "label": "花札爱好者俱乐部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/化妆舞会之谜.pce",
+      "label": "化妆舞会之谜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/幻想空间.pce",
+      "label": "幻想空间",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/幻影战机.pce",
+      "label": "幻影战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/幻之大地.pce",
+      "label": "幻之大地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/机动劲旅.pce",
+      "label": "机动劲旅",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/极乐中华大仙.pce",
+      "label": "极乐中华大仙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/激烈战斗.pce",
+      "label": "激烈战斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/机器人躲避球.pce",
+      "label": "机器人躲避球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/将棋 初段一直线.pce",
+      "label": "将棋 初段一直线",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/将棋 初段者无用.pce",
+      "label": "将棋 初段者无用",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/结构足球 休曼杯90.pce",
+      "label": "结构足球 休曼杯90",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/街头霸王2 冠军版.pce",
+      "label": "街头霸王2 冠军版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/究极虎.pce",
+      "label": "究极虎",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/绝对合体.pce",
+      "label": "绝对合体",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/卡达叙传说.pce",
+      "label": "卡达叙传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/开心苹果棋.pce",
+      "label": "开心苹果棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/恐龙女战士.pce",
+      "label": "恐龙女战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/雷电.pce",
+      "label": "雷电",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/连锁方块.pce",
+      "label": "连锁方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/琉球.pce",
+      "label": "琉球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/龙宝宝.pce",
+      "label": "龙宝宝",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/龙魂.pce",
+      "label": "龙魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/龙之刃.pce",
+      "label": "龙之刃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/龙之子.pce",
+      "label": "龙之子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/罗比.pce",
+      "label": "罗比",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/旅馆王.pce",
+      "label": "旅馆王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/麻将霸王传.pce",
+      "label": "麻将霸王传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/麻将刺客列传 麻雀战争.pce",
+      "label": "麻将刺客列传 麻雀战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/麻将悟空特别版.pce",
+      "label": "麻将悟空特别版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/麻将学院 东间宗四郎登场 温和版.pce",
+      "label": "麻将学院 东间宗四郎登场 温和版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/麻将学院 东间宗四郎登场 限制版.pce",
+      "label": "麻将学院 东间宗四郎登场 限制版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/马桶小子.pce",
+      "label": "马桶小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/毛毛虫.pce",
+      "label": "毛毛虫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/毛球历险记.pce",
+      "label": "毛球历险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/冒险岛.pce",
+      "label": "冒险岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/冒险男爵.pce",
+      "label": "冒险男爵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/帽子方块.pce",
+      "label": "帽子方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/美国职业篮球.pce",
+      "label": "美国职业篮球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/美女外传2.pce",
+      "label": "美女外传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/迷宫塔.pce",
+      "label": "迷宫塔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/迷魂方块.pce",
+      "label": "迷魂方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/迷魂阵.pce",
+      "label": "迷魂阵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/明日之星摔角.pce",
+      "label": "明日之星摔角",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/魔洞战记.pce",
+      "label": "魔洞战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/魔幻弹珠台.pce",
+      "label": "魔幻弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/魔界八犬传.pce",
+      "label": "魔界八犬传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/魔界王子.pce",
+      "label": "魔界王子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/魔境传说.pce",
+      "label": "魔境传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/魔神英雄传.pce",
+      "label": "魔神英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/摩托车大赛.pce",
+      "label": "摩托车大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/木匠兄弟.pce",
+      "label": "木匠兄弟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/男人世界.pce",
+      "label": "男人世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/尼克罗斯要塞.pce",
+      "label": "尼克罗斯要塞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/逆袭2.pce",
+      "label": "逆袭2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/女人快打2.pce",
+      "label": "女人快打2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/女武士传说.pce",
+      "label": "女武士传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/欧坦救美.pce",
+      "label": "欧坦救美",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/霹雳游侠.pce",
+      "label": "霹雳游侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/凄狂传说.pce",
+      "label": "凄狂传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/奇奇怪界.pce",
+      "label": "奇奇怪界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/青驴神话.pce",
+      "label": "青驴神话",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/拳王争霸.pce",
+      "label": "拳王争霸",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/燃烧天使.pce",
+      "label": "燃烧天使",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/热血高校躲避球部 PC番外篇.pce",
+      "label": "热血高校躲避球部 PC番外篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/热血高校躲避球部 PC足球篇.pce",
+      "label": "热血高校躲避球部 PC足球篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/热血摔角2.pce",
+      "label": "热血摔角2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/热血摔角3.pce",
+      "label": "热血摔角3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/热血摔角.pce",
+      "label": "热血摔角",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/忍者龙剑传.pce",
+      "label": "忍者龙剑传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/忍者战士.pce",
+      "label": "忍者战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/忍.pce",
+      "label": "忍",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/森田将棋.pce",
+      "label": "森田将棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/沙罗曼蛇.pce",
+      "label": "沙罗曼蛇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/闪灵悍将.pce",
+      "label": "闪灵悍将",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/上海.pce",
+      "label": "上海",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/少爷冒险.pce",
+      "label": "少爷冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/射击天狗.pce",
+      "label": "射击天狗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/神剑传说2.pce",
+      "label": "神剑传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/神奇女孩.pce",
+      "label": "神奇女孩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/神武传承.pce",
+      "label": "神武传承",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/胜利高尔夫.pce",
+      "label": "胜利高尔夫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/胜利赛车.pce",
+      "label": "胜利赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/世界棒球91.pce",
+      "label": "世界棒球91",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/世界棒球.pce",
+      "label": "世界棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/世界冒险记2.pce",
+      "label": "世界冒险记2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/世界冒险记.pce",
+      "label": "世界冒险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/世界赛马.pce",
+      "label": "世界赛马",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/世界沙滩排球.pce",
+      "label": "世界沙滩排球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/世界网球.pce",
+      "label": "世界网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/兽王记.pce",
+      "label": "兽王记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/树熊历险记.pce",
+      "label": "树熊历险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/水果机.pce",
+      "label": "水果机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/死灵战线.pce",
+      "label": "死灵战线",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/死亡之月.pce",
+      "label": "死亡之月",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/送货小子.pce",
+      "label": "送货小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/所罗门之钥.pce",
+      "label": "所罗门之钥",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/太极球.pce",
+      "label": "太极球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/太空哈利.pce",
+      "label": "太空哈利",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/太空模拟战.pce",
+      "label": "太空模拟战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/太空侵略者 复活之日.pce",
+      "label": "太空侵略者 复活之日",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/太空兔罗比特别版.pce",
+      "label": "太空兔罗比特别版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/太空战斗机Plus.pce",
+      "label": "太空战斗机Plus",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/太空战机Alpha.pce",
+      "label": "太空战机Alpha",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/太平记.pce",
+      "label": "太平记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/泰坦球.pce",
+      "label": "泰坦球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/淘金者 迷失迷宫.pce",
+      "label": "淘金者 迷失迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/桃太郎传说2.pce",
+      "label": "桃太郎传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/桃太郎传说 加强版.pce",
+      "label": "桃太郎传说 加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/桃太郎传说外传.pce",
+      "label": "桃太郎传说外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/桃太郎活剧.pce",
+      "label": "桃太郎活剧",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/天圣龙.pce",
+      "label": "天圣龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/铁甲威龙.pce",
+      "label": "铁甲威龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/铁甲战车.pce",
+      "label": "铁甲战车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/通讯少年.pce",
+      "label": "通讯少年",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/玩具小子.pce",
+      "label": "玩具小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/未来赛车2.pce",
+      "label": "未来赛车2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/未来赛车.pce",
+      "label": "未来赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/武田信玄.pce",
+      "label": "武田信玄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/武裝刑事.pce",
+      "label": "武裝刑事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/武裝战斗刑事.pce",
+      "label": "武裝战斗刑事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/乌兹冲锋枪.pce",
+      "label": "乌兹冲锋枪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/西游记2.pce",
+      "label": "西游记2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/下载.pce",
+      "label": "下载",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/相聚一刻.pce",
+      "label": "相聚一刻",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/小袋鼠.pce",
+      "label": "小袋鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/小蜜蜂88.pce",
+      "label": "小蜜蜂88",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/小魔女.pce",
+      "label": "小魔女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/小英雄托马.pce",
+      "label": "小英雄托马",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/邪圣剑.pce",
+      "label": "邪圣剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/写真问答.pce",
+      "label": "写真问答",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/写真小子.pce",
+      "label": "写真小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/新冒险岛.pce",
+      "label": "新冒险岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/新西兰故事.pce",
+      "label": "新西兰故事",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/旋风任务.pce",
+      "label": "旋风任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/血狼.pce",
+      "label": "血狼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/炎之大地.pce",
+      "label": "炎之大地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/炎之斗球儿 躲避球弹平.pce",
+      "label": "炎之斗球儿 躲避球弹平",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/妖怪道中记.pce",
+      "label": "妖怪道中记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/妖魔传.pce",
+      "label": "妖魔传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/异次元战机.pce",
+      "label": "异次元战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/义警.pce",
+      "label": "义警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/异形弹珠台.pce",
+      "label": "异形弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/异形战机 I.pce",
+      "label": "异形战机 I",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/异形战机 II.pce",
+      "label": "异形战机 II",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/幽魂领地.pce",
+      "label": "幽魂领地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/游戏人生.pce",
+      "label": "游戏人生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/宇宙达人.pce",
+      "label": "宇宙达人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/宇宙警备队.pce",
+      "label": "宇宙警备队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/宇宙双鹰.pce",
+      "label": "宇宙双鹰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/宇宙巡航机.pce",
+      "label": "宇宙巡航机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/源平讨魔传系列卷二.pce",
+      "label": "源平讨魔传系列卷二",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/源平讨魔传.pce",
+      "label": "源平讨魔传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/原子机械童.pce",
+      "label": "原子机械童",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/炸弹人93.pce",
+      "label": "炸弹人93",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/炸弹人94.pce",
+      "label": "炸弹人94",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/炸弹人.pce",
+      "label": "炸弹人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/战斗躲避球.pce",
+      "label": "战斗躲避球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/战斗淘金者.pce",
+      "label": "战斗淘金者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/战斗直升机.pce",
+      "label": "战斗直升机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/战国麻雀.pce",
+      "label": "战国麻雀",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/战士之刃.pce",
+      "label": "战士之刃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/真实拳击.pce",
+      "label": "真实拳击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/职业棒球89.pce",
+      "label": "职业棒球89",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/职业棒球90.pce",
+      "label": "职业棒球90",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/终级警探.pce",
+      "label": "终级警探",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/终级赛车.pce",
+      "label": "终级赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/终级网球.pce",
+      "label": "终级网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/逐电屋藤兵卫.pce",
+      "label": "逐电屋藤兵卫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/追踪刑警.pce",
+      "label": "追踪刑警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/最后的忍道.pce",
+      "label": "最后的忍道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/NEC - PCE/最终战机.pce",
+      "label": "最终战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE.lpl"
+    }
+  ]
+}

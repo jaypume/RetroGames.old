@@ -1,0 +1,138 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/PCYR2.zip",
+      "label": "PCYR2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/爆笑三国志.zip",
+      "label": "爆笑三国志",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/超级医生.zip",
+      "label": "超级医生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/大明英雄传.zip",
+      "label": "大明英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/封神演义.zip",
+      "label": "封神演义",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/富甲天下.zip",
+      "label": "富甲天下",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/光明圣使团.zip",
+      "label": "光明圣使团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/金庸群侠传.zip",
+      "label": "金庸群侠传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/乱世伏魔录.zip",
+      "label": "乱世伏魔录",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/三国志雄霸天下.zip",
+      "label": "三国志雄霸天下",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/射雕英雄传.zip",
+      "label": "射雕英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/天外剑圣录.zip",
+      "label": "天外剑圣录",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/嬉笑春秋.zip",
+      "label": "嬉笑春秋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/仙剑奇侠传.zip",
+      "label": "仙剑奇侠传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/轩辕剑1.zip",
+      "label": "轩辕剑1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/Microsoft - DOS/炎龙骑士团1.zip",
+      "label": "炎龙骑士团1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - DOS.lpl"
+    }
+  ]
+}

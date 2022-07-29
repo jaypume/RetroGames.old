@@ -1,0 +1,426 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/SNK VS CAPCOM 千禧之战.ngp",
+      "label": "SNK VS CAPCOM 千禧之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/SVC激突卡牌斗士1 CAPCOM篇.ngp",
+      "label": "SVC激突卡牌斗士1 CAPCOM篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/SVC激突卡牌斗士1 SNK篇.ngp",
+      "label": "SVC激突卡牌斗士1 SNK篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/SVC激突卡牌斗士2.ngp",
+      "label": "SVC激突卡牌斗士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/超写真麻将.ngp",
+      "label": "超写真麻将",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/吃豆人.ngp",
+      "label": "吃豆人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/大联盟高尔夫球.ngp",
+      "label": "大联盟高尔夫球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/电车GO! 2.ngp",
+      "label": "电车GO! 2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/饿狼传说.ngp",
+      "label": "饿狼传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/法赛雷.ngp",
+      "label": "法赛雷",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/古惑轮滑.ngp",
+      "label": "古惑轮滑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/合金弹头 1号任务.ngp",
+      "label": "合金弹头 1号任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/合金弹头 2号任务.ngp",
+      "label": "合金弹头 2号任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/黑暗兵器 野兽梦魇.ngp",
+      "label": "黑暗兵器 野兽梦魇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/皇家骑士团外传.ngp",
+      "label": "皇家骑士团外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/绘画拼图.ngp",
+      "label": "绘画拼图",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/机甲世纪1.ngp",
+      "label": "机甲世纪1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/机甲世纪2.ngp",
+      "label": "机甲世纪2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/加油!NGP君.ngp",
+      "label": "加油!NGP君",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/口袋黑白棋.ngp",
+      "label": "口袋黑白棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/口袋酷滑板.ngp",
+      "label": "口袋酷滑板",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/口袋网球.ngp",
+      "label": "口袋网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/酷酷!杰姆.ngp",
+      "label": "酷酷!杰姆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/老虎机.ngp",
+      "label": "老虎机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/联结方块1.ngp",
+      "label": "联结方块1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/联结方块2.ngp",
+      "label": "联结方块2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/龙之荒野.ngp",
+      "label": "龙之荒野",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/洛克人 热斗战士.ngp",
+      "label": "洛克人 热斗战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/棉花小魔女.ngp",
+      "label": "棉花小魔女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/魔法宝石.ngp",
+      "label": "魔法宝石",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/泡泡龙.ngp",
+      "label": "泡泡龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/噗哟噗哟通.ngp",
+      "label": "噗哟噗哟通",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/秋之回忆.ngp",
+      "label": "秋之回忆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/拳皇 R-1.ngp",
+      "label": "拳皇 R-1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/拳皇 R-2.ngp",
+      "label": "拳皇 R-2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/拳皇 少女格斗家.ngp",
+      "label": "拳皇 少女格斗家",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/拳皇 战斗天堂.ngp",
+      "label": "拳皇 战斗天堂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/三角变形.ngp",
+      "label": "三角变形",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/上海.ngp",
+      "label": "上海",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/神机世界 进化.ngp",
+      "label": "神机世界 进化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/侍魂1.ngp",
+      "label": "侍魂1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/侍魂2.ngp",
+      "label": "侍魂2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/世界杯足球98.ngp",
+      "label": "世界杯足球98",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/索尼克 口袋冒险.ngp",
+      "label": "索尼克 口袋冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/下潜警报-贝基篇.ngp",
+      "label": "下潜警报-贝基篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/下潜警报-马特篇.ngp",
+      "label": "下潜警报-马特篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/仙魔大战2000.ngp",
+      "label": "仙魔大战2000",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/小瓜子成长日记.ngp",
+      "label": "小瓜子成长日记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/妖怪写真馆.ngp",
+      "label": "妖怪写真馆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/月华剑士.ngp",
+      "label": "月华剑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/职业棒球.ngp",
+      "label": "职业棒球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    },
+    {
+      "path": "/storage/XXXX-XXXX/RetroArch/@ROM/SNK - NGP/职业摔跤大赛.ngp",
+      "label": "职业摔跤大赛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NGP.lpl"
+    }
+  ]
+}
