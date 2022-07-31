@@ -1,0 +1,298 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/霸王忍法贴/ninjamas.zip",
+      "label": "霸王忍法贴",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/爆裂者复仇/breakers.zip",
+      "label": "爆裂者复仇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/波奇和娜亚/pnyaa.zip",
+      "label": "波奇和娜亚",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/得点王系列/neogeo.zip",
+      "label": "得点王系列",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/敌后奇兵/shocktr2.zip",
+      "label": "敌后奇兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/顶级猎手/tophuntr.zip",
+      "label": "顶级猎手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/饿狼传说系列/fatfury3.zip",
+      "label": "饿狼传说系列",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/番茄超人/neogeo.zip",
+      "label": "番茄超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/风云默示录系列/kizuna.zip",
+      "label": "风云默示录系列",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/豪血寺一族斗婚/matrim.zip",
+      "label": "豪血寺一族斗婚",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/合金弹头系列/mslug4.zip",
+      "label": "合金弹头系列",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/火热火热7/wakuwak7.zip",
+      "label": "火热火热7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/街头篮球/strhoop.zip",
+      "label": "街头篮球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/龙吼双截龙 解密版/neogeo.zip",
+      "label": "龙吼双截龙 解密版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/龙虎拳系列/aof2.zip",
+      "label": "龙虎拳系列",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/梦幻小妖精/twinspri.zip",
+      "label": "梦幻小妖精",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/泡泡龙/pbobbl2n.zip",
+      "label": "泡泡龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/碰碰球/bangbead.zip",
+      "label": "碰碰球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/拳皇VS街霸：乱舞千年加强版/svc.zip",
+      "label": "拳皇VS街霸：乱舞千年加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/拳皇系列/kof2k4se.zip",
+      "label": "拳皇系列",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/热血快打/burningf.zip",
+      "label": "热血快打",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/忍者指令/ncommand.zip",
+      "label": "忍者指令",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/s1945p/neogeo.zip",
+      "label": "s1945p",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/闪亮之星/blazstar.zip",
+      "label": "闪亮之星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/侍魂系列/samsho.zip",
+      "label": "侍魂系列",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/双截龙格斗/neogeo.zip",
+      "label": "双截龙格斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/天外魔境真传/kabukikl.zip",
+      "label": "天外魔境真传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/痛快进行曲/aodk.zip",
+      "label": "痛快进行曲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/外星游龙/neogeo.zip",
+      "label": "外星游龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/武藏严流记/neogeo.zip",
+      "label": "武藏严流记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/午夜噩梦/neogeo.zip",
+      "label": "午夜噩梦",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/原始岛二代/preisle2.zip",
+      "label": "原始岛二代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/月华剑士系列/lastblad.zip",
+      "label": "月华剑士系列",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/炸弹人/neobombe.zip",
+      "label": "炸弹人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/战国传承3/neogeo.zip",
+      "label": "战国传承3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/SNK - NeoGeo/终极任务-终极手段/lresort.zip",
+      "label": "终极任务-终极手段",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - NeoGeo.lpl"
+    }
+  ]
+}

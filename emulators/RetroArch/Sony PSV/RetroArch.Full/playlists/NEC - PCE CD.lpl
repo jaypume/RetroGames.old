@@ -1,0 +1,18 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "ux0:/data/retroarch/@ROM/NEC - PCE CD/恶魔城/Akumajou_Dracula_X_-_Chi_no_Rinne_(NTSC-J)_[KMCD3005].cue",
+      "label": "恶魔城",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PCE CD.lpl"
+    }
+  ]
+}

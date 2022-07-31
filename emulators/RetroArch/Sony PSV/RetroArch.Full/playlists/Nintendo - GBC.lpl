@@ -1,0 +1,810 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/超级马力欧1.gb",
+      "label": "超级马力欧1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/超级马力欧2.gbc",
+      "label": "超级马力欧2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/超级马力欧4.gb",
+      "label": "超级马力欧4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/超级马力欧Deluxe.gbc",
+      "label": "超级马力欧Deluxe",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/超级马力欧网球.gbc",
+      "label": "超级马力欧网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/超级马力欧医生.gb",
+      "label": "超级马力欧医生",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/超级中国人.gb",
+      "label": "超级中国人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/第1次超级机器人大战.gb",
+      "label": "第1次超级机器人大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/第2次超级机器人大战.gb",
+      "label": "第2次超级机器人大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/俄罗斯方块.gb",
+      "label": "俄罗斯方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/恶魔城1.gb",
+      "label": "恶魔城1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/恶魔城2.gb",
+      "label": "恶魔城2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/恶魔城3.gb",
+      "label": "恶魔城3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/恶魔城外传 王子传奇.gb",
+      "label": "恶魔城外传 王子传奇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/飞龙之拳EX.gbc",
+      "label": "飞龙之拳EX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/孤岛冒险者1.gbc",
+      "label": "孤岛冒险者1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/孤岛冒险者2.gbc",
+      "label": "孤岛冒险者2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/国际象棋.gbc",
+      "label": "国际象棋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/合金弹头.gbc",
+      "label": "合金弹头",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/合金装备 幽灵通天塔.gbc",
+      "label": "合金装备 幽灵通天塔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/幻想传说 换装迷宫.gbc",
+      "label": "幻想传说 换装迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/魂斗罗1.gb",
+      "label": "魂斗罗1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/魂斗罗2.gb",
+      "label": "魂斗罗2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/机械战警1.gb",
+      "label": "机械战警1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/机械战警2.gb",
+      "label": "机械战警2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/机械战警对终结者.gb",
+      "label": "机械战警对终结者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/街头霸王II.gb",
+      "label": "街头霸王II",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/街头霸王ZERO.gbc",
+      "label": "街头霸王ZERO",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/街头赛车.gb",
+      "label": "街头赛车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/金田一少年事件簿10周年.gbc",
+      "label": "金田一少年事件簿10周年",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/金庸群侠传.gbc",
+      "label": "金庸群侠传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/口袋妖怪 黄.gb",
+      "label": "口袋妖怪 黄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/洛克人1.gb",
+      "label": "洛克人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/洛克人2.gb",
+      "label": "洛克人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/洛克人3.gb",
+      "label": "洛克人3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/洛克人4.gb",
+      "label": "洛克人4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/洛克人5.gb",
+      "label": "洛克人5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/洛克人X1.gbc",
+      "label": "洛克人X1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/洛克人X2.gbc",
+      "label": "洛克人X2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/冒险岛1.gb",
+      "label": "冒险岛1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/冒险岛2.gb",
+      "label": "冒险岛2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/棉花小魔女.gbc",
+      "label": "棉花小魔女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/牧场物语1.gbc",
+      "label": "牧场物语1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/牧场物语2.gbc",
+      "label": "牧场物语2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/牧场物语3.gbc",
+      "label": "牧场物语3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/能量冲激.gbc",
+      "label": "能量冲激",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/蚯蚓战士.gb",
+      "label": "蚯蚓战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/热斗 超能勇士.gb",
+      "label": "热斗 超能勇士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/热斗 斗神传.gb",
+      "label": "热斗 斗神传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/热斗 饿狼传说2.gb",
+      "label": "热斗 饿狼传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/热斗 饿狼传说特别版.gb",
+      "label": "热斗 饿狼传说特别版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/热斗 拳皇95.gb",
+      "label": "热斗 拳皇95",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/热斗 拳皇96.gb",
+      "label": "热斗 拳皇96",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/热斗 拳皇97.gb",
+      "label": "热斗 拳皇97",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/热斗 拳皇98.gb",
+      "label": "热斗 拳皇98",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/热斗 拳皇99.gbc",
+      "label": "热斗 拳皇99",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/热斗 侍魂斩红郎无双剑.gb",
+      "label": "热斗 侍魂斩红郎无双剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/热斗 侍魂.gb",
+      "label": "热斗 侍魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/热斗 世界英雄2.gb",
+      "label": "热斗 世界英雄2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/热血硬派 番外乱斗篇.gb",
+      "label": "热血硬派 番外乱斗篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/忍者龙剑传.gb",
+      "label": "忍者龙剑传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/忍者时代.gbc",
+      "label": "忍者时代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/忍者蛙1.gb",
+      "label": "忍者蛙1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/忍者蛙2.gb",
+      "label": "忍者蛙2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/忍者蛙和双截龙.gb",
+      "label": "忍者蛙和双截龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/塞尔达传说1 梦见岛DX.gbc",
+      "label": "塞尔达传说1 梦见岛DX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/塞尔达传说2 大地之章.gbc",
+      "label": "塞尔达传说2 大地之章",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/塞尔达传说3 时空之章.gbc",
+      "label": "塞尔达传说3 时空之章",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/三国志 傲视天下.gbc",
+      "label": "三国志 傲视天下",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/桑塔.gbc",
+      "label": "桑塔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/生化尖兵.gbc",
+      "label": "生化尖兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/生化危机 最终逃亡.gbc",
+      "label": "生化危机 最终逃亡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/生化危机.gbc",
+      "label": "生化危机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/圣剑传说.gb",
+      "label": "圣剑传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/双截龙1.gb",
+      "label": "双截龙1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/双截龙2.gb",
+      "label": "双截龙2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/双截龙3.gb",
+      "label": "双截龙3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/太空战士4.gb",
+      "label": "太空战士4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/坦克大战.gb",
+      "label": "坦克大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/吞食天地1 赤壁之战.gbc",
+      "label": "吞食天地1 赤壁之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/吞食天地2 真三国无双.gbc",
+      "label": "吞食天地2 真三国无双",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/吞食天地 三国英雄传.gb",
+      "label": "吞食天地 三国英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/瓦力欧大陆1.gb",
+      "label": "瓦力欧大陆1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/瓦力欧大陆2.gbc",
+      "label": "瓦力欧大陆2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/瓦力欧大陆3.gbc",
+      "label": "瓦力欧大陆3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/仙剑奇侠传.gbc",
+      "label": "仙剑奇侠传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/星海传说.gbc",
+      "label": "星海传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/幸运的卢克.gbc",
+      "label": "幸运的卢克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/星之卡比1.gb",
+      "label": "星之卡比1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/星之卡比2.gb",
+      "label": "星之卡比2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/异形战机1.gb",
+      "label": "异形战机1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/异形战机2.gb",
+      "label": "异形战机2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/异形战机DX.gbc",
+      "label": "异形战机DX",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/银河战士2.gb",
+      "label": "银河战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/勇者斗恶龙怪兽篇1 特瑞的仙境.gbc",
+      "label": "勇者斗恶龙怪兽篇1 特瑞的仙境",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/勇者斗恶龙怪兽篇2 鲁卡的旅行.gbc",
+      "label": "勇者斗恶龙怪兽篇2 鲁卡的旅行",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/宇宙巡航机.gb",
+      "label": "宇宙巡航机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/终结者2 街机.gb",
+      "label": "终结者2 街机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/终结者2 审判日.gb",
+      "label": "终结者2 审判日",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    },
+    {
+      "path": "ux0:/data/retroarch/@ROM/Nintendo - GBC/重装机兵.gbc",
+      "label": "重装机兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GBC.lpl"
+    }
+  ]
+}
