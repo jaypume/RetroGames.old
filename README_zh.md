@@ -35,7 +35,7 @@
 
 2. 拷贝到对应机器SD卡
 ```
-cp -rpL '～/RetroGames/emulators/RetroArch/Nintendo Switch/RetroArch.Full'  '/Volumes/SDCard'
+rsync -aL '～/RetroGames/emulators/RetroArch/Nintendo Switch/RetroArch.Full'  '/Volumes/SDCard'
 ```
 `-rL`表示会把符号链接的原始内容进行拷贝，而不是符号链接本身。
 
