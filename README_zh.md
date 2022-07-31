@@ -88,3 +88,5 @@ rsync -aL '～/RetroGames/emulators/RetroArch/Nintendo Switch/RetroArch.Full'  '
 - [ ] 优化cp命令
     - 图形界面
     - 展示拷贝进度条。
+- [ ] 添加retroarch.cfg版本管理
+- [ ] 添加存档同步方案/saves/states
