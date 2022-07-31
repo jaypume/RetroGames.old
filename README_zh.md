@@ -27,6 +27,12 @@
 ## 使用教程
 如果你仅仅需要拷贝游戏到自己的游戏平台上的话。
 
+0. 安装模拟器 
+可以去如下地址寻找对应平台的RetroArch模拟器
+```
+https://buildbot.libretro.com/stable/
+```
+
 1. 下载游戏包，解压到'.git/annex/objects/'
 
 ```
