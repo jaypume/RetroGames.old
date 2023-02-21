@@ -1,0 +1,850 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\007 决斗.gg",
+      "label": "007 决斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\F-15飞鹰.gg",
+      "label": "F-15飞鹰",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\NBA Jam TE.gg",
+      "label": "NBA Jam TE",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\Shaq Fu.gg",
+      "label": "Shaq Fu",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\VRսʿ.gg",
+      "label": "VRսʿ",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\X战警1.gg",
+      "label": "X战警1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\X战警2.gg",
+      "label": "X战警2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\X战警3.gg",
+      "label": "X战警3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\阿拉丁.gg",
+      "label": "阿拉丁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\蝙蝠侠1.gg",
+      "label": "蝙蝠侠1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\蝙蝠侠2.gg",
+      "label": "蝙蝠侠2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\蝙蝠侠3.gg",
+      "label": "蝙蝠侠3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\波斯王子.gg",
+      "label": "波斯王子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\仓库番.gg",
+      "label": "仓库番",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\超级忍1.gg",
+      "label": "超级忍1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\超级忍2.gg",
+      "label": "超级忍2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\超人.gg",
+      "label": "超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\吃豆小精灵.gg",
+      "label": "吃豆小精灵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\出击飞龙.gg",
+      "label": "出击飞龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\饿狼传说特别版.gg",
+      "label": "饿狼传说特别版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\钢铁侠.gg",
+      "label": "钢铁侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\格里芬.gg",
+      "label": "格里芬",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\哥斯拉.gg",
+      "label": "哥斯拉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\怪物卡车大战.gg",
+      "label": "怪物卡车大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\怪物世界2.gg",
+      "label": "怪物世界2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\灌篮高手.gg",
+      "label": "灌篮高手",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\光明力量外传1.gg",
+      "label": "光明力量外传1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\光明力量外传2.gg",
+      "label": "光明力量外传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\光明力量外传3.gg",
+      "label": "光明力量外传3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\鬼神童子.gg",
+      "label": "鬼神童子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\海豚历险记1.gg",
+      "label": "海豚历险记1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\海豚历险记2.gg",
+      "label": "海豚历险记2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\滑雪者.gg",
+      "label": "滑雪者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\环游世界.gg",
+      "label": "环游世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\火枪英雄.gg",
+      "label": "火枪英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\机甲战士.gg",
+      "label": "机甲战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\机械战警3.gg",
+      "label": "机械战警3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\机械战警对终结者.gg",
+      "label": "机械战警对终结者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\蜡笔小新.gg",
+      "label": "蜡笔小新",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\浪潮武士.gg",
+      "label": "浪潮武士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\露娜.gg",
+      "label": "露娜",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\洛克人.gg",
+      "label": "洛克人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\猫和老鼠.gg",
+      "label": "猫和老鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\猫捉老鼠.gg",
+      "label": "猫捉老鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\美人鱼.gg",
+      "label": "美人鱼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\美少女战士.gg",
+      "label": "美少女战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\梦幻之星冒险.gg",
+      "label": "梦幻之星冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\梦幻之星外传.gg",
+      "label": "梦幻之星外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\米老鼠 魔法师.gg",
+      "label": "米老鼠 魔法师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\米老鼠 王国传说.gg",
+      "label": "米老鼠 王国传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\米老鼠 终极挑战.gg",
+      "label": "米老鼠 终极挑战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\怒之铁拳1.gg",
+      "label": "怒之铁拳1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\怒之铁拳2.gg",
+      "label": "怒之铁拳2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\女神转生外传1.gg",
+      "label": "女神转生外传1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\女神转生外传2.gg",
+      "label": "女神转生外传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\泡泡龙.gg",
+      "label": "泡泡龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\强力战机2.gg",
+      "label": "强力战机2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\蚯蚓战士.gg",
+      "label": "蚯蚓战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\忍者龙剑传.gg",
+      "label": "忍者龙剑传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\忍者蛙.gg",
+      "label": "忍者蛙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\上尉密令.gg",
+      "label": "上尉密令",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\侍魂.gg",
+      "label": "侍魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\狮子王.gg",
+      "label": "狮子王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\双截龙.gg",
+      "label": "双截龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\水晶战士.gg",
+      "label": "水晶战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\送报童.gg",
+      "label": "送报童",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\索尼克1.gg",
+      "label": "索尼克1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\索尼克2.gg",
+      "label": "索尼克2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\索尼克弹珠台.gg",
+      "label": "索尼克弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\索尼克加强版1.gg",
+      "label": "索尼克加强版1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\索尼克加强版2.gg",
+      "label": "索尼克加强版2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\索尼克迷宫.gg",
+      "label": "索尼克迷宫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\索尼克赛车1.gg",
+      "label": "索尼克赛车1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\索尼克赛车2.gg",
+      "label": "索尼克赛车2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\塔尔斯大冒险.gg",
+      "label": "塔尔斯大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\太空哈利.gg",
+      "label": "太空哈利",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\唐老鸭1.gg",
+      "label": "唐老鸭1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\唐老鸭2.gg",
+      "label": "唐老鸭2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\铁头小子.gg",
+      "label": "铁头小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\铁血战士2.gg",
+      "label": "铁血战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\外星王子.gg",
+      "label": "外星王子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\网球.gg",
+      "label": "网球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\吸血鬼复苏.gg",
+      "label": "吸血鬼复苏",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\辛普森一家.gg",
+      "label": "辛普森一家",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\星际旅行1.gg",
+      "label": "星际旅行1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\星际旅行2.gg",
+      "label": "星际旅行2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\星球大战1.gg",
+      "label": "星球大战1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\星球大战2.gg",
+      "label": "星球大战2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\异形3.gg",
+      "label": "异形3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\异形特攻队.gg",
+      "label": "异形特攻队",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\幽游白书1.gg",
+      "label": "幽游白书1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\幽游白书2.gg",
+      "label": "幽游白书2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\真宝珠小子.gg",
+      "label": "真宝珠小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\真人快打1.gg",
+      "label": "真人快打1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\真人快打2.gg",
+      "label": "真人快打2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\真人快打3.gg",
+      "label": "真人快打3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\真实谎言.gg",
+      "label": "真实谎言",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\蜘蛛侠1.gg",
+      "label": "蜘蛛侠1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\蜘蛛侠2.gg",
+      "label": "蜘蛛侠2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\蜘蛛侠3.gg",
+      "label": "蜘蛛侠3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\终结者1.gg",
+      "label": "终结者1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\终结者2 街机.gg",
+      "label": "终结者2 街机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\终结者2 审判日.gg",
+      "label": "终结者2 审判日",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\侏罗纪公园.gg",
+      "label": "侏罗纪公园",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - GG\\最后的动作英雄.gg",
+      "label": "最后的动作英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - GG.lpl"
+    }
+  ]
+}

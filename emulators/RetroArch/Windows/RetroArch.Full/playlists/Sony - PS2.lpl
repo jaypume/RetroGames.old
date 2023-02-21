@@ -1,0 +1,42 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PS2\\鬼泣3.chd",
+      "label": "鬼泣3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PS2\\吉他英雄2.chd",
+      "label": "吉他英雄2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PS2\\侠盗猎车手 圣安地列斯.chd",
+      "label": "侠盗猎车手 圣安地列斯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PS2\\战神2.chd",
+      "label": "战神2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PS2.lpl"
+    }
+  ]
+}

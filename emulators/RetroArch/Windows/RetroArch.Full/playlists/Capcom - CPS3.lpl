@@ -1,0 +1,58 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS3\\红色地球 赤色大地\\redearth.zip",
+      "label": "红色地球 赤色大地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS3.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS3\\街头霸王 III - 二度冲击 巨型攻击\\sfiii2.zip",
+      "label": "街头霸王 III - 二度冲击 巨型攻击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS3.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS3\\街头霸王 III - 三度冲击 未来战斗\\sfiii3.zip",
+      "label": "街头霸王 III - 三度冲击 未来战斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS3.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS3\\街头霸王 III - 新世纪\\sfiii.zip",
+      "label": "街头霸王 III - 新世纪",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS3.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS3\\乔乔的奇妙冒险\\jojo.zip",
+      "label": "乔乔的奇妙冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS3.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS3\\乔乔的奇妙冒险 - 未来遗产\\jojoba.zip",
+      "label": "乔乔的奇妙冒险 - 未来遗产",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS3.lpl"
+    }
+  ]
+}

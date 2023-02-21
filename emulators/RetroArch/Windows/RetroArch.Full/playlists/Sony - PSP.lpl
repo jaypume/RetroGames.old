@@ -1,0 +1,114 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PSP\\Rock Band Unplugged (US).iso",
+      "label": "Rock Band Unplugged (US)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PSP\\Tactics Ogre - Let Us Cling Together (EU).iso",
+      "label": "Tactics Ogre - Let Us Cling Together (EU)",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PSP\\怪物猎人3rd 携带版.iso",
+      "label": "怪物猎人3rd 携带版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PSP\\皇牌空战 X 诡影苍穹.iso",
+      "label": "皇牌空战 X 诡影苍穹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PSP\\乐克乐克.iso",
+      "label": "乐克乐克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PSP\\露娜 银星和声.iso",
+      "label": "露娜 银星和声",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PSP\\女神异闻录3 携带版.iso",
+      "label": "女神异闻录3 携带版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PSP\\啪嗒砰3.iso",
+      "label": "啪嗒砰3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PSP\\实况足球 10.iso",
+      "label": "实况足球 10",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PSP\\英雄传说 空之轨迹.iso",
+      "label": "英雄传说 空之轨迹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PSP\\战神 斯巴达之魂.iso",
+      "label": "战神 斯巴达之魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PSP\\最终幻想7 核心危机.iso",
+      "label": "最终幻想7 核心危机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sony - PSP\\最终幻想 战略版-狮子战争.iso",
+      "label": "最终幻想 战略版-狮子战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PSP.lpl"
+    }
+  ]
+}

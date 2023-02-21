@@ -1,0 +1,290 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\1944-循环的征服者\\1944.zip",
+      "label": "1944-循环的征服者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\19XX-命运否决战\\19xx.zip",
+      "label": "19XX-命运否决战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\超级方块战士II加速版\\spf2t.zip",
+      "label": "超级方块战士II加速版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\超级街头霸王II加强版\\ssf2t.zip",
+      "label": "超级街头霸王II加强版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\超级街头霸王II-新的挑战者\\ssf2.zip",
+      "label": "超级街头霸王II-新的挑战者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\超级口袋战士-迷你混战\\sgemf.zip",
+      "label": "超级口袋战士-迷你混战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\超级漫画英雄\\msh.zip",
+      "label": "超级漫画英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\超级漫画英雄对街头霸王\\mshvsf.zip",
+      "label": "超级漫画英雄对街头霸王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\超级漫画英雄对卡普空-超级英雄的碰撞\\mvsc.zip",
+      "label": "超级漫画英雄对卡普空-超级英雄的碰撞",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\超级魔法大作战\\dimahoo.zip",
+      "label": "超级魔法大作战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\超级摔角霸王II-连环爆裂\\ringdest.zip",
+      "label": "超级摔角霸王II-连环爆裂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\超能战警-磁场原子人\\xmcota.zip",
+      "label": "超能战警-磁场原子人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\超能战警对街头霸王\\xmvsf.zip",
+      "label": "超能战警对街头霸王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\超强魔法泡泡\\mpang.zip",
+      "label": "超强魔法泡泡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\恶魔猎人2-暗黑救世主\\vhunt2.zip",
+      "label": "恶魔猎人2-暗黑救世主",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\恶魔战士-午夜斗士\\dstlk.zip",
+      "label": "恶魔战士-午夜斗士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\恶魔战士-吸血皇族\\vsav.zip",
+      "label": "恶魔战士-吸血皇族",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\火星矩阵-终极固体射击\\mmatrix.zip",
+      "label": "火星矩阵-终极固体射击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\卡普空运动俱乐部\\csclub.zip",
+      "label": "卡普空运动俱乐部",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\龙与地下城-暗黑秘影\\ddsom.zip",
+      "label": "龙与地下城-暗黑秘影",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\龙与地下城-毁灭之塔\\ddtod.zip",
+      "label": "龙与地下城-毁灭之塔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\洛克人2-强大的战士\\megaman2.zip",
+      "label": "洛克人2-强大的战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\逆转之岚\\progear.zip",
+      "label": "逆转之岚",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\扭转战斗机\\ecofghtr.zip",
+      "label": "扭转战斗机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\少年街霸-斗士的梦想\\sfa.zip",
+      "label": "少年街霸-斗士的梦想",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\少年街霸2\\sfa2.zip",
+      "label": "少年街霸2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\少年街霸3\\sfa3.zip",
+      "label": "少年街霸3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\吸血鬼猎人-恶魔的复仇\\nwarr.zip",
+      "label": "吸血鬼猎人-恶魔的复仇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\行空飞翼\\gigawing.zip",
+      "label": "行空飞翼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\异型对铁血战士\\avsp.zip",
+      "label": "异型对铁血战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\战斗回路\\batcir.zip",
+      "label": "战斗回路",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\智力循环2\\pzloop2.zip",
+      "label": "智力循环2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\终极街霸II\\hsf2.zip",
+      "label": "终极街霸II",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\装甲战士\\armwar.zip",
+      "label": "装甲战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Capcom - CPS2\\装甲之战-全金属狂潮\\cybots.zip",
+      "label": "装甲之战-全金属狂潮",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Capcom - CPS2.lpl"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\大逆转裁判2 成步堂龙之介的觉悟.cci",
+      "label": "大逆转裁判2 成步堂龙之介的觉悟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\大逆转裁判 成步堂龙之介的冒险.cci",
+      "label": "大逆转裁判 成步堂龙之介的冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\洞窟物语3D.cci",
+      "label": "洞窟物语3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\火焰纹章：觉醒.cci",
+      "label": "火焰纹章：觉醒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\火焰纹章：IF.cci",
+      "label": "火焰纹章：IF",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\极限脱出2 善人死亡.cci",
+      "label": "极限脱出2 善人死亡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\极限脱出3 零时困境.cci",
+      "label": "极限脱出3 零时困境",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\口袋妖怪究极红宝石.cci",
+      "label": "口袋妖怪究极红宝石",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\口袋妖怪始源蓝宝石.cci",
+      "label": "口袋妖怪始源蓝宝石",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\雷顿教授VS逆转裁判.cci",
+      "label": "雷顿教授VS逆转裁判",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\雷顿教授与超文明A的遗产.cci",
+      "label": "雷顿教授与超文明A的遗产",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\雷顿教授与奇迹假面plus.3ds",
+      "label": "雷顿教授与奇迹假面plus",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\雷顿女士富豪王的阴谋.cci",
+      "label": "雷顿女士富豪王的阴谋",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\马里奥3D大陆.cci",
+      "label": "马里奥3D大陆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\脑锻炼5分钟魔鬼特训.cci",
+      "label": "脑锻炼5分钟魔鬼特训",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\逆转裁判123成步堂精选集.cci",
+      "label": "逆转裁判123成步堂精选集",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\逆转裁判4.cci",
+      "label": "逆转裁判4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\逆转裁判5.cci",
+      "label": "逆转裁判5",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\逆转裁判6.cci",
+      "label": "逆转裁判6",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\热血硬派SP.cci",
+      "label": "热血硬派SP",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\塞尔达传说 三角力量英雄.cci",
+      "label": "塞尔达传说 三角力量英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\塞尔达传说 时之笛.cci",
+      "label": "塞尔达传说 时之笛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\塞尔达传说 众神的三角力量2.cci",
+      "label": "塞尔达传说 众神的三角力量2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\山脊赛车3D.cci",
+      "label": "山脊赛车3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\未解决事件搜查科：遥远的记忆.cci",
+      "label": "未解决事件搜查科：遥远的记忆",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\星之卡比三重彩.cci",
+      "label": "星之卡比三重彩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\勇气默示录 第二代.cci",
+      "label": "勇气默示录 第二代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\勇气默示录 第一代.3ds",
+      "label": "勇气默示录 第一代",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\蒸汽世界 大劫掠.cci",
+      "label": "蒸汽世界 大劫掠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Nintendo - 3DS\\重装机兵4.cci",
+      "label": "重装机兵4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - 3DS.lpl"
+    }
+  ]
+}

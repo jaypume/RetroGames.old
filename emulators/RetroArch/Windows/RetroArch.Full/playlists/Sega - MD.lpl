@@ -1,0 +1,2162 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\EX-异种.smd",
+      "label": "EX-异种",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\Mazin 传说 Start键加9条人命 HP 及隐身.bin",
+      "label": "Mazin 传说 Start键加9条人命 HP 及隐身",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\Mega银河战士.smd",
+      "label": "Mega银河战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\VR战士2.smd",
+      "label": "VR战士2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\X战警1.smd",
+      "label": "X战警1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\X战警2.smd",
+      "label": "X战警2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\啊Q连环炮 中文版.smd",
+      "label": "啊Q连环炮 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\阿拉丁 无限命.gen",
+      "label": "阿拉丁 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\阿拉丁.smd",
+      "label": "阿拉丁",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\阿莉莎之龙 命不减 闪电恢复×3.smd",
+      "label": "阿莉莎之龙 命不减 闪电恢复×3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\阿斯特瑞克斯 大救援.smd",
+      "label": "阿斯特瑞克斯 大救援",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\阿斯特瑞克斯 上帝之力.smd",
+      "label": "阿斯特瑞克斯 上帝之力",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\巴哈姆特战记.smd",
+      "label": "巴哈姆特战记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\暴力克星 多命版.bin",
+      "label": "暴力克星 多命版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\暴力克星.smd",
+      "label": "暴力克星",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\爆裂激战.smd",
+      "label": "爆裂激战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\宝石方块3.smd",
+      "label": "宝石方块3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\蝙蝠侠 人不减，START加99个飞镖 恢复血.bin",
+      "label": "蝙蝠侠 人不减，START加99个飞镖 恢复血",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\蝙蝠侠与罗宾a键满气攻击增加威力c换命暂停换武器器.gen",
+      "label": "蝙蝠侠与罗宾a键满气攻击增加威力c换命暂停换武器器",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\蝙蝠侠与罗宾.smd",
+      "label": "蝙蝠侠与罗宾",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\蝙蝠侠.smd",
+      "label": "蝙蝠侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\彩虹岛.smd",
+      "label": "彩虹岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\超级忍1.smd",
+      "label": "超级忍1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\超级忍2 无限命.gen",
+      "label": "超级忍2 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\超级忍2 中文版.md",
+      "label": "超级忍2 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\超级忍2.smd",
+      "label": "超级忍2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\超人 无敌版.bin",
+      "label": "超人 无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\超人.smd",
+      "label": "超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\出击飞龙.smd",
+      "label": "出击飞龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\丛林大冒险 无限命.bin",
+      "label": "丛林大冒险 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\大航海时代1 中文版.md",
+      "label": "大航海时代1 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\大航海时代2  意志加强中文版.bin",
+      "label": "大航海时代2  意志加强中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\大乱斗.smd",
+      "label": "大乱斗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\大魔界村.smd",
+      "label": "大魔界村",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\大头小子.smd",
+      "label": "大头小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\大战略 闪电奇袭 中文版.md",
+      "label": "大战略 闪电奇袭 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\动物快打.smd",
+      "label": "动物快打",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\斗技王 5个魔法消耗量为0 经验升级最大值.bin",
+      "label": "斗技王 5个魔法消耗量为0 经验升级最大值",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\斗技王.bin",
+      "label": "斗技王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\饿狼传说2.smd",
+      "label": "饿狼传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\恶魔波子机.bin",
+      "label": "恶魔波子机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\恶魔城-血族.bin",
+      "label": "恶魔城-血族",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\恶魔城 血族 Start键加满99颗宝石，9条人命，及HP.bin",
+      "label": "恶魔城 血族 Start键加满99颗宝石，9条人命，及HP",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\飞马骑士.smd",
+      "label": "飞马骑士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\飞天蝙蝠ZERO.smd",
+      "label": "飞天蝙蝠ZERO",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\飞翔蝙蝠2.smd",
+      "label": "飞翔蝙蝠2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\疯狂米老鼠.smd",
+      "label": "疯狂米老鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\封神英杰传 HACK.gen",
+      "label": "封神英杰传 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\封神英杰传 中文版.md",
+      "label": "封神英杰传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\风中奇缘.smd",
+      "label": "风中奇缘",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\复仇之刃.smd",
+      "label": "复仇之刃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\弗兰克大冒险.smd",
+      "label": "弗兰克大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\盖亚战机越死越多死后换武器暂停键增加防护罩.bin",
+      "label": "盖亚战机越死越多死后换武器暂停键增加防护罩",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\港都少年 中文版.mdx",
+      "label": "港都少年 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\钢铁帝国 两个机甲  99架战机 闪电 血满不减 速度最快.bin",
+      "label": "钢铁帝国 两个机甲  99架战机 闪电 血满不减 速度最快",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\钢铁帝国.smd",
+      "label": "钢铁帝国",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\高飞狗的惊异之旅 不减血版.bin",
+      "label": "高飞狗的惊异之旅 不减血版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\割喉岛.smd",
+      "label": "割喉岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怪物世界1.smd",
+      "label": "怪物世界1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怪物世界3.smd",
+      "label": "怪物世界3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怪物世界4 无敌版.gen",
+      "label": "怪物世界4 无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怪物世界4 中文版.md",
+      "label": "怪物世界4 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\灌篮高手 正面的对决 中文版.md",
+      "label": "灌篮高手 正面的对决 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\光明力量2 古代封印 中文版 秘籍输入简化.bin",
+      "label": "光明力量2 古代封印 中文版 秘籍输入简化",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\光明力量2 古代之封印 中文版.md",
+      "label": "光明力量2 古代之封印 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\光明十字军 中文版.md",
+      "label": "光明十字军 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\光明与黑暗 诸神的遗产 中文版 HACK.bin",
+      "label": "光明与黑暗 诸神的遗产 中文版 HACK",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\光明与黑暗 诸神的遗产 中文版.md",
+      "label": "光明与黑暗 诸神的遗产 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\光之继承者 托尔的传说 中文版.md",
+      "label": "光之继承者 托尔的传说 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\光子继承者 皇帝的财宝 武器装备齐全 血 钱最多.bin",
+      "label": "光子继承者 皇帝的财宝 武器装备齐全 血 钱最多",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\光子继承者 皇帝的财宝 中文版.md",
+      "label": "光子继承者 皇帝的财宝 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\黑水海盗.smd",
+      "label": "黑水海盗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\轰天雷2.smd",
+      "label": "轰天雷2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\轰天雷3.bin",
+      "label": "轰天雷3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\户外大飙车.smd",
+      "label": "户外大飙车",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\花式撞球.smd",
+      "label": "花式撞球",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\幻影堡垒不可思议的御城大冒.smd",
+      "label": "幻影堡垒不可思议的御城大冒",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\毁灭部队之异型战争 无限命 子弹.bin",
+      "label": "毁灭部队之异型战争 无限命 子弹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\毁灭部队之异型战争.smd",
+      "label": "毁灭部队之异型战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\魂斗罗 铁血兵团 中文版 无限命.bin",
+      "label": "魂斗罗 铁血兵团 中文版 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\魂斗罗.smd",
+      "label": "魂斗罗",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\混乱能量 255血 武器满威力.bin",
+      "label": "混乱能量 255血 武器满威力",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\混乱能量.bin",
+      "label": "混乱能量",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\火宝战记皇室血裔.bin",
+      "label": "火宝战记皇室血裔",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\火箭骑士历险记.smd",
+      "label": "火箭骑士历险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\火箭骑士 无限命.bin",
+      "label": "火箭骑士 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\火枪英雄 HP不减.bin",
+      "label": "火枪英雄 HP不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\火枪英雄.smd",
+      "label": "火枪英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\火星逃脱者.gen",
+      "label": "火星逃脱者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\鸡蛋冒险.smd",
+      "label": "鸡蛋冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\疾风战机.smd",
+      "label": "疾风战机",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\吉姆力量 人数不减 炸弹为9 暂停加命.bin",
+      "label": "吉姆力量 人数不减 炸弹为9 暂停加命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\鲛.鲛.鲛.smd",
+      "label": "鲛.鲛.鲛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\鲛鲛鲛 命炸弹不减 暂停后 按上进入测试模式.bin",
+      "label": "鲛鲛鲛 命炸弹不减 暂停后 按上进入测试模式",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\街头霸王2PLUS.smd",
+      "label": "街头霸王2PLUS",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\街头霸王 超.smd",
+      "label": "街头霸王 超",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\金刚狼.smd",
+      "label": "金刚狼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\孔雀王II 无敌版.bin",
+      "label": "孔雀王II 无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\空手道.smd",
+      "label": "空手道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\兰博3.smd",
+      "label": "兰博3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\雷电传说 炸弹无限 C+↑散弹 按C+↓激光.bin",
+      "label": "雷电传说 炸弹无限 C+↑散弹 按C+↓激光",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\雷电传说.smd",
+      "label": "雷电传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\雷鸟号3 无限命.bin",
+      "label": "雷鸟号3 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\雷鸟号3.SMD",
+      "label": "雷鸟号3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\雷鸟号4.SMD",
+      "label": "雷鸟号4",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\粒子战士1.smd",
+      "label": "粒子战士1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\粒子战士2 无敌版.gen",
+      "label": "粒子战士2 无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\联合前线_轨道战争 中文版.smd",
+      "label": "联合前线_轨道战争 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\另一个世界.smd",
+      "label": "另一个世界",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\龙凤神偷 无限体力.gen",
+      "label": "龙凤神偷 无限体力",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\龙凤神偷.smd",
+      "label": "龙凤神偷",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\龙珠z之武勇列传 貝吉塔隱藏超殺條件完美hack.gen",
+      "label": "龙珠z之武勇列传 貝吉塔隱藏超殺條件完美hack",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\龙珠z之武勇列传.smd",
+      "label": "龙珠z之武勇列传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\洛克人1.2.3合集.smd",
+      "label": "洛克人1.2.3合集",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\马吉卡努大冒险.smd",
+      "label": "马吉卡努大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\麻将俱乐部雀侦物语 中文版.md",
+      "label": "麻将俱乐部雀侦物语 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\脉冲超人 99命 血.gen",
+      "label": "脉冲超人 99命 血",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\脉冲超人.smd",
+      "label": "脉冲超人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\迈克尔杰克逊 攻击效果修改.bin",
+      "label": "迈克尔杰克逊 攻击效果修改",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\迈克杰克逊.bin",
+      "label": "迈克杰克逊",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\漫画地带 血值5000，折飞机不扣血.gen",
+      "label": "漫画地带 血值5000，折飞机不扣血",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\mazin传说.smd",
+      "label": "mazin传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\美军上尉与复仇者.smd",
+      "label": "美军上尉与复仇者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\美女与野兽-美女的搜索.smd",
+      "label": "美女与野兽-美女的搜索",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\梦幻模拟战1.smd",
+      "label": "梦幻模拟战1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\梦幻模拟战2 中文版.md",
+      "label": "梦幻模拟战2 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\梦幻战士3 美版 6命 HP 时间不减.BIN",
+      "label": "梦幻战士3 美版 6命 HP 时间不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\梦幻战士3.smd",
+      "label": "梦幻战士3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\梦幻战士 无限命+血不减+MP无限 hack.bin",
+      "label": "梦幻战士 无限命+血不减+MP无限 hack",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\梦幻战士.smd",
+      "label": "梦幻战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\梦幻之星4 千年纪的终结 全员LV99.smd",
+      "label": "梦幻之星4 千年纪的终结 全员LV99",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\梦幻之星4 千年纪的终结 中文版.md",
+      "label": "梦幻之星4 千年纪的终结 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\蒙纳克皇族：最终战斗传说 中文版.md",
+      "label": "蒙纳克皇族：最终战斗传说 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\米老鼠-神秘的大马戏团.smd",
+      "label": "米老鼠-神秘的大马戏团",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\魔导物语 汉化版 体力 魔力999.gen",
+      "label": "魔导物语 汉化版 体力 魔力999",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\魔导物语 中文版.md",
+      "label": "魔导物语 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\魔法气泡外传.smd",
+      "label": "魔法气泡外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\魔界使者.smd",
+      "label": "魔界使者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\木偶奇遇记.smd",
+      "label": "木偶奇遇记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳1 无敌版.BIN",
+      "label": "怒之铁拳1 无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳1.smd",
+      "label": "怒之铁拳1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳2 B+↑更改主角 START加HP.bin",
+      "label": "怒之铁拳2 B+↑更改主角 START加HP",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳2 阿鲁卡多天羽忍.bin",
+      "label": "怒之铁拳2 阿鲁卡多天羽忍",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳2 阿修祸祭依格尼斯.bin",
+      "label": "怒之铁拳2 阿修祸祭依格尼斯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳2 不知火舞 9命 HP时间不减.BIN",
+      "label": "怒之铁拳2 不知火舞 9命 HP时间不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳2 春丽完美版.bin",
+      "label": "怒之铁拳2 春丽完美版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳2 大蛇悟空版.bin",
+      "label": "怒之铁拳2 大蛇悟空版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳2 福利版.BIN",
+      "label": "怒之铁拳2 福利版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳2 皮鞭女王版.bin",
+      "label": "怒之铁拳2 皮鞭女王版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳2 最终强化版.bin",
+      "label": "怒之铁拳2 最终强化版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳2.smd",
+      "label": "怒之铁拳2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳3 7人版.smd",
+      "label": "怒之铁拳3 7人版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳3 BT版.bin",
+      "label": "怒之铁拳3 BT版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳3 换人版.bin",
+      "label": "怒之铁拳3 换人版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳3 终极AXEL.bin",
+      "label": "怒之铁拳3 终极AXEL",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳3 中文版.md",
+      "label": "怒之铁拳3 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\怒之铁拳２ 神龟无敌版.smd",
+      "label": "怒之铁拳２ 神龟无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\炮灰前直冲.smd",
+      "label": "炮灰前直冲",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\澎湃的电风 中文版.md",
+      "label": "澎湃的电风 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\皮克急速大冒险.smd",
+      "label": "皮克急速大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\蚯蚓吉姆1.smd",
+      "label": "蚯蚓吉姆1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\蚯蚓吉姆2 不死版.gen",
+      "label": "蚯蚓吉姆2 不死版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\蚯蚓吉姆2.smd",
+      "label": "蚯蚓吉姆2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\忍者好小子.smd",
+      "label": "忍者好小子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\忍者神龟 格斗大会.gen",
+      "label": "忍者神龟 格斗大会",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\忍者神龟.smd",
+      "label": "忍者神龟",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\忍者蛙与双截龙 无限命 hack.bin",
+      "label": "忍者蛙与双截龙 无限命 hack",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\忍者武雷传说 中文版.smd",
+      "label": "忍者武雷传说 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\日落骑士 多命版.SMD",
+      "label": "日落骑士 多命版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\三国志2  中文版.md",
+      "label": "三国志2  中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\三国志3  中文版.md",
+      "label": "三国志3  中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\三国志5  中文版.md",
+      "label": "三国志5  中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\三国志列传 乱世群英 中文版.md",
+      "label": "三国志列传 乱世群英 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\三只笨鼠.smd",
+      "label": "三只笨鼠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\沙漠攻击.smd",
+      "label": "沙漠攻击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\上海.smd",
+      "label": "上海",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\神剑传说.smd",
+      "label": "神剑传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\圣剑.smd",
+      "label": "圣剑",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\兽王记.smd",
+      "label": "兽王记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\双截龙1.smd",
+      "label": "双截龙1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\双截龙2.smd",
+      "label": "双截龙2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\双截龙3.smd",
+      "label": "双截龙3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\水浒风云传 中文版 死后加命.bin",
+      "label": "水浒风云传 中文版 死后加命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\水浒风云传 中文版.smd",
+      "label": "水浒风云传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\水浒传 中文版.md",
+      "label": "水浒传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\四天明王.smd",
+      "label": "四天明王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\索尼克2.smd",
+      "label": "索尼克2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\索尼克3.smd",
+      "label": "索尼克3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\索尼克 3D HACK 全关卡.SMD",
+      "label": "索尼克 3D HACK 全关卡",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\索尼克3D.SMD",
+      "label": "索尼克3D",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\索尼克弹珠台.smd",
+      "label": "索尼克弹珠台",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\索尼克与纳克鲁斯.smd",
+      "label": "索尼克与纳克鲁斯",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\索尼克.smd",
+      "label": "索尼克",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\太阁立志传 中文版.md",
+      "label": "太阁立志传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\太空蚂蚁战士.smd",
+      "label": "太空蚂蚁战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\太空战士 魔法战士 中文版.md",
+      "label": "太空战士 魔法战士 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\太平记 中文版.md",
+      "label": "太平记 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\太阳码头.md",
+      "label": "太阳码头",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\唐老鸭历险记.smd",
+      "label": "唐老鸭历险记",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\天空魔城.smd",
+      "label": "天空魔城",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\天使之翼 数值满.gen",
+      "label": "天使之翼 数值满",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\天使之翼.bin",
+      "label": "天使之翼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\兔宝宝历险记 无限命.bin",
+      "label": "兔宝宝历险记 无限命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\屠龙英雄传.smd",
+      "label": "屠龙英雄传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\外星双傻1.smd",
+      "label": "外星双傻1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\外星双傻2.smd",
+      "label": "外星双傻2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\外星王子.bin",
+      "label": "外星王子",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\维京人.bin",
+      "label": "维京人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\悟空外传 中文版.md",
+      "label": "悟空外传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\武器大师.smd",
+      "label": "武器大师",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\武士道.smd",
+      "label": "武士道",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\武士魂.bin",
+      "label": "武士魂",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\巫术神界 中文版.bin",
+      "label": "巫术神界 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\武装行警.smd",
+      "label": "武装行警",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\陷阱 玛亚冒险.bin",
+      "label": "陷阱 玛亚冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\小飞侠.smd",
+      "label": "小飞侠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\小鬼当家2.smd",
+      "label": "小鬼当家2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\小鬼当家.sms",
+      "label": "小鬼当家",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\小精灵1.bin",
+      "label": "小精灵1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\小精灵2.bin",
+      "label": "小精灵2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\小象露露.smd",
+      "label": "小象露露",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\小原始人1.bin",
+      "label": "小原始人1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\小原始人2.smd",
+      "label": "小原始人2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\新创世纪 中文版 不减血.smd",
+      "label": "新创世纪 中文版 不减血",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\新创世纪 中文版.md",
+      "label": "新创世纪 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\新乞丐王子 按A键不遇敌.bin",
+      "label": "新乞丐王子 按A键不遇敌",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\新乞丐王子 中文版.md",
+      "label": "新乞丐王子 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\信长野望 霸王传 中文版.md",
+      "label": "信长野望 霸王传 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\星际枪骑兵 无敌 携带两个导弹 战机不减.bin",
+      "label": "星际枪骑兵 无敌 携带两个导弹 战机不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\星际枪骑兵.smd",
+      "label": "星际枪骑兵",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\旋风女战士  体力无限+MP不减.bin",
+      "label": "旋风女战士  体力无限+MP不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\旋风女战士.smd",
+      "label": "旋风女战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\亚瑟传说 中文版.md",
+      "label": "亚瑟传说 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\亚生命战争 战机不变C键聚气攻击，A键隐身攻击.bin",
+      "label": "亚生命战争 战机不变C键聚气攻击，A键隐身攻击",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\亚生命战争.bin",
+      "label": "亚生命战争",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\炎之斗球儿-躲避球弹平.smd",
+      "label": "炎之斗球儿-躲避球弹平",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\杨家将 增加血 命 续关.smd",
+      "label": "杨家将 增加血 命 续关",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\杨家将.md",
+      "label": "杨家将",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\翼人 人数不变 按B+C 死后 火力最强.bin",
+      "label": "翼人 人数不变 按B+C 死后 火力最强",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\翼人.smd",
+      "label": "翼人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\异形3.smd",
+      "label": "异形3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\异形风暴 无敌版.gen",
+      "label": "异形风暴 无敌版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\影武者.smd",
+      "label": "影武者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\英雄传说2 繁菜单.md",
+      "label": "英雄传说2 繁菜单",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\永恒追求.bin",
+      "label": "永恒追求",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\幽游白书 魔强统一战 中文版.md",
+      "label": "幽游白书 魔强统一战 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\幽游白书外传.smd",
+      "label": "幽游白书外传",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\元朝秘史 苍狼与白鹿 中文版.smd",
+      "label": "元朝秘史 苍狼与白鹿 中文版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\炸弹人按y键无敌加九命.bin",
+      "label": "炸弹人按y键无敌加九命",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\炸弹人.smd",
+      "label": "炸弹人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\战场之狼 续关 炸弹无限.gen",
+      "label": "战场之狼 续关 炸弹无限",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\战场之狼.smd",
+      "label": "战场之狼",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\战斗玛利亚  人无限 装备强 炸弹无限.bin",
+      "label": "战斗玛利亚  人无限 装备强 炸弹无限",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\战斗蛙与双截龙.smd",
+      "label": "战斗蛙与双截龙",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\战斗原始人 人数不减，无敌，A，B，C+↑+↓ 换武器.bin",
+      "label": "战斗原始人 人数不减，无敌，A，B，C+↑+↓ 换武器",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\战斗原始人.smd",
+      "label": "战斗原始人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\战斧1 血不减.gen",
+      "label": "战斧1 血不减",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\战斧1.SMD",
+      "label": "战斧1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\战斧2 HP MP无限.gen",
+      "label": "战斧2 HP MP无限",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\战斧2.SMD",
+      "label": "战斧2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\战斧3 人数不减 Start键补血  加满6个炸弹.bin",
+      "label": "战斧3 人数不减 Start键补血  加满6个炸弹",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\战斧3.SMD",
+      "label": "战斧3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\詹姆斯庞德3 海星行动.smd",
+      "label": "詹姆斯庞德3 海星行动",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\真人快打1.bin",
+      "label": "真人快打1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\真人快打2.bin",
+      "label": "真人快打2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\真人快打3.BIN",
+      "label": "真人快打3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\真实的怪物.smd",
+      "label": "真实的怪物",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\致命杀手2.smd",
+      "label": "致命杀手2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\Sega - MD\\总部追击2.smd",
+      "label": "总部追击2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - MD.lpl"
+    }
+  ]
+}

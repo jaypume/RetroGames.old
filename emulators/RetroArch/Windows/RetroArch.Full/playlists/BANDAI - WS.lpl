@@ -1,0 +1,450 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": "0",
+  "right_thumbnail_mode": "1",
+  "left_thumbnail_mode": "0",
+  "items": [
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\FLASH恋人.ws",
+      "label": "FLASH恋人",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\SD高达 G世代2.ws",
+      "label": "SD高达 G世代2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\SD高达 独眼高达.ws",
+      "label": "SD高达 独眼高达",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\SD高达 年代战记UC.ws",
+      "label": "SD高达 年代战记UC",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\SD高达英雄传 骑士传说.ws",
+      "label": "SD高达英雄传 骑士传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\SD高达英雄传 武者传说.ws",
+      "label": "SD高达英雄传 武者传说",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\奥特曼 光之国的使者.ws",
+      "label": "奥特曼 光之国的使者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\半熟英雄.ws",
+      "label": "半熟英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\爆钻小英雄.ws",
+      "label": "爆钻小英雄",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\超级机器人大战 精华版1.ws",
+      "label": "超级机器人大战 精华版1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\超级机器人大战 精华版3.ws",
+      "label": "超级机器人大战 精华版3",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\动感娃娃.ws",
+      "label": "动感娃娃",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\俄罗斯方块.ws",
+      "label": "俄罗斯方块",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\复活邪神.ws",
+      "label": "复活邪神",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\海贼王 乔巴大冒险.ws",
+      "label": "海贼王 乔巴大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\海贼王 伟大之战.ws",
+      "label": "海贼王 伟大之战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\黑暗之眼 战斗闸门.ws",
+      "label": "黑暗之眼 战斗闸门",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\幻想魔传最游记 阳炎之所.ws",
+      "label": "幻想魔传最游记 阳炎之所",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\火影忍者.ws",
+      "label": "火影忍者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\机动战士高达Seed.ws",
+      "label": "机动战士高达Seed",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\机动战士高达Vol.1 Side7.ws",
+      "label": "机动战士高达Vol.1 Side7",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\机动战士高达Vol.2 Jaburo.ws",
+      "label": "机动战士高达Vol.2 Jaburo",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\机器猫.ws",
+      "label": "机器猫",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\恐怖传说2.ws",
+      "label": "恐怖传说2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\炼金术士玛莉&艾莉.ws",
+      "label": "炼金术士玛莉&艾莉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\猎人X猎人 抉择.ws",
+      "label": "猎人X猎人 抉择",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\猎人X猎人 贪婪岛.ws",
+      "label": "猎人X猎人 贪婪岛",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\猎人X猎人 引导者.ws",
+      "label": "猎人X猎人 引导者",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\陆行鸟大冒险.ws",
+      "label": "陆行鸟大冒险",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\洛克人EXE N1大战.ws",
+      "label": "洛克人EXE N1大战",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\洛克人EXE.ws",
+      "label": "洛克人EXE",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\名侦探柯南 簧昏时的皇女.ws",
+      "label": "名侦探柯南 簧昏时的皇女",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\魔剑X.ws",
+      "label": "魔剑X",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\魔界塔士.ws",
+      "label": "魔界塔士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\七龙珠.ws",
+      "label": "七龙珠",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\前线任务.ws",
+      "label": "前线任务",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\犬夜叉 风云绘卷.ws",
+      "label": "犬夜叉 风云绘卷",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\犬夜叉.ws",
+      "label": "犬夜叉",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\三毛探案.ws",
+      "label": "三毛探案",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\圣斗士星矢 黄金传说篇.ws",
+      "label": "圣斗士星矢 黄金传说篇",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\圣骑士之战1.ws",
+      "label": "圣骑士之战1",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\圣骑士之战2.ws",
+      "label": "圣骑士之战2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\数码宝贝 阴阳极版.ws",
+      "label": "数码宝贝 阴阳极版",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\数码暴龙 格斗天王.ws",
+      "label": "数码暴龙 格斗天王",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\通灵王子 未来的意志.ws",
+      "label": "通灵王子 未来的意志",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\仙界传2.ws",
+      "label": "仙界传2",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\星辰战士.ws",
+      "label": "星辰战士",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\妖精战士 机神复活.ws",
+      "label": "妖精战士 机神复活",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\永远和你在一起.ws",
+      "label": "永远和你在一起",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\宇宙战舰大和号.ws",
+      "label": "宇宙战舰大和号",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\约束之地.ws",
+      "label": "约束之地",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\战斧.ws",
+      "label": "战斧",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\最终幻想I.ws",
+      "label": "最终幻想I",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\最终幻想II.ws",
+      "label": "最终幻想II",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    },
+    {
+      "path": "E:\\RetroArch\\@ROM\\BANDAI - WS\\最终幻想IV.ws",
+      "label": "最终幻想IV",
+      "core_path": "",
+      "core_name": "",
+      "crc32": "00000000|crc",
+      "db_name": "BANDAI - WS.lpl"
+    }
+  ]
+}
