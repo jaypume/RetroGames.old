@@ -54,8 +54,13 @@ update_playlists_from_csv() {
     lines=""
     while IFS=',' read -r cn_name py_name; do
         echo "$cn_name"
+        # 不要用path这个变量，会修改环境变量"$PATH"
+        _path="$prefix/$emulator/$cn_name"
+        if [ "$platform" = "Windows" ]; then
+            _path="${_path//\//\\\\}"
+        fi
         # TODO: 如果是Swtich, 下面这行要改为py_name
-        lines+=$(jq -n -c --arg path "$prefix/$emulator/$cn_name" \
+        lines+=$(jq -n -c --arg path "$_path" \
             --arg label "${$(echo $cn_name| cut -d'/' -f1)%.*}" \
             --arg core_path "" \
             --arg core_name "" \
@@ -104,7 +109,7 @@ update_all_platform_one_emulator() {
     for platform_and_prefix in "${platforms[@]}"; do
         platform=$(echo $platform_and_prefix | cut -d',' -f 1)
         prefix=$(echo $platform_and_prefix | cut -d',' -f 2)
-        echo "=========================Starting to udpate ""[$platform : $emulator]"
+        echo "=========================Starting to udpate "$platform : $emulator, ${prefix}
         update_one_platform_one_emulator "$platform" "$emulator" "$prefix"
     done
 }
