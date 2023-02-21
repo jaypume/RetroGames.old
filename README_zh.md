@@ -41,9 +41,9 @@ https://buildbot.libretro.com/stable/
 
 2. 拷贝到对应机器SD卡
 ```
-rsync -aL '～/RetroGames/emulators/RetroArch/Nintendo Switch/RetroArch.Full'  '/Volumes/SDCard'
+rsync -aL './emulators/RetroArch/Nintendo Switch/RetroArch.Full'  '/Volumes/SDCard'
 ```
-`-rL`表示会把符号链接的原始内容进行拷贝，而不是符号链接本身。
+`-aL`表示会把符号链接的原始内容进行拷贝，而不是符号链接本身。
 
 
 ## 可以实现什么样的效果？(TODO)
